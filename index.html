@@ -1,0 +1,55 @@
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pokemon GO - Pokedex API</title>
+    <link rel="stylesheet" type="text/css" href="assets/swagger-ui.css">
+    <link href="assets/bootstrap.css" rel="stylesheet">
+    <link href="version.css" rel="stylesheet">
+</head>
+<body>
+
+    <main>
+
+        <section class="py-5 text-center container">
+            <div class="row py-lg-5">
+                <div class="col-lg-6 col-md-8 mx-auto">
+                    <h1 class="fw-light">Pokemon GO API</h1>
+                    <h3 class="fw-light">Last generated at <span id="last-generated-display"></span></h3>
+                    <p class="lead text-muted">Shows the current Pokemon from the Pokemon GO Gamemaster file. For more information visit the Github Repository</p>
+                    <p>
+                        <a href="https://github.com/pokemon-go-lingen/pokemon-go-api" class="btn btn-primary">View on Github</a>
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section class="py-2 px-5">
+            <div class="container" id="swagger-ui"></div>
+        </section>
+
+    </main>
+
+
+<script src="assets/swagger-ui-bundle.js" charset="UTF-8"></script>
+<script src="assets/swagger-ui-standalone-preset.js" charset="UTF-8"></script>
+<script>
+    window.onload = function () {
+        // Begin Swagger UI call region
+        const swaggerUI = SwaggerUIBundle({
+            url: "Pokedex.yaml",
+            dom_id: '#swagger-ui',
+            deepLinking: true,
+            presets: [
+                SwaggerUIBundle.presets.apis,
+                // SwaggerUIStandalonePreset
+            ],
+            plugins: [
+                SwaggerUIBundle.plugins.DownloadUrl
+            ]
+        });
+    }
+</script>
+</body>
+</html>
