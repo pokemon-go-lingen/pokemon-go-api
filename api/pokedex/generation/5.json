@@ -937,7 +937,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             }
         },
@@ -1149,7 +1149,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             }
         },
@@ -1361,7 +1361,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             }
         },
@@ -1425,7 +1425,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "FOCUS_BLAST": {
@@ -5560,7 +5560,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             }
         },
@@ -5772,7 +5772,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             }
         },
@@ -6514,7 +6514,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "BULLDOZE": {
@@ -6715,7 +6715,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "SOLAR_BEAM": {
@@ -7614,7 +7614,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "EARTHQUAKE": {
@@ -8617,7 +8617,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             }
         },
@@ -8829,7 +8829,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             }
         },
@@ -9041,7 +9041,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             }
         },
@@ -10048,7 +10048,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             },
             "BUG_BITE_FAST": {
@@ -10958,7 +10958,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             }
         },
@@ -11170,7 +11170,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             }
         },
@@ -13480,7 +13480,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             }
         },
@@ -14215,7 +14215,7 @@
                         },
                         "combat": {
                             "energy": -45,
-                            "power": 80
+                            "power": 75
                         }
                     }
                 },
@@ -14489,7 +14489,7 @@
                         },
                         "combat": {
                             "energy": -45,
-                            "power": 80
+                            "power": 75
                         }
                     }
                 },
@@ -15118,7 +15118,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             }
         },
@@ -18933,7 +18933,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "FUTURESIGHT": {
@@ -24099,7 +24099,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             },
             "HEX_FAST": {
@@ -24308,7 +24308,7 @@
                         },
                         "combat": {
                             "energy": 11,
-                            "power": 8
+                            "power": 7
                         }
                     },
                     "HEX_FAST": {
@@ -24524,7 +24524,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             },
             "HEX_FAST": {
@@ -24733,7 +24733,7 @@
                         },
                         "combat": {
                             "energy": 11,
-                            "power": 8
+                            "power": 7
                         }
                     },
                     "HEX_FAST": {
@@ -27582,7 +27582,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "DARK_PULSE": {
@@ -27761,7 +27761,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             }
         },
@@ -27973,7 +27973,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             }
         },
@@ -30495,7 +30495,7 @@
                         },
                         "combat": {
                             "energy": -45,
-                            "power": 80
+                            "power": 75
                         }
                     }
                 },
@@ -32637,7 +32637,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "CLOSE_COMBAT": {
@@ -34258,7 +34258,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             },
             "BUG_BITE_FAST": {
@@ -35083,7 +35083,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             }
         },
@@ -37420,7 +37420,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "FOCUS_BLAST": {
@@ -37660,7 +37660,7 @@
                         },
                         "combat": {
                             "energy": -45,
-                            "power": 80
+                            "power": 75
                         }
                     },
                     "FOCUS_BLAST": {
@@ -37903,7 +37903,7 @@
                         },
                         "combat": {
                             "energy": -45,
-                            "power": 80
+                            "power": 75
                         }
                     },
                     "FOCUS_BLAST": {

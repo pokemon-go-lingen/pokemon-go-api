@@ -59,7 +59,7 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 6
+                "power": 7
             }
         },
         "KARATE_CHOP_FAST": {
@@ -89,7 +89,7 @@
                 "Spanish": "Golpe K\u00e1rate"
             },
             "combat": {
-                "energy": 7,
+                "energy": 8,
                 "power": 5
             }
         }

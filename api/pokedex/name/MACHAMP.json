@@ -216,7 +216,7 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 80
+                "power": 75
             }
         },
         "CROSS_CHOP": {
@@ -279,7 +279,7 @@
                 "Spanish": "Golpe K\u00e1rate"
             },
             "combat": {
-                "energy": 7,
+                "energy": 8,
                 "power": 5
             }
         }

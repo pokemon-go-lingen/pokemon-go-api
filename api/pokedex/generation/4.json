@@ -91,7 +91,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             }
         },
@@ -292,7 +292,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             }
         },
@@ -504,7 +504,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             }
         },
@@ -737,7 +737,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             },
             "SCRATCH_FAST": {
@@ -949,7 +949,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             },
             "ROCK_SMASH_FAST": {
@@ -1394,7 +1394,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             },
             "POUND_FAST": {
@@ -1595,7 +1595,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             },
             "METAL_CLAW_FAST": {
@@ -4105,7 +4105,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             }
         },
@@ -4286,7 +4286,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             }
         },
@@ -4752,7 +4752,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "OUTRAGE": {
@@ -8128,7 +8128,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             },
             "BULLET_SEED_FAST": {
@@ -8326,7 +8326,7 @@
                         },
                         "combat": {
                             "energy": 4,
-                            "power": 11
+                            "power": 10
                         }
                     },
                     "BULLET_SEED_FAST": {
@@ -8527,7 +8527,7 @@
                         },
                         "combat": {
                             "energy": 4,
-                            "power": 11
+                            "power": 10
                         }
                     },
                     "BULLET_SEED_FAST": {
@@ -11369,7 +11369,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             }
         },
@@ -13083,7 +13083,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             }
         },
@@ -13615,7 +13615,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "HEAT_WAVE": {
@@ -17326,7 +17326,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             },
             "TACKLE_FAST": {
@@ -17781,7 +17781,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             }
         },
@@ -19272,7 +19272,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             }
         },
@@ -19641,7 +19641,7 @@
                     "Spanish": "Golpe K\u00e1rate"
                 },
                 "combat": {
-                    "energy": 7,
+                    "energy": 8,
                     "power": 5
                 }
             }
@@ -20361,7 +20361,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             },
             "QUICK_ATTACK_FAST": {
@@ -21990,7 +21990,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "THUNDERBOLT": {
@@ -26185,7 +26185,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             }
         },
@@ -26386,7 +26386,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             }
         },

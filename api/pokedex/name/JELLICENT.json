@@ -70,7 +70,7 @@
             },
             "combat": {
                 "energy": 11,
-                "power": 8
+                "power": 7
             }
         },
         "HEX_FAST": {
@@ -279,7 +279,7 @@
                     },
                     "combat": {
                         "energy": 11,
-                        "power": 8
+                        "power": 7
                     }
                 },
                 "HEX_FAST": {

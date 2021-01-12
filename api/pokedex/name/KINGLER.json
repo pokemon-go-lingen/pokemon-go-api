@@ -59,7 +59,7 @@
             },
             "combat": {
                 "energy": 11,
-                "power": 8
+                "power": 7
             }
         },
         "METAL_CLAW_FAST": {
@@ -216,7 +216,7 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 75
+                "power": 85
             }
         }
     },

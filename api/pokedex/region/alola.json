@@ -1584,7 +1584,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "SAND_TOMB": {
@@ -2411,7 +2411,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             }
         },
@@ -3066,7 +3066,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             }
         },
@@ -5483,7 +5483,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "ROCK_TOMB": {
@@ -5692,7 +5692,7 @@
                         },
                         "combat": {
                             "energy": -45,
-                            "power": 80
+                            "power": 75
                         }
                     },
                     "ROCK_TOMB": {
@@ -6004,7 +6004,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             }
         },
@@ -8649,7 +8649,7 @@
                         },
                         "combat": {
                             "energy": -45,
-                            "power": 80
+                            "power": 75
                         }
                     }
                 },

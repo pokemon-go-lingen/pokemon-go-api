@@ -247,7 +247,7 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 80
+                "power": 75
             }
         }
     },
@@ -982,7 +982,7 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 80
+                        "power": 75
                     }
                 }
             },
@@ -1256,7 +1256,7 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 80
+                        "power": 75
                     }
                 }
             },

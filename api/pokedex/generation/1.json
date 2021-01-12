@@ -283,7 +283,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             },
             "VINE_WHIP_FAST": {
@@ -495,7 +495,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             },
             "VINE_WHIP_FAST": {
@@ -774,7 +774,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             },
             "SCRATCH_FAST": {
@@ -975,7 +975,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             },
             "FIRE_FANG_FAST": {
@@ -1378,7 +1378,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             },
             "WING_ATTACK_FAST": {
@@ -1668,7 +1668,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             },
             "TACKLE_FAST": {
@@ -5286,7 +5286,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             }
         },
@@ -5530,7 +5530,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             }
         },
@@ -7125,7 +7125,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "SAND_TOMB": {
@@ -9770,7 +9770,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             }
         },
@@ -10425,7 +10425,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             }
         },
@@ -11916,7 +11916,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             },
             "ACID_FAST": {
@@ -12128,7 +12128,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             },
             "ACID_FAST": {
@@ -12340,7 +12340,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             },
             "ACID_FAST": {
@@ -15908,7 +15908,7 @@
                     "Spanish": "Golpe K\u00e1rate"
                 },
                 "combat": {
-                    "energy": 7,
+                    "energy": 8,
                     "power": 5
                 }
             },
@@ -16299,7 +16299,7 @@
                     "Spanish": "Golpe K\u00e1rate"
                 },
                 "combat": {
-                    "energy": 7,
+                    "energy": 8,
                     "power": 5
                 }
             }
@@ -16406,7 +16406,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             },
             "BITE_FAST": {
@@ -16934,7 +16934,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             },
             "MUD_SHOT_FAST": {
@@ -17135,7 +17135,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             },
             "MUD_SHOT_FAST": {
@@ -17379,7 +17379,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             },
             "ROCK_SMASH_FAST": {
@@ -18433,7 +18433,7 @@
                     "Spanish": "Golpe K\u00e1rate"
                 },
                 "combat": {
-                    "energy": 7,
+                    "energy": 8,
                     "power": 5
                 }
             }
@@ -18666,7 +18666,7 @@
                     "Spanish": "Golpe K\u00e1rate"
                 },
                 "combat": {
-                    "energy": 7,
+                    "energy": 8,
                     "power": 5
                 }
             }
@@ -19026,7 +19026,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "CROSS_CHOP": {
@@ -19089,7 +19089,7 @@
                     "Spanish": "Golpe K\u00e1rate"
                 },
                 "combat": {
-                    "energy": 7,
+                    "energy": 8,
                     "power": 5
                 }
             }
@@ -19609,7 +19609,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             }
         },
@@ -19694,7 +19694,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             },
             "ACID_FAST": {
@@ -19968,7 +19968,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             },
             "POISON_STING_FAST": {
@@ -20487,7 +20487,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "ROCK_TOMB": {
@@ -20696,7 +20696,7 @@
                         },
                         "combat": {
                             "energy": -45,
-                            "power": 80
+                            "power": 75
                         }
                     },
                     "ROCK_TOMB": {
@@ -21008,7 +21008,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             }
         },
@@ -21781,7 +21781,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             }
         },
@@ -22406,7 +22406,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             }
         },
@@ -27799,7 +27799,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             }
         },
@@ -28430,7 +28430,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             },
             "MUD_SHOT_FAST": {
@@ -28631,7 +28631,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             },
             "METAL_CLAW_FAST": {
@@ -28788,7 +28788,7 @@
                 },
                 "combat": {
                     "energy": -50,
-                    "power": 75
+                    "power": 85
                 }
             }
         },
@@ -30724,7 +30724,7 @@
                         },
                         "combat": {
                             "energy": -45,
-                            "power": 80
+                            "power": 75
                         }
                     }
                 },
@@ -33487,7 +33487,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             }
         },
@@ -36103,7 +36103,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             },
             "KARATE_CHOP_FAST": {
@@ -36133,7 +36133,7 @@
                     "Spanish": "Golpe K\u00e1rate"
                 },
                 "combat": {
-                    "energy": 7,
+                    "energy": 8,
                     "power": 5
                 }
             }
@@ -38385,7 +38385,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             },
             "FIRE_SPIN_FAST": {
@@ -39485,7 +39485,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             }
         },
@@ -40244,7 +40244,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "EARTH_POWER": {
@@ -41456,7 +41456,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             }
         },
@@ -42686,7 +42686,7 @@
                         },
                         "combat": {
                             "energy": -45,
-                            "power": 80
+                            "power": 75
                         }
                     },
                     "DYNAMIC_PUNCH": {
@@ -43884,7 +43884,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "GRASS_KNOT": {

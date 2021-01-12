@@ -70,7 +70,7 @@
             },
             "combat": {
                 "energy": 11,
-                "power": 8
+                "power": 7
             }
         },
         "RAZOR_LEAF_FAST": {
@@ -101,7 +101,7 @@
             },
             "combat": {
                 "energy": 4,
-                "power": 11
+                "power": 10
             }
         }
     },

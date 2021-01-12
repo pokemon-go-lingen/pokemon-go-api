@@ -229,7 +229,7 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 6
+                "power": 7
             }
         },
         "WING_ATTACK_FAST": {

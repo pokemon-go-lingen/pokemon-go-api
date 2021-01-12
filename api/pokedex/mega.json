@@ -71,7 +71,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             },
             "VINE_WHIP_FAST": {
@@ -520,7 +520,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             },
             "WING_ATTACK_FAST": {
@@ -980,7 +980,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             },
             "WING_ATTACK_FAST": {
@@ -3052,7 +3052,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             }
         },

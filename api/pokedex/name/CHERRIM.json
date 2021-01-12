@@ -59,7 +59,7 @@
             },
             "combat": {
                 "energy": 4,
-                "power": 11
+                "power": 10
             }
         },
         "BULLET_SEED_FAST": {
@@ -257,7 +257,7 @@
                     },
                     "combat": {
                         "energy": 4,
-                        "power": 11
+                        "power": 10
                     }
                 },
                 "BULLET_SEED_FAST": {
@@ -458,7 +458,7 @@
                     },
                     "combat": {
                         "energy": 4,
-                        "power": 11
+                        "power": 10
                     }
                 },
                 "BULLET_SEED_FAST": {

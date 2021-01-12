@@ -757,7 +757,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             }
         },
@@ -969,7 +969,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             }
         },
@@ -1064,7 +1064,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             }
         },
@@ -4308,7 +4308,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             }
         },
@@ -4458,7 +4458,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             },
             "RAZOR_LEAF_FAST": {
@@ -4489,7 +4489,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             }
         },
@@ -4670,7 +4670,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             },
             "RAZOR_LEAF_FAST": {
@@ -4701,7 +4701,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             }
         },
@@ -5145,7 +5145,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             },
             "FEINT_ATTACK_FAST": {
@@ -5357,7 +5357,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             },
             "FEINT_ATTACK_FAST": {
@@ -5939,7 +5939,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             }
         },
@@ -7179,7 +7179,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             },
             "BUG_BITE_FAST": {
@@ -10409,7 +10409,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             }
         },
@@ -10674,7 +10674,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "THUNDERBOLT": {
@@ -12048,7 +12048,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "HEAVY_SLAM": {
@@ -14162,7 +14162,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             }
         },
@@ -15599,7 +15599,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             },
             "TACKLE_FAST": {
@@ -15811,7 +15811,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             },
             "ROCK_SMASH_FAST": {
@@ -16074,7 +16074,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             }
         },
@@ -18201,7 +18201,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "DAZZLING_GLEAM": {
@@ -18846,7 +18846,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "MOONBLAST": {
@@ -19058,7 +19058,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "SOLAR_BEAM": {
@@ -19588,7 +19588,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             },
             "ROCK_SMASH_FAST": {
@@ -19957,7 +19957,7 @@
                 },
                 "combat": {
                     "energy": -50,
-                    "power": 75
+                    "power": 85
                 }
             }
         },
@@ -22365,7 +22365,7 @@
                         },
                         "combat": {
                             "energy": 6,
-                            "power": 6
+                            "power": 7
                         }
                     },
                     "TACKLE_FAST": {
@@ -23710,7 +23710,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             }
         },
@@ -26469,7 +26469,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             }
         },
@@ -26639,7 +26639,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             },
             "DRAGON_BREATH_FAST": {
@@ -30224,7 +30224,7 @@
                         },
                         "combat": {
                             "energy": -45,
-                            "power": 80
+                            "power": 75
                         }
                     }
                 },

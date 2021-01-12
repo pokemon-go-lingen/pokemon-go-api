@@ -767,7 +767,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             }
         },
@@ -968,7 +968,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             }
         },
@@ -1443,7 +1443,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             }
         },
@@ -1644,7 +1644,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             }
         },
@@ -1856,7 +1856,7 @@
                 },
                 "combat": {
                     "energy": 11,
-                    "power": 8
+                    "power": 7
                 }
             }
         },
@@ -2755,7 +2755,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             },
             "STEEL_WING_FAST": {
@@ -3855,7 +3855,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             }
         },
@@ -4098,7 +4098,7 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 6
+                    "power": 7
                 }
             }
         },
@@ -5007,7 +5007,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             }
         },
@@ -5303,7 +5303,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "SEED_BOMB": {
@@ -5535,7 +5535,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "LEAF_BLADE": {
@@ -6072,7 +6072,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             }
         },
@@ -9840,7 +9840,7 @@
                 },
                 "combat": {
                     "energy": -50,
-                    "power": 75
+                    "power": 85
                 }
             },
             "AQUA_JET": {
@@ -10103,7 +10103,7 @@
                 },
                 "combat": {
                     "energy": -50,
-                    "power": 75
+                    "power": 85
                 }
             }
         },
@@ -12068,7 +12068,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "X_SCISSOR": {
@@ -12492,7 +12492,7 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 80
+                    "power": 75
                 }
             },
             "MOONBLAST": {
@@ -13999,7 +13999,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             }
         },
@@ -14238,7 +14238,7 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 11
+                    "power": 10
                 }
             }
         },

@@ -196,7 +196,7 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 80
+                "power": 75
             }
         },
         "FOCUS_BLAST": {
@@ -436,7 +436,7 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 80
+                        "power": 75
                     }
                 },
                 "FOCUS_BLAST": {
@@ -679,7 +679,7 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 80
+                        "power": 75
                     }
                 },
                 "FOCUS_BLAST": {
