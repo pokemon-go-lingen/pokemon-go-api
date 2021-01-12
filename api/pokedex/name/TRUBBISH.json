@@ -1,1 +1,170 @@
-{"id":"TRUBBISH","formId":"TRUBBISH","dexNr":568,"generation":5,"names":{"English":"Trubbish","German":"Unrat\u00fctox","French":"Miamiasme","Italian":"Trubbish","Japanese":"\u30e4\u30d6\u30af\u30ed\u30f3","Korean":"\uae68\ubd09\uc774","Spanish":"Trubbish"},"stats":{"stamina":137,"attack":96,"defense":122},"primaryType":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"secondaryType":null,"quickMoves":{"POUND_FAST":{"id":"POUND_FAST","power":7,"energy":6,"durationMs":600,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Pound","German":"Klaps","French":"\u00c9cras\u2019Face","Italian":"Botta","Japanese":"\u306f\u305f\u304f","Korean":"\ub9c9\uce58\uae30","Spanish":"Destructor"},"combat":{"energy":4,"power":5}},"TAKE_DOWN_FAST":{"id":"TAKE_DOWN_FAST","power":8,"energy":10,"durationMs":1200,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Take Down","German":"Bodycheck","French":"B\u00e9lier","Italian":"Riduttore","Japanese":"\u3068\u3063\u3057\u3093","Korean":"\ub3cc\uc9c4","Spanish":"Derribo"},"combat":{"energy":8,"power":5}}},"cinematicMoves":{"GUNK_SHOT":{"id":"GUNK_SHOT","power":130,"energy":-100,"durationMs":3100,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Gunk Shot","German":"M\u00fclltreffer","French":"D\u00e9tricanon","Italian":"Sporcolancio","Japanese":"\u30c0\u30b9\u30c8\u30b7\u30e5\u30fc\u30c8","Korean":"\ub354\uc2a4\ud2b8\uc288\ud2b8","Spanish":"Lanzamugre"},"combat":{"energy":-75,"power":130}},"SEED_BOMB":{"id":"SEED_BOMB","power":55,"energy":-33,"durationMs":2100,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Seed Bomb","German":"Samenbomben","French":"Canon Graine","Italian":"Semebomba","Japanese":"\u30bf\u30cd\u3070\u304f\u3060\u3093","Korean":"\uc528\ud3ed\ud0c4","Spanish":"Bomba Germen"},"combat":{"energy":-40,"power":55}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_568_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_568_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "TRUBBISH",
+    "formId": "TRUBBISH",
+    "dexNr": 568,
+    "generation": 5,
+    "names": {
+        "English": "Trubbish",
+        "German": "Unrat\u00fctox",
+        "French": "Miamiasme",
+        "Italian": "Trubbish",
+        "Japanese": "\u30e4\u30d6\u30af\u30ed\u30f3",
+        "Korean": "\uae68\ubd09\uc774",
+        "Spanish": "Trubbish"
+    },
+    "stats": {
+        "stamina": 137,
+        "attack": 96,
+        "defense": 122
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_POISON",
+        "names": {
+            "English": "Poison",
+            "German": "Gift",
+            "French": "Poison",
+            "Italian": "Veleno",
+            "Japanese": "\u3069\u304f",
+            "Korean": "\ub3c5",
+            "Spanish": "Veneno"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "POUND_FAST": {
+            "id": "POUND_FAST",
+            "power": 7,
+            "energy": 6,
+            "durationMs": 600,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Pound",
+                "German": "Klaps",
+                "French": "\u00c9cras\u2019Face",
+                "Italian": "Botta",
+                "Japanese": "\u306f\u305f\u304f",
+                "Korean": "\ub9c9\uce58\uae30",
+                "Spanish": "Destructor"
+            },
+            "combat": {
+                "energy": 4,
+                "power": 5
+            }
+        },
+        "TAKE_DOWN_FAST": {
+            "id": "TAKE_DOWN_FAST",
+            "power": 8,
+            "energy": 10,
+            "durationMs": 1200,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Take Down",
+                "German": "Bodycheck",
+                "French": "B\u00e9lier",
+                "Italian": "Riduttore",
+                "Japanese": "\u3068\u3063\u3057\u3093",
+                "Korean": "\ub3cc\uc9c4",
+                "Spanish": "Derribo"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 5
+            }
+        }
+    },
+    "cinematicMoves": {
+        "GUNK_SHOT": {
+            "id": "GUNK_SHOT",
+            "power": 130,
+            "energy": -100,
+            "durationMs": 3100,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Gunk Shot",
+                "German": "M\u00fclltreffer",
+                "French": "D\u00e9tricanon",
+                "Italian": "Sporcolancio",
+                "Japanese": "\u30c0\u30b9\u30c8\u30b7\u30e5\u30fc\u30c8",
+                "Korean": "\ub354\uc2a4\ud2b8\uc288\ud2b8",
+                "Spanish": "Lanzamugre"
+            },
+            "combat": {
+                "energy": -75,
+                "power": 130
+            }
+        },
+        "SEED_BOMB": {
+            "id": "SEED_BOMB",
+            "power": 55,
+            "energy": -33,
+            "durationMs": 2100,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Seed Bomb",
+                "German": "Samenbomben",
+                "French": "Canon Graine",
+                "Italian": "Semebomba",
+                "Japanese": "\u30bf\u30cd\u3070\u304f\u3060\u3093",
+                "Korean": "\uc528\ud3ed\ud0c4",
+                "Spanish": "Bomba Germen"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 55
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_568_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_568_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

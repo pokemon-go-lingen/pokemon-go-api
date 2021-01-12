@@ -1,1 +1,457 @@
-{"id":"GRAVELER","formId":"GRAVELER","dexNr":75,"generation":1,"names":{"English":"Graveler","German":"Georok","French":"Gravalanch","Italian":"Graveler","Japanese":"\u30b4\u30ed\u30fc\u30f3","Korean":"\ub370\uad6c\ub9ac","Spanish":"Graveler"},"stats":{"stamina":146,"attack":164,"defense":164},"primaryType":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"secondaryType":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"quickMoves":{"ROCK_THROW_FAST":{"id":"ROCK_THROW_FAST","power":12,"energy":7,"durationMs":900,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Rock Throw","German":"Steinwurf","French":"Jet-Pierres","Italian":"Sassata","Japanese":"\u3044\u308f\u304a\u3068\u3057","Korean":"\ub3cc\ub5a8\uad6c\uae30","Spanish":"Lanzarrocas"},"combat":{"energy":5,"power":8}},"MUD_SLAP_FAST":{"id":"MUD_SLAP_FAST","power":18,"energy":12,"durationMs":1400,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Mud-Slap","German":"Lehmschelle","French":"Coud\u2019Boue","Italian":"Fangosberla","Japanese":"\u3069\u308d\u304b\u3051","Korean":"\uc9c4\ud759\ubfcc\ub9ac\uae30","Spanish":"Bofet\u00f3n Lodo"},"combat":{"energy":8,"power":11}}},"cinematicMoves":{"DIG":{"id":"DIG","power":100,"energy":-50,"durationMs":4700,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Dig","German":"Schaufler","French":"Tunnel","Italian":"Fossa","Japanese":"\u3042\u306a\u3092\u307b\u308b","Korean":"\uad6c\uba4d\ud30c\uae30","Spanish":"Excavar"},"combat":{"energy":-80,"power":100}},"STONE_EDGE":{"id":"STONE_EDGE","power":100,"energy":-100,"durationMs":2300,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Stone Edge","German":"Steinkante","French":"Lame de Roc","Italian":"Pietrataglio","Japanese":"\u30b9\u30c8\u30fc\u30f3\u30a8\u30c3\u30b8","Korean":"\uc2a4\ud1a4\uc5d0\uc9c0","Spanish":"Roca Afilada"},"combat":{"energy":-55,"power":100}},"ROCK_BLAST":{"id":"ROCK_BLAST","power":50,"energy":-33,"durationMs":2100,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Rock Blast","German":"Felswurf","French":"Boule Roc","Italian":"Cadutamassi","Japanese":"\u30ed\u30c3\u30af\u30d6\u30e9\u30b9\u30c8","Korean":"\ub77d\ube14\ub808\uc2a4\ud2b8","Spanish":"Pedrada"},"combat":{"energy":-40,"power":50}}},"eliteQuickMoves":[],"eliteCinematicMoves":{"ROCK_SLIDE":{"id":"ROCK_SLIDE","power":80,"energy":-50,"durationMs":2700,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Rock Slide","German":"Steinhagel","French":"\u00c9boulement","Italian":"Frana","Japanese":"\u3044\u308f\u306a\u3060\u308c","Korean":"\uc2a4\ud1a4\uc0e4\uc6cc","Spanish":"Avalancha"},"combat":{"energy":-45,"power":80}}},"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_075_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_075_00_shiny.png"},"regionForms":[{"id":"GRAVELER","formId":"GRAVELER_ALOLA","dexNr":75,"generation":1,"names":{"English":"Alolan Graveler","German":"Alola-Georok","French":"Gravalanch d'Alola","Italian":"Graveler di Alola","Japanese":"\u30a2\u30ed\u30fc\u30e9 \u30b4\u30ed\u30fc\u30f3","Korean":"\uc54c\ub85c\ub77c \ub370\uad6c\ub9ac","Spanish":"Graveler de Alola"},"stats":{"stamina":146,"attack":164,"defense":164},"primaryType":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"secondaryType":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"quickMoves":{"ROCK_THROW_FAST":{"id":"ROCK_THROW_FAST","power":12,"energy":7,"durationMs":900,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Rock Throw","German":"Steinwurf","French":"Jet-Pierres","Italian":"Sassata","Japanese":"\u3044\u308f\u304a\u3068\u3057","Korean":"\ub3cc\ub5a8\uad6c\uae30","Spanish":"Lanzarrocas"},"combat":{"energy":5,"power":8}},"VOLT_SWITCH_FAST":{"id":"VOLT_SWITCH_FAST","power":14,"energy":21,"durationMs":1600,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Volt Switch","German":"Voltwechsel","French":"Change \u00c9clair","Italian":"Invertivolt","Japanese":"\u30dc\u30eb\u30c8\u30c1\u30a7\u30f3\u30b8","Korean":"\ubcfc\ud2b8\uccb4\uc778\uc9c0","Spanish":"Voltiocambio"},"combat":{"energy":16,"power":12}}},"cinematicMoves":{"THUNDERBOLT":{"id":"THUNDERBOLT","power":80,"energy":-50,"durationMs":2500,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Thunderbolt","German":"Donnerblitz","French":"Tonnerre","Italian":"Fulmine","Japanese":"\uff11\uff10\u307e\u3093\u30dc\u30eb\u30c8","Korean":"10\ub9cc\ubcfc\ud2b8","Spanish":"Rayo"},"combat":{"energy":-55,"power":90}},"STONE_EDGE":{"id":"STONE_EDGE","power":100,"energy":-100,"durationMs":2300,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Stone Edge","German":"Steinkante","French":"Lame de Roc","Italian":"Pietrataglio","Japanese":"\u30b9\u30c8\u30fc\u30f3\u30a8\u30c3\u30b8","Korean":"\uc2a4\ud1a4\uc5d0\uc9c0","Spanish":"Roca Afilada"},"combat":{"energy":-55,"power":100}},"ROCK_BLAST":{"id":"ROCK_BLAST","power":50,"energy":-33,"durationMs":2100,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Rock Blast","German":"Felswurf","French":"Boule Roc","Italian":"Cadutamassi","Japanese":"\u30ed\u30c3\u30af\u30d6\u30e9\u30b9\u30c8","Korean":"\ub77d\ube14\ub808\uc2a4\ud2b8","Spanish":"Pedrada"},"combat":{"energy":-40,"power":50}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_075_61.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_075_61_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "GRAVELER",
+    "formId": "GRAVELER",
+    "dexNr": 75,
+    "generation": 1,
+    "names": {
+        "English": "Graveler",
+        "German": "Georok",
+        "French": "Gravalanch",
+        "Italian": "Graveler",
+        "Japanese": "\u30b4\u30ed\u30fc\u30f3",
+        "Korean": "\ub370\uad6c\ub9ac",
+        "Spanish": "Graveler"
+    },
+    "stats": {
+        "stamina": 146,
+        "attack": 164,
+        "defense": 164
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_ROCK",
+        "names": {
+            "English": "Rock",
+            "German": "Gestein",
+            "French": "Roche",
+            "Italian": "Roccia",
+            "Japanese": "\u3044\u308f",
+            "Korean": "\ubc14\uc704",
+            "Spanish": "Roca"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_GROUND",
+        "names": {
+            "English": "Ground",
+            "German": "Boden",
+            "French": "Sol",
+            "Italian": "Terra",
+            "Japanese": "\u3058\u3081\u3093",
+            "Korean": "\ub545",
+            "Spanish": "Tierra"
+        }
+    },
+    "quickMoves": {
+        "ROCK_THROW_FAST": {
+            "id": "ROCK_THROW_FAST",
+            "power": 12,
+            "energy": 7,
+            "durationMs": 900,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Rock Throw",
+                "German": "Steinwurf",
+                "French": "Jet-Pierres",
+                "Italian": "Sassata",
+                "Japanese": "\u3044\u308f\u304a\u3068\u3057",
+                "Korean": "\ub3cc\ub5a8\uad6c\uae30",
+                "Spanish": "Lanzarrocas"
+            },
+            "combat": {
+                "energy": 5,
+                "power": 8
+            }
+        },
+        "MUD_SLAP_FAST": {
+            "id": "MUD_SLAP_FAST",
+            "power": 18,
+            "energy": 12,
+            "durationMs": 1400,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Mud-Slap",
+                "German": "Lehmschelle",
+                "French": "Coud\u2019Boue",
+                "Italian": "Fangosberla",
+                "Japanese": "\u3069\u308d\u304b\u3051",
+                "Korean": "\uc9c4\ud759\ubfcc\ub9ac\uae30",
+                "Spanish": "Bofet\u00f3n Lodo"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 11
+            }
+        }
+    },
+    "cinematicMoves": {
+        "DIG": {
+            "id": "DIG",
+            "power": 100,
+            "energy": -50,
+            "durationMs": 4700,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Dig",
+                "German": "Schaufler",
+                "French": "Tunnel",
+                "Italian": "Fossa",
+                "Japanese": "\u3042\u306a\u3092\u307b\u308b",
+                "Korean": "\uad6c\uba4d\ud30c\uae30",
+                "Spanish": "Excavar"
+            },
+            "combat": {
+                "energy": -80,
+                "power": 100
+            }
+        },
+        "STONE_EDGE": {
+            "id": "STONE_EDGE",
+            "power": 100,
+            "energy": -100,
+            "durationMs": 2300,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Stone Edge",
+                "German": "Steinkante",
+                "French": "Lame de Roc",
+                "Italian": "Pietrataglio",
+                "Japanese": "\u30b9\u30c8\u30fc\u30f3\u30a8\u30c3\u30b8",
+                "Korean": "\uc2a4\ud1a4\uc5d0\uc9c0",
+                "Spanish": "Roca Afilada"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 100
+            }
+        },
+        "ROCK_BLAST": {
+            "id": "ROCK_BLAST",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 2100,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Rock Blast",
+                "German": "Felswurf",
+                "French": "Boule Roc",
+                "Italian": "Cadutamassi",
+                "Japanese": "\u30ed\u30c3\u30af\u30d6\u30e9\u30b9\u30c8",
+                "Korean": "\ub77d\ube14\ub808\uc2a4\ud2b8",
+                "Spanish": "Pedrada"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 50
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": {
+        "ROCK_SLIDE": {
+            "id": "ROCK_SLIDE",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 2700,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Rock Slide",
+                "German": "Steinhagel",
+                "French": "\u00c9boulement",
+                "Italian": "Frana",
+                "Japanese": "\u3044\u308f\u306a\u3060\u308c",
+                "Korean": "\uc2a4\ud1a4\uc0e4\uc6cc",
+                "Spanish": "Avalancha"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 80
+            }
+        }
+    },
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_075_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_075_00_shiny.png"
+    },
+    "regionForms": [
+        {
+            "id": "GRAVELER",
+            "formId": "GRAVELER_ALOLA",
+            "dexNr": 75,
+            "generation": 1,
+            "names": {
+                "English": "Alolan Graveler",
+                "German": "Alola-Georok",
+                "French": "Gravalanch d'Alola",
+                "Italian": "Graveler di Alola",
+                "Japanese": "\u30a2\u30ed\u30fc\u30e9 \u30b4\u30ed\u30fc\u30f3",
+                "Korean": "\uc54c\ub85c\ub77c \ub370\uad6c\ub9ac",
+                "Spanish": "Graveler de Alola"
+            },
+            "stats": {
+                "stamina": 146,
+                "attack": 164,
+                "defense": 164
+            },
+            "primaryType": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "secondaryType": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "quickMoves": {
+                "ROCK_THROW_FAST": {
+                    "id": "ROCK_THROW_FAST",
+                    "power": 12,
+                    "energy": 7,
+                    "durationMs": 900,
+                    "type": {
+                        "type": "POKEMON_TYPE_ROCK",
+                        "names": {
+                            "English": "Rock",
+                            "German": "Gestein",
+                            "French": "Roche",
+                            "Italian": "Roccia",
+                            "Japanese": "\u3044\u308f",
+                            "Korean": "\ubc14\uc704",
+                            "Spanish": "Roca"
+                        }
+                    },
+                    "names": {
+                        "English": "Rock Throw",
+                        "German": "Steinwurf",
+                        "French": "Jet-Pierres",
+                        "Italian": "Sassata",
+                        "Japanese": "\u3044\u308f\u304a\u3068\u3057",
+                        "Korean": "\ub3cc\ub5a8\uad6c\uae30",
+                        "Spanish": "Lanzarrocas"
+                    },
+                    "combat": {
+                        "energy": 5,
+                        "power": 8
+                    }
+                },
+                "VOLT_SWITCH_FAST": {
+                    "id": "VOLT_SWITCH_FAST",
+                    "power": 14,
+                    "energy": 21,
+                    "durationMs": 1600,
+                    "type": {
+                        "type": "POKEMON_TYPE_ELECTRIC",
+                        "names": {
+                            "English": "Electric",
+                            "German": "Elektro",
+                            "French": "\u00c9lectrik",
+                            "Italian": "Elettro",
+                            "Japanese": "\u3067\u3093\u304d",
+                            "Korean": "\uc804\uae30",
+                            "Spanish": "El\u00e9ctrico"
+                        }
+                    },
+                    "names": {
+                        "English": "Volt Switch",
+                        "German": "Voltwechsel",
+                        "French": "Change \u00c9clair",
+                        "Italian": "Invertivolt",
+                        "Japanese": "\u30dc\u30eb\u30c8\u30c1\u30a7\u30f3\u30b8",
+                        "Korean": "\ubcfc\ud2b8\uccb4\uc778\uc9c0",
+                        "Spanish": "Voltiocambio"
+                    },
+                    "combat": {
+                        "energy": 16,
+                        "power": 12
+                    }
+                }
+            },
+            "cinematicMoves": {
+                "THUNDERBOLT": {
+                    "id": "THUNDERBOLT",
+                    "power": 80,
+                    "energy": -50,
+                    "durationMs": 2500,
+                    "type": {
+                        "type": "POKEMON_TYPE_ELECTRIC",
+                        "names": {
+                            "English": "Electric",
+                            "German": "Elektro",
+                            "French": "\u00c9lectrik",
+                            "Italian": "Elettro",
+                            "Japanese": "\u3067\u3093\u304d",
+                            "Korean": "\uc804\uae30",
+                            "Spanish": "El\u00e9ctrico"
+                        }
+                    },
+                    "names": {
+                        "English": "Thunderbolt",
+                        "German": "Donnerblitz",
+                        "French": "Tonnerre",
+                        "Italian": "Fulmine",
+                        "Japanese": "\uff11\uff10\u307e\u3093\u30dc\u30eb\u30c8",
+                        "Korean": "10\ub9cc\ubcfc\ud2b8",
+                        "Spanish": "Rayo"
+                    },
+                    "combat": {
+                        "energy": -55,
+                        "power": 90
+                    }
+                },
+                "STONE_EDGE": {
+                    "id": "STONE_EDGE",
+                    "power": 100,
+                    "energy": -100,
+                    "durationMs": 2300,
+                    "type": {
+                        "type": "POKEMON_TYPE_ROCK",
+                        "names": {
+                            "English": "Rock",
+                            "German": "Gestein",
+                            "French": "Roche",
+                            "Italian": "Roccia",
+                            "Japanese": "\u3044\u308f",
+                            "Korean": "\ubc14\uc704",
+                            "Spanish": "Roca"
+                        }
+                    },
+                    "names": {
+                        "English": "Stone Edge",
+                        "German": "Steinkante",
+                        "French": "Lame de Roc",
+                        "Italian": "Pietrataglio",
+                        "Japanese": "\u30b9\u30c8\u30fc\u30f3\u30a8\u30c3\u30b8",
+                        "Korean": "\uc2a4\ud1a4\uc5d0\uc9c0",
+                        "Spanish": "Roca Afilada"
+                    },
+                    "combat": {
+                        "energy": -55,
+                        "power": 100
+                    }
+                },
+                "ROCK_BLAST": {
+                    "id": "ROCK_BLAST",
+                    "power": 50,
+                    "energy": -33,
+                    "durationMs": 2100,
+                    "type": {
+                        "type": "POKEMON_TYPE_ROCK",
+                        "names": {
+                            "English": "Rock",
+                            "German": "Gestein",
+                            "French": "Roche",
+                            "Italian": "Roccia",
+                            "Japanese": "\u3044\u308f",
+                            "Korean": "\ubc14\uc704",
+                            "Spanish": "Roca"
+                        }
+                    },
+                    "names": {
+                        "English": "Rock Blast",
+                        "German": "Felswurf",
+                        "French": "Boule Roc",
+                        "Italian": "Cadutamassi",
+                        "Japanese": "\u30ed\u30c3\u30af\u30d6\u30e9\u30b9\u30c8",
+                        "Korean": "\ub77d\ube14\ub808\uc2a4\ud2b8",
+                        "Spanish": "Pedrada"
+                    },
+                    "combat": {
+                        "energy": -40,
+                        "power": 50
+                    }
+                }
+            },
+            "eliteQuickMoves": [],
+            "eliteCinematicMoves": [],
+            "assets": {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_075_61.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_075_61_shiny.png"
+            },
+            "regionForms": [],
+            "hasMegaEvolution": false,
+            "megaEvolutions": []
+        }
+    ],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

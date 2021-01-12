@@ -1,1 +1,265 @@
-{"id":"SEEL","formId":"SEEL","dexNr":86,"generation":1,"names":{"English":"Seel","German":"Jurob","French":"Otaria","Italian":"Seel","Japanese":"\u30d1\u30a6\u30ef\u30a6","Korean":"\uc96c\uc96c","Spanish":"Seel"},"stats":{"stamina":163,"attack":85,"defense":121},"primaryType":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"secondaryType":null,"quickMoves":{"ICE_SHARD_FAST":{"id":"ICE_SHARD_FAST","power":12,"energy":12,"durationMs":1200,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Ice Shard","German":"Eissplitter","French":"\u00c9clats Glace","Italian":"Geloscheggia","Japanese":"\u3053\u304a\u308a\u306e\u3064\u3076\u3066","Korean":"\uc5bc\uc74c\ubb49\uce58","Spanish":"Canto Helado"},"combat":{"energy":10,"power":9}},"LICK_FAST":{"id":"LICK_FAST","power":5,"energy":6,"durationMs":500,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Lick","German":"Schlecker","French":"L\u00e9chouille","Italian":"Leccata","Japanese":"\u3057\u305f\u3067\u306a\u3081\u308b","Korean":"\ud565\uae30","Spanish":"Leng\u00fcetazo"},"combat":{"energy":3,"power":3}}},"cinematicMoves":{"AURORA_BEAM":{"id":"AURORA_BEAM","power":80,"energy":-50,"durationMs":3550,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Aurora Beam","German":"Aurorastrahl","French":"Onde Bor\u00e9ale","Italian":"Raggiaurora","Japanese":"\u30aa\u30fc\u30ed\u30e9\u30d3\u30fc\u30e0","Korean":"\uc624\ub85c\ub77c\ube54","Spanish":"Rayo Aurora"},"combat":{"energy":-60,"power":80}},"ICY_WIND":{"id":"ICY_WIND","power":60,"energy":-33,"durationMs":3300,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Icy Wind","German":"Eissturm","French":"Vent Glace","Italian":"Ventogelato","Japanese":"\u3053\u3054\u3048\u308b\u304b\u305c","Korean":"\uc5bc\ub2e4\ubc14\ub78c","Spanish":"Viento Hielo"},"combat":{"energy":-45,"power":60}},"AQUA_TAIL":{"id":"AQUA_TAIL","power":50,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Aqua Tail","German":"Nassschweif","French":"Hydro-Queue","Italian":"Idrondata","Japanese":"\u30a2\u30af\u30a2\u30c6\u30fc\u30eb","Korean":"\uc544\ucfe0\uc544\ud14c\uc77c","Spanish":"Acua Cola"},"combat":{"energy":-35,"power":50}}},"eliteQuickMoves":{"WATER_GUN_FAST":{"id":"WATER_GUN_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Water Gun","German":"Aquaknarre","French":"Pistolet \u00e0 O","Italian":"Pistolacqua","Japanese":"\u307f\u305a\u3067\u3063\u307d\u3046","Korean":"\ubb3c\ub300\ud3ec","Spanish":"Pistola Agua"},"combat":{"energy":3,"power":3}}},"eliteCinematicMoves":{"AQUA_JET":{"id":"AQUA_JET","power":45,"energy":-33,"durationMs":2600,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Aqua Jet","German":"Wasserd\u00fcse","French":"Aqua-Jet","Italian":"Acquagetto","Japanese":"\u30a2\u30af\u30a2\u30b8\u30a7\u30c3\u30c8","Korean":"\uc544\ucfe0\uc544\uc81c\ud2b8","Spanish":"Acua Jet"},"combat":{"energy":-45,"power":45}}},"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_086_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_086_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "SEEL",
+    "formId": "SEEL",
+    "dexNr": 86,
+    "generation": 1,
+    "names": {
+        "English": "Seel",
+        "German": "Jurob",
+        "French": "Otaria",
+        "Italian": "Seel",
+        "Japanese": "\u30d1\u30a6\u30ef\u30a6",
+        "Korean": "\uc96c\uc96c",
+        "Spanish": "Seel"
+    },
+    "stats": {
+        "stamina": 163,
+        "attack": 85,
+        "defense": 121
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_WATER",
+        "names": {
+            "English": "Water",
+            "German": "Wasser",
+            "French": "Eau",
+            "Italian": "Acqua",
+            "Japanese": "\u307f\u305a",
+            "Korean": "\ubb3c",
+            "Spanish": "Agua"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "ICE_SHARD_FAST": {
+            "id": "ICE_SHARD_FAST",
+            "power": 12,
+            "energy": 12,
+            "durationMs": 1200,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Ice Shard",
+                "German": "Eissplitter",
+                "French": "\u00c9clats Glace",
+                "Italian": "Geloscheggia",
+                "Japanese": "\u3053\u304a\u308a\u306e\u3064\u3076\u3066",
+                "Korean": "\uc5bc\uc74c\ubb49\uce58",
+                "Spanish": "Canto Helado"
+            },
+            "combat": {
+                "energy": 10,
+                "power": 9
+            }
+        },
+        "LICK_FAST": {
+            "id": "LICK_FAST",
+            "power": 5,
+            "energy": 6,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Lick",
+                "German": "Schlecker",
+                "French": "L\u00e9chouille",
+                "Italian": "Leccata",
+                "Japanese": "\u3057\u305f\u3067\u306a\u3081\u308b",
+                "Korean": "\ud565\uae30",
+                "Spanish": "Leng\u00fcetazo"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 3
+            }
+        }
+    },
+    "cinematicMoves": {
+        "AURORA_BEAM": {
+            "id": "AURORA_BEAM",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 3550,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Aurora Beam",
+                "German": "Aurorastrahl",
+                "French": "Onde Bor\u00e9ale",
+                "Italian": "Raggiaurora",
+                "Japanese": "\u30aa\u30fc\u30ed\u30e9\u30d3\u30fc\u30e0",
+                "Korean": "\uc624\ub85c\ub77c\ube54",
+                "Spanish": "Rayo Aurora"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 80
+            }
+        },
+        "ICY_WIND": {
+            "id": "ICY_WIND",
+            "power": 60,
+            "energy": -33,
+            "durationMs": 3300,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Icy Wind",
+                "German": "Eissturm",
+                "French": "Vent Glace",
+                "Italian": "Ventogelato",
+                "Japanese": "\u3053\u3054\u3048\u308b\u304b\u305c",
+                "Korean": "\uc5bc\ub2e4\ubc14\ub78c",
+                "Spanish": "Viento Hielo"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 60
+            }
+        },
+        "AQUA_TAIL": {
+            "id": "AQUA_TAIL",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 1900,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Aqua Tail",
+                "German": "Nassschweif",
+                "French": "Hydro-Queue",
+                "Italian": "Idrondata",
+                "Japanese": "\u30a2\u30af\u30a2\u30c6\u30fc\u30eb",
+                "Korean": "\uc544\ucfe0\uc544\ud14c\uc77c",
+                "Spanish": "Acua Cola"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 50
+            }
+        }
+    },
+    "eliteQuickMoves": {
+        "WATER_GUN_FAST": {
+            "id": "WATER_GUN_FAST",
+            "power": 5,
+            "energy": 5,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Water Gun",
+                "German": "Aquaknarre",
+                "French": "Pistolet \u00e0 O",
+                "Italian": "Pistolacqua",
+                "Japanese": "\u307f\u305a\u3067\u3063\u307d\u3046",
+                "Korean": "\ubb3c\ub300\ud3ec",
+                "Spanish": "Pistola Agua"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 3
+            }
+        }
+    },
+    "eliteCinematicMoves": {
+        "AQUA_JET": {
+            "id": "AQUA_JET",
+            "power": 45,
+            "energy": -33,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Aqua Jet",
+                "German": "Wasserd\u00fcse",
+                "French": "Aqua-Jet",
+                "Italian": "Acquagetto",
+                "Japanese": "\u30a2\u30af\u30a2\u30b8\u30a7\u30c3\u30c8",
+                "Korean": "\uc544\ucfe0\uc544\uc81c\ud2b8",
+                "Spanish": "Acua Jet"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 45
+            }
+        }
+    },
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_086_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_086_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

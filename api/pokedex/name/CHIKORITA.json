@@ -1,1 +1,201 @@
-{"id":"CHIKORITA","formId":"CHIKORITA","dexNr":152,"generation":2,"names":{"English":"Chikorita","German":"Endivie","French":"Germignon","Italian":"Chikorita","Japanese":"\u30c1\u30b3\u30ea\u30fc\u30bf","Korean":"\uce58\ucf54\ub9ac\ud0c0","Spanish":"Chikorita"},"stats":{"stamina":128,"attack":92,"defense":122},"primaryType":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"secondaryType":null,"quickMoves":{"VINE_WHIP_FAST":{"id":"VINE_WHIP_FAST","power":7,"energy":6,"durationMs":600,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Vine Whip","German":"Rankenhieb","French":"Fouet Lianes","Italian":"Frustata","Japanese":"\u3064\u308b\u306e\u30e0\u30c1","Korean":"\ub369\uad74\ucc44\ucc0d","Spanish":"L\u00e1tigo Cepa"},"combat":{"energy":8,"power":5}},"TACKLE_FAST":{"id":"TACKLE_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Tackle","German":"Tackle","French":"Charge","Italian":"Azione","Japanese":"\u305f\u3044\u3042\u305f\u308a","Korean":"\ubab8\ud1b5\ubc15\uce58\uae30","Spanish":"Placaje"},"combat":{"energy":2,"power":3}}},"cinematicMoves":{"ENERGY_BALL":{"id":"ENERGY_BALL","power":90,"energy":-50,"durationMs":3900,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Energy Ball","German":"Energieball","French":"\u00c9co-Sph\u00e8re","Italian":"Energipalla","Japanese":"\u30a8\u30ca\u30b8\u30fc\u30dc\u30fc\u30eb","Korean":"\uc5d0\ub108\uc9c0\ubcfc","Spanish":"Energibola"},"combat":{"energy":-55,"power":90}},"GRASS_KNOT":{"id":"GRASS_KNOT","power":90,"energy":-50,"durationMs":2600,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Grass Knot","German":"Strauchler","French":"N\u0153ud Herbe","Italian":"Laccioerboso","Japanese":"\u304f\u3055\u3080\u3059\u3073","Korean":"\ud480\ubb36\uae30","Spanish":"Hierba Lazo"},"combat":{"energy":-50,"power":90}},"BODY_SLAM":{"id":"BODY_SLAM","power":50,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Body Slam","German":"Bodyslam","French":"Plaquage","Italian":"Corposcontro","Japanese":"\u306e\u3057\u304b\u304b\u308a","Korean":"\ub204\ub974\uae30","Spanish":"Golpe Cuerpo"},"combat":{"energy":-35,"power":60}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_152_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_152_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "CHIKORITA",
+    "formId": "CHIKORITA",
+    "dexNr": 152,
+    "generation": 2,
+    "names": {
+        "English": "Chikorita",
+        "German": "Endivie",
+        "French": "Germignon",
+        "Italian": "Chikorita",
+        "Japanese": "\u30c1\u30b3\u30ea\u30fc\u30bf",
+        "Korean": "\uce58\ucf54\ub9ac\ud0c0",
+        "Spanish": "Chikorita"
+    },
+    "stats": {
+        "stamina": 128,
+        "attack": 92,
+        "defense": 122
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_GRASS",
+        "names": {
+            "English": "Grass",
+            "German": "Pflanze",
+            "French": "Plante",
+            "Italian": "Erba",
+            "Japanese": "\u304f\u3055",
+            "Korean": "\ud480",
+            "Spanish": "Planta"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "VINE_WHIP_FAST": {
+            "id": "VINE_WHIP_FAST",
+            "power": 7,
+            "energy": 6,
+            "durationMs": 600,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Vine Whip",
+                "German": "Rankenhieb",
+                "French": "Fouet Lianes",
+                "Italian": "Frustata",
+                "Japanese": "\u3064\u308b\u306e\u30e0\u30c1",
+                "Korean": "\ub369\uad74\ucc44\ucc0d",
+                "Spanish": "L\u00e1tigo Cepa"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 5
+            }
+        },
+        "TACKLE_FAST": {
+            "id": "TACKLE_FAST",
+            "power": 5,
+            "energy": 5,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Tackle",
+                "German": "Tackle",
+                "French": "Charge",
+                "Italian": "Azione",
+                "Japanese": "\u305f\u3044\u3042\u305f\u308a",
+                "Korean": "\ubab8\ud1b5\ubc15\uce58\uae30",
+                "Spanish": "Placaje"
+            },
+            "combat": {
+                "energy": 2,
+                "power": 3
+            }
+        }
+    },
+    "cinematicMoves": {
+        "ENERGY_BALL": {
+            "id": "ENERGY_BALL",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 3900,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Energy Ball",
+                "German": "Energieball",
+                "French": "\u00c9co-Sph\u00e8re",
+                "Italian": "Energipalla",
+                "Japanese": "\u30a8\u30ca\u30b8\u30fc\u30dc\u30fc\u30eb",
+                "Korean": "\uc5d0\ub108\uc9c0\ubcfc",
+                "Spanish": "Energibola"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        },
+        "GRASS_KNOT": {
+            "id": "GRASS_KNOT",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Grass Knot",
+                "German": "Strauchler",
+                "French": "N\u0153ud Herbe",
+                "Italian": "Laccioerboso",
+                "Japanese": "\u304f\u3055\u3080\u3059\u3073",
+                "Korean": "\ud480\ubb36\uae30",
+                "Spanish": "Hierba Lazo"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 90
+            }
+        },
+        "BODY_SLAM": {
+            "id": "BODY_SLAM",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 1900,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Body Slam",
+                "German": "Bodyslam",
+                "French": "Plaquage",
+                "Italian": "Corposcontro",
+                "Japanese": "\u306e\u3057\u304b\u304b\u308a",
+                "Korean": "\ub204\ub974\uae30",
+                "Spanish": "Golpe Cuerpo"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 60
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_152_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_152_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

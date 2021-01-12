@@ -1,1 +1,201 @@
-{"id":"ZOROARK","formId":"ZOROARK","dexNr":571,"generation":5,"names":{"English":"Zoroark","German":"Zoroark","French":"Zoroark","Italian":"Zoroark","Japanese":"\u30be\u30ed\u30a2\u30fc\u30af","Korean":"\uc870\ub85c\uc544\ud06c","Spanish":"Zoroark"},"stats":{"stamina":155,"attack":250,"defense":127},"primaryType":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"secondaryType":null,"quickMoves":{"SHADOW_CLAW_FAST":{"id":"SHADOW_CLAW_FAST","power":9,"energy":6,"durationMs":700,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Shadow Claw","German":"Dunkelklaue","French":"Griffe Ombre","Italian":"Ombrartigli","Japanese":"\u30b7\u30e3\u30c9\u30fc\u30af\u30ed\u30fc","Korean":"\uc100\ub3c4\ud06c\ub8e8","Spanish":"Garra Umbr\u00eda"},"combat":{"energy":8,"power":6}},"SNARL_FAST":{"id":"SNARL_FAST","power":12,"energy":14,"durationMs":1100,"type":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"names":{"English":"Snarl","German":"Standpauke","French":"Aboiement","Italian":"Urlorabbia","Japanese":"\u30d0\u30fc\u30af\u30a2\u30a6\u30c8","Korean":"\ubc14\ud06c\uc544\uc6c3","Spanish":"Alarido"},"combat":{"energy":13,"power":5}}},"cinematicMoves":{"FOUL_PLAY":{"id":"FOUL_PLAY","power":70,"energy":-50,"durationMs":2000,"type":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"names":{"English":"Foul Play","German":"Schmarotzer","French":"Tricherie","Italian":"Ripicca","Japanese":"\u30a4\u30ab\u30b5\u30de","Korean":"\uc18d\uc784\uc218","Spanish":"Juego Sucio"},"combat":{"energy":-45,"power":70}},"SLUDGE_BOMB":{"id":"SLUDGE_BOMB","power":80,"energy":-50,"durationMs":2300,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Sludge Bomb","German":"Matschbombe","French":"Bombe Beurk","Italian":"Fangobomba","Japanese":"\u30d8\u30c9\u30ed\u3070\u304f\u3060\u3093","Korean":"\uc624\ubb3c\ud3ed\ud0c4","Spanish":"Bomba Lodo"},"combat":{"energy":-50,"power":80}},"FLAMETHROWER":{"id":"FLAMETHROWER","power":70,"energy":-50,"durationMs":2200,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Flamethrower","German":"Flammenwurf","French":"Lance-Flammes","Italian":"Lanciafiamme","Japanese":"\u304b\u3048\u3093\u307b\u3046\u3057\u3083","Korean":"\ud654\uc5fc\ubc29\uc0ac","Spanish":"Lanzallamas"},"combat":{"energy":-55,"power":90}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_571_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_571_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "ZOROARK",
+    "formId": "ZOROARK",
+    "dexNr": 571,
+    "generation": 5,
+    "names": {
+        "English": "Zoroark",
+        "German": "Zoroark",
+        "French": "Zoroark",
+        "Italian": "Zoroark",
+        "Japanese": "\u30be\u30ed\u30a2\u30fc\u30af",
+        "Korean": "\uc870\ub85c\uc544\ud06c",
+        "Spanish": "Zoroark"
+    },
+    "stats": {
+        "stamina": 155,
+        "attack": 250,
+        "defense": 127
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_DARK",
+        "names": {
+            "English": "Dark",
+            "German": "Unlicht",
+            "French": "T\u00e9n\u00e8bres",
+            "Italian": "Buio",
+            "Japanese": "\u3042\u304f",
+            "Korean": "\uc545",
+            "Spanish": "Siniestro"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "SHADOW_CLAW_FAST": {
+            "id": "SHADOW_CLAW_FAST",
+            "power": 9,
+            "energy": 6,
+            "durationMs": 700,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Shadow Claw",
+                "German": "Dunkelklaue",
+                "French": "Griffe Ombre",
+                "Italian": "Ombrartigli",
+                "Japanese": "\u30b7\u30e3\u30c9\u30fc\u30af\u30ed\u30fc",
+                "Korean": "\uc100\ub3c4\ud06c\ub8e8",
+                "Spanish": "Garra Umbr\u00eda"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 6
+            }
+        },
+        "SNARL_FAST": {
+            "id": "SNARL_FAST",
+            "power": 12,
+            "energy": 14,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_DARK",
+                "names": {
+                    "English": "Dark",
+                    "German": "Unlicht",
+                    "French": "T\u00e9n\u00e8bres",
+                    "Italian": "Buio",
+                    "Japanese": "\u3042\u304f",
+                    "Korean": "\uc545",
+                    "Spanish": "Siniestro"
+                }
+            },
+            "names": {
+                "English": "Snarl",
+                "German": "Standpauke",
+                "French": "Aboiement",
+                "Italian": "Urlorabbia",
+                "Japanese": "\u30d0\u30fc\u30af\u30a2\u30a6\u30c8",
+                "Korean": "\ubc14\ud06c\uc544\uc6c3",
+                "Spanish": "Alarido"
+            },
+            "combat": {
+                "energy": 13,
+                "power": 5
+            }
+        }
+    },
+    "cinematicMoves": {
+        "FOUL_PLAY": {
+            "id": "FOUL_PLAY",
+            "power": 70,
+            "energy": -50,
+            "durationMs": 2000,
+            "type": {
+                "type": "POKEMON_TYPE_DARK",
+                "names": {
+                    "English": "Dark",
+                    "German": "Unlicht",
+                    "French": "T\u00e9n\u00e8bres",
+                    "Italian": "Buio",
+                    "Japanese": "\u3042\u304f",
+                    "Korean": "\uc545",
+                    "Spanish": "Siniestro"
+                }
+            },
+            "names": {
+                "English": "Foul Play",
+                "German": "Schmarotzer",
+                "French": "Tricherie",
+                "Italian": "Ripicca",
+                "Japanese": "\u30a4\u30ab\u30b5\u30de",
+                "Korean": "\uc18d\uc784\uc218",
+                "Spanish": "Juego Sucio"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 70
+            }
+        },
+        "SLUDGE_BOMB": {
+            "id": "SLUDGE_BOMB",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 2300,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Sludge Bomb",
+                "German": "Matschbombe",
+                "French": "Bombe Beurk",
+                "Italian": "Fangobomba",
+                "Japanese": "\u30d8\u30c9\u30ed\u3070\u304f\u3060\u3093",
+                "Korean": "\uc624\ubb3c\ud3ed\ud0c4",
+                "Spanish": "Bomba Lodo"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 80
+            }
+        },
+        "FLAMETHROWER": {
+            "id": "FLAMETHROWER",
+            "power": 70,
+            "energy": -50,
+            "durationMs": 2200,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Flamethrower",
+                "German": "Flammenwurf",
+                "French": "Lance-Flammes",
+                "Italian": "Lanciafiamme",
+                "Japanese": "\u304b\u3048\u3093\u307b\u3046\u3057\u3083",
+                "Korean": "\ud654\uc5fc\ubc29\uc0ac",
+                "Spanish": "Lanzallamas"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_571_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_571_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

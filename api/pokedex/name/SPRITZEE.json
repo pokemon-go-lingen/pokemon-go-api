@@ -1,1 +1,170 @@
-{"id":"SPRITZEE","formId":"SPRITZEE","dexNr":682,"generation":6,"names":{"English":"Spritzee","German":"Parfi","French":"Fluvetin","Italian":"Spritzee","Japanese":"\u30b7\u30e5\u30b7\u30e5\u30d7","Korean":"\uc288\uc058","Spanish":"Spritzee"},"stats":{"stamina":186,"attack":110,"defense":113},"primaryType":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"secondaryType":null,"quickMoves":{"CHARM_FAST":{"id":"CHARM_FAST","power":20,"energy":11,"durationMs":1500,"type":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"names":{"English":"Charm","German":"Charme","French":"Charme","Italian":"Fascino","Japanese":"\u3042\u307e\u3048\u308b","Korean":"\uc560\uad50\ubd80\ub9ac\uae30","Spanish":"Encanto"},"combat":{"energy":6,"power":16}},"CHARGE_BEAM_FAST":{"id":"CHARGE_BEAM_FAST","power":8,"energy":15,"durationMs":1100,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Charge Beam","German":"Ladestrahl","French":"Rayon Charg\u00e9","Italian":"Raggioscossa","Japanese":"\u30c1\u30e3\u30fc\u30b8\u30d3\u30fc\u30e0","Korean":"\ucc28\uc9c0\ube54","Spanish":"Rayo Carga"},"combat":{"energy":11,"power":5}}},"cinematicMoves":{"DRAINING_KISS":{"id":"DRAINING_KISS","power":60,"energy":-50,"durationMs":2600,"type":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"names":{"English":"Draining Kiss","German":"Diebeskuss","French":"Vampibaiser","Italian":"Assorbibacio","Japanese":"\u30c9\u30ec\u30a4\u30f3\u30ad\u30c3\u30b9","Korean":"\ub4dc\ub808\uc778\ud0a4\uc2a4","Spanish":"Beso Drenaje"},"combat":{"energy":-55,"power":60}},"THUNDERBOLT":{"id":"THUNDERBOLT","power":80,"energy":-50,"durationMs":2500,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Thunderbolt","German":"Donnerblitz","French":"Tonnerre","Italian":"Fulmine","Japanese":"\uff11\uff10\u307e\u3093\u30dc\u30eb\u30c8","Korean":"10\ub9cc\ubcfc\ud2b8","Spanish":"Rayo"},"combat":{"energy":-55,"power":90}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_682_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_682_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "SPRITZEE",
+    "formId": "SPRITZEE",
+    "dexNr": 682,
+    "generation": 6,
+    "names": {
+        "English": "Spritzee",
+        "German": "Parfi",
+        "French": "Fluvetin",
+        "Italian": "Spritzee",
+        "Japanese": "\u30b7\u30e5\u30b7\u30e5\u30d7",
+        "Korean": "\uc288\uc058",
+        "Spanish": "Spritzee"
+    },
+    "stats": {
+        "stamina": 186,
+        "attack": 110,
+        "defense": 113
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_FAIRY",
+        "names": {
+            "English": "Fairy",
+            "German": "Fee",
+            "French": "F\u00e9e",
+            "Italian": "Folletto",
+            "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+            "Korean": "\ud398\uc5b4\ub9ac",
+            "Spanish": "Hada"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "CHARM_FAST": {
+            "id": "CHARM_FAST",
+            "power": 20,
+            "energy": 11,
+            "durationMs": 1500,
+            "type": {
+                "type": "POKEMON_TYPE_FAIRY",
+                "names": {
+                    "English": "Fairy",
+                    "German": "Fee",
+                    "French": "F\u00e9e",
+                    "Italian": "Folletto",
+                    "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                    "Korean": "\ud398\uc5b4\ub9ac",
+                    "Spanish": "Hada"
+                }
+            },
+            "names": {
+                "English": "Charm",
+                "German": "Charme",
+                "French": "Charme",
+                "Italian": "Fascino",
+                "Japanese": "\u3042\u307e\u3048\u308b",
+                "Korean": "\uc560\uad50\ubd80\ub9ac\uae30",
+                "Spanish": "Encanto"
+            },
+            "combat": {
+                "energy": 6,
+                "power": 16
+            }
+        },
+        "CHARGE_BEAM_FAST": {
+            "id": "CHARGE_BEAM_FAST",
+            "power": 8,
+            "energy": 15,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "names": {
+                "English": "Charge Beam",
+                "German": "Ladestrahl",
+                "French": "Rayon Charg\u00e9",
+                "Italian": "Raggioscossa",
+                "Japanese": "\u30c1\u30e3\u30fc\u30b8\u30d3\u30fc\u30e0",
+                "Korean": "\ucc28\uc9c0\ube54",
+                "Spanish": "Rayo Carga"
+            },
+            "combat": {
+                "energy": 11,
+                "power": 5
+            }
+        }
+    },
+    "cinematicMoves": {
+        "DRAINING_KISS": {
+            "id": "DRAINING_KISS",
+            "power": 60,
+            "energy": -50,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_FAIRY",
+                "names": {
+                    "English": "Fairy",
+                    "German": "Fee",
+                    "French": "F\u00e9e",
+                    "Italian": "Folletto",
+                    "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                    "Korean": "\ud398\uc5b4\ub9ac",
+                    "Spanish": "Hada"
+                }
+            },
+            "names": {
+                "English": "Draining Kiss",
+                "German": "Diebeskuss",
+                "French": "Vampibaiser",
+                "Italian": "Assorbibacio",
+                "Japanese": "\u30c9\u30ec\u30a4\u30f3\u30ad\u30c3\u30b9",
+                "Korean": "\ub4dc\ub808\uc778\ud0a4\uc2a4",
+                "Spanish": "Beso Drenaje"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 60
+            }
+        },
+        "THUNDERBOLT": {
+            "id": "THUNDERBOLT",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 2500,
+            "type": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "names": {
+                "English": "Thunderbolt",
+                "German": "Donnerblitz",
+                "French": "Tonnerre",
+                "Italian": "Fulmine",
+                "Japanese": "\uff11\uff10\u307e\u3093\u30dc\u30eb\u30c8",
+                "Korean": "10\ub9cc\ubcfc\ud2b8",
+                "Spanish": "Rayo"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_682_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_682_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

@@ -1,1 +1,212 @@
-{"id":"RUFFLET","formId":"RUFFLET","dexNr":627,"generation":5,"names":{"English":"Rufflet","German":"Geronimatz","French":"Furaiglon","Italian":"Rufflet","Japanese":"\u30ef\u30b7\u30dc\u30f3","Korean":"\uc218\ub9ac\ub465\ubcf4","Spanish":"Rufflet"},"stats":{"stamina":172,"attack":150,"defense":97},"primaryType":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"secondaryType":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"quickMoves":{"PECK_FAST":{"id":"PECK_FAST","power":10,"energy":10,"durationMs":1000,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Peck","German":"Pikser","French":"Picpic","Italian":"Beccata","Japanese":"\u3064\u3064\u304f","Korean":"\ucabc\uae30","Spanish":"Picotazo"},"combat":{"energy":5,"power":6}},"WING_ATTACK_FAST":{"id":"WING_ATTACK_FAST","power":8,"energy":9,"durationMs":800,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Wing Attack","German":"Fl\u00fcgelschlag","French":"Cru-Ailes","Italian":"Attacco d\u2019Ala","Japanese":"\u3064\u3070\u3055\u3067\u3046\u3064","Korean":"\ub0a0\uac1c\uce58\uae30","Spanish":"Ataque Ala"},"combat":{"energy":7,"power":5}}},"cinematicMoves":{"AERIAL_ACE":{"id":"AERIAL_ACE","power":55,"energy":-33,"durationMs":2400,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Aerial Ace","German":"Aero-Ass","French":"A\u00e9ropique","Italian":"Aeroassalto","Japanese":"\u3064\u3070\u3081\u304c\u3048\u3057","Korean":"\uc81c\ube44\ubc18\ud658","Spanish":"Golpe A\u00e9reo"},"combat":{"energy":-45,"power":55}},"BRAVE_BIRD":{"id":"BRAVE_BIRD","power":130,"energy":-100,"durationMs":2000,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Brave Bird","German":"Sturzflug","French":"Rapace","Italian":"Baldeali","Japanese":"\u30d6\u30ec\u30a4\u30d6\u30d0\u30fc\u30c9","Korean":"\ube0c\ub808\uc774\ube0c\ubc84\ub4dc","Spanish":"P\u00e1jaro Osado"},"combat":{"energy":-55,"power":130}},"ROCK_TOMB":{"id":"ROCK_TOMB","power":70,"energy":-50,"durationMs":3200,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Rock Tomb","German":"Felsgrab","French":"Tomberoche","Italian":"Rocciotomba","Japanese":"\u304c\u3093\u305b\u304d\u3075\u3046\u3058","Korean":"\uc554\uc11d\ubd09\uc778","Spanish":"Tumba Rocas"},"combat":{"energy":-60,"power":70}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_627_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_627_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "RUFFLET",
+    "formId": "RUFFLET",
+    "dexNr": 627,
+    "generation": 5,
+    "names": {
+        "English": "Rufflet",
+        "German": "Geronimatz",
+        "French": "Furaiglon",
+        "Italian": "Rufflet",
+        "Japanese": "\u30ef\u30b7\u30dc\u30f3",
+        "Korean": "\uc218\ub9ac\ub465\ubcf4",
+        "Spanish": "Rufflet"
+    },
+    "stats": {
+        "stamina": 172,
+        "attack": 150,
+        "defense": 97
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_NORMAL",
+        "names": {
+            "English": "Normal",
+            "German": "Normal",
+            "French": "Normal",
+            "Italian": "Normale",
+            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+            "Korean": "\ub178\ub9d0",
+            "Spanish": "Normal"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_FLYING",
+        "names": {
+            "English": "Flying",
+            "German": "Flug",
+            "French": "Vol",
+            "Italian": "Volante",
+            "Japanese": "\u3072\u3053\u3046",
+            "Korean": "\ube44\ud589",
+            "Spanish": "Volador"
+        }
+    },
+    "quickMoves": {
+        "PECK_FAST": {
+            "id": "PECK_FAST",
+            "power": 10,
+            "energy": 10,
+            "durationMs": 1000,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Peck",
+                "German": "Pikser",
+                "French": "Picpic",
+                "Italian": "Beccata",
+                "Japanese": "\u3064\u3064\u304f",
+                "Korean": "\ucabc\uae30",
+                "Spanish": "Picotazo"
+            },
+            "combat": {
+                "energy": 5,
+                "power": 6
+            }
+        },
+        "WING_ATTACK_FAST": {
+            "id": "WING_ATTACK_FAST",
+            "power": 8,
+            "energy": 9,
+            "durationMs": 800,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Wing Attack",
+                "German": "Fl\u00fcgelschlag",
+                "French": "Cru-Ailes",
+                "Italian": "Attacco d\u2019Ala",
+                "Japanese": "\u3064\u3070\u3055\u3067\u3046\u3064",
+                "Korean": "\ub0a0\uac1c\uce58\uae30",
+                "Spanish": "Ataque Ala"
+            },
+            "combat": {
+                "energy": 7,
+                "power": 5
+            }
+        }
+    },
+    "cinematicMoves": {
+        "AERIAL_ACE": {
+            "id": "AERIAL_ACE",
+            "power": 55,
+            "energy": -33,
+            "durationMs": 2400,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Aerial Ace",
+                "German": "Aero-Ass",
+                "French": "A\u00e9ropique",
+                "Italian": "Aeroassalto",
+                "Japanese": "\u3064\u3070\u3081\u304c\u3048\u3057",
+                "Korean": "\uc81c\ube44\ubc18\ud658",
+                "Spanish": "Golpe A\u00e9reo"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 55
+            }
+        },
+        "BRAVE_BIRD": {
+            "id": "BRAVE_BIRD",
+            "power": 130,
+            "energy": -100,
+            "durationMs": 2000,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Brave Bird",
+                "German": "Sturzflug",
+                "French": "Rapace",
+                "Italian": "Baldeali",
+                "Japanese": "\u30d6\u30ec\u30a4\u30d6\u30d0\u30fc\u30c9",
+                "Korean": "\ube0c\ub808\uc774\ube0c\ubc84\ub4dc",
+                "Spanish": "P\u00e1jaro Osado"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 130
+            }
+        },
+        "ROCK_TOMB": {
+            "id": "ROCK_TOMB",
+            "power": 70,
+            "energy": -50,
+            "durationMs": 3200,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Rock Tomb",
+                "German": "Felsgrab",
+                "French": "Tomberoche",
+                "Italian": "Rocciotomba",
+                "Japanese": "\u304c\u3093\u305b\u304d\u3075\u3046\u3058",
+                "Korean": "\uc554\uc11d\ubd09\uc778",
+                "Spanish": "Tumba Rocas"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 70
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_627_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_627_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

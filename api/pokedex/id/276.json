@@ -1,1 +1,150 @@
-{"id":"TAILLOW","formId":"TAILLOW","dexNr":276,"generation":3,"names":{"English":"Taillow","German":"Schwalbini","French":"Nirondelle","Italian":"Taillow","Japanese":"\u30b9\u30d0\u30e1","Korean":"\ud14c\uc77c\ub85c","Spanish":"Taillow"},"stats":{"stamina":120,"attack":106,"defense":61},"primaryType":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"secondaryType":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"quickMoves":{"PECK_FAST":{"id":"PECK_FAST","power":10,"energy":10,"durationMs":1000,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Peck","German":"Pikser","French":"Picpic","Italian":"Beccata","Japanese":"\u3064\u3064\u304f","Korean":"\ucabc\uae30","Spanish":"Picotazo"},"combat":{"energy":5,"power":6}},"QUICK_ATTACK_FAST":{"id":"QUICK_ATTACK_FAST","power":8,"energy":10,"durationMs":800,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Quick Attack","German":"Ruckzuckhieb","French":"Vive-Attaque","Italian":"Attacco Rapido","Japanese":"\u3067\u3093\u3053\u3046\u305b\u3063\u304b","Korean":"\uc804\uad11\uc11d\ud654","Spanish":"Ataque R\u00e1pido"},"combat":{"energy":7,"power":5}}},"cinematicMoves":{"AERIAL_ACE":{"id":"AERIAL_ACE","power":55,"energy":-33,"durationMs":2400,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Aerial Ace","German":"Aero-Ass","French":"A\u00e9ropique","Italian":"Aeroassalto","Japanese":"\u3064\u3070\u3081\u304c\u3048\u3057","Korean":"\uc81c\ube44\ubc18\ud658","Spanish":"Golpe A\u00e9reo"},"combat":{"energy":-45,"power":55}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_276_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_276_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "TAILLOW",
+    "formId": "TAILLOW",
+    "dexNr": 276,
+    "generation": 3,
+    "names": {
+        "English": "Taillow",
+        "German": "Schwalbini",
+        "French": "Nirondelle",
+        "Italian": "Taillow",
+        "Japanese": "\u30b9\u30d0\u30e1",
+        "Korean": "\ud14c\uc77c\ub85c",
+        "Spanish": "Taillow"
+    },
+    "stats": {
+        "stamina": 120,
+        "attack": 106,
+        "defense": 61
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_NORMAL",
+        "names": {
+            "English": "Normal",
+            "German": "Normal",
+            "French": "Normal",
+            "Italian": "Normale",
+            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+            "Korean": "\ub178\ub9d0",
+            "Spanish": "Normal"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_FLYING",
+        "names": {
+            "English": "Flying",
+            "German": "Flug",
+            "French": "Vol",
+            "Italian": "Volante",
+            "Japanese": "\u3072\u3053\u3046",
+            "Korean": "\ube44\ud589",
+            "Spanish": "Volador"
+        }
+    },
+    "quickMoves": {
+        "PECK_FAST": {
+            "id": "PECK_FAST",
+            "power": 10,
+            "energy": 10,
+            "durationMs": 1000,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Peck",
+                "German": "Pikser",
+                "French": "Picpic",
+                "Italian": "Beccata",
+                "Japanese": "\u3064\u3064\u304f",
+                "Korean": "\ucabc\uae30",
+                "Spanish": "Picotazo"
+            },
+            "combat": {
+                "energy": 5,
+                "power": 6
+            }
+        },
+        "QUICK_ATTACK_FAST": {
+            "id": "QUICK_ATTACK_FAST",
+            "power": 8,
+            "energy": 10,
+            "durationMs": 800,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Quick Attack",
+                "German": "Ruckzuckhieb",
+                "French": "Vive-Attaque",
+                "Italian": "Attacco Rapido",
+                "Japanese": "\u3067\u3093\u3053\u3046\u305b\u3063\u304b",
+                "Korean": "\uc804\uad11\uc11d\ud654",
+                "Spanish": "Ataque R\u00e1pido"
+            },
+            "combat": {
+                "energy": 7,
+                "power": 5
+            }
+        }
+    },
+    "cinematicMoves": {
+        "AERIAL_ACE": {
+            "id": "AERIAL_ACE",
+            "power": 55,
+            "energy": -33,
+            "durationMs": 2400,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Aerial Ace",
+                "German": "Aero-Ass",
+                "French": "A\u00e9ropique",
+                "Italian": "Aeroassalto",
+                "Japanese": "\u3064\u3070\u3081\u304c\u3048\u3057",
+                "Korean": "\uc81c\ube44\ubc18\ud658",
+                "Spanish": "Golpe A\u00e9reo"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 55
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_276_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_276_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

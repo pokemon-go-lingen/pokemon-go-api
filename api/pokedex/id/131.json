@@ -1,1 +1,338 @@
-{"id":"LAPRAS","formId":"LAPRAS","dexNr":131,"generation":1,"names":{"English":"Lapras","German":"Lapras","French":"Lokhlass","Italian":"Lapras","Japanese":"\u30e9\u30d7\u30e9\u30b9","Korean":"\ub77c\ud504\ub77c\uc2a4","Spanish":"Lapras"},"stats":{"stamina":277,"attack":165,"defense":174},"primaryType":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"secondaryType":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"quickMoves":{"FROST_BREATH_FAST":{"id":"FROST_BREATH_FAST","power":10,"energy":8,"durationMs":900,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Frost Breath","German":"Eisesodem","French":"Souffle Glac\u00e9","Italian":"Alitogelido","Japanese":"\u3053\u304a\u308a\u306e\u3044\u3076\u304d","Korean":"\uc5bc\uc74c\uc228\uacb0","Spanish":"Vaho G\u00e9lido"},"combat":{"energy":5,"power":7}},"WATER_GUN_FAST":{"id":"WATER_GUN_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Water Gun","German":"Aquaknarre","French":"Pistolet \u00e0 O","Italian":"Pistolacqua","Japanese":"\u307f\u305a\u3067\u3063\u307d\u3046","Korean":"\ubb3c\ub300\ud3ec","Spanish":"Pistola Agua"},"combat":{"energy":3,"power":3}}},"cinematicMoves":{"HYDRO_PUMP":{"id":"HYDRO_PUMP","power":130,"energy":-100,"durationMs":3300,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Hydro Pump","German":"Hydropumpe","French":"Hydrocanon","Italian":"Idropompa","Japanese":"\u30cf\u30a4\u30c9\u30ed\u30dd\u30f3\u30d7","Korean":"\ud558\uc774\ub4dc\ub85c\ud38c\ud504","Spanish":"Hidrobomba"},"combat":{"energy":-75,"power":130}},"SURF":{"id":"SURF","power":65,"energy":-50,"durationMs":1700,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Surf","German":"Surfer","French":"Surf","Italian":"Surf","Japanese":"\u306a\u307f\u306e\u308a","Korean":"\ud30c\ub3c4\ud0c0\uae30","Spanish":"Surf"},"combat":{"energy":-40,"power":65}},"BLIZZARD":{"id":"BLIZZARD","power":130,"energy":-100,"durationMs":3100,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Blizzard","German":"Blizzard","French":"Blizzard","Italian":"Bora","Japanese":"\u3075\u3076\u304d","Korean":"\ub208\ubcf4\ub77c","Spanish":"Ventisca"},"combat":{"energy":-75,"power":140}},"SKULL_BASH":{"id":"SKULL_BASH","power":130,"energy":-100,"durationMs":3100,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Skull Bash","German":"Sch\u00e4delwumme","French":"Coud\u2019Kr\u00e2ne","Italian":"Capocciata","Japanese":"\u30ed\u30b1\u30c3\u30c8\u305a\u3064\u304d","Korean":"\ub85c\ucf00\ud2b8\ubc15\uce58\uae30","Spanish":"Cabezazo"},"combat":{"energy":-75,"power":130}}},"eliteQuickMoves":{"ICE_SHARD_FAST":{"id":"ICE_SHARD_FAST","power":12,"energy":12,"durationMs":1200,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Ice Shard","German":"Eissplitter","French":"\u00c9clats Glace","Italian":"Geloscheggia","Japanese":"\u3053\u304a\u308a\u306e\u3064\u3076\u3066","Korean":"\uc5bc\uc74c\ubb49\uce58","Spanish":"Canto Helado"},"combat":{"energy":10,"power":9}}},"eliteCinematicMoves":{"DRAGON_PULSE":{"id":"DRAGON_PULSE","power":90,"energy":-50,"durationMs":3600,"type":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"names":{"English":"Dragon Pulse","German":"Drachenpuls","French":"Draco-Choc","Italian":"Dragopulsar","Japanese":"\u308a\u3085\u3046\u306e\u306f\u3069\u3046","Korean":"\uc6a9\uc758\ud30c\ub3d9","Spanish":"Pulso Drag\u00f3n"},"combat":{"energy":-60,"power":90}},"ICE_BEAM":{"id":"ICE_BEAM","power":90,"energy":-50,"durationMs":3300,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Ice Beam","German":"Eisstrahl","French":"Laser Glace","Italian":"Geloraggio","Japanese":"\u308c\u3044\u3068\u3046\u30d3\u30fc\u30e0","Korean":"\ub0c9\ub3d9\ube54","Spanish":"Rayo Hielo"},"combat":{"energy":-55,"power":90}}},"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_131_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_131_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "LAPRAS",
+    "formId": "LAPRAS",
+    "dexNr": 131,
+    "generation": 1,
+    "names": {
+        "English": "Lapras",
+        "German": "Lapras",
+        "French": "Lokhlass",
+        "Italian": "Lapras",
+        "Japanese": "\u30e9\u30d7\u30e9\u30b9",
+        "Korean": "\ub77c\ud504\ub77c\uc2a4",
+        "Spanish": "Lapras"
+    },
+    "stats": {
+        "stamina": 277,
+        "attack": 165,
+        "defense": 174
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_WATER",
+        "names": {
+            "English": "Water",
+            "German": "Wasser",
+            "French": "Eau",
+            "Italian": "Acqua",
+            "Japanese": "\u307f\u305a",
+            "Korean": "\ubb3c",
+            "Spanish": "Agua"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_ICE",
+        "names": {
+            "English": "Ice",
+            "German": "Eis",
+            "French": "Glace",
+            "Italian": "Ghiaccio",
+            "Japanese": "\u3053\u304a\u308a",
+            "Korean": "\uc5bc\uc74c",
+            "Spanish": "Hielo"
+        }
+    },
+    "quickMoves": {
+        "FROST_BREATH_FAST": {
+            "id": "FROST_BREATH_FAST",
+            "power": 10,
+            "energy": 8,
+            "durationMs": 900,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Frost Breath",
+                "German": "Eisesodem",
+                "French": "Souffle Glac\u00e9",
+                "Italian": "Alitogelido",
+                "Japanese": "\u3053\u304a\u308a\u306e\u3044\u3076\u304d",
+                "Korean": "\uc5bc\uc74c\uc228\uacb0",
+                "Spanish": "Vaho G\u00e9lido"
+            },
+            "combat": {
+                "energy": 5,
+                "power": 7
+            }
+        },
+        "WATER_GUN_FAST": {
+            "id": "WATER_GUN_FAST",
+            "power": 5,
+            "energy": 5,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Water Gun",
+                "German": "Aquaknarre",
+                "French": "Pistolet \u00e0 O",
+                "Italian": "Pistolacqua",
+                "Japanese": "\u307f\u305a\u3067\u3063\u307d\u3046",
+                "Korean": "\ubb3c\ub300\ud3ec",
+                "Spanish": "Pistola Agua"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 3
+            }
+        }
+    },
+    "cinematicMoves": {
+        "HYDRO_PUMP": {
+            "id": "HYDRO_PUMP",
+            "power": 130,
+            "energy": -100,
+            "durationMs": 3300,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Hydro Pump",
+                "German": "Hydropumpe",
+                "French": "Hydrocanon",
+                "Italian": "Idropompa",
+                "Japanese": "\u30cf\u30a4\u30c9\u30ed\u30dd\u30f3\u30d7",
+                "Korean": "\ud558\uc774\ub4dc\ub85c\ud38c\ud504",
+                "Spanish": "Hidrobomba"
+            },
+            "combat": {
+                "energy": -75,
+                "power": 130
+            }
+        },
+        "SURF": {
+            "id": "SURF",
+            "power": 65,
+            "energy": -50,
+            "durationMs": 1700,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Surf",
+                "German": "Surfer",
+                "French": "Surf",
+                "Italian": "Surf",
+                "Japanese": "\u306a\u307f\u306e\u308a",
+                "Korean": "\ud30c\ub3c4\ud0c0\uae30",
+                "Spanish": "Surf"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 65
+            }
+        },
+        "BLIZZARD": {
+            "id": "BLIZZARD",
+            "power": 130,
+            "energy": -100,
+            "durationMs": 3100,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Blizzard",
+                "German": "Blizzard",
+                "French": "Blizzard",
+                "Italian": "Bora",
+                "Japanese": "\u3075\u3076\u304d",
+                "Korean": "\ub208\ubcf4\ub77c",
+                "Spanish": "Ventisca"
+            },
+            "combat": {
+                "energy": -75,
+                "power": 140
+            }
+        },
+        "SKULL_BASH": {
+            "id": "SKULL_BASH",
+            "power": 130,
+            "energy": -100,
+            "durationMs": 3100,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Skull Bash",
+                "German": "Sch\u00e4delwumme",
+                "French": "Coud\u2019Kr\u00e2ne",
+                "Italian": "Capocciata",
+                "Japanese": "\u30ed\u30b1\u30c3\u30c8\u305a\u3064\u304d",
+                "Korean": "\ub85c\ucf00\ud2b8\ubc15\uce58\uae30",
+                "Spanish": "Cabezazo"
+            },
+            "combat": {
+                "energy": -75,
+                "power": 130
+            }
+        }
+    },
+    "eliteQuickMoves": {
+        "ICE_SHARD_FAST": {
+            "id": "ICE_SHARD_FAST",
+            "power": 12,
+            "energy": 12,
+            "durationMs": 1200,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Ice Shard",
+                "German": "Eissplitter",
+                "French": "\u00c9clats Glace",
+                "Italian": "Geloscheggia",
+                "Japanese": "\u3053\u304a\u308a\u306e\u3064\u3076\u3066",
+                "Korean": "\uc5bc\uc74c\ubb49\uce58",
+                "Spanish": "Canto Helado"
+            },
+            "combat": {
+                "energy": 10,
+                "power": 9
+            }
+        }
+    },
+    "eliteCinematicMoves": {
+        "DRAGON_PULSE": {
+            "id": "DRAGON_PULSE",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 3600,
+            "type": {
+                "type": "POKEMON_TYPE_DRAGON",
+                "names": {
+                    "English": "Dragon",
+                    "German": "Drache",
+                    "French": "Dragon",
+                    "Italian": "Drago",
+                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                    "Korean": "\ub4dc\ub798\uace4",
+                    "Spanish": "Drag\u00f3n"
+                }
+            },
+            "names": {
+                "English": "Dragon Pulse",
+                "German": "Drachenpuls",
+                "French": "Draco-Choc",
+                "Italian": "Dragopulsar",
+                "Japanese": "\u308a\u3085\u3046\u306e\u306f\u3069\u3046",
+                "Korean": "\uc6a9\uc758\ud30c\ub3d9",
+                "Spanish": "Pulso Drag\u00f3n"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 90
+            }
+        },
+        "ICE_BEAM": {
+            "id": "ICE_BEAM",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 3300,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Ice Beam",
+                "German": "Eisstrahl",
+                "French": "Laser Glace",
+                "Italian": "Geloraggio",
+                "Japanese": "\u308c\u3044\u3068\u3046\u30d3\u30fc\u30e0",
+                "Korean": "\ub0c9\ub3d9\ube54",
+                "Spanish": "Rayo Hielo"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        }
+    },
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_131_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_131_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

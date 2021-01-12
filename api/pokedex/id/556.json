@@ -1,1 +1,201 @@
-{"id":"MARACTUS","formId":"MARACTUS","dexNr":556,"generation":5,"names":{"English":"Maractus","German":"Maracamba","French":"Maracachi","Italian":"Maractus","Japanese":"\u30de\u30e9\u30ab\u30c3\u30c1","Korean":"\ub9c8\ub77c\uce74\uce58","Spanish":"Maractus"},"stats":{"stamina":181,"attack":201,"defense":130},"primaryType":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"secondaryType":null,"quickMoves":{"BULLET_SEED_FAST":{"id":"BULLET_SEED_FAST","power":8,"energy":14,"durationMs":1100,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Bullet Seed","German":"Kugelsaat","French":"Balle Graine","Italian":"Semitraglia","Japanese":"\u30bf\u30cd\u30de\u30b7\u30f3\u30ac\u30f3","Korean":"\uae30\uad00\ucd1d","Spanish":"Semilladora"},"combat":{"energy":13,"power":5}},"POISON_JAB_FAST":{"id":"POISON_JAB_FAST","power":10,"energy":7,"durationMs":800,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Poison Jab","German":"Gifthieb","French":"Direct Toxik","Italian":"Velenpuntura","Japanese":"\u3069\u304f\u3065\u304d","Korean":"\ub3c5\ucc0c\ub974\uae30","Spanish":"Puya Nociva"},"combat":{"energy":7,"power":6}}},"cinematicMoves":{"AERIAL_ACE":{"id":"AERIAL_ACE","power":55,"energy":-33,"durationMs":2400,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Aerial Ace","German":"Aero-Ass","French":"A\u00e9ropique","Italian":"Aeroassalto","Japanese":"\u3064\u3070\u3081\u304c\u3048\u3057","Korean":"\uc81c\ube44\ubc18\ud658","Spanish":"Golpe A\u00e9reo"},"combat":{"energy":-45,"power":55}},"PETAL_BLIZZARD":{"id":"PETAL_BLIZZARD","power":110,"energy":-100,"durationMs":2600,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Petal Blizzard","German":"Bl\u00fctenwirbel","French":"Temp\u00eate Florale","Italian":"Fiortempesta","Japanese":"\u306f\u306a\u3075\u3076\u304d","Korean":"\uaf43\ubcf4\ub77c","Spanish":"Tormenta Floral"},"combat":{"energy":-65,"power":110}},"SOLAR_BEAM":{"id":"SOLAR_BEAM","power":180,"energy":-100,"durationMs":4900,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Solar Beam","German":"Solarstrahl","French":"Lance-Soleil","Italian":"Solarraggio","Japanese":"\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0","Korean":"\uc194\ub77c\ube54","Spanish":"Rayo Solar"},"combat":{"energy":-80,"power":150}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_556_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_556_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "MARACTUS",
+    "formId": "MARACTUS",
+    "dexNr": 556,
+    "generation": 5,
+    "names": {
+        "English": "Maractus",
+        "German": "Maracamba",
+        "French": "Maracachi",
+        "Italian": "Maractus",
+        "Japanese": "\u30de\u30e9\u30ab\u30c3\u30c1",
+        "Korean": "\ub9c8\ub77c\uce74\uce58",
+        "Spanish": "Maractus"
+    },
+    "stats": {
+        "stamina": 181,
+        "attack": 201,
+        "defense": 130
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_GRASS",
+        "names": {
+            "English": "Grass",
+            "German": "Pflanze",
+            "French": "Plante",
+            "Italian": "Erba",
+            "Japanese": "\u304f\u3055",
+            "Korean": "\ud480",
+            "Spanish": "Planta"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "BULLET_SEED_FAST": {
+            "id": "BULLET_SEED_FAST",
+            "power": 8,
+            "energy": 14,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Bullet Seed",
+                "German": "Kugelsaat",
+                "French": "Balle Graine",
+                "Italian": "Semitraglia",
+                "Japanese": "\u30bf\u30cd\u30de\u30b7\u30f3\u30ac\u30f3",
+                "Korean": "\uae30\uad00\ucd1d",
+                "Spanish": "Semilladora"
+            },
+            "combat": {
+                "energy": 13,
+                "power": 5
+            }
+        },
+        "POISON_JAB_FAST": {
+            "id": "POISON_JAB_FAST",
+            "power": 10,
+            "energy": 7,
+            "durationMs": 800,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Poison Jab",
+                "German": "Gifthieb",
+                "French": "Direct Toxik",
+                "Italian": "Velenpuntura",
+                "Japanese": "\u3069\u304f\u3065\u304d",
+                "Korean": "\ub3c5\ucc0c\ub974\uae30",
+                "Spanish": "Puya Nociva"
+            },
+            "combat": {
+                "energy": 7,
+                "power": 6
+            }
+        }
+    },
+    "cinematicMoves": {
+        "AERIAL_ACE": {
+            "id": "AERIAL_ACE",
+            "power": 55,
+            "energy": -33,
+            "durationMs": 2400,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Aerial Ace",
+                "German": "Aero-Ass",
+                "French": "A\u00e9ropique",
+                "Italian": "Aeroassalto",
+                "Japanese": "\u3064\u3070\u3081\u304c\u3048\u3057",
+                "Korean": "\uc81c\ube44\ubc18\ud658",
+                "Spanish": "Golpe A\u00e9reo"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 55
+            }
+        },
+        "PETAL_BLIZZARD": {
+            "id": "PETAL_BLIZZARD",
+            "power": 110,
+            "energy": -100,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Petal Blizzard",
+                "German": "Bl\u00fctenwirbel",
+                "French": "Temp\u00eate Florale",
+                "Italian": "Fiortempesta",
+                "Japanese": "\u306f\u306a\u3075\u3076\u304d",
+                "Korean": "\uaf43\ubcf4\ub77c",
+                "Spanish": "Tormenta Floral"
+            },
+            "combat": {
+                "energy": -65,
+                "power": 110
+            }
+        },
+        "SOLAR_BEAM": {
+            "id": "SOLAR_BEAM",
+            "power": 180,
+            "energy": -100,
+            "durationMs": 4900,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Solar Beam",
+                "German": "Solarstrahl",
+                "French": "Lance-Soleil",
+                "Italian": "Solarraggio",
+                "Japanese": "\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0",
+                "Korean": "\uc194\ub77c\ube54",
+                "Spanish": "Rayo Solar"
+            },
+            "combat": {
+                "energy": -80,
+                "power": 150
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_556_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_556_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

@@ -1,1 +1,212 @@
-{"id":"EXEGGCUTE","formId":"EXEGGCUTE","dexNr":102,"generation":1,"names":{"English":"Exeggcute","German":"Owei","French":"Noeunoeuf","Italian":"Exeggcute","Japanese":"\u30bf\u30de\u30bf\u30de","Korean":"\uc544\ub77c\ub9ac","Spanish":"Exeggcute"},"stats":{"stamina":155,"attack":107,"defense":125},"primaryType":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"secondaryType":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"quickMoves":{"CONFUSION_FAST":{"id":"CONFUSION_FAST","power":20,"energy":15,"durationMs":1600,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Confusion","German":"Konfusion","French":"Choc Mental","Italian":"Confusione","Japanese":"\u306d\u3093\u308a\u304d","Korean":"\uc5fc\ub3d9\ub825","Spanish":"Confusi\u00f3n"},"combat":{"energy":12,"power":16}},"BULLET_SEED_FAST":{"id":"BULLET_SEED_FAST","power":8,"energy":14,"durationMs":1100,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Bullet Seed","German":"Kugelsaat","French":"Balle Graine","Italian":"Semitraglia","Japanese":"\u30bf\u30cd\u30de\u30b7\u30f3\u30ac\u30f3","Korean":"\uae30\uad00\ucd1d","Spanish":"Semilladora"},"combat":{"energy":13,"power":5}}},"cinematicMoves":{"SEED_BOMB":{"id":"SEED_BOMB","power":55,"energy":-33,"durationMs":2100,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Seed Bomb","German":"Samenbomben","French":"Canon Graine","Italian":"Semebomba","Japanese":"\u30bf\u30cd\u3070\u304f\u3060\u3093","Korean":"\uc528\ud3ed\ud0c4","Spanish":"Bomba Germen"},"combat":{"energy":-40,"power":55}},"PSYCHIC":{"id":"PSYCHIC","power":90,"energy":-50,"durationMs":2800,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Psychic","German":"Psychokinese","French":"Psyko","Italian":"Psichico","Japanese":"\u30b5\u30a4\u30b3\u30ad\u30cd\u30b7\u30b9","Korean":"\uc0ac\uc774\ucf54\ud0a4\ub124\uc2dc\uc2a4","Spanish":"Ps\u00edquico"},"combat":{"energy":-55,"power":90}},"ANCIENT_POWER":{"id":"ANCIENT_POWER","power":70,"energy":-33,"durationMs":3500,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Ancient Power","German":"Antik-Kraft","French":"Pouvoir Antique","Italian":"Forzantica","Japanese":"\u3052\u3093\u3057\u306e\u3061\u304b\u3089","Korean":"\uc6d0\uc2dc\uc758\ud798","Spanish":"Poder Pasado"},"combat":{"energy":-45,"power":45}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_102_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_102_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "EXEGGCUTE",
+    "formId": "EXEGGCUTE",
+    "dexNr": 102,
+    "generation": 1,
+    "names": {
+        "English": "Exeggcute",
+        "German": "Owei",
+        "French": "Noeunoeuf",
+        "Italian": "Exeggcute",
+        "Japanese": "\u30bf\u30de\u30bf\u30de",
+        "Korean": "\uc544\ub77c\ub9ac",
+        "Spanish": "Exeggcute"
+    },
+    "stats": {
+        "stamina": 155,
+        "attack": 107,
+        "defense": 125
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_GRASS",
+        "names": {
+            "English": "Grass",
+            "German": "Pflanze",
+            "French": "Plante",
+            "Italian": "Erba",
+            "Japanese": "\u304f\u3055",
+            "Korean": "\ud480",
+            "Spanish": "Planta"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_PSYCHIC",
+        "names": {
+            "English": "Psychic",
+            "German": "Psycho",
+            "French": "Psy",
+            "Italian": "Psico",
+            "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+            "Korean": "\uc5d0\uc2a4\ud37c",
+            "Spanish": "Ps\u00edquico"
+        }
+    },
+    "quickMoves": {
+        "CONFUSION_FAST": {
+            "id": "CONFUSION_FAST",
+            "power": 20,
+            "energy": 15,
+            "durationMs": 1600,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Confusion",
+                "German": "Konfusion",
+                "French": "Choc Mental",
+                "Italian": "Confusione",
+                "Japanese": "\u306d\u3093\u308a\u304d",
+                "Korean": "\uc5fc\ub3d9\ub825",
+                "Spanish": "Confusi\u00f3n"
+            },
+            "combat": {
+                "energy": 12,
+                "power": 16
+            }
+        },
+        "BULLET_SEED_FAST": {
+            "id": "BULLET_SEED_FAST",
+            "power": 8,
+            "energy": 14,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Bullet Seed",
+                "German": "Kugelsaat",
+                "French": "Balle Graine",
+                "Italian": "Semitraglia",
+                "Japanese": "\u30bf\u30cd\u30de\u30b7\u30f3\u30ac\u30f3",
+                "Korean": "\uae30\uad00\ucd1d",
+                "Spanish": "Semilladora"
+            },
+            "combat": {
+                "energy": 13,
+                "power": 5
+            }
+        }
+    },
+    "cinematicMoves": {
+        "SEED_BOMB": {
+            "id": "SEED_BOMB",
+            "power": 55,
+            "energy": -33,
+            "durationMs": 2100,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Seed Bomb",
+                "German": "Samenbomben",
+                "French": "Canon Graine",
+                "Italian": "Semebomba",
+                "Japanese": "\u30bf\u30cd\u3070\u304f\u3060\u3093",
+                "Korean": "\uc528\ud3ed\ud0c4",
+                "Spanish": "Bomba Germen"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 55
+            }
+        },
+        "PSYCHIC": {
+            "id": "PSYCHIC",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 2800,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Psychic",
+                "German": "Psychokinese",
+                "French": "Psyko",
+                "Italian": "Psichico",
+                "Japanese": "\u30b5\u30a4\u30b3\u30ad\u30cd\u30b7\u30b9",
+                "Korean": "\uc0ac\uc774\ucf54\ud0a4\ub124\uc2dc\uc2a4",
+                "Spanish": "Ps\u00edquico"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        },
+        "ANCIENT_POWER": {
+            "id": "ANCIENT_POWER",
+            "power": 70,
+            "energy": -33,
+            "durationMs": 3500,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Ancient Power",
+                "German": "Antik-Kraft",
+                "French": "Pouvoir Antique",
+                "Italian": "Forzantica",
+                "Japanese": "\u3052\u3093\u3057\u306e\u3061\u304b\u3089",
+                "Korean": "\uc6d0\uc2dc\uc758\ud798",
+                "Spanish": "Poder Pasado"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 45
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_102_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_102_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

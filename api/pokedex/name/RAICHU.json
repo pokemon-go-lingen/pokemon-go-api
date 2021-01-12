@@ -1,1 +1,601 @@
-{"id":"RAICHU","formId":"RAICHU","dexNr":26,"generation":1,"names":{"English":"Raichu","German":"Raichu","French":"Raichu","Italian":"Raichu","Japanese":"\u30e9\u30a4\u30c1\u30e5\u30a6","Korean":"\ub77c\uc774\uce04","Spanish":"Raichu"},"stats":{"stamina":155,"attack":193,"defense":151},"primaryType":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"secondaryType":null,"quickMoves":{"VOLT_SWITCH_FAST":{"id":"VOLT_SWITCH_FAST","power":14,"energy":21,"durationMs":1600,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Volt Switch","German":"Voltwechsel","French":"Change \u00c9clair","Italian":"Invertivolt","Japanese":"\u30dc\u30eb\u30c8\u30c1\u30a7\u30f3\u30b8","Korean":"\ubcfc\ud2b8\uccb4\uc778\uc9c0","Spanish":"Voltiocambio"},"combat":{"energy":16,"power":12}},"SPARK_FAST":{"id":"SPARK_FAST","power":6,"energy":9,"durationMs":700,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Spark","German":"Funkensprung","French":"\u00c9tincelle","Italian":"Scintilla","Japanese":"\u30b9\u30d1\u30fc\u30af","Korean":"\uc2a4\ud30c\ud06c","Spanish":"Chispa"},"combat":{"energy":8,"power":4}},"CHARM_FAST":{"id":"CHARM_FAST","power":20,"energy":11,"durationMs":1500,"type":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"names":{"English":"Charm","German":"Charme","French":"Charme","Italian":"Fascino","Japanese":"\u3042\u307e\u3048\u308b","Korean":"\uc560\uad50\ubd80\ub9ac\uae30","Spanish":"Encanto"},"combat":{"energy":6,"power":16}},"THUNDER_SHOCK_FAST":{"id":"THUNDER_SHOCK_FAST","power":5,"energy":8,"durationMs":600,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Thunder Shock","German":"Donnerschock","French":"\u00c9clair","Italian":"Tuonoshock","Japanese":"\u3067\u3093\u304d\u30b7\u30e7\u30c3\u30af","Korean":"\uc804\uae30\uc1fc\ud06c","Spanish":"Impactrueno"},"combat":{"energy":9,"power":3}}},"cinematicMoves":{"BRICK_BREAK":{"id":"BRICK_BREAK","power":40,"energy":-33,"durationMs":1600,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Brick Break","German":"Durchbruch","French":"Casse-Brique","Italian":"Breccia","Japanese":"\u304b\u308f\u3089\u308f\u308a","Korean":"\uae68\ud2b8\ub9ac\ub2e4","Spanish":"Demolici\u00f3n"},"combat":{"energy":-35,"power":40}},"THUNDER_PUNCH":{"id":"THUNDER_PUNCH","power":45,"energy":-33,"durationMs":1800,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Thunder Punch","German":"Donnerschlag","French":"Poing \u00c9clair","Italian":"Tuonopugno","Japanese":"\u304b\u307f\u306a\u308a\u30d1\u30f3\u30c1","Korean":"\ubc88\uac1c\ud380\uce58","Spanish":"Pu\u00f1o Trueno"},"combat":{"energy":-40,"power":55}},"WILD_CHARGE":{"id":"WILD_CHARGE","power":90,"energy":-50,"durationMs":2600,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Wild Charge","German":"Stromsto\u00df","French":"\u00c9clair Fou","Italian":"Sprizzalampo","Japanese":"\u30ef\u30a4\u30eb\u30c9\u30dc\u30eb\u30c8","Korean":"\uc640\uc77c\ub4dc\ubcfc\ud2b8","Spanish":"Voltio Cruel"},"combat":{"energy":-45,"power":100}},"SKULL_BASH":{"id":"SKULL_BASH","power":130,"energy":-100,"durationMs":3100,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Skull Bash","German":"Sch\u00e4delwumme","French":"Coud\u2019Kr\u00e2ne","Italian":"Capocciata","Japanese":"\u30ed\u30b1\u30c3\u30c8\u305a\u3064\u304d","Korean":"\ub85c\ucf00\ud2b8\ubc15\uce58\uae30","Spanish":"Cabezazo"},"combat":{"energy":-75,"power":130}}},"eliteQuickMoves":[],"eliteCinematicMoves":{"THUNDER":{"id":"THUNDER","power":100,"energy":-100,"durationMs":2400,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Thunder","German":"Donner","French":"Fatal-Foudre","Italian":"Tuono","Japanese":"\u304b\u307f\u306a\u308a","Korean":"\ubc88\uac1c","Spanish":"Trueno"},"combat":{"energy":-60,"power":100}}},"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_026_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_026_00_shiny.png"},"regionForms":[{"id":"RAICHU","formId":"RAICHU_ALOLA","dexNr":26,"generation":1,"names":{"English":"Alolan Raichu","German":"Alola-Raichu","French":"Raichu d'Alola","Italian":"Raichu di Alola","Japanese":"\u30a2\u30ed\u30fc\u30e9 \u30e9\u30a4\u30c1\u30e5\u30a6","Korean":"\uc54c\ub85c\ub77c \ub77c\uc774\uce04","Spanish":"Raichu de Alola"},"stats":{"stamina":155,"attack":201,"defense":154},"primaryType":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"secondaryType":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"quickMoves":{"VOLT_SWITCH_FAST":{"id":"VOLT_SWITCH_FAST","power":14,"energy":21,"durationMs":1600,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Volt Switch","German":"Voltwechsel","French":"Change \u00c9clair","Italian":"Invertivolt","Japanese":"\u30dc\u30eb\u30c8\u30c1\u30a7\u30f3\u30b8","Korean":"\ubcfc\ud2b8\uccb4\uc778\uc9c0","Spanish":"Voltiocambio"},"combat":{"energy":16,"power":12}},"SPARK_FAST":{"id":"SPARK_FAST","power":6,"energy":9,"durationMs":700,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Spark","German":"Funkensprung","French":"\u00c9tincelle","Italian":"Scintilla","Japanese":"\u30b9\u30d1\u30fc\u30af","Korean":"\uc2a4\ud30c\ud06c","Spanish":"Chispa"},"combat":{"energy":8,"power":4}},"THUNDER_SHOCK_FAST":{"id":"THUNDER_SHOCK_FAST","power":5,"energy":8,"durationMs":600,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Thunder Shock","German":"Donnerschock","French":"\u00c9clair","Italian":"Tuonoshock","Japanese":"\u3067\u3093\u304d\u30b7\u30e7\u30c3\u30af","Korean":"\uc804\uae30\uc1fc\ud06c","Spanish":"Impactrueno"},"combat":{"energy":9,"power":3}}},"cinematicMoves":{"PSYCHIC":{"id":"PSYCHIC","power":90,"energy":-50,"durationMs":2800,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Psychic","German":"Psychokinese","French":"Psyko","Italian":"Psichico","Japanese":"\u30b5\u30a4\u30b3\u30ad\u30cd\u30b7\u30b9","Korean":"\uc0ac\uc774\ucf54\ud0a4\ub124\uc2dc\uc2a4","Spanish":"Ps\u00edquico"},"combat":{"energy":-55,"power":90}},"THUNDER_PUNCH":{"id":"THUNDER_PUNCH","power":45,"energy":-33,"durationMs":1800,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Thunder Punch","German":"Donnerschlag","French":"Poing \u00c9clair","Italian":"Tuonopugno","Japanese":"\u304b\u307f\u306a\u308a\u30d1\u30f3\u30c1","Korean":"\ubc88\uac1c\ud380\uce58","Spanish":"Pu\u00f1o Trueno"},"combat":{"energy":-40,"power":55}},"WILD_CHARGE":{"id":"WILD_CHARGE","power":90,"energy":-50,"durationMs":2600,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Wild Charge","German":"Stromsto\u00df","French":"\u00c9clair Fou","Italian":"Sprizzalampo","Japanese":"\u30ef\u30a4\u30eb\u30c9\u30dc\u30eb\u30c8","Korean":"\uc640\uc77c\ub4dc\ubcfc\ud2b8","Spanish":"Voltio Cruel"},"combat":{"energy":-45,"power":100}},"GRASS_KNOT":{"id":"GRASS_KNOT","power":90,"energy":-50,"durationMs":2600,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Grass Knot","German":"Strauchler","French":"N\u0153ud Herbe","Italian":"Laccioerboso","Japanese":"\u304f\u3055\u3080\u3059\u3073","Korean":"\ud480\ubb36\uae30","Spanish":"Hierba Lazo"},"combat":{"energy":-50,"power":90}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_026_61.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_026_61_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "RAICHU",
+    "formId": "RAICHU",
+    "dexNr": 26,
+    "generation": 1,
+    "names": {
+        "English": "Raichu",
+        "German": "Raichu",
+        "French": "Raichu",
+        "Italian": "Raichu",
+        "Japanese": "\u30e9\u30a4\u30c1\u30e5\u30a6",
+        "Korean": "\ub77c\uc774\uce04",
+        "Spanish": "Raichu"
+    },
+    "stats": {
+        "stamina": 155,
+        "attack": 193,
+        "defense": 151
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_ELECTRIC",
+        "names": {
+            "English": "Electric",
+            "German": "Elektro",
+            "French": "\u00c9lectrik",
+            "Italian": "Elettro",
+            "Japanese": "\u3067\u3093\u304d",
+            "Korean": "\uc804\uae30",
+            "Spanish": "El\u00e9ctrico"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "VOLT_SWITCH_FAST": {
+            "id": "VOLT_SWITCH_FAST",
+            "power": 14,
+            "energy": 21,
+            "durationMs": 1600,
+            "type": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "names": {
+                "English": "Volt Switch",
+                "German": "Voltwechsel",
+                "French": "Change \u00c9clair",
+                "Italian": "Invertivolt",
+                "Japanese": "\u30dc\u30eb\u30c8\u30c1\u30a7\u30f3\u30b8",
+                "Korean": "\ubcfc\ud2b8\uccb4\uc778\uc9c0",
+                "Spanish": "Voltiocambio"
+            },
+            "combat": {
+                "energy": 16,
+                "power": 12
+            }
+        },
+        "SPARK_FAST": {
+            "id": "SPARK_FAST",
+            "power": 6,
+            "energy": 9,
+            "durationMs": 700,
+            "type": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "names": {
+                "English": "Spark",
+                "German": "Funkensprung",
+                "French": "\u00c9tincelle",
+                "Italian": "Scintilla",
+                "Japanese": "\u30b9\u30d1\u30fc\u30af",
+                "Korean": "\uc2a4\ud30c\ud06c",
+                "Spanish": "Chispa"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 4
+            }
+        },
+        "CHARM_FAST": {
+            "id": "CHARM_FAST",
+            "power": 20,
+            "energy": 11,
+            "durationMs": 1500,
+            "type": {
+                "type": "POKEMON_TYPE_FAIRY",
+                "names": {
+                    "English": "Fairy",
+                    "German": "Fee",
+                    "French": "F\u00e9e",
+                    "Italian": "Folletto",
+                    "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                    "Korean": "\ud398\uc5b4\ub9ac",
+                    "Spanish": "Hada"
+                }
+            },
+            "names": {
+                "English": "Charm",
+                "German": "Charme",
+                "French": "Charme",
+                "Italian": "Fascino",
+                "Japanese": "\u3042\u307e\u3048\u308b",
+                "Korean": "\uc560\uad50\ubd80\ub9ac\uae30",
+                "Spanish": "Encanto"
+            },
+            "combat": {
+                "energy": 6,
+                "power": 16
+            }
+        },
+        "THUNDER_SHOCK_FAST": {
+            "id": "THUNDER_SHOCK_FAST",
+            "power": 5,
+            "energy": 8,
+            "durationMs": 600,
+            "type": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "names": {
+                "English": "Thunder Shock",
+                "German": "Donnerschock",
+                "French": "\u00c9clair",
+                "Italian": "Tuonoshock",
+                "Japanese": "\u3067\u3093\u304d\u30b7\u30e7\u30c3\u30af",
+                "Korean": "\uc804\uae30\uc1fc\ud06c",
+                "Spanish": "Impactrueno"
+            },
+            "combat": {
+                "energy": 9,
+                "power": 3
+            }
+        }
+    },
+    "cinematicMoves": {
+        "BRICK_BREAK": {
+            "id": "BRICK_BREAK",
+            "power": 40,
+            "energy": -33,
+            "durationMs": 1600,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Brick Break",
+                "German": "Durchbruch",
+                "French": "Casse-Brique",
+                "Italian": "Breccia",
+                "Japanese": "\u304b\u308f\u3089\u308f\u308a",
+                "Korean": "\uae68\ud2b8\ub9ac\ub2e4",
+                "Spanish": "Demolici\u00f3n"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 40
+            }
+        },
+        "THUNDER_PUNCH": {
+            "id": "THUNDER_PUNCH",
+            "power": 45,
+            "energy": -33,
+            "durationMs": 1800,
+            "type": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "names": {
+                "English": "Thunder Punch",
+                "German": "Donnerschlag",
+                "French": "Poing \u00c9clair",
+                "Italian": "Tuonopugno",
+                "Japanese": "\u304b\u307f\u306a\u308a\u30d1\u30f3\u30c1",
+                "Korean": "\ubc88\uac1c\ud380\uce58",
+                "Spanish": "Pu\u00f1o Trueno"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 55
+            }
+        },
+        "WILD_CHARGE": {
+            "id": "WILD_CHARGE",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "names": {
+                "English": "Wild Charge",
+                "German": "Stromsto\u00df",
+                "French": "\u00c9clair Fou",
+                "Italian": "Sprizzalampo",
+                "Japanese": "\u30ef\u30a4\u30eb\u30c9\u30dc\u30eb\u30c8",
+                "Korean": "\uc640\uc77c\ub4dc\ubcfc\ud2b8",
+                "Spanish": "Voltio Cruel"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 100
+            }
+        },
+        "SKULL_BASH": {
+            "id": "SKULL_BASH",
+            "power": 130,
+            "energy": -100,
+            "durationMs": 3100,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Skull Bash",
+                "German": "Sch\u00e4delwumme",
+                "French": "Coud\u2019Kr\u00e2ne",
+                "Italian": "Capocciata",
+                "Japanese": "\u30ed\u30b1\u30c3\u30c8\u305a\u3064\u304d",
+                "Korean": "\ub85c\ucf00\ud2b8\ubc15\uce58\uae30",
+                "Spanish": "Cabezazo"
+            },
+            "combat": {
+                "energy": -75,
+                "power": 130
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": {
+        "THUNDER": {
+            "id": "THUNDER",
+            "power": 100,
+            "energy": -100,
+            "durationMs": 2400,
+            "type": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "names": {
+                "English": "Thunder",
+                "German": "Donner",
+                "French": "Fatal-Foudre",
+                "Italian": "Tuono",
+                "Japanese": "\u304b\u307f\u306a\u308a",
+                "Korean": "\ubc88\uac1c",
+                "Spanish": "Trueno"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 100
+            }
+        }
+    },
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_026_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_026_00_shiny.png"
+    },
+    "regionForms": [
+        {
+            "id": "RAICHU",
+            "formId": "RAICHU_ALOLA",
+            "dexNr": 26,
+            "generation": 1,
+            "names": {
+                "English": "Alolan Raichu",
+                "German": "Alola-Raichu",
+                "French": "Raichu d'Alola",
+                "Italian": "Raichu di Alola",
+                "Japanese": "\u30a2\u30ed\u30fc\u30e9 \u30e9\u30a4\u30c1\u30e5\u30a6",
+                "Korean": "\uc54c\ub85c\ub77c \ub77c\uc774\uce04",
+                "Spanish": "Raichu de Alola"
+            },
+            "stats": {
+                "stamina": 155,
+                "attack": 201,
+                "defense": 154
+            },
+            "primaryType": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "secondaryType": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "quickMoves": {
+                "VOLT_SWITCH_FAST": {
+                    "id": "VOLT_SWITCH_FAST",
+                    "power": 14,
+                    "energy": 21,
+                    "durationMs": 1600,
+                    "type": {
+                        "type": "POKEMON_TYPE_ELECTRIC",
+                        "names": {
+                            "English": "Electric",
+                            "German": "Elektro",
+                            "French": "\u00c9lectrik",
+                            "Italian": "Elettro",
+                            "Japanese": "\u3067\u3093\u304d",
+                            "Korean": "\uc804\uae30",
+                            "Spanish": "El\u00e9ctrico"
+                        }
+                    },
+                    "names": {
+                        "English": "Volt Switch",
+                        "German": "Voltwechsel",
+                        "French": "Change \u00c9clair",
+                        "Italian": "Invertivolt",
+                        "Japanese": "\u30dc\u30eb\u30c8\u30c1\u30a7\u30f3\u30b8",
+                        "Korean": "\ubcfc\ud2b8\uccb4\uc778\uc9c0",
+                        "Spanish": "Voltiocambio"
+                    },
+                    "combat": {
+                        "energy": 16,
+                        "power": 12
+                    }
+                },
+                "SPARK_FAST": {
+                    "id": "SPARK_FAST",
+                    "power": 6,
+                    "energy": 9,
+                    "durationMs": 700,
+                    "type": {
+                        "type": "POKEMON_TYPE_ELECTRIC",
+                        "names": {
+                            "English": "Electric",
+                            "German": "Elektro",
+                            "French": "\u00c9lectrik",
+                            "Italian": "Elettro",
+                            "Japanese": "\u3067\u3093\u304d",
+                            "Korean": "\uc804\uae30",
+                            "Spanish": "El\u00e9ctrico"
+                        }
+                    },
+                    "names": {
+                        "English": "Spark",
+                        "German": "Funkensprung",
+                        "French": "\u00c9tincelle",
+                        "Italian": "Scintilla",
+                        "Japanese": "\u30b9\u30d1\u30fc\u30af",
+                        "Korean": "\uc2a4\ud30c\ud06c",
+                        "Spanish": "Chispa"
+                    },
+                    "combat": {
+                        "energy": 8,
+                        "power": 4
+                    }
+                },
+                "THUNDER_SHOCK_FAST": {
+                    "id": "THUNDER_SHOCK_FAST",
+                    "power": 5,
+                    "energy": 8,
+                    "durationMs": 600,
+                    "type": {
+                        "type": "POKEMON_TYPE_ELECTRIC",
+                        "names": {
+                            "English": "Electric",
+                            "German": "Elektro",
+                            "French": "\u00c9lectrik",
+                            "Italian": "Elettro",
+                            "Japanese": "\u3067\u3093\u304d",
+                            "Korean": "\uc804\uae30",
+                            "Spanish": "El\u00e9ctrico"
+                        }
+                    },
+                    "names": {
+                        "English": "Thunder Shock",
+                        "German": "Donnerschock",
+                        "French": "\u00c9clair",
+                        "Italian": "Tuonoshock",
+                        "Japanese": "\u3067\u3093\u304d\u30b7\u30e7\u30c3\u30af",
+                        "Korean": "\uc804\uae30\uc1fc\ud06c",
+                        "Spanish": "Impactrueno"
+                    },
+                    "combat": {
+                        "energy": 9,
+                        "power": 3
+                    }
+                }
+            },
+            "cinematicMoves": {
+                "PSYCHIC": {
+                    "id": "PSYCHIC",
+                    "power": 90,
+                    "energy": -50,
+                    "durationMs": 2800,
+                    "type": {
+                        "type": "POKEMON_TYPE_PSYCHIC",
+                        "names": {
+                            "English": "Psychic",
+                            "German": "Psycho",
+                            "French": "Psy",
+                            "Italian": "Psico",
+                            "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                            "Korean": "\uc5d0\uc2a4\ud37c",
+                            "Spanish": "Ps\u00edquico"
+                        }
+                    },
+                    "names": {
+                        "English": "Psychic",
+                        "German": "Psychokinese",
+                        "French": "Psyko",
+                        "Italian": "Psichico",
+                        "Japanese": "\u30b5\u30a4\u30b3\u30ad\u30cd\u30b7\u30b9",
+                        "Korean": "\uc0ac\uc774\ucf54\ud0a4\ub124\uc2dc\uc2a4",
+                        "Spanish": "Ps\u00edquico"
+                    },
+                    "combat": {
+                        "energy": -55,
+                        "power": 90
+                    }
+                },
+                "THUNDER_PUNCH": {
+                    "id": "THUNDER_PUNCH",
+                    "power": 45,
+                    "energy": -33,
+                    "durationMs": 1800,
+                    "type": {
+                        "type": "POKEMON_TYPE_ELECTRIC",
+                        "names": {
+                            "English": "Electric",
+                            "German": "Elektro",
+                            "French": "\u00c9lectrik",
+                            "Italian": "Elettro",
+                            "Japanese": "\u3067\u3093\u304d",
+                            "Korean": "\uc804\uae30",
+                            "Spanish": "El\u00e9ctrico"
+                        }
+                    },
+                    "names": {
+                        "English": "Thunder Punch",
+                        "German": "Donnerschlag",
+                        "French": "Poing \u00c9clair",
+                        "Italian": "Tuonopugno",
+                        "Japanese": "\u304b\u307f\u306a\u308a\u30d1\u30f3\u30c1",
+                        "Korean": "\ubc88\uac1c\ud380\uce58",
+                        "Spanish": "Pu\u00f1o Trueno"
+                    },
+                    "combat": {
+                        "energy": -40,
+                        "power": 55
+                    }
+                },
+                "WILD_CHARGE": {
+                    "id": "WILD_CHARGE",
+                    "power": 90,
+                    "energy": -50,
+                    "durationMs": 2600,
+                    "type": {
+                        "type": "POKEMON_TYPE_ELECTRIC",
+                        "names": {
+                            "English": "Electric",
+                            "German": "Elektro",
+                            "French": "\u00c9lectrik",
+                            "Italian": "Elettro",
+                            "Japanese": "\u3067\u3093\u304d",
+                            "Korean": "\uc804\uae30",
+                            "Spanish": "El\u00e9ctrico"
+                        }
+                    },
+                    "names": {
+                        "English": "Wild Charge",
+                        "German": "Stromsto\u00df",
+                        "French": "\u00c9clair Fou",
+                        "Italian": "Sprizzalampo",
+                        "Japanese": "\u30ef\u30a4\u30eb\u30c9\u30dc\u30eb\u30c8",
+                        "Korean": "\uc640\uc77c\ub4dc\ubcfc\ud2b8",
+                        "Spanish": "Voltio Cruel"
+                    },
+                    "combat": {
+                        "energy": -45,
+                        "power": 100
+                    }
+                },
+                "GRASS_KNOT": {
+                    "id": "GRASS_KNOT",
+                    "power": 90,
+                    "energy": -50,
+                    "durationMs": 2600,
+                    "type": {
+                        "type": "POKEMON_TYPE_GRASS",
+                        "names": {
+                            "English": "Grass",
+                            "German": "Pflanze",
+                            "French": "Plante",
+                            "Italian": "Erba",
+                            "Japanese": "\u304f\u3055",
+                            "Korean": "\ud480",
+                            "Spanish": "Planta"
+                        }
+                    },
+                    "names": {
+                        "English": "Grass Knot",
+                        "German": "Strauchler",
+                        "French": "N\u0153ud Herbe",
+                        "Italian": "Laccioerboso",
+                        "Japanese": "\u304f\u3055\u3080\u3059\u3073",
+                        "Korean": "\ud480\ubb36\uae30",
+                        "Spanish": "Hierba Lazo"
+                    },
+                    "combat": {
+                        "energy": -50,
+                        "power": 90
+                    }
+                }
+            },
+            "eliteQuickMoves": [],
+            "eliteCinematicMoves": [],
+            "assets": {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_026_61.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_026_61_shiny.png"
+            },
+            "regionForms": [],
+            "hasMegaEvolution": false,
+            "megaEvolutions": []
+        }
+    ],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

@@ -1,1 +1,264 @@
-{"id":"ELECTIVIRE","formId":"ELECTIVIRE","dexNr":466,"generation":4,"names":{"English":"Electivire","German":"Elevoltek","French":"\u00c9lekable","Italian":"Electivire","Japanese":"\u30a8\u30ec\u30ad\u30d6\u30eb","Korean":"\uc5d0\ub808\ud0a4\ube14","Spanish":"Electivire"},"stats":{"stamina":181,"attack":249,"defense":163},"primaryType":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"secondaryType":null,"quickMoves":{"THUNDER_SHOCK_FAST":{"id":"THUNDER_SHOCK_FAST","power":5,"energy":8,"durationMs":600,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Thunder Shock","German":"Donnerschock","French":"\u00c9clair","Italian":"Tuonoshock","Japanese":"\u3067\u3093\u304d\u30b7\u30e7\u30c3\u30af","Korean":"\uc804\uae30\uc1fc\ud06c","Spanish":"Impactrueno"},"combat":{"energy":9,"power":3}},"LOW_KICK_FAST":{"id":"LOW_KICK_FAST","power":6,"energy":6,"durationMs":600,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Low Kick","German":"Fu\u00dfkick","French":"Balayage","Italian":"Colpo Basso","Japanese":"\u3051\u305f\u3050\u308a","Korean":"\uc548\ub2e4\ub9ac\uac78\uae30","Spanish":"Patada Baja"},"combat":{"energy":5,"power":4}}},"cinematicMoves":{"THUNDER_PUNCH":{"id":"THUNDER_PUNCH","power":45,"energy":-33,"durationMs":1800,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Thunder Punch","German":"Donnerschlag","French":"Poing \u00c9clair","Italian":"Tuonopugno","Japanese":"\u304b\u307f\u306a\u308a\u30d1\u30f3\u30c1","Korean":"\ubc88\uac1c\ud380\uce58","Spanish":"Pu\u00f1o Trueno"},"combat":{"energy":-40,"power":55}},"WILD_CHARGE":{"id":"WILD_CHARGE","power":90,"energy":-50,"durationMs":2600,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Wild Charge","German":"Stromsto\u00df","French":"\u00c9clair Fou","Italian":"Sprizzalampo","Japanese":"\u30ef\u30a4\u30eb\u30c9\u30dc\u30eb\u30c8","Korean":"\uc640\uc77c\ub4dc\ubcfc\ud2b8","Spanish":"Voltio Cruel"},"combat":{"energy":-45,"power":100}},"THUNDER":{"id":"THUNDER","power":100,"energy":-100,"durationMs":2400,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Thunder","German":"Donner","French":"Fatal-Foudre","Italian":"Tuono","Japanese":"\u304b\u307f\u306a\u308a","Korean":"\ubc88\uac1c","Spanish":"Trueno"},"combat":{"energy":-60,"power":100}},"ICE_PUNCH":{"id":"ICE_PUNCH","power":50,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Ice Punch","German":"Eishieb","French":"Poing Glace","Italian":"Gelopugno","Japanese":"\u308c\u3044\u3068\u3046\u30d1\u30f3\u30c1","Korean":"\ub0c9\ub3d9\ud380\uce58","Spanish":"Pu\u00f1o Hielo"},"combat":{"energy":-40,"power":55}}},"eliteQuickMoves":[],"eliteCinematicMoves":{"FLAMETHROWER":{"id":"FLAMETHROWER","power":70,"energy":-50,"durationMs":2200,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Flamethrower","German":"Flammenwurf","French":"Lance-Flammes","Italian":"Lanciafiamme","Japanese":"\u304b\u3048\u3093\u307b\u3046\u3057\u3083","Korean":"\ud654\uc5fc\ubc29\uc0ac","Spanish":"Lanzallamas"},"combat":{"energy":-55,"power":90}}},"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_466_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_466_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "ELECTIVIRE",
+    "formId": "ELECTIVIRE",
+    "dexNr": 466,
+    "generation": 4,
+    "names": {
+        "English": "Electivire",
+        "German": "Elevoltek",
+        "French": "\u00c9lekable",
+        "Italian": "Electivire",
+        "Japanese": "\u30a8\u30ec\u30ad\u30d6\u30eb",
+        "Korean": "\uc5d0\ub808\ud0a4\ube14",
+        "Spanish": "Electivire"
+    },
+    "stats": {
+        "stamina": 181,
+        "attack": 249,
+        "defense": 163
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_ELECTRIC",
+        "names": {
+            "English": "Electric",
+            "German": "Elektro",
+            "French": "\u00c9lectrik",
+            "Italian": "Elettro",
+            "Japanese": "\u3067\u3093\u304d",
+            "Korean": "\uc804\uae30",
+            "Spanish": "El\u00e9ctrico"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "THUNDER_SHOCK_FAST": {
+            "id": "THUNDER_SHOCK_FAST",
+            "power": 5,
+            "energy": 8,
+            "durationMs": 600,
+            "type": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "names": {
+                "English": "Thunder Shock",
+                "German": "Donnerschock",
+                "French": "\u00c9clair",
+                "Italian": "Tuonoshock",
+                "Japanese": "\u3067\u3093\u304d\u30b7\u30e7\u30c3\u30af",
+                "Korean": "\uc804\uae30\uc1fc\ud06c",
+                "Spanish": "Impactrueno"
+            },
+            "combat": {
+                "energy": 9,
+                "power": 3
+            }
+        },
+        "LOW_KICK_FAST": {
+            "id": "LOW_KICK_FAST",
+            "power": 6,
+            "energy": 6,
+            "durationMs": 600,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Low Kick",
+                "German": "Fu\u00dfkick",
+                "French": "Balayage",
+                "Italian": "Colpo Basso",
+                "Japanese": "\u3051\u305f\u3050\u308a",
+                "Korean": "\uc548\ub2e4\ub9ac\uac78\uae30",
+                "Spanish": "Patada Baja"
+            },
+            "combat": {
+                "energy": 5,
+                "power": 4
+            }
+        }
+    },
+    "cinematicMoves": {
+        "THUNDER_PUNCH": {
+            "id": "THUNDER_PUNCH",
+            "power": 45,
+            "energy": -33,
+            "durationMs": 1800,
+            "type": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "names": {
+                "English": "Thunder Punch",
+                "German": "Donnerschlag",
+                "French": "Poing \u00c9clair",
+                "Italian": "Tuonopugno",
+                "Japanese": "\u304b\u307f\u306a\u308a\u30d1\u30f3\u30c1",
+                "Korean": "\ubc88\uac1c\ud380\uce58",
+                "Spanish": "Pu\u00f1o Trueno"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 55
+            }
+        },
+        "WILD_CHARGE": {
+            "id": "WILD_CHARGE",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "names": {
+                "English": "Wild Charge",
+                "German": "Stromsto\u00df",
+                "French": "\u00c9clair Fou",
+                "Italian": "Sprizzalampo",
+                "Japanese": "\u30ef\u30a4\u30eb\u30c9\u30dc\u30eb\u30c8",
+                "Korean": "\uc640\uc77c\ub4dc\ubcfc\ud2b8",
+                "Spanish": "Voltio Cruel"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 100
+            }
+        },
+        "THUNDER": {
+            "id": "THUNDER",
+            "power": 100,
+            "energy": -100,
+            "durationMs": 2400,
+            "type": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "names": {
+                "English": "Thunder",
+                "German": "Donner",
+                "French": "Fatal-Foudre",
+                "Italian": "Tuono",
+                "Japanese": "\u304b\u307f\u306a\u308a",
+                "Korean": "\ubc88\uac1c",
+                "Spanish": "Trueno"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 100
+            }
+        },
+        "ICE_PUNCH": {
+            "id": "ICE_PUNCH",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 1900,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Ice Punch",
+                "German": "Eishieb",
+                "French": "Poing Glace",
+                "Italian": "Gelopugno",
+                "Japanese": "\u308c\u3044\u3068\u3046\u30d1\u30f3\u30c1",
+                "Korean": "\ub0c9\ub3d9\ud380\uce58",
+                "Spanish": "Pu\u00f1o Hielo"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 55
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": {
+        "FLAMETHROWER": {
+            "id": "FLAMETHROWER",
+            "power": 70,
+            "energy": -50,
+            "durationMs": 2200,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Flamethrower",
+                "German": "Flammenwurf",
+                "French": "Lance-Flammes",
+                "Italian": "Lanciafiamme",
+                "Japanese": "\u304b\u3048\u3093\u307b\u3046\u3057\u3083",
+                "Korean": "\ud654\uc5fc\ubc29\uc0ac",
+                "Spanish": "Lanzallamas"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        }
+    },
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_466_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_466_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

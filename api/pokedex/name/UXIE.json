@@ -1,1 +1,201 @@
-{"id":"UXIE","formId":"UXIE","dexNr":480,"generation":4,"names":{"English":"Uxie","German":"Selfe","French":"Cr\u00e9helf","Italian":"Uxie","Japanese":"\u30e6\u30af\u30b7\u30fc","Korean":"\uc720\ud06c\uc2dc","Spanish":"Uxie"},"stats":{"stamina":181,"attack":156,"defense":270},"primaryType":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"secondaryType":null,"quickMoves":{"CONFUSION_FAST":{"id":"CONFUSION_FAST","power":20,"energy":15,"durationMs":1600,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Confusion","German":"Konfusion","French":"Choc Mental","Italian":"Confusione","Japanese":"\u306d\u3093\u308a\u304d","Korean":"\uc5fc\ub3d9\ub825","Spanish":"Confusi\u00f3n"},"combat":{"energy":12,"power":16}},"EXTRASENSORY_FAST":{"id":"EXTRASENSORY_FAST","power":12,"energy":12,"durationMs":1100,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Extrasensory","German":"Sondersensor","French":"Extrasenseur","Italian":"Extrasenso","Japanese":"\u3058\u3093\u3064\u3046\u308a\u304d","Korean":"\uc2e0\ud1b5\ub825","Spanish":"Paranormal"},"combat":{"energy":10,"power":8}}},"cinematicMoves":{"FUTURESIGHT":{"id":"FUTURESIGHT","power":120,"energy":-100,"durationMs":2700,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Future Sight","German":"Seher","French":"Prescience","Italian":"Divinazione","Japanese":"\u307f\u3089\u3044\u3088\u3061","Korean":"\ubbf8\ub798\uc608\uc9c0","Spanish":"Premonici\u00f3n"},"combat":{"energy":-65,"power":120}},"SWIFT":{"id":"SWIFT","power":60,"energy":-50,"durationMs":2800,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Swift","German":"Sternschauer","French":"M\u00e9t\u00e9ores","Italian":"Comete","Japanese":"\u30b9\u30d4\u30fc\u30c9\u30b9\u30bf\u30fc","Korean":"\uc2a4\ud53c\ub4dc\uc2a4\ud0c0","Spanish":"Rapidez"},"combat":{"energy":-55,"power":60}},"THUNDER":{"id":"THUNDER","power":100,"energy":-100,"durationMs":2400,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Thunder","German":"Donner","French":"Fatal-Foudre","Italian":"Tuono","Japanese":"\u304b\u307f\u306a\u308a","Korean":"\ubc88\uac1c","Spanish":"Trueno"},"combat":{"energy":-60,"power":100}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_480_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_480_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "UXIE",
+    "formId": "UXIE",
+    "dexNr": 480,
+    "generation": 4,
+    "names": {
+        "English": "Uxie",
+        "German": "Selfe",
+        "French": "Cr\u00e9helf",
+        "Italian": "Uxie",
+        "Japanese": "\u30e6\u30af\u30b7\u30fc",
+        "Korean": "\uc720\ud06c\uc2dc",
+        "Spanish": "Uxie"
+    },
+    "stats": {
+        "stamina": 181,
+        "attack": 156,
+        "defense": 270
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_PSYCHIC",
+        "names": {
+            "English": "Psychic",
+            "German": "Psycho",
+            "French": "Psy",
+            "Italian": "Psico",
+            "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+            "Korean": "\uc5d0\uc2a4\ud37c",
+            "Spanish": "Ps\u00edquico"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "CONFUSION_FAST": {
+            "id": "CONFUSION_FAST",
+            "power": 20,
+            "energy": 15,
+            "durationMs": 1600,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Confusion",
+                "German": "Konfusion",
+                "French": "Choc Mental",
+                "Italian": "Confusione",
+                "Japanese": "\u306d\u3093\u308a\u304d",
+                "Korean": "\uc5fc\ub3d9\ub825",
+                "Spanish": "Confusi\u00f3n"
+            },
+            "combat": {
+                "energy": 12,
+                "power": 16
+            }
+        },
+        "EXTRASENSORY_FAST": {
+            "id": "EXTRASENSORY_FAST",
+            "power": 12,
+            "energy": 12,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Extrasensory",
+                "German": "Sondersensor",
+                "French": "Extrasenseur",
+                "Italian": "Extrasenso",
+                "Japanese": "\u3058\u3093\u3064\u3046\u308a\u304d",
+                "Korean": "\uc2e0\ud1b5\ub825",
+                "Spanish": "Paranormal"
+            },
+            "combat": {
+                "energy": 10,
+                "power": 8
+            }
+        }
+    },
+    "cinematicMoves": {
+        "FUTURESIGHT": {
+            "id": "FUTURESIGHT",
+            "power": 120,
+            "energy": -100,
+            "durationMs": 2700,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Future Sight",
+                "German": "Seher",
+                "French": "Prescience",
+                "Italian": "Divinazione",
+                "Japanese": "\u307f\u3089\u3044\u3088\u3061",
+                "Korean": "\ubbf8\ub798\uc608\uc9c0",
+                "Spanish": "Premonici\u00f3n"
+            },
+            "combat": {
+                "energy": -65,
+                "power": 120
+            }
+        },
+        "SWIFT": {
+            "id": "SWIFT",
+            "power": 60,
+            "energy": -50,
+            "durationMs": 2800,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Swift",
+                "German": "Sternschauer",
+                "French": "M\u00e9t\u00e9ores",
+                "Italian": "Comete",
+                "Japanese": "\u30b9\u30d4\u30fc\u30c9\u30b9\u30bf\u30fc",
+                "Korean": "\uc2a4\ud53c\ub4dc\uc2a4\ud0c0",
+                "Spanish": "Rapidez"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 60
+            }
+        },
+        "THUNDER": {
+            "id": "THUNDER",
+            "power": 100,
+            "energy": -100,
+            "durationMs": 2400,
+            "type": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "names": {
+                "English": "Thunder",
+                "German": "Donner",
+                "French": "Fatal-Foudre",
+                "Italian": "Tuono",
+                "Japanese": "\u304b\u307f\u306a\u308a",
+                "Korean": "\ubc88\uac1c",
+                "Spanish": "Trueno"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 100
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_480_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_480_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

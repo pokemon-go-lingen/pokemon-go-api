@@ -1,1 +1,264 @@
-{"id":"LICKILICKY","formId":"LICKILICKY","dexNr":463,"generation":4,"names":{"English":"Lickilicky","German":"Schlurplek","French":"Coudlangue","Italian":"Lickilicky","Japanese":"\u30d9\u30ed\u30d9\u30eb\u30c8","Korean":"\ub0b4\ub8f8\ubca8\ud2b8","Spanish":"Lickilicky"},"stats":{"stamina":242,"attack":161,"defense":181},"primaryType":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"secondaryType":null,"quickMoves":{"LICK_FAST":{"id":"LICK_FAST","power":5,"energy":6,"durationMs":500,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Lick","German":"Schlecker","French":"L\u00e9chouille","Italian":"Leccata","Japanese":"\u3057\u305f\u3067\u306a\u3081\u308b","Korean":"\ud565\uae30","Spanish":"Leng\u00fcetazo"},"combat":{"energy":3,"power":3}},"ZEN_HEADBUTT_FAST":{"id":"ZEN_HEADBUTT_FAST","power":12,"energy":10,"durationMs":1100,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Zen Headbutt","German":"Zen-Kopfsto\u00df","French":"Psykoud\u2019Boul","Italian":"Cozzata Zen","Japanese":"\u3057\u306d\u3093\u306e\u305a\u3064\u304d","Korean":"\uc0ac\ub150\uc758\ubc15\uce58\uae30","Spanish":"Cabezazo Zen"},"combat":{"energy":6,"power":8}}},"cinematicMoves":{"HYPER_BEAM":{"id":"HYPER_BEAM","power":150,"energy":-100,"durationMs":3800,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Hyper Beam","German":"Hyperstrahl","French":"Ultralaser","Italian":"Iper Raggio","Japanese":"\u306f\u304b\u3044\u3053\u3046\u305b\u3093","Korean":"\ud30c\uad34\uad11\uc120","Spanish":"Hiperrayo"},"combat":{"energy":-80,"power":150}},"EARTHQUAKE":{"id":"EARTHQUAKE","power":140,"energy":-100,"durationMs":3600,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Earthquake","German":"Erdbeben","French":"S\u00e9isme","Italian":"Terremoto","Japanese":"\u3058\u3057\u3093","Korean":"\uc9c0\uc9c4","Spanish":"Terremoto"},"combat":{"energy":-65,"power":120}},"SOLAR_BEAM":{"id":"SOLAR_BEAM","power":180,"energy":-100,"durationMs":4900,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Solar Beam","German":"Solarstrahl","French":"Lance-Soleil","Italian":"Solarraggio","Japanese":"\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0","Korean":"\uc194\ub77c\ube54","Spanish":"Rayo Solar"},"combat":{"energy":-80,"power":150}},"SHADOW_BALL":{"id":"SHADOW_BALL","power":100,"energy":-50,"durationMs":3000,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Shadow Ball","German":"Spukball","French":"Ball\u2019Ombre","Italian":"Palla Ombra","Japanese":"\u30b7\u30e3\u30c9\u30fc\u30dc\u30fc\u30eb","Korean":"\uc100\ub3c4\ubcfc","Spanish":"Bola Sombra"},"combat":{"energy":-55,"power":100}}},"eliteQuickMoves":[],"eliteCinematicMoves":{"BODY_SLAM":{"id":"BODY_SLAM","power":50,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Body Slam","German":"Bodyslam","French":"Plaquage","Italian":"Corposcontro","Japanese":"\u306e\u3057\u304b\u304b\u308a","Korean":"\ub204\ub974\uae30","Spanish":"Golpe Cuerpo"},"combat":{"energy":-35,"power":60}}},"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_463_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_463_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "LICKILICKY",
+    "formId": "LICKILICKY",
+    "dexNr": 463,
+    "generation": 4,
+    "names": {
+        "English": "Lickilicky",
+        "German": "Schlurplek",
+        "French": "Coudlangue",
+        "Italian": "Lickilicky",
+        "Japanese": "\u30d9\u30ed\u30d9\u30eb\u30c8",
+        "Korean": "\ub0b4\ub8f8\ubca8\ud2b8",
+        "Spanish": "Lickilicky"
+    },
+    "stats": {
+        "stamina": 242,
+        "attack": 161,
+        "defense": 181
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_NORMAL",
+        "names": {
+            "English": "Normal",
+            "German": "Normal",
+            "French": "Normal",
+            "Italian": "Normale",
+            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+            "Korean": "\ub178\ub9d0",
+            "Spanish": "Normal"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "LICK_FAST": {
+            "id": "LICK_FAST",
+            "power": 5,
+            "energy": 6,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Lick",
+                "German": "Schlecker",
+                "French": "L\u00e9chouille",
+                "Italian": "Leccata",
+                "Japanese": "\u3057\u305f\u3067\u306a\u3081\u308b",
+                "Korean": "\ud565\uae30",
+                "Spanish": "Leng\u00fcetazo"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 3
+            }
+        },
+        "ZEN_HEADBUTT_FAST": {
+            "id": "ZEN_HEADBUTT_FAST",
+            "power": 12,
+            "energy": 10,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Zen Headbutt",
+                "German": "Zen-Kopfsto\u00df",
+                "French": "Psykoud\u2019Boul",
+                "Italian": "Cozzata Zen",
+                "Japanese": "\u3057\u306d\u3093\u306e\u305a\u3064\u304d",
+                "Korean": "\uc0ac\ub150\uc758\ubc15\uce58\uae30",
+                "Spanish": "Cabezazo Zen"
+            },
+            "combat": {
+                "energy": 6,
+                "power": 8
+            }
+        }
+    },
+    "cinematicMoves": {
+        "HYPER_BEAM": {
+            "id": "HYPER_BEAM",
+            "power": 150,
+            "energy": -100,
+            "durationMs": 3800,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Hyper Beam",
+                "German": "Hyperstrahl",
+                "French": "Ultralaser",
+                "Italian": "Iper Raggio",
+                "Japanese": "\u306f\u304b\u3044\u3053\u3046\u305b\u3093",
+                "Korean": "\ud30c\uad34\uad11\uc120",
+                "Spanish": "Hiperrayo"
+            },
+            "combat": {
+                "energy": -80,
+                "power": 150
+            }
+        },
+        "EARTHQUAKE": {
+            "id": "EARTHQUAKE",
+            "power": 140,
+            "energy": -100,
+            "durationMs": 3600,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Earthquake",
+                "German": "Erdbeben",
+                "French": "S\u00e9isme",
+                "Italian": "Terremoto",
+                "Japanese": "\u3058\u3057\u3093",
+                "Korean": "\uc9c0\uc9c4",
+                "Spanish": "Terremoto"
+            },
+            "combat": {
+                "energy": -65,
+                "power": 120
+            }
+        },
+        "SOLAR_BEAM": {
+            "id": "SOLAR_BEAM",
+            "power": 180,
+            "energy": -100,
+            "durationMs": 4900,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Solar Beam",
+                "German": "Solarstrahl",
+                "French": "Lance-Soleil",
+                "Italian": "Solarraggio",
+                "Japanese": "\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0",
+                "Korean": "\uc194\ub77c\ube54",
+                "Spanish": "Rayo Solar"
+            },
+            "combat": {
+                "energy": -80,
+                "power": 150
+            }
+        },
+        "SHADOW_BALL": {
+            "id": "SHADOW_BALL",
+            "power": 100,
+            "energy": -50,
+            "durationMs": 3000,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Shadow Ball",
+                "German": "Spukball",
+                "French": "Ball\u2019Ombre",
+                "Italian": "Palla Ombra",
+                "Japanese": "\u30b7\u30e3\u30c9\u30fc\u30dc\u30fc\u30eb",
+                "Korean": "\uc100\ub3c4\ubcfc",
+                "Spanish": "Bola Sombra"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 100
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": {
+        "BODY_SLAM": {
+            "id": "BODY_SLAM",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 1900,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Body Slam",
+                "German": "Bodyslam",
+                "French": "Plaquage",
+                "Italian": "Corposcontro",
+                "Japanese": "\u306e\u3057\u304b\u304b\u308a",
+                "Korean": "\ub204\ub974\uae30",
+                "Spanish": "Golpe Cuerpo"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 60
+            }
+        }
+    },
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_463_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_463_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

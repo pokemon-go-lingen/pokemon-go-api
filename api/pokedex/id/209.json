@@ -1,1 +1,201 @@
-{"id":"SNUBBULL","formId":"SNUBBULL","dexNr":209,"generation":2,"names":{"English":"Snubbull","German":"Snubbull","French":"Snubbull","Italian":"Snubbull","Japanese":"\u30d6\u30eb\u30fc","Korean":"\ube14\ub8e8","Spanish":"Snubbull"},"stats":{"stamina":155,"attack":137,"defense":85},"primaryType":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"secondaryType":null,"quickMoves":{"TACKLE_FAST":{"id":"TACKLE_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Tackle","German":"Tackle","French":"Charge","Italian":"Azione","Japanese":"\u305f\u3044\u3042\u305f\u308a","Korean":"\ubab8\ud1b5\ubc15\uce58\uae30","Spanish":"Placaje"},"combat":{"energy":2,"power":3}},"BITE_FAST":{"id":"BITE_FAST","power":6,"energy":4,"durationMs":500,"type":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"names":{"English":"Bite","German":"Biss","French":"Morsure","Italian":"Morso","Japanese":"\u304b\u307f\u3064\u304f","Korean":"\ubb3c\uae30","Spanish":"Mordisco"},"combat":{"energy":2,"power":4}}},"cinematicMoves":{"CRUNCH":{"id":"CRUNCH","power":70,"energy":-33,"durationMs":3200,"type":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"names":{"English":"Crunch","German":"Knirscher","French":"M\u00e2chouille","Italian":"Sgranocchio","Japanese":"\u304b\u307f\u304f\u3060\u304f","Korean":"\uae68\ubb3c\uc5b4\ubd80\uc218\uae30","Spanish":"Triturar"},"combat":{"energy":-45,"power":70}},"DAZZLING_GLEAM":{"id":"DAZZLING_GLEAM","power":100,"energy":-50,"durationMs":3500,"type":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"names":{"English":"Dazzling Gleam","German":"Zauberschein","French":"\u00c9clat Magique","Italian":"Magibrillio","Japanese":"\u30de\u30b8\u30ab\u30eb\u30b7\u30e3\u30a4\u30f3","Korean":"\ub9e4\uc9c0\uceec\uc0e4\uc778","Spanish":"Brillo M\u00e1gico"},"combat":{"energy":-70,"power":110}},"BRICK_BREAK":{"id":"BRICK_BREAK","power":40,"energy":-33,"durationMs":1600,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Brick Break","German":"Durchbruch","French":"Casse-Brique","Italian":"Breccia","Japanese":"\u304b\u308f\u3089\u308f\u308a","Korean":"\uae68\ud2b8\ub9ac\ub2e4","Spanish":"Demolici\u00f3n"},"combat":{"energy":-35,"power":40}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_209_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_209_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "SNUBBULL",
+    "formId": "SNUBBULL",
+    "dexNr": 209,
+    "generation": 2,
+    "names": {
+        "English": "Snubbull",
+        "German": "Snubbull",
+        "French": "Snubbull",
+        "Italian": "Snubbull",
+        "Japanese": "\u30d6\u30eb\u30fc",
+        "Korean": "\ube14\ub8e8",
+        "Spanish": "Snubbull"
+    },
+    "stats": {
+        "stamina": 155,
+        "attack": 137,
+        "defense": 85
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_FAIRY",
+        "names": {
+            "English": "Fairy",
+            "German": "Fee",
+            "French": "F\u00e9e",
+            "Italian": "Folletto",
+            "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+            "Korean": "\ud398\uc5b4\ub9ac",
+            "Spanish": "Hada"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "TACKLE_FAST": {
+            "id": "TACKLE_FAST",
+            "power": 5,
+            "energy": 5,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Tackle",
+                "German": "Tackle",
+                "French": "Charge",
+                "Italian": "Azione",
+                "Japanese": "\u305f\u3044\u3042\u305f\u308a",
+                "Korean": "\ubab8\ud1b5\ubc15\uce58\uae30",
+                "Spanish": "Placaje"
+            },
+            "combat": {
+                "energy": 2,
+                "power": 3
+            }
+        },
+        "BITE_FAST": {
+            "id": "BITE_FAST",
+            "power": 6,
+            "energy": 4,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_DARK",
+                "names": {
+                    "English": "Dark",
+                    "German": "Unlicht",
+                    "French": "T\u00e9n\u00e8bres",
+                    "Italian": "Buio",
+                    "Japanese": "\u3042\u304f",
+                    "Korean": "\uc545",
+                    "Spanish": "Siniestro"
+                }
+            },
+            "names": {
+                "English": "Bite",
+                "German": "Biss",
+                "French": "Morsure",
+                "Italian": "Morso",
+                "Japanese": "\u304b\u307f\u3064\u304f",
+                "Korean": "\ubb3c\uae30",
+                "Spanish": "Mordisco"
+            },
+            "combat": {
+                "energy": 2,
+                "power": 4
+            }
+        }
+    },
+    "cinematicMoves": {
+        "CRUNCH": {
+            "id": "CRUNCH",
+            "power": 70,
+            "energy": -33,
+            "durationMs": 3200,
+            "type": {
+                "type": "POKEMON_TYPE_DARK",
+                "names": {
+                    "English": "Dark",
+                    "German": "Unlicht",
+                    "French": "T\u00e9n\u00e8bres",
+                    "Italian": "Buio",
+                    "Japanese": "\u3042\u304f",
+                    "Korean": "\uc545",
+                    "Spanish": "Siniestro"
+                }
+            },
+            "names": {
+                "English": "Crunch",
+                "German": "Knirscher",
+                "French": "M\u00e2chouille",
+                "Italian": "Sgranocchio",
+                "Japanese": "\u304b\u307f\u304f\u3060\u304f",
+                "Korean": "\uae68\ubb3c\uc5b4\ubd80\uc218\uae30",
+                "Spanish": "Triturar"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 70
+            }
+        },
+        "DAZZLING_GLEAM": {
+            "id": "DAZZLING_GLEAM",
+            "power": 100,
+            "energy": -50,
+            "durationMs": 3500,
+            "type": {
+                "type": "POKEMON_TYPE_FAIRY",
+                "names": {
+                    "English": "Fairy",
+                    "German": "Fee",
+                    "French": "F\u00e9e",
+                    "Italian": "Folletto",
+                    "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                    "Korean": "\ud398\uc5b4\ub9ac",
+                    "Spanish": "Hada"
+                }
+            },
+            "names": {
+                "English": "Dazzling Gleam",
+                "German": "Zauberschein",
+                "French": "\u00c9clat Magique",
+                "Italian": "Magibrillio",
+                "Japanese": "\u30de\u30b8\u30ab\u30eb\u30b7\u30e3\u30a4\u30f3",
+                "Korean": "\ub9e4\uc9c0\uceec\uc0e4\uc778",
+                "Spanish": "Brillo M\u00e1gico"
+            },
+            "combat": {
+                "energy": -70,
+                "power": 110
+            }
+        },
+        "BRICK_BREAK": {
+            "id": "BRICK_BREAK",
+            "power": 40,
+            "energy": -33,
+            "durationMs": 1600,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Brick Break",
+                "German": "Durchbruch",
+                "French": "Casse-Brique",
+                "Italian": "Breccia",
+                "Japanese": "\u304b\u308f\u3089\u308f\u308a",
+                "Korean": "\uae68\ud2b8\ub9ac\ub2e4",
+                "Spanish": "Demolici\u00f3n"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 40
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_209_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_209_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

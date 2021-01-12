@@ -1,1 +1,243 @@
-{"id":"AMAURA","formId":"AMAURA","dexNr":698,"generation":6,"names":{"English":"Amaura","German":"Amarino","French":"Amagara","Italian":"Amaura","Japanese":"\u30a2\u30de\u30eb\u30b9","Korean":"\uc544\ub9c8\ub8e8\uc2a4","Spanish":"Amaura"},"stats":{"stamina":184,"attack":124,"defense":109},"primaryType":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"secondaryType":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"quickMoves":{"POWDER_SNOW_FAST":{"id":"POWDER_SNOW_FAST","power":6,"energy":15,"durationMs":1000,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Powder Snow","German":"Pulverschnee","French":"Poudreuse","Italian":"Polneve","Japanese":"\u3053\u306a\u3086\u304d","Korean":"\ub208\uc2f8\ub77c\uae30","Spanish":"Nieve Polvo"},"combat":{"energy":8,"power":5}},"FROST_BREATH_FAST":{"id":"FROST_BREATH_FAST","power":10,"energy":8,"durationMs":900,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Frost Breath","German":"Eisesodem","French":"Souffle Glac\u00e9","Italian":"Alitogelido","Japanese":"\u3053\u304a\u308a\u306e\u3044\u3076\u304d","Korean":"\uc5bc\uc74c\uc228\uacb0","Spanish":"Vaho G\u00e9lido"},"combat":{"energy":5,"power":7}}},"cinematicMoves":{"WEATHER_BALL_ICE":{"id":"WEATHER_BALL_ICE","power":60,"energy":-33,"durationMs":1600,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Weather Ball","German":"Meteorologe","French":"Ball\u2019M\u00e9t\u00e9o","Italian":"Palla Clima","Japanese":"\u30a6\u30a7\u30b6\u30fc\u30dc\u30fc\u30eb","Korean":"\uc6e8\ub354\ubcfc","Spanish":"Meteorobola"},"combat":{"energy":-35,"power":60}},"ANCIENT_POWER":{"id":"ANCIENT_POWER","power":70,"energy":-33,"durationMs":3500,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Ancient Power","German":"Antik-Kraft","French":"Pouvoir Antique","Italian":"Forzantica","Japanese":"\u3052\u3093\u3057\u306e\u3061\u304b\u3089","Korean":"\uc6d0\uc2dc\uc758\ud798","Spanish":"Poder Pasado"},"combat":{"energy":-45,"power":45}},"AURORA_BEAM":{"id":"AURORA_BEAM","power":80,"energy":-50,"durationMs":3550,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Aurora Beam","German":"Aurorastrahl","French":"Onde Bor\u00e9ale","Italian":"Raggiaurora","Japanese":"\u30aa\u30fc\u30ed\u30e9\u30d3\u30fc\u30e0","Korean":"\uc624\ub85c\ub77c\ube54","Spanish":"Rayo Aurora"},"combat":{"energy":-60,"power":80}},"THUNDERBOLT":{"id":"THUNDERBOLT","power":80,"energy":-50,"durationMs":2500,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Thunderbolt","German":"Donnerblitz","French":"Tonnerre","Italian":"Fulmine","Japanese":"\uff11\uff10\u307e\u3093\u30dc\u30eb\u30c8","Korean":"10\ub9cc\ubcfc\ud2b8","Spanish":"Rayo"},"combat":{"energy":-55,"power":90}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_698_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_698_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "AMAURA",
+    "formId": "AMAURA",
+    "dexNr": 698,
+    "generation": 6,
+    "names": {
+        "English": "Amaura",
+        "German": "Amarino",
+        "French": "Amagara",
+        "Italian": "Amaura",
+        "Japanese": "\u30a2\u30de\u30eb\u30b9",
+        "Korean": "\uc544\ub9c8\ub8e8\uc2a4",
+        "Spanish": "Amaura"
+    },
+    "stats": {
+        "stamina": 184,
+        "attack": 124,
+        "defense": 109
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_ROCK",
+        "names": {
+            "English": "Rock",
+            "German": "Gestein",
+            "French": "Roche",
+            "Italian": "Roccia",
+            "Japanese": "\u3044\u308f",
+            "Korean": "\ubc14\uc704",
+            "Spanish": "Roca"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_ICE",
+        "names": {
+            "English": "Ice",
+            "German": "Eis",
+            "French": "Glace",
+            "Italian": "Ghiaccio",
+            "Japanese": "\u3053\u304a\u308a",
+            "Korean": "\uc5bc\uc74c",
+            "Spanish": "Hielo"
+        }
+    },
+    "quickMoves": {
+        "POWDER_SNOW_FAST": {
+            "id": "POWDER_SNOW_FAST",
+            "power": 6,
+            "energy": 15,
+            "durationMs": 1000,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Powder Snow",
+                "German": "Pulverschnee",
+                "French": "Poudreuse",
+                "Italian": "Polneve",
+                "Japanese": "\u3053\u306a\u3086\u304d",
+                "Korean": "\ub208\uc2f8\ub77c\uae30",
+                "Spanish": "Nieve Polvo"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 5
+            }
+        },
+        "FROST_BREATH_FAST": {
+            "id": "FROST_BREATH_FAST",
+            "power": 10,
+            "energy": 8,
+            "durationMs": 900,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Frost Breath",
+                "German": "Eisesodem",
+                "French": "Souffle Glac\u00e9",
+                "Italian": "Alitogelido",
+                "Japanese": "\u3053\u304a\u308a\u306e\u3044\u3076\u304d",
+                "Korean": "\uc5bc\uc74c\uc228\uacb0",
+                "Spanish": "Vaho G\u00e9lido"
+            },
+            "combat": {
+                "energy": 5,
+                "power": 7
+            }
+        }
+    },
+    "cinematicMoves": {
+        "WEATHER_BALL_ICE": {
+            "id": "WEATHER_BALL_ICE",
+            "power": 60,
+            "energy": -33,
+            "durationMs": 1600,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Weather Ball",
+                "German": "Meteorologe",
+                "French": "Ball\u2019M\u00e9t\u00e9o",
+                "Italian": "Palla Clima",
+                "Japanese": "\u30a6\u30a7\u30b6\u30fc\u30dc\u30fc\u30eb",
+                "Korean": "\uc6e8\ub354\ubcfc",
+                "Spanish": "Meteorobola"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 60
+            }
+        },
+        "ANCIENT_POWER": {
+            "id": "ANCIENT_POWER",
+            "power": 70,
+            "energy": -33,
+            "durationMs": 3500,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Ancient Power",
+                "German": "Antik-Kraft",
+                "French": "Pouvoir Antique",
+                "Italian": "Forzantica",
+                "Japanese": "\u3052\u3093\u3057\u306e\u3061\u304b\u3089",
+                "Korean": "\uc6d0\uc2dc\uc758\ud798",
+                "Spanish": "Poder Pasado"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 45
+            }
+        },
+        "AURORA_BEAM": {
+            "id": "AURORA_BEAM",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 3550,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Aurora Beam",
+                "German": "Aurorastrahl",
+                "French": "Onde Bor\u00e9ale",
+                "Italian": "Raggiaurora",
+                "Japanese": "\u30aa\u30fc\u30ed\u30e9\u30d3\u30fc\u30e0",
+                "Korean": "\uc624\ub85c\ub77c\ube54",
+                "Spanish": "Rayo Aurora"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 80
+            }
+        },
+        "THUNDERBOLT": {
+            "id": "THUNDERBOLT",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 2500,
+            "type": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "names": {
+                "English": "Thunderbolt",
+                "German": "Donnerblitz",
+                "French": "Tonnerre",
+                "Italian": "Fulmine",
+                "Japanese": "\uff11\uff10\u307e\u3093\u30dc\u30eb\u30c8",
+                "Korean": "10\ub9cc\ubcfc\ud2b8",
+                "Spanish": "Rayo"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_698_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_698_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

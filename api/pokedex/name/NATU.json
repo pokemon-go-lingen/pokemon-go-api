@@ -1,1 +1,212 @@
-{"id":"NATU","formId":"NATU","dexNr":177,"generation":2,"names":{"English":"Natu","German":"Natu","French":"Natu","Italian":"Natu","Japanese":"\u30cd\u30a4\u30c6\u30a3","Korean":"\ub124\uc774\ud2f0","Spanish":"Natu"},"stats":{"stamina":120,"attack":134,"defense":89},"primaryType":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"secondaryType":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"quickMoves":{"PECK_FAST":{"id":"PECK_FAST","power":10,"energy":10,"durationMs":1000,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Peck","German":"Pikser","French":"Picpic","Italian":"Beccata","Japanese":"\u3064\u3064\u304f","Korean":"\ucabc\uae30","Spanish":"Picotazo"},"combat":{"energy":5,"power":6}},"QUICK_ATTACK_FAST":{"id":"QUICK_ATTACK_FAST","power":8,"energy":10,"durationMs":800,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Quick Attack","German":"Ruckzuckhieb","French":"Vive-Attaque","Italian":"Attacco Rapido","Japanese":"\u3067\u3093\u3053\u3046\u305b\u3063\u304b","Korean":"\uc804\uad11\uc11d\ud654","Spanish":"Ataque R\u00e1pido"},"combat":{"energy":7,"power":5}}},"cinematicMoves":{"NIGHT_SHADE":{"id":"NIGHT_SHADE","power":60,"energy":-50,"durationMs":2600,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Night Shade","German":"Nachtnebel","French":"Ombre Nocturne","Italian":"Ombra Notturna","Japanese":"\u30ca\u30a4\u30c8\u30d8\u30c3\u30c9","Korean":"\ub098\uc774\ud2b8\ud5e4\ub4dc","Spanish":"Tinieblas"},"combat":{"energy":-55,"power":60}},"PSYSHOCK":{"id":"PSYSHOCK","power":65,"energy":-33,"durationMs":2700,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Psyshock","German":"Psychoschock","French":"Choc Psy","Italian":"Psicoshock","Japanese":"\u30b5\u30a4\u30b3\u30b7\u30e7\u30c3\u30af","Korean":"\uc0ac\uc774\ucf54\uc1fc\ud06c","Spanish":"Psicocarga"},"combat":{"energy":-45,"power":70}},"DRILL_PECK":{"id":"DRILL_PECK","power":65,"energy":-33,"durationMs":2300,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Drill Peck","German":"Bohrschnabel","French":"Bec Vrille","Italian":"Perforbecco","Japanese":"\u30c9\u30ea\u30eb\u304f\u3061\u3070\u3057","Korean":"\ud68c\uc804\ubd80\ub9ac","Spanish":"Pico Taladro"},"combat":{"energy":-40,"power":65}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_177_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_177_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "NATU",
+    "formId": "NATU",
+    "dexNr": 177,
+    "generation": 2,
+    "names": {
+        "English": "Natu",
+        "German": "Natu",
+        "French": "Natu",
+        "Italian": "Natu",
+        "Japanese": "\u30cd\u30a4\u30c6\u30a3",
+        "Korean": "\ub124\uc774\ud2f0",
+        "Spanish": "Natu"
+    },
+    "stats": {
+        "stamina": 120,
+        "attack": 134,
+        "defense": 89
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_PSYCHIC",
+        "names": {
+            "English": "Psychic",
+            "German": "Psycho",
+            "French": "Psy",
+            "Italian": "Psico",
+            "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+            "Korean": "\uc5d0\uc2a4\ud37c",
+            "Spanish": "Ps\u00edquico"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_FLYING",
+        "names": {
+            "English": "Flying",
+            "German": "Flug",
+            "French": "Vol",
+            "Italian": "Volante",
+            "Japanese": "\u3072\u3053\u3046",
+            "Korean": "\ube44\ud589",
+            "Spanish": "Volador"
+        }
+    },
+    "quickMoves": {
+        "PECK_FAST": {
+            "id": "PECK_FAST",
+            "power": 10,
+            "energy": 10,
+            "durationMs": 1000,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Peck",
+                "German": "Pikser",
+                "French": "Picpic",
+                "Italian": "Beccata",
+                "Japanese": "\u3064\u3064\u304f",
+                "Korean": "\ucabc\uae30",
+                "Spanish": "Picotazo"
+            },
+            "combat": {
+                "energy": 5,
+                "power": 6
+            }
+        },
+        "QUICK_ATTACK_FAST": {
+            "id": "QUICK_ATTACK_FAST",
+            "power": 8,
+            "energy": 10,
+            "durationMs": 800,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Quick Attack",
+                "German": "Ruckzuckhieb",
+                "French": "Vive-Attaque",
+                "Italian": "Attacco Rapido",
+                "Japanese": "\u3067\u3093\u3053\u3046\u305b\u3063\u304b",
+                "Korean": "\uc804\uad11\uc11d\ud654",
+                "Spanish": "Ataque R\u00e1pido"
+            },
+            "combat": {
+                "energy": 7,
+                "power": 5
+            }
+        }
+    },
+    "cinematicMoves": {
+        "NIGHT_SHADE": {
+            "id": "NIGHT_SHADE",
+            "power": 60,
+            "energy": -50,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Night Shade",
+                "German": "Nachtnebel",
+                "French": "Ombre Nocturne",
+                "Italian": "Ombra Notturna",
+                "Japanese": "\u30ca\u30a4\u30c8\u30d8\u30c3\u30c9",
+                "Korean": "\ub098\uc774\ud2b8\ud5e4\ub4dc",
+                "Spanish": "Tinieblas"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 60
+            }
+        },
+        "PSYSHOCK": {
+            "id": "PSYSHOCK",
+            "power": 65,
+            "energy": -33,
+            "durationMs": 2700,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Psyshock",
+                "German": "Psychoschock",
+                "French": "Choc Psy",
+                "Italian": "Psicoshock",
+                "Japanese": "\u30b5\u30a4\u30b3\u30b7\u30e7\u30c3\u30af",
+                "Korean": "\uc0ac\uc774\ucf54\uc1fc\ud06c",
+                "Spanish": "Psicocarga"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 70
+            }
+        },
+        "DRILL_PECK": {
+            "id": "DRILL_PECK",
+            "power": 65,
+            "energy": -33,
+            "durationMs": 2300,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Drill Peck",
+                "German": "Bohrschnabel",
+                "French": "Bec Vrille",
+                "Italian": "Perforbecco",
+                "Japanese": "\u30c9\u30ea\u30eb\u304f\u3061\u3070\u3057",
+                "Korean": "\ud68c\uc804\ubd80\ub9ac",
+                "Spanish": "Pico Taladro"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 65
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_177_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_177_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

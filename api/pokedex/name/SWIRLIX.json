@@ -1,1 +1,139 @@
-{"id":"SWIRLIX","formId":"SWIRLIX","dexNr":684,"generation":6,"names":{"English":"Swirlix","German":"Flauschling","French":"Sucroquin","Italian":"Swirlix","Japanese":"\u30da\u30ed\u30c3\u30d1\u30d5","Korean":"\ub098\ub8f8\ud37c\ud504","Spanish":"Swirlix"},"stats":{"stamina":158,"attack":109,"defense":119},"primaryType":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"secondaryType":null,"quickMoves":{"TACKLE_FAST":{"id":"TACKLE_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Tackle","German":"Tackle","French":"Charge","Italian":"Azione","Japanese":"\u305f\u3044\u3042\u305f\u308a","Korean":"\ubab8\ud1b5\ubc15\uce58\uae30","Spanish":"Placaje"},"combat":{"energy":2,"power":3}}},"cinematicMoves":{"DRAINING_KISS":{"id":"DRAINING_KISS","power":60,"energy":-50,"durationMs":2600,"type":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"names":{"English":"Draining Kiss","German":"Diebeskuss","French":"Vampibaiser","Italian":"Assorbibacio","Japanese":"\u30c9\u30ec\u30a4\u30f3\u30ad\u30c3\u30b9","Korean":"\ub4dc\ub808\uc778\ud0a4\uc2a4","Spanish":"Beso Drenaje"},"combat":{"energy":-55,"power":60}},"ENERGY_BALL":{"id":"ENERGY_BALL","power":90,"energy":-50,"durationMs":3900,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Energy Ball","German":"Energieball","French":"\u00c9co-Sph\u00e8re","Italian":"Energipalla","Japanese":"\u30a8\u30ca\u30b8\u30fc\u30dc\u30fc\u30eb","Korean":"\uc5d0\ub108\uc9c0\ubcfc","Spanish":"Energibola"},"combat":{"energy":-55,"power":90}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_684_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_684_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "SWIRLIX",
+    "formId": "SWIRLIX",
+    "dexNr": 684,
+    "generation": 6,
+    "names": {
+        "English": "Swirlix",
+        "German": "Flauschling",
+        "French": "Sucroquin",
+        "Italian": "Swirlix",
+        "Japanese": "\u30da\u30ed\u30c3\u30d1\u30d5",
+        "Korean": "\ub098\ub8f8\ud37c\ud504",
+        "Spanish": "Swirlix"
+    },
+    "stats": {
+        "stamina": 158,
+        "attack": 109,
+        "defense": 119
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_FAIRY",
+        "names": {
+            "English": "Fairy",
+            "German": "Fee",
+            "French": "F\u00e9e",
+            "Italian": "Folletto",
+            "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+            "Korean": "\ud398\uc5b4\ub9ac",
+            "Spanish": "Hada"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "TACKLE_FAST": {
+            "id": "TACKLE_FAST",
+            "power": 5,
+            "energy": 5,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Tackle",
+                "German": "Tackle",
+                "French": "Charge",
+                "Italian": "Azione",
+                "Japanese": "\u305f\u3044\u3042\u305f\u308a",
+                "Korean": "\ubab8\ud1b5\ubc15\uce58\uae30",
+                "Spanish": "Placaje"
+            },
+            "combat": {
+                "energy": 2,
+                "power": 3
+            }
+        }
+    },
+    "cinematicMoves": {
+        "DRAINING_KISS": {
+            "id": "DRAINING_KISS",
+            "power": 60,
+            "energy": -50,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_FAIRY",
+                "names": {
+                    "English": "Fairy",
+                    "German": "Fee",
+                    "French": "F\u00e9e",
+                    "Italian": "Folletto",
+                    "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                    "Korean": "\ud398\uc5b4\ub9ac",
+                    "Spanish": "Hada"
+                }
+            },
+            "names": {
+                "English": "Draining Kiss",
+                "German": "Diebeskuss",
+                "French": "Vampibaiser",
+                "Italian": "Assorbibacio",
+                "Japanese": "\u30c9\u30ec\u30a4\u30f3\u30ad\u30c3\u30b9",
+                "Korean": "\ub4dc\ub808\uc778\ud0a4\uc2a4",
+                "Spanish": "Beso Drenaje"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 60
+            }
+        },
+        "ENERGY_BALL": {
+            "id": "ENERGY_BALL",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 3900,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Energy Ball",
+                "German": "Energieball",
+                "French": "\u00c9co-Sph\u00e8re",
+                "Italian": "Energipalla",
+                "Japanese": "\u30a8\u30ca\u30b8\u30fc\u30dc\u30fc\u30eb",
+                "Korean": "\uc5d0\ub108\uc9c0\ubcfc",
+                "Spanish": "Energibola"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_684_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_684_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

@@ -1,1 +1,139 @@
-{"id":"METAPOD","formId":"METAPOD","dexNr":11,"generation":1,"names":{"English":"Metapod","German":"Safcon","French":"Chrysacier","Italian":"Metapod","Japanese":"\u30c8\u30e9\u30f3\u30bb\u30eb","Korean":"\ub2e8\ub370\uae30","Spanish":"Metapod"},"stats":{"stamina":137,"attack":45,"defense":80},"primaryType":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"secondaryType":null,"quickMoves":{"BUG_BITE_FAST":{"id":"BUG_BITE_FAST","power":5,"energy":6,"durationMs":500,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Bug Bite","German":"K\u00e4ferbiss","French":"Piq\u00fbre","Italian":"Coleomorso","Japanese":"\u3080\u3057\u304f\u3044","Korean":"\ubc8c\ub808\uba39\uc74c","Spanish":"Picadura"},"combat":{"energy":3,"power":3}},"TACKLE_FAST":{"id":"TACKLE_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Tackle","German":"Tackle","French":"Charge","Italian":"Azione","Japanese":"\u305f\u3044\u3042\u305f\u308a","Korean":"\ubab8\ud1b5\ubc15\uce58\uae30","Spanish":"Placaje"},"combat":{"energy":2,"power":3}}},"cinematicMoves":{"STRUGGLE":{"id":"STRUGGLE","power":35,"energy":0,"durationMs":2200,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Struggle","German":"Verzweifler","French":"Lutte","Italian":"Scontro","Japanese":"\u308f\u308b\u3042\u304c\u304d","Korean":"\ubc1c\ubc84\ub465","Spanish":"Combate"},"combat":{"energy":-100,"power":35}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_011_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_011_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "METAPOD",
+    "formId": "METAPOD",
+    "dexNr": 11,
+    "generation": 1,
+    "names": {
+        "English": "Metapod",
+        "German": "Safcon",
+        "French": "Chrysacier",
+        "Italian": "Metapod",
+        "Japanese": "\u30c8\u30e9\u30f3\u30bb\u30eb",
+        "Korean": "\ub2e8\ub370\uae30",
+        "Spanish": "Metapod"
+    },
+    "stats": {
+        "stamina": 137,
+        "attack": 45,
+        "defense": 80
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_BUG",
+        "names": {
+            "English": "Bug",
+            "German": "K\u00e4fer",
+            "French": "Insecte",
+            "Italian": "Coleottero",
+            "Japanese": "\u3080\u3057",
+            "Korean": "\ubc8c\ub808",
+            "Spanish": "Bicho"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "BUG_BITE_FAST": {
+            "id": "BUG_BITE_FAST",
+            "power": 5,
+            "energy": 6,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "Bug Bite",
+                "German": "K\u00e4ferbiss",
+                "French": "Piq\u00fbre",
+                "Italian": "Coleomorso",
+                "Japanese": "\u3080\u3057\u304f\u3044",
+                "Korean": "\ubc8c\ub808\uba39\uc74c",
+                "Spanish": "Picadura"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 3
+            }
+        },
+        "TACKLE_FAST": {
+            "id": "TACKLE_FAST",
+            "power": 5,
+            "energy": 5,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Tackle",
+                "German": "Tackle",
+                "French": "Charge",
+                "Italian": "Azione",
+                "Japanese": "\u305f\u3044\u3042\u305f\u308a",
+                "Korean": "\ubab8\ud1b5\ubc15\uce58\uae30",
+                "Spanish": "Placaje"
+            },
+            "combat": {
+                "energy": 2,
+                "power": 3
+            }
+        }
+    },
+    "cinematicMoves": {
+        "STRUGGLE": {
+            "id": "STRUGGLE",
+            "power": 35,
+            "energy": 0,
+            "durationMs": 2200,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Struggle",
+                "German": "Verzweifler",
+                "French": "Lutte",
+                "Italian": "Scontro",
+                "Japanese": "\u308f\u308b\u3042\u304c\u304d",
+                "Korean": "\ubc1c\ubc84\ub465",
+                "Spanish": "Combate"
+            },
+            "combat": {
+                "energy": -100,
+                "power": 35
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_011_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_011_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

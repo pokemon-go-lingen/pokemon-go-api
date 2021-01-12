@@ -1,1 +1,275 @@
-{"id":"JIGGLYPUFF","formId":"JIGGLYPUFF","dexNr":39,"generation":1,"names":{"English":"Jigglypuff","German":"Pummeluff","French":"Rondoudou","Italian":"Jigglypuff","Japanese":"\u30d7\u30ea\u30f3","Korean":"\ud478\ub9b0","Spanish":"Jigglypuff"},"stats":{"stamina":251,"attack":80,"defense":41},"primaryType":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"secondaryType":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"quickMoves":{"POUND_FAST":{"id":"POUND_FAST","power":7,"energy":6,"durationMs":600,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Pound","German":"Klaps","French":"\u00c9cras\u2019Face","Italian":"Botta","Japanese":"\u306f\u305f\u304f","Korean":"\ub9c9\uce58\uae30","Spanish":"Destructor"},"combat":{"energy":4,"power":5}},"FEINT_ATTACK_FAST":{"id":"FEINT_ATTACK_FAST","power":10,"energy":9,"durationMs":900,"type":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"names":{"English":"Feint Attack","German":"Finte","French":"Feinte","Italian":"Finta","Japanese":"\u3060\u307e\u3057\u3046\u3061","Korean":"\uc18d\uc5ec\ub54c\ub9ac\uae30","Spanish":"Finta"},"combat":{"energy":6,"power":6}}},"cinematicMoves":{"DISARMING_VOICE":{"id":"DISARMING_VOICE","power":70,"energy":-33,"durationMs":3900,"type":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"names":{"English":"Disarming Voice","German":"S\u00e4uselstimme","French":"Voix Enj\u00f4leuse","Italian":"Incantavoce","Japanese":"\u30c1\u30e3\u30fc\u30e0\u30dc\u30a4\u30b9","Korean":"\ucc28\ubc0d\ubcf4\uc774\uc2a4","Spanish":"Voz Cautivadora"},"combat":{"energy":-45,"power":70}},"GYRO_BALL":{"id":"GYRO_BALL","power":80,"energy":-50,"durationMs":3300,"type":{"type":"POKEMON_TYPE_STEEL","names":{"English":"Steel","German":"Stahl","French":"Acier","Italian":"Acciaio","Japanese":"\u306f\u304c\u306d","Korean":"\uac15\ucca0","Spanish":"Acero"}},"names":{"English":"Gyro Ball","German":"Gyroball","French":"Gyroballe","Italian":"Vortexpalla","Japanese":"\u30b8\u30e3\u30a4\u30ed\u30dc\u30fc\u30eb","Korean":"\uc790\uc774\ub85c\ubcfc","Spanish":"Giro Bola"},"combat":{"energy":-60,"power":80}},"DAZZLING_GLEAM":{"id":"DAZZLING_GLEAM","power":100,"energy":-50,"durationMs":3500,"type":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"names":{"English":"Dazzling Gleam","German":"Zauberschein","French":"\u00c9clat Magique","Italian":"Magibrillio","Japanese":"\u30de\u30b8\u30ab\u30eb\u30b7\u30e3\u30a4\u30f3","Korean":"\ub9e4\uc9c0\uceec\uc0e4\uc778","Spanish":"Brillo M\u00e1gico"},"combat":{"energy":-70,"power":110}}},"eliteQuickMoves":[],"eliteCinematicMoves":{"PLAY_ROUGH":{"id":"PLAY_ROUGH","power":90,"energy":-50,"durationMs":2900,"type":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"names":{"English":"Play Rough","German":"Knuddler","French":"C\u00e2linerie","Italian":"Carineria","Japanese":"\u3058\u3083\u308c\u3064\u304f","Korean":"\uce58\uadfc\uac70\ub9ac\uae30","Spanish":"Caranto\u00f1a"},"combat":{"energy":-60,"power":90}},"BODY_SLAM":{"id":"BODY_SLAM","power":50,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Body Slam","German":"Bodyslam","French":"Plaquage","Italian":"Corposcontro","Japanese":"\u306e\u3057\u304b\u304b\u308a","Korean":"\ub204\ub974\uae30","Spanish":"Golpe Cuerpo"},"combat":{"energy":-35,"power":60}}},"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_039_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_039_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "JIGGLYPUFF",
+    "formId": "JIGGLYPUFF",
+    "dexNr": 39,
+    "generation": 1,
+    "names": {
+        "English": "Jigglypuff",
+        "German": "Pummeluff",
+        "French": "Rondoudou",
+        "Italian": "Jigglypuff",
+        "Japanese": "\u30d7\u30ea\u30f3",
+        "Korean": "\ud478\ub9b0",
+        "Spanish": "Jigglypuff"
+    },
+    "stats": {
+        "stamina": 251,
+        "attack": 80,
+        "defense": 41
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_NORMAL",
+        "names": {
+            "English": "Normal",
+            "German": "Normal",
+            "French": "Normal",
+            "Italian": "Normale",
+            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+            "Korean": "\ub178\ub9d0",
+            "Spanish": "Normal"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_FAIRY",
+        "names": {
+            "English": "Fairy",
+            "German": "Fee",
+            "French": "F\u00e9e",
+            "Italian": "Folletto",
+            "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+            "Korean": "\ud398\uc5b4\ub9ac",
+            "Spanish": "Hada"
+        }
+    },
+    "quickMoves": {
+        "POUND_FAST": {
+            "id": "POUND_FAST",
+            "power": 7,
+            "energy": 6,
+            "durationMs": 600,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Pound",
+                "German": "Klaps",
+                "French": "\u00c9cras\u2019Face",
+                "Italian": "Botta",
+                "Japanese": "\u306f\u305f\u304f",
+                "Korean": "\ub9c9\uce58\uae30",
+                "Spanish": "Destructor"
+            },
+            "combat": {
+                "energy": 4,
+                "power": 5
+            }
+        },
+        "FEINT_ATTACK_FAST": {
+            "id": "FEINT_ATTACK_FAST",
+            "power": 10,
+            "energy": 9,
+            "durationMs": 900,
+            "type": {
+                "type": "POKEMON_TYPE_DARK",
+                "names": {
+                    "English": "Dark",
+                    "German": "Unlicht",
+                    "French": "T\u00e9n\u00e8bres",
+                    "Italian": "Buio",
+                    "Japanese": "\u3042\u304f",
+                    "Korean": "\uc545",
+                    "Spanish": "Siniestro"
+                }
+            },
+            "names": {
+                "English": "Feint Attack",
+                "German": "Finte",
+                "French": "Feinte",
+                "Italian": "Finta",
+                "Japanese": "\u3060\u307e\u3057\u3046\u3061",
+                "Korean": "\uc18d\uc5ec\ub54c\ub9ac\uae30",
+                "Spanish": "Finta"
+            },
+            "combat": {
+                "energy": 6,
+                "power": 6
+            }
+        }
+    },
+    "cinematicMoves": {
+        "DISARMING_VOICE": {
+            "id": "DISARMING_VOICE",
+            "power": 70,
+            "energy": -33,
+            "durationMs": 3900,
+            "type": {
+                "type": "POKEMON_TYPE_FAIRY",
+                "names": {
+                    "English": "Fairy",
+                    "German": "Fee",
+                    "French": "F\u00e9e",
+                    "Italian": "Folletto",
+                    "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                    "Korean": "\ud398\uc5b4\ub9ac",
+                    "Spanish": "Hada"
+                }
+            },
+            "names": {
+                "English": "Disarming Voice",
+                "German": "S\u00e4uselstimme",
+                "French": "Voix Enj\u00f4leuse",
+                "Italian": "Incantavoce",
+                "Japanese": "\u30c1\u30e3\u30fc\u30e0\u30dc\u30a4\u30b9",
+                "Korean": "\ucc28\ubc0d\ubcf4\uc774\uc2a4",
+                "Spanish": "Voz Cautivadora"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 70
+            }
+        },
+        "GYRO_BALL": {
+            "id": "GYRO_BALL",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 3300,
+            "type": {
+                "type": "POKEMON_TYPE_STEEL",
+                "names": {
+                    "English": "Steel",
+                    "German": "Stahl",
+                    "French": "Acier",
+                    "Italian": "Acciaio",
+                    "Japanese": "\u306f\u304c\u306d",
+                    "Korean": "\uac15\ucca0",
+                    "Spanish": "Acero"
+                }
+            },
+            "names": {
+                "English": "Gyro Ball",
+                "German": "Gyroball",
+                "French": "Gyroballe",
+                "Italian": "Vortexpalla",
+                "Japanese": "\u30b8\u30e3\u30a4\u30ed\u30dc\u30fc\u30eb",
+                "Korean": "\uc790\uc774\ub85c\ubcfc",
+                "Spanish": "Giro Bola"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 80
+            }
+        },
+        "DAZZLING_GLEAM": {
+            "id": "DAZZLING_GLEAM",
+            "power": 100,
+            "energy": -50,
+            "durationMs": 3500,
+            "type": {
+                "type": "POKEMON_TYPE_FAIRY",
+                "names": {
+                    "English": "Fairy",
+                    "German": "Fee",
+                    "French": "F\u00e9e",
+                    "Italian": "Folletto",
+                    "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                    "Korean": "\ud398\uc5b4\ub9ac",
+                    "Spanish": "Hada"
+                }
+            },
+            "names": {
+                "English": "Dazzling Gleam",
+                "German": "Zauberschein",
+                "French": "\u00c9clat Magique",
+                "Italian": "Magibrillio",
+                "Japanese": "\u30de\u30b8\u30ab\u30eb\u30b7\u30e3\u30a4\u30f3",
+                "Korean": "\ub9e4\uc9c0\uceec\uc0e4\uc778",
+                "Spanish": "Brillo M\u00e1gico"
+            },
+            "combat": {
+                "energy": -70,
+                "power": 110
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": {
+        "PLAY_ROUGH": {
+            "id": "PLAY_ROUGH",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 2900,
+            "type": {
+                "type": "POKEMON_TYPE_FAIRY",
+                "names": {
+                    "English": "Fairy",
+                    "German": "Fee",
+                    "French": "F\u00e9e",
+                    "Italian": "Folletto",
+                    "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                    "Korean": "\ud398\uc5b4\ub9ac",
+                    "Spanish": "Hada"
+                }
+            },
+            "names": {
+                "English": "Play Rough",
+                "German": "Knuddler",
+                "French": "C\u00e2linerie",
+                "Italian": "Carineria",
+                "Japanese": "\u3058\u3083\u308c\u3064\u304f",
+                "Korean": "\uce58\uadfc\uac70\ub9ac\uae30",
+                "Spanish": "Caranto\u00f1a"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 90
+            }
+        },
+        "BODY_SLAM": {
+            "id": "BODY_SLAM",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 1900,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Body Slam",
+                "German": "Bodyslam",
+                "French": "Plaquage",
+                "Italian": "Corposcontro",
+                "Japanese": "\u306e\u3057\u304b\u304b\u308a",
+                "Korean": "\ub204\ub974\uae30",
+                "Spanish": "Golpe Cuerpo"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 60
+            }
+        }
+    },
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_039_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_039_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

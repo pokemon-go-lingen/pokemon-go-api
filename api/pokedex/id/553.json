@@ -1,1 +1,212 @@
-{"id":"KROOKODILE","formId":"KROOKODILE","dexNr":553,"generation":5,"names":{"English":"Krookodile","German":"Rabigator","French":"Crocorible","Italian":"Krookodile","Japanese":"\u30ef\u30eb\u30d3\u30a2\u30eb","Korean":"\uc545\ube44\uc544\ub974","Spanish":"Krookodile"},"stats":{"stamina":216,"attack":229,"defense":158},"primaryType":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"secondaryType":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"quickMoves":{"SNARL_FAST":{"id":"SNARL_FAST","power":12,"energy":14,"durationMs":1100,"type":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"names":{"English":"Snarl","German":"Standpauke","French":"Aboiement","Italian":"Urlorabbia","Japanese":"\u30d0\u30fc\u30af\u30a2\u30a6\u30c8","Korean":"\ubc14\ud06c\uc544\uc6c3","Spanish":"Alarido"},"combat":{"energy":13,"power":5}},"MUD_SLAP_FAST":{"id":"MUD_SLAP_FAST","power":18,"energy":12,"durationMs":1400,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Mud-Slap","German":"Lehmschelle","French":"Coud\u2019Boue","Italian":"Fangosberla","Japanese":"\u3069\u308d\u304b\u3051","Korean":"\uc9c4\ud759\ubfcc\ub9ac\uae30","Spanish":"Bofet\u00f3n Lodo"},"combat":{"energy":8,"power":11}}},"cinematicMoves":{"EARTHQUAKE":{"id":"EARTHQUAKE","power":140,"energy":-100,"durationMs":3600,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Earthquake","German":"Erdbeben","French":"S\u00e9isme","Italian":"Terremoto","Japanese":"\u3058\u3057\u3093","Korean":"\uc9c0\uc9c4","Spanish":"Terremoto"},"combat":{"energy":-65,"power":120}},"CRUNCH":{"id":"CRUNCH","power":70,"energy":-33,"durationMs":3200,"type":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"names":{"English":"Crunch","German":"Knirscher","French":"M\u00e2chouille","Italian":"Sgranocchio","Japanese":"\u304b\u307f\u304f\u3060\u304f","Korean":"\uae68\ubb3c\uc5b4\ubd80\uc218\uae30","Spanish":"Triturar"},"combat":{"energy":-45,"power":70}},"OUTRAGE":{"id":"OUTRAGE","power":110,"energy":-50,"durationMs":3900,"type":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"names":{"English":"Outrage","German":"Wutanfall","French":"Col\u00e8re","Italian":"Oltraggio","Japanese":"\u3052\u304d\u308a\u3093","Korean":"\uc5ed\ub9b0","Spanish":"Enfado"},"combat":{"energy":-60,"power":110}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_553_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_553_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "KROOKODILE",
+    "formId": "KROOKODILE",
+    "dexNr": 553,
+    "generation": 5,
+    "names": {
+        "English": "Krookodile",
+        "German": "Rabigator",
+        "French": "Crocorible",
+        "Italian": "Krookodile",
+        "Japanese": "\u30ef\u30eb\u30d3\u30a2\u30eb",
+        "Korean": "\uc545\ube44\uc544\ub974",
+        "Spanish": "Krookodile"
+    },
+    "stats": {
+        "stamina": 216,
+        "attack": 229,
+        "defense": 158
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_GROUND",
+        "names": {
+            "English": "Ground",
+            "German": "Boden",
+            "French": "Sol",
+            "Italian": "Terra",
+            "Japanese": "\u3058\u3081\u3093",
+            "Korean": "\ub545",
+            "Spanish": "Tierra"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_DARK",
+        "names": {
+            "English": "Dark",
+            "German": "Unlicht",
+            "French": "T\u00e9n\u00e8bres",
+            "Italian": "Buio",
+            "Japanese": "\u3042\u304f",
+            "Korean": "\uc545",
+            "Spanish": "Siniestro"
+        }
+    },
+    "quickMoves": {
+        "SNARL_FAST": {
+            "id": "SNARL_FAST",
+            "power": 12,
+            "energy": 14,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_DARK",
+                "names": {
+                    "English": "Dark",
+                    "German": "Unlicht",
+                    "French": "T\u00e9n\u00e8bres",
+                    "Italian": "Buio",
+                    "Japanese": "\u3042\u304f",
+                    "Korean": "\uc545",
+                    "Spanish": "Siniestro"
+                }
+            },
+            "names": {
+                "English": "Snarl",
+                "German": "Standpauke",
+                "French": "Aboiement",
+                "Italian": "Urlorabbia",
+                "Japanese": "\u30d0\u30fc\u30af\u30a2\u30a6\u30c8",
+                "Korean": "\ubc14\ud06c\uc544\uc6c3",
+                "Spanish": "Alarido"
+            },
+            "combat": {
+                "energy": 13,
+                "power": 5
+            }
+        },
+        "MUD_SLAP_FAST": {
+            "id": "MUD_SLAP_FAST",
+            "power": 18,
+            "energy": 12,
+            "durationMs": 1400,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Mud-Slap",
+                "German": "Lehmschelle",
+                "French": "Coud\u2019Boue",
+                "Italian": "Fangosberla",
+                "Japanese": "\u3069\u308d\u304b\u3051",
+                "Korean": "\uc9c4\ud759\ubfcc\ub9ac\uae30",
+                "Spanish": "Bofet\u00f3n Lodo"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 11
+            }
+        }
+    },
+    "cinematicMoves": {
+        "EARTHQUAKE": {
+            "id": "EARTHQUAKE",
+            "power": 140,
+            "energy": -100,
+            "durationMs": 3600,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Earthquake",
+                "German": "Erdbeben",
+                "French": "S\u00e9isme",
+                "Italian": "Terremoto",
+                "Japanese": "\u3058\u3057\u3093",
+                "Korean": "\uc9c0\uc9c4",
+                "Spanish": "Terremoto"
+            },
+            "combat": {
+                "energy": -65,
+                "power": 120
+            }
+        },
+        "CRUNCH": {
+            "id": "CRUNCH",
+            "power": 70,
+            "energy": -33,
+            "durationMs": 3200,
+            "type": {
+                "type": "POKEMON_TYPE_DARK",
+                "names": {
+                    "English": "Dark",
+                    "German": "Unlicht",
+                    "French": "T\u00e9n\u00e8bres",
+                    "Italian": "Buio",
+                    "Japanese": "\u3042\u304f",
+                    "Korean": "\uc545",
+                    "Spanish": "Siniestro"
+                }
+            },
+            "names": {
+                "English": "Crunch",
+                "German": "Knirscher",
+                "French": "M\u00e2chouille",
+                "Italian": "Sgranocchio",
+                "Japanese": "\u304b\u307f\u304f\u3060\u304f",
+                "Korean": "\uae68\ubb3c\uc5b4\ubd80\uc218\uae30",
+                "Spanish": "Triturar"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 70
+            }
+        },
+        "OUTRAGE": {
+            "id": "OUTRAGE",
+            "power": 110,
+            "energy": -50,
+            "durationMs": 3900,
+            "type": {
+                "type": "POKEMON_TYPE_DRAGON",
+                "names": {
+                    "English": "Dragon",
+                    "German": "Drache",
+                    "French": "Dragon",
+                    "Italian": "Drago",
+                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                    "Korean": "\ub4dc\ub798\uace4",
+                    "Spanish": "Drag\u00f3n"
+                }
+            },
+            "names": {
+                "English": "Outrage",
+                "German": "Wutanfall",
+                "French": "Col\u00e8re",
+                "Italian": "Oltraggio",
+                "Japanese": "\u3052\u304d\u308a\u3093",
+                "Korean": "\uc5ed\ub9b0",
+                "Spanish": "Enfado"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 110
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_553_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_553_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

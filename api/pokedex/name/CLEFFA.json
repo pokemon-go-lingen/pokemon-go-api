@@ -1,1 +1,264 @@
-{"id":"CLEFFA","formId":"CLEFFA","dexNr":173,"generation":2,"names":{"English":"Cleffa","German":"Pii","French":"M\u00e9lo","Italian":"Cleffa","Japanese":"\u30d4\u30a3","Korean":"\uc090","Spanish":"Cleffa"},"stats":{"stamina":137,"attack":75,"defense":79},"primaryType":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"secondaryType":null,"quickMoves":{"POUND_FAST":{"id":"POUND_FAST","power":7,"energy":6,"durationMs":600,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Pound","German":"Klaps","French":"\u00c9cras\u2019Face","Italian":"Botta","Japanese":"\u306f\u305f\u304f","Korean":"\ub9c9\uce58\uae30","Spanish":"Destructor"},"combat":{"energy":4,"power":5}},"ZEN_HEADBUTT_FAST":{"id":"ZEN_HEADBUTT_FAST","power":12,"energy":10,"durationMs":1100,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Zen Headbutt","German":"Zen-Kopfsto\u00df","French":"Psykoud\u2019Boul","Italian":"Cozzata Zen","Japanese":"\u3057\u306d\u3093\u306e\u305a\u3064\u304d","Korean":"\uc0ac\ub150\uc758\ubc15\uce58\uae30","Spanish":"Cabezazo Zen"},"combat":{"energy":6,"power":8}}},"cinematicMoves":{"GRASS_KNOT":{"id":"GRASS_KNOT","power":90,"energy":-50,"durationMs":2600,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Grass Knot","German":"Strauchler","French":"N\u0153ud Herbe","Italian":"Laccioerboso","Japanese":"\u304f\u3055\u3080\u3059\u3073","Korean":"\ud480\ubb36\uae30","Spanish":"Hierba Lazo"},"combat":{"energy":-50,"power":90}},"PSYSHOCK":{"id":"PSYSHOCK","power":65,"energy":-33,"durationMs":2700,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Psyshock","German":"Psychoschock","French":"Choc Psy","Italian":"Psicoshock","Japanese":"\u30b5\u30a4\u30b3\u30b7\u30e7\u30c3\u30af","Korean":"\uc0ac\uc774\ucf54\uc1fc\ud06c","Spanish":"Psicocarga"},"combat":{"energy":-45,"power":70}},"SIGNAL_BEAM":{"id":"SIGNAL_BEAM","power":75,"energy":-50,"durationMs":2900,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Signal Beam","German":"Ampelleuchte","French":"Rayon Signal","Italian":"Segnoraggio","Japanese":"\u30b7\u30b0\u30ca\u30eb\u30d3\u30fc\u30e0","Korean":"\uc2dc\uadf8\ub110\ube54","Spanish":"Doble Rayo"},"combat":{"energy":-55,"power":75}}},"eliteQuickMoves":[],"eliteCinematicMoves":{"PSYCHIC":{"id":"PSYCHIC","power":90,"energy":-50,"durationMs":2800,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Psychic","German":"Psychokinese","French":"Psyko","Italian":"Psichico","Japanese":"\u30b5\u30a4\u30b3\u30ad\u30cd\u30b7\u30b9","Korean":"\uc0ac\uc774\ucf54\ud0a4\ub124\uc2dc\uc2a4","Spanish":"Ps\u00edquico"},"combat":{"energy":-55,"power":90}},"BODY_SLAM":{"id":"BODY_SLAM","power":50,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Body Slam","German":"Bodyslam","French":"Plaquage","Italian":"Corposcontro","Japanese":"\u306e\u3057\u304b\u304b\u308a","Korean":"\ub204\ub974\uae30","Spanish":"Golpe Cuerpo"},"combat":{"energy":-35,"power":60}}},"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_173_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_173_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "CLEFFA",
+    "formId": "CLEFFA",
+    "dexNr": 173,
+    "generation": 2,
+    "names": {
+        "English": "Cleffa",
+        "German": "Pii",
+        "French": "M\u00e9lo",
+        "Italian": "Cleffa",
+        "Japanese": "\u30d4\u30a3",
+        "Korean": "\uc090",
+        "Spanish": "Cleffa"
+    },
+    "stats": {
+        "stamina": 137,
+        "attack": 75,
+        "defense": 79
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_FAIRY",
+        "names": {
+            "English": "Fairy",
+            "German": "Fee",
+            "French": "F\u00e9e",
+            "Italian": "Folletto",
+            "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+            "Korean": "\ud398\uc5b4\ub9ac",
+            "Spanish": "Hada"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "POUND_FAST": {
+            "id": "POUND_FAST",
+            "power": 7,
+            "energy": 6,
+            "durationMs": 600,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Pound",
+                "German": "Klaps",
+                "French": "\u00c9cras\u2019Face",
+                "Italian": "Botta",
+                "Japanese": "\u306f\u305f\u304f",
+                "Korean": "\ub9c9\uce58\uae30",
+                "Spanish": "Destructor"
+            },
+            "combat": {
+                "energy": 4,
+                "power": 5
+            }
+        },
+        "ZEN_HEADBUTT_FAST": {
+            "id": "ZEN_HEADBUTT_FAST",
+            "power": 12,
+            "energy": 10,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Zen Headbutt",
+                "German": "Zen-Kopfsto\u00df",
+                "French": "Psykoud\u2019Boul",
+                "Italian": "Cozzata Zen",
+                "Japanese": "\u3057\u306d\u3093\u306e\u305a\u3064\u304d",
+                "Korean": "\uc0ac\ub150\uc758\ubc15\uce58\uae30",
+                "Spanish": "Cabezazo Zen"
+            },
+            "combat": {
+                "energy": 6,
+                "power": 8
+            }
+        }
+    },
+    "cinematicMoves": {
+        "GRASS_KNOT": {
+            "id": "GRASS_KNOT",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Grass Knot",
+                "German": "Strauchler",
+                "French": "N\u0153ud Herbe",
+                "Italian": "Laccioerboso",
+                "Japanese": "\u304f\u3055\u3080\u3059\u3073",
+                "Korean": "\ud480\ubb36\uae30",
+                "Spanish": "Hierba Lazo"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 90
+            }
+        },
+        "PSYSHOCK": {
+            "id": "PSYSHOCK",
+            "power": 65,
+            "energy": -33,
+            "durationMs": 2700,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Psyshock",
+                "German": "Psychoschock",
+                "French": "Choc Psy",
+                "Italian": "Psicoshock",
+                "Japanese": "\u30b5\u30a4\u30b3\u30b7\u30e7\u30c3\u30af",
+                "Korean": "\uc0ac\uc774\ucf54\uc1fc\ud06c",
+                "Spanish": "Psicocarga"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 70
+            }
+        },
+        "SIGNAL_BEAM": {
+            "id": "SIGNAL_BEAM",
+            "power": 75,
+            "energy": -50,
+            "durationMs": 2900,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "Signal Beam",
+                "German": "Ampelleuchte",
+                "French": "Rayon Signal",
+                "Italian": "Segnoraggio",
+                "Japanese": "\u30b7\u30b0\u30ca\u30eb\u30d3\u30fc\u30e0",
+                "Korean": "\uc2dc\uadf8\ub110\ube54",
+                "Spanish": "Doble Rayo"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 75
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": {
+        "PSYCHIC": {
+            "id": "PSYCHIC",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 2800,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Psychic",
+                "German": "Psychokinese",
+                "French": "Psyko",
+                "Italian": "Psichico",
+                "Japanese": "\u30b5\u30a4\u30b3\u30ad\u30cd\u30b7\u30b9",
+                "Korean": "\uc0ac\uc774\ucf54\ud0a4\ub124\uc2dc\uc2a4",
+                "Spanish": "Ps\u00edquico"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        },
+        "BODY_SLAM": {
+            "id": "BODY_SLAM",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 1900,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Body Slam",
+                "German": "Bodyslam",
+                "French": "Plaquage",
+                "Italian": "Corposcontro",
+                "Japanese": "\u306e\u3057\u304b\u304b\u308a",
+                "Korean": "\ub204\ub974\uae30",
+                "Spanish": "Golpe Cuerpo"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 60
+            }
+        }
+    },
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_173_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_173_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

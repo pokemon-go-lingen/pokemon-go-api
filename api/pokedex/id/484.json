@@ -1,1 +1,243 @@
-{"id":"PALKIA","formId":"PALKIA","dexNr":484,"generation":4,"names":{"English":"Palkia","German":"Palkia","French":"Palkia","Italian":"Palkia","Japanese":"\u30d1\u30eb\u30ad\u30a2","Korean":"\ud384\uae30\uc544","Spanish":"Palkia"},"stats":{"stamina":189,"attack":280,"defense":215},"primaryType":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"secondaryType":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"quickMoves":{"DRAGON_BREATH_FAST":{"id":"DRAGON_BREATH_FAST","power":6,"energy":4,"durationMs":500,"type":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"names":{"English":"Dragon Breath","German":"Feuerodem","French":"Draco-Souffle","Italian":"Dragospiro","Japanese":"\u308a\u3085\u3046\u306e\u3044\u3076\u304d","Korean":"\uc6a9\uc758\uc228\uacb0","Spanish":"Dragoaliento"},"combat":{"energy":3,"power":4}},"DRAGON_TAIL_FAST":{"id":"DRAGON_TAIL_FAST","power":15,"energy":9,"durationMs":1100,"type":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"names":{"English":"Dragon Tail","German":"Drachenrute","French":"Draco-Queue","Italian":"Codadrago","Japanese":"\u30c9\u30e9\u30b4\u30f3\u30c6\u30fc\u30eb","Korean":"\ub4dc\ub798\uace4\ud14c\uc77c","Spanish":"Cola Drag\u00f3n"},"combat":{"energy":10,"power":9}}},"cinematicMoves":{"DRACO_METEOR":{"id":"DRACO_METEOR","power":150,"energy":-100,"durationMs":3600,"type":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"names":{"English":"Draco Meteor","German":"Draco Meteor","French":"Draco-M\u00e9t\u00e9ore","Italian":"Dragobolide","Japanese":"\u308a\u3085\u3046\u305b\u3044\u3050\u3093","Korean":"\uc6a9\uc131\uad70","Spanish":"Cometa Draco"},"combat":{"energy":-65,"power":150}},"FIRE_BLAST":{"id":"FIRE_BLAST","power":140,"energy":-100,"durationMs":4200,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Fire Blast","German":"Feuersturm","French":"D\u00e9flagration","Italian":"Fuocobomba","Japanese":"\u3060\u3044\u3082\u3093\u3058","Korean":"\ubd88\ub300\ubb38\uc790","Spanish":"Llamarada"},"combat":{"energy":-80,"power":140}},"HYDRO_PUMP":{"id":"HYDRO_PUMP","power":130,"energy":-100,"durationMs":3300,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Hydro Pump","German":"Hydropumpe","French":"Hydrocanon","Italian":"Idropompa","Japanese":"\u30cf\u30a4\u30c9\u30ed\u30dd\u30f3\u30d7","Korean":"\ud558\uc774\ub4dc\ub85c\ud38c\ud504","Spanish":"Hidrobomba"},"combat":{"energy":-75,"power":130}},"AQUA_TAIL":{"id":"AQUA_TAIL","power":50,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Aqua Tail","German":"Nassschweif","French":"Hydro-Queue","Italian":"Idrondata","Japanese":"\u30a2\u30af\u30a2\u30c6\u30fc\u30eb","Korean":"\uc544\ucfe0\uc544\ud14c\uc77c","Spanish":"Acua Cola"},"combat":{"energy":-35,"power":50}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_484_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_484_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "PALKIA",
+    "formId": "PALKIA",
+    "dexNr": 484,
+    "generation": 4,
+    "names": {
+        "English": "Palkia",
+        "German": "Palkia",
+        "French": "Palkia",
+        "Italian": "Palkia",
+        "Japanese": "\u30d1\u30eb\u30ad\u30a2",
+        "Korean": "\ud384\uae30\uc544",
+        "Spanish": "Palkia"
+    },
+    "stats": {
+        "stamina": 189,
+        "attack": 280,
+        "defense": 215
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_WATER",
+        "names": {
+            "English": "Water",
+            "German": "Wasser",
+            "French": "Eau",
+            "Italian": "Acqua",
+            "Japanese": "\u307f\u305a",
+            "Korean": "\ubb3c",
+            "Spanish": "Agua"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_DRAGON",
+        "names": {
+            "English": "Dragon",
+            "German": "Drache",
+            "French": "Dragon",
+            "Italian": "Drago",
+            "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+            "Korean": "\ub4dc\ub798\uace4",
+            "Spanish": "Drag\u00f3n"
+        }
+    },
+    "quickMoves": {
+        "DRAGON_BREATH_FAST": {
+            "id": "DRAGON_BREATH_FAST",
+            "power": 6,
+            "energy": 4,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_DRAGON",
+                "names": {
+                    "English": "Dragon",
+                    "German": "Drache",
+                    "French": "Dragon",
+                    "Italian": "Drago",
+                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                    "Korean": "\ub4dc\ub798\uace4",
+                    "Spanish": "Drag\u00f3n"
+                }
+            },
+            "names": {
+                "English": "Dragon Breath",
+                "German": "Feuerodem",
+                "French": "Draco-Souffle",
+                "Italian": "Dragospiro",
+                "Japanese": "\u308a\u3085\u3046\u306e\u3044\u3076\u304d",
+                "Korean": "\uc6a9\uc758\uc228\uacb0",
+                "Spanish": "Dragoaliento"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 4
+            }
+        },
+        "DRAGON_TAIL_FAST": {
+            "id": "DRAGON_TAIL_FAST",
+            "power": 15,
+            "energy": 9,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_DRAGON",
+                "names": {
+                    "English": "Dragon",
+                    "German": "Drache",
+                    "French": "Dragon",
+                    "Italian": "Drago",
+                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                    "Korean": "\ub4dc\ub798\uace4",
+                    "Spanish": "Drag\u00f3n"
+                }
+            },
+            "names": {
+                "English": "Dragon Tail",
+                "German": "Drachenrute",
+                "French": "Draco-Queue",
+                "Italian": "Codadrago",
+                "Japanese": "\u30c9\u30e9\u30b4\u30f3\u30c6\u30fc\u30eb",
+                "Korean": "\ub4dc\ub798\uace4\ud14c\uc77c",
+                "Spanish": "Cola Drag\u00f3n"
+            },
+            "combat": {
+                "energy": 10,
+                "power": 9
+            }
+        }
+    },
+    "cinematicMoves": {
+        "DRACO_METEOR": {
+            "id": "DRACO_METEOR",
+            "power": 150,
+            "energy": -100,
+            "durationMs": 3600,
+            "type": {
+                "type": "POKEMON_TYPE_DRAGON",
+                "names": {
+                    "English": "Dragon",
+                    "German": "Drache",
+                    "French": "Dragon",
+                    "Italian": "Drago",
+                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                    "Korean": "\ub4dc\ub798\uace4",
+                    "Spanish": "Drag\u00f3n"
+                }
+            },
+            "names": {
+                "English": "Draco Meteor",
+                "German": "Draco Meteor",
+                "French": "Draco-M\u00e9t\u00e9ore",
+                "Italian": "Dragobolide",
+                "Japanese": "\u308a\u3085\u3046\u305b\u3044\u3050\u3093",
+                "Korean": "\uc6a9\uc131\uad70",
+                "Spanish": "Cometa Draco"
+            },
+            "combat": {
+                "energy": -65,
+                "power": 150
+            }
+        },
+        "FIRE_BLAST": {
+            "id": "FIRE_BLAST",
+            "power": 140,
+            "energy": -100,
+            "durationMs": 4200,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Fire Blast",
+                "German": "Feuersturm",
+                "French": "D\u00e9flagration",
+                "Italian": "Fuocobomba",
+                "Japanese": "\u3060\u3044\u3082\u3093\u3058",
+                "Korean": "\ubd88\ub300\ubb38\uc790",
+                "Spanish": "Llamarada"
+            },
+            "combat": {
+                "energy": -80,
+                "power": 140
+            }
+        },
+        "HYDRO_PUMP": {
+            "id": "HYDRO_PUMP",
+            "power": 130,
+            "energy": -100,
+            "durationMs": 3300,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Hydro Pump",
+                "German": "Hydropumpe",
+                "French": "Hydrocanon",
+                "Italian": "Idropompa",
+                "Japanese": "\u30cf\u30a4\u30c9\u30ed\u30dd\u30f3\u30d7",
+                "Korean": "\ud558\uc774\ub4dc\ub85c\ud38c\ud504",
+                "Spanish": "Hidrobomba"
+            },
+            "combat": {
+                "energy": -75,
+                "power": 130
+            }
+        },
+        "AQUA_TAIL": {
+            "id": "AQUA_TAIL",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 1900,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Aqua Tail",
+                "German": "Nassschweif",
+                "French": "Hydro-Queue",
+                "Italian": "Idrondata",
+                "Japanese": "\u30a2\u30af\u30a2\u30c6\u30fc\u30eb",
+                "Korean": "\uc544\ucfe0\uc544\ud14c\uc77c",
+                "Spanish": "Acua Cola"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 50
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_484_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_484_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

@@ -1,1 +1,508 @@
-{"id":"MAROWAK","formId":"MAROWAK","dexNr":105,"generation":1,"names":{"English":"Marowak","German":"Knogga","French":"Ossatueur","Italian":"Marowak","Japanese":"\u30ac\u30e9\u30ac\u30e9","Korean":"\ud145\uad6c\ub9ac","Spanish":"Marowak"},"stats":{"stamina":155,"attack":144,"defense":186},"primaryType":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"secondaryType":null,"quickMoves":{"MUD_SLAP_FAST":{"id":"MUD_SLAP_FAST","power":18,"energy":12,"durationMs":1400,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Mud-Slap","German":"Lehmschelle","French":"Coud\u2019Boue","Italian":"Fangosberla","Japanese":"\u3069\u308d\u304b\u3051","Korean":"\uc9c4\ud759\ubfcc\ub9ac\uae30","Spanish":"Bofet\u00f3n Lodo"},"combat":{"energy":8,"power":11}},"ROCK_SMASH_FAST":{"id":"ROCK_SMASH_FAST","power":15,"energy":10,"durationMs":1300,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Rock Smash","German":"Zertr\u00fcmmerer","French":"\u00c9clate-Roc","Italian":"Spaccaroccia","Japanese":"\u3044\u308f\u304f\u3060\u304d","Korean":"\ubc14\uc704\uae68\uae30","Spanish":"Golpe Roca"},"combat":{"energy":7,"power":9}}},"cinematicMoves":{"BONE_CLUB":{"id":"BONE_CLUB","power":40,"energy":-33,"durationMs":1600,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Bone Club","German":"Knochenkeule","French":"Massd\u2019Os","Italian":"Ossoclava","Japanese":"\u30db\u30cd\u3053\u3093\u307c\u3046","Korean":"\ubf08\ub2e4\uadc0\uce58\uae30","Spanish":"Hueso Palo"},"combat":{"energy":-35,"power":40}},"DIG":{"id":"DIG","power":100,"energy":-50,"durationMs":4700,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Dig","German":"Schaufler","French":"Tunnel","Italian":"Fossa","Japanese":"\u3042\u306a\u3092\u307b\u308b","Korean":"\uad6c\uba4d\ud30c\uae30","Spanish":"Excavar"},"combat":{"energy":-80,"power":100}},"EARTHQUAKE":{"id":"EARTHQUAKE","power":140,"energy":-100,"durationMs":3600,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Earthquake","German":"Erdbeben","French":"S\u00e9isme","Italian":"Terremoto","Japanese":"\u3058\u3057\u3093","Korean":"\uc9c0\uc9c4","Spanish":"Terremoto"},"combat":{"energy":-65,"power":120}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_105_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_105_00_shiny.png"},"regionForms":[{"id":"MAROWAK","formId":"MAROWAK_ALOLA","dexNr":105,"generation":1,"names":{"English":"Alolan Marowak","German":"Alola-Knogga","French":"Ossatueur d'Alola","Italian":"Marowak di Alola","Japanese":"\u30a2\u30ed\u30fc\u30e9 \u30ac\u30e9\u30ac\u30e9","Korean":"\uc54c\ub85c\ub77c \ud145\uad6c\ub9ac","Spanish":"Marowak de Alola"},"stats":{"stamina":155,"attack":144,"defense":186},"primaryType":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"secondaryType":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"quickMoves":{"HEX_FAST":{"id":"HEX_FAST","power":10,"energy":16,"durationMs":1200,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Hex","German":"B\u00fcrde","French":"Ch\u00e2timent","Italian":"Sciagura","Japanese":"\u305f\u305f\u308a\u3081","Korean":"\ubcd1\uc0c1\ucca8\ubcd1","Spanish":"Infortunio"},"combat":{"energy":12,"power":6}},"ROCK_SMASH_FAST":{"id":"ROCK_SMASH_FAST","power":15,"energy":10,"durationMs":1300,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Rock Smash","German":"Zertr\u00fcmmerer","French":"\u00c9clate-Roc","Italian":"Spaccaroccia","Japanese":"\u3044\u308f\u304f\u3060\u304d","Korean":"\ubc14\uc704\uae68\uae30","Spanish":"Golpe Roca"},"combat":{"energy":7,"power":9}},"FIRE_SPIN_FAST":{"id":"FIRE_SPIN_FAST","power":14,"energy":10,"durationMs":1100,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Fire Spin","German":"Feuerwirbel","French":"Danse Flammes","Italian":"Turbofuoco","Japanese":"\u307b\u306e\u304a\u306e\u3046\u305a","Korean":"\ud68c\uc624\ub9ac\ubd88\uaf43","Spanish":"Giro Fuego"},"combat":{"energy":10,"power":9}}},"cinematicMoves":{"BONE_CLUB":{"id":"BONE_CLUB","power":40,"energy":-33,"durationMs":1600,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Bone Club","German":"Knochenkeule","French":"Massd\u2019Os","Italian":"Ossoclava","Japanese":"\u30db\u30cd\u3053\u3093\u307c\u3046","Korean":"\ubf08\ub2e4\uadc0\uce58\uae30","Spanish":"Hueso Palo"},"combat":{"energy":-35,"power":40}},"SHADOW_BALL":{"id":"SHADOW_BALL","power":100,"energy":-50,"durationMs":3000,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Shadow Ball","German":"Spukball","French":"Ball\u2019Ombre","Italian":"Palla Ombra","Japanese":"\u30b7\u30e3\u30c9\u30fc\u30dc\u30fc\u30eb","Korean":"\uc100\ub3c4\ubcfc","Spanish":"Bola Sombra"},"combat":{"energy":-55,"power":100}},"FIRE_BLAST":{"id":"FIRE_BLAST","power":140,"energy":-100,"durationMs":4200,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Fire Blast","German":"Feuersturm","French":"D\u00e9flagration","Italian":"Fuocobomba","Japanese":"\u3060\u3044\u3082\u3093\u3058","Korean":"\ubd88\ub300\ubb38\uc790","Spanish":"Llamarada"},"combat":{"energy":-80,"power":140}},"FLAME_WHEEL":{"id":"FLAME_WHEEL","power":60,"energy":-50,"durationMs":2700,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Flame Wheel","German":"Flammenrad","French":"Roue de Feu","Italian":"Ruotafuoco","Japanese":"\u304b\u3048\u3093\u3050\u308b\u307e","Korean":"\ud654\uc5fc\uc790\ub3d9\ucc28","Spanish":"Rueda Fuego"},"combat":{"energy":-55,"power":60}}},"eliteQuickMoves":[],"eliteCinematicMoves":{"SHADOW_BONE":{"id":"SHADOW_BONE","power":80,"energy":-50,"durationMs":2800,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Shadow Bone","German":"Schattenknochen","French":"Os Ombre","Italian":"Ossotetro","Japanese":"\u30b7\u30e3\u30c9\u30fc\u30dc\u30fc\u30f3","Korean":"\uc100\ub3c4\ubcf8","Spanish":"Hueso Sombr\u00edo"},"combat":{"energy":-45,"power":80}}},"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_105_61.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_105_61_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "MAROWAK",
+    "formId": "MAROWAK",
+    "dexNr": 105,
+    "generation": 1,
+    "names": {
+        "English": "Marowak",
+        "German": "Knogga",
+        "French": "Ossatueur",
+        "Italian": "Marowak",
+        "Japanese": "\u30ac\u30e9\u30ac\u30e9",
+        "Korean": "\ud145\uad6c\ub9ac",
+        "Spanish": "Marowak"
+    },
+    "stats": {
+        "stamina": 155,
+        "attack": 144,
+        "defense": 186
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_GROUND",
+        "names": {
+            "English": "Ground",
+            "German": "Boden",
+            "French": "Sol",
+            "Italian": "Terra",
+            "Japanese": "\u3058\u3081\u3093",
+            "Korean": "\ub545",
+            "Spanish": "Tierra"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "MUD_SLAP_FAST": {
+            "id": "MUD_SLAP_FAST",
+            "power": 18,
+            "energy": 12,
+            "durationMs": 1400,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Mud-Slap",
+                "German": "Lehmschelle",
+                "French": "Coud\u2019Boue",
+                "Italian": "Fangosberla",
+                "Japanese": "\u3069\u308d\u304b\u3051",
+                "Korean": "\uc9c4\ud759\ubfcc\ub9ac\uae30",
+                "Spanish": "Bofet\u00f3n Lodo"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 11
+            }
+        },
+        "ROCK_SMASH_FAST": {
+            "id": "ROCK_SMASH_FAST",
+            "power": 15,
+            "energy": 10,
+            "durationMs": 1300,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Rock Smash",
+                "German": "Zertr\u00fcmmerer",
+                "French": "\u00c9clate-Roc",
+                "Italian": "Spaccaroccia",
+                "Japanese": "\u3044\u308f\u304f\u3060\u304d",
+                "Korean": "\ubc14\uc704\uae68\uae30",
+                "Spanish": "Golpe Roca"
+            },
+            "combat": {
+                "energy": 7,
+                "power": 9
+            }
+        }
+    },
+    "cinematicMoves": {
+        "BONE_CLUB": {
+            "id": "BONE_CLUB",
+            "power": 40,
+            "energy": -33,
+            "durationMs": 1600,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Bone Club",
+                "German": "Knochenkeule",
+                "French": "Massd\u2019Os",
+                "Italian": "Ossoclava",
+                "Japanese": "\u30db\u30cd\u3053\u3093\u307c\u3046",
+                "Korean": "\ubf08\ub2e4\uadc0\uce58\uae30",
+                "Spanish": "Hueso Palo"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 40
+            }
+        },
+        "DIG": {
+            "id": "DIG",
+            "power": 100,
+            "energy": -50,
+            "durationMs": 4700,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Dig",
+                "German": "Schaufler",
+                "French": "Tunnel",
+                "Italian": "Fossa",
+                "Japanese": "\u3042\u306a\u3092\u307b\u308b",
+                "Korean": "\uad6c\uba4d\ud30c\uae30",
+                "Spanish": "Excavar"
+            },
+            "combat": {
+                "energy": -80,
+                "power": 100
+            }
+        },
+        "EARTHQUAKE": {
+            "id": "EARTHQUAKE",
+            "power": 140,
+            "energy": -100,
+            "durationMs": 3600,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Earthquake",
+                "German": "Erdbeben",
+                "French": "S\u00e9isme",
+                "Italian": "Terremoto",
+                "Japanese": "\u3058\u3057\u3093",
+                "Korean": "\uc9c0\uc9c4",
+                "Spanish": "Terremoto"
+            },
+            "combat": {
+                "energy": -65,
+                "power": 120
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_105_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_105_00_shiny.png"
+    },
+    "regionForms": [
+        {
+            "id": "MAROWAK",
+            "formId": "MAROWAK_ALOLA",
+            "dexNr": 105,
+            "generation": 1,
+            "names": {
+                "English": "Alolan Marowak",
+                "German": "Alola-Knogga",
+                "French": "Ossatueur d'Alola",
+                "Italian": "Marowak di Alola",
+                "Japanese": "\u30a2\u30ed\u30fc\u30e9 \u30ac\u30e9\u30ac\u30e9",
+                "Korean": "\uc54c\ub85c\ub77c \ud145\uad6c\ub9ac",
+                "Spanish": "Marowak de Alola"
+            },
+            "stats": {
+                "stamina": 155,
+                "attack": 144,
+                "defense": 186
+            },
+            "primaryType": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "secondaryType": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "quickMoves": {
+                "HEX_FAST": {
+                    "id": "HEX_FAST",
+                    "power": 10,
+                    "energy": 16,
+                    "durationMs": 1200,
+                    "type": {
+                        "type": "POKEMON_TYPE_GHOST",
+                        "names": {
+                            "English": "Ghost",
+                            "German": "Geist",
+                            "French": "Spectre",
+                            "Italian": "Spettro",
+                            "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                            "Korean": "\uace0\uc2a4\ud2b8",
+                            "Spanish": "Fantasma"
+                        }
+                    },
+                    "names": {
+                        "English": "Hex",
+                        "German": "B\u00fcrde",
+                        "French": "Ch\u00e2timent",
+                        "Italian": "Sciagura",
+                        "Japanese": "\u305f\u305f\u308a\u3081",
+                        "Korean": "\ubcd1\uc0c1\ucca8\ubcd1",
+                        "Spanish": "Infortunio"
+                    },
+                    "combat": {
+                        "energy": 12,
+                        "power": 6
+                    }
+                },
+                "ROCK_SMASH_FAST": {
+                    "id": "ROCK_SMASH_FAST",
+                    "power": 15,
+                    "energy": 10,
+                    "durationMs": 1300,
+                    "type": {
+                        "type": "POKEMON_TYPE_FIGHTING",
+                        "names": {
+                            "English": "Fighting",
+                            "German": "Kampf",
+                            "French": "Combat",
+                            "Italian": "Lotta",
+                            "Japanese": "\u304b\u304f\u3068\u3046",
+                            "Korean": "\uaca9\ud22c",
+                            "Spanish": "Lucha"
+                        }
+                    },
+                    "names": {
+                        "English": "Rock Smash",
+                        "German": "Zertr\u00fcmmerer",
+                        "French": "\u00c9clate-Roc",
+                        "Italian": "Spaccaroccia",
+                        "Japanese": "\u3044\u308f\u304f\u3060\u304d",
+                        "Korean": "\ubc14\uc704\uae68\uae30",
+                        "Spanish": "Golpe Roca"
+                    },
+                    "combat": {
+                        "energy": 7,
+                        "power": 9
+                    }
+                },
+                "FIRE_SPIN_FAST": {
+                    "id": "FIRE_SPIN_FAST",
+                    "power": 14,
+                    "energy": 10,
+                    "durationMs": 1100,
+                    "type": {
+                        "type": "POKEMON_TYPE_FIRE",
+                        "names": {
+                            "English": "Fire",
+                            "German": "Feuer",
+                            "French": "Feu",
+                            "Italian": "Fuoco",
+                            "Japanese": "\u307b\u306e\u304a",
+                            "Korean": "\ubd88\uaf43",
+                            "Spanish": "Fuego"
+                        }
+                    },
+                    "names": {
+                        "English": "Fire Spin",
+                        "German": "Feuerwirbel",
+                        "French": "Danse Flammes",
+                        "Italian": "Turbofuoco",
+                        "Japanese": "\u307b\u306e\u304a\u306e\u3046\u305a",
+                        "Korean": "\ud68c\uc624\ub9ac\ubd88\uaf43",
+                        "Spanish": "Giro Fuego"
+                    },
+                    "combat": {
+                        "energy": 10,
+                        "power": 9
+                    }
+                }
+            },
+            "cinematicMoves": {
+                "BONE_CLUB": {
+                    "id": "BONE_CLUB",
+                    "power": 40,
+                    "energy": -33,
+                    "durationMs": 1600,
+                    "type": {
+                        "type": "POKEMON_TYPE_GROUND",
+                        "names": {
+                            "English": "Ground",
+                            "German": "Boden",
+                            "French": "Sol",
+                            "Italian": "Terra",
+                            "Japanese": "\u3058\u3081\u3093",
+                            "Korean": "\ub545",
+                            "Spanish": "Tierra"
+                        }
+                    },
+                    "names": {
+                        "English": "Bone Club",
+                        "German": "Knochenkeule",
+                        "French": "Massd\u2019Os",
+                        "Italian": "Ossoclava",
+                        "Japanese": "\u30db\u30cd\u3053\u3093\u307c\u3046",
+                        "Korean": "\ubf08\ub2e4\uadc0\uce58\uae30",
+                        "Spanish": "Hueso Palo"
+                    },
+                    "combat": {
+                        "energy": -35,
+                        "power": 40
+                    }
+                },
+                "SHADOW_BALL": {
+                    "id": "SHADOW_BALL",
+                    "power": 100,
+                    "energy": -50,
+                    "durationMs": 3000,
+                    "type": {
+                        "type": "POKEMON_TYPE_GHOST",
+                        "names": {
+                            "English": "Ghost",
+                            "German": "Geist",
+                            "French": "Spectre",
+                            "Italian": "Spettro",
+                            "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                            "Korean": "\uace0\uc2a4\ud2b8",
+                            "Spanish": "Fantasma"
+                        }
+                    },
+                    "names": {
+                        "English": "Shadow Ball",
+                        "German": "Spukball",
+                        "French": "Ball\u2019Ombre",
+                        "Italian": "Palla Ombra",
+                        "Japanese": "\u30b7\u30e3\u30c9\u30fc\u30dc\u30fc\u30eb",
+                        "Korean": "\uc100\ub3c4\ubcfc",
+                        "Spanish": "Bola Sombra"
+                    },
+                    "combat": {
+                        "energy": -55,
+                        "power": 100
+                    }
+                },
+                "FIRE_BLAST": {
+                    "id": "FIRE_BLAST",
+                    "power": 140,
+                    "energy": -100,
+                    "durationMs": 4200,
+                    "type": {
+                        "type": "POKEMON_TYPE_FIRE",
+                        "names": {
+                            "English": "Fire",
+                            "German": "Feuer",
+                            "French": "Feu",
+                            "Italian": "Fuoco",
+                            "Japanese": "\u307b\u306e\u304a",
+                            "Korean": "\ubd88\uaf43",
+                            "Spanish": "Fuego"
+                        }
+                    },
+                    "names": {
+                        "English": "Fire Blast",
+                        "German": "Feuersturm",
+                        "French": "D\u00e9flagration",
+                        "Italian": "Fuocobomba",
+                        "Japanese": "\u3060\u3044\u3082\u3093\u3058",
+                        "Korean": "\ubd88\ub300\ubb38\uc790",
+                        "Spanish": "Llamarada"
+                    },
+                    "combat": {
+                        "energy": -80,
+                        "power": 140
+                    }
+                },
+                "FLAME_WHEEL": {
+                    "id": "FLAME_WHEEL",
+                    "power": 60,
+                    "energy": -50,
+                    "durationMs": 2700,
+                    "type": {
+                        "type": "POKEMON_TYPE_FIRE",
+                        "names": {
+                            "English": "Fire",
+                            "German": "Feuer",
+                            "French": "Feu",
+                            "Italian": "Fuoco",
+                            "Japanese": "\u307b\u306e\u304a",
+                            "Korean": "\ubd88\uaf43",
+                            "Spanish": "Fuego"
+                        }
+                    },
+                    "names": {
+                        "English": "Flame Wheel",
+                        "German": "Flammenrad",
+                        "French": "Roue de Feu",
+                        "Italian": "Ruotafuoco",
+                        "Japanese": "\u304b\u3048\u3093\u3050\u308b\u307e",
+                        "Korean": "\ud654\uc5fc\uc790\ub3d9\ucc28",
+                        "Spanish": "Rueda Fuego"
+                    },
+                    "combat": {
+                        "energy": -55,
+                        "power": 60
+                    }
+                }
+            },
+            "eliteQuickMoves": [],
+            "eliteCinematicMoves": {
+                "SHADOW_BONE": {
+                    "id": "SHADOW_BONE",
+                    "power": 80,
+                    "energy": -50,
+                    "durationMs": 2800,
+                    "type": {
+                        "type": "POKEMON_TYPE_GHOST",
+                        "names": {
+                            "English": "Ghost",
+                            "German": "Geist",
+                            "French": "Spectre",
+                            "Italian": "Spettro",
+                            "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                            "Korean": "\uace0\uc2a4\ud2b8",
+                            "Spanish": "Fantasma"
+                        }
+                    },
+                    "names": {
+                        "English": "Shadow Bone",
+                        "German": "Schattenknochen",
+                        "French": "Os Ombre",
+                        "Italian": "Ossotetro",
+                        "Japanese": "\u30b7\u30e3\u30c9\u30fc\u30dc\u30fc\u30f3",
+                        "Korean": "\uc100\ub3c4\ubcf8",
+                        "Spanish": "Hueso Sombr\u00edo"
+                    },
+                    "combat": {
+                        "energy": -45,
+                        "power": 80
+                    }
+                }
+            },
+            "assets": {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_105_61.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_105_61_shiny.png"
+            },
+            "regionForms": [],
+            "hasMegaEvolution": false,
+            "megaEvolutions": []
+        }
+    ],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

@@ -1,1 +1,212 @@
-{"id":"CHATOT","formId":"CHATOT","dexNr":441,"generation":4,"names":{"English":"Chatot","German":"Plaudagei","French":"Pijako","Italian":"Chatot","Japanese":"\u30da\u30e9\u30c3\u30d7","Korean":"\ud398\ub77c\ud398","Spanish":"Chatot"},"stats":{"stamina":183,"attack":183,"defense":91},"primaryType":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"secondaryType":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"quickMoves":{"PECK_FAST":{"id":"PECK_FAST","power":10,"energy":10,"durationMs":1000,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Peck","German":"Pikser","French":"Picpic","Italian":"Beccata","Japanese":"\u3064\u3064\u304f","Korean":"\ucabc\uae30","Spanish":"Picotazo"},"combat":{"energy":5,"power":6}},"STEEL_WING_FAST":{"id":"STEEL_WING_FAST","power":11,"energy":6,"durationMs":800,"type":{"type":"POKEMON_TYPE_STEEL","names":{"English":"Steel","German":"Stahl","French":"Acier","Italian":"Acciaio","Japanese":"\u306f\u304c\u306d","Korean":"\uac15\ucca0","Spanish":"Acero"}},"names":{"English":"Steel Wing","German":"Stahlfl\u00fcgel","French":"Ailes d\u2019Acier","Italian":"Alacciaio","Japanese":"\u306f\u304c\u306d\u306e\u3064\u3070\u3055","Korean":"\uac15\ucca0\ub0a0\uac1c","Spanish":"Ala de Acero"},"combat":{"energy":5,"power":7}}},"cinematicMoves":{"NIGHT_SHADE":{"id":"NIGHT_SHADE","power":60,"energy":-50,"durationMs":2600,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Night Shade","German":"Nachtnebel","French":"Ombre Nocturne","Italian":"Ombra Notturna","Japanese":"\u30ca\u30a4\u30c8\u30d8\u30c3\u30c9","Korean":"\ub098\uc774\ud2b8\ud5e4\ub4dc","Spanish":"Tinieblas"},"combat":{"energy":-55,"power":60}},"SKY_ATTACK":{"id":"SKY_ATTACK","power":80,"energy":-50,"durationMs":2000,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Sky Attack","German":"Himmelsfeger","French":"Piqu\u00e9","Italian":"Aeroattacco","Japanese":"\u30b4\u30c3\u30c9\u30d0\u30fc\u30c9","Korean":"\ubd88\uc0c8","Spanish":"Ataque A\u00e9reo"},"combat":{"energy":-45,"power":80}},"HEAT_WAVE":{"id":"HEAT_WAVE","power":95,"energy":-100,"durationMs":3000,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Heat Wave","German":"Hitzewelle","French":"Canicule","Italian":"Ondacalda","Japanese":"\u306d\u3063\u3077\u3046","Korean":"\uc5f4\ud48d","Spanish":"Onda \u00cdgnea"},"combat":{"energy":-75,"power":95}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_441_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_441_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "CHATOT",
+    "formId": "CHATOT",
+    "dexNr": 441,
+    "generation": 4,
+    "names": {
+        "English": "Chatot",
+        "German": "Plaudagei",
+        "French": "Pijako",
+        "Italian": "Chatot",
+        "Japanese": "\u30da\u30e9\u30c3\u30d7",
+        "Korean": "\ud398\ub77c\ud398",
+        "Spanish": "Chatot"
+    },
+    "stats": {
+        "stamina": 183,
+        "attack": 183,
+        "defense": 91
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_NORMAL",
+        "names": {
+            "English": "Normal",
+            "German": "Normal",
+            "French": "Normal",
+            "Italian": "Normale",
+            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+            "Korean": "\ub178\ub9d0",
+            "Spanish": "Normal"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_FLYING",
+        "names": {
+            "English": "Flying",
+            "German": "Flug",
+            "French": "Vol",
+            "Italian": "Volante",
+            "Japanese": "\u3072\u3053\u3046",
+            "Korean": "\ube44\ud589",
+            "Spanish": "Volador"
+        }
+    },
+    "quickMoves": {
+        "PECK_FAST": {
+            "id": "PECK_FAST",
+            "power": 10,
+            "energy": 10,
+            "durationMs": 1000,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Peck",
+                "German": "Pikser",
+                "French": "Picpic",
+                "Italian": "Beccata",
+                "Japanese": "\u3064\u3064\u304f",
+                "Korean": "\ucabc\uae30",
+                "Spanish": "Picotazo"
+            },
+            "combat": {
+                "energy": 5,
+                "power": 6
+            }
+        },
+        "STEEL_WING_FAST": {
+            "id": "STEEL_WING_FAST",
+            "power": 11,
+            "energy": 6,
+            "durationMs": 800,
+            "type": {
+                "type": "POKEMON_TYPE_STEEL",
+                "names": {
+                    "English": "Steel",
+                    "German": "Stahl",
+                    "French": "Acier",
+                    "Italian": "Acciaio",
+                    "Japanese": "\u306f\u304c\u306d",
+                    "Korean": "\uac15\ucca0",
+                    "Spanish": "Acero"
+                }
+            },
+            "names": {
+                "English": "Steel Wing",
+                "German": "Stahlfl\u00fcgel",
+                "French": "Ailes d\u2019Acier",
+                "Italian": "Alacciaio",
+                "Japanese": "\u306f\u304c\u306d\u306e\u3064\u3070\u3055",
+                "Korean": "\uac15\ucca0\ub0a0\uac1c",
+                "Spanish": "Ala de Acero"
+            },
+            "combat": {
+                "energy": 5,
+                "power": 7
+            }
+        }
+    },
+    "cinematicMoves": {
+        "NIGHT_SHADE": {
+            "id": "NIGHT_SHADE",
+            "power": 60,
+            "energy": -50,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Night Shade",
+                "German": "Nachtnebel",
+                "French": "Ombre Nocturne",
+                "Italian": "Ombra Notturna",
+                "Japanese": "\u30ca\u30a4\u30c8\u30d8\u30c3\u30c9",
+                "Korean": "\ub098\uc774\ud2b8\ud5e4\ub4dc",
+                "Spanish": "Tinieblas"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 60
+            }
+        },
+        "SKY_ATTACK": {
+            "id": "SKY_ATTACK",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 2000,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Sky Attack",
+                "German": "Himmelsfeger",
+                "French": "Piqu\u00e9",
+                "Italian": "Aeroattacco",
+                "Japanese": "\u30b4\u30c3\u30c9\u30d0\u30fc\u30c9",
+                "Korean": "\ubd88\uc0c8",
+                "Spanish": "Ataque A\u00e9reo"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 80
+            }
+        },
+        "HEAT_WAVE": {
+            "id": "HEAT_WAVE",
+            "power": 95,
+            "energy": -100,
+            "durationMs": 3000,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Heat Wave",
+                "German": "Hitzewelle",
+                "French": "Canicule",
+                "Italian": "Ondacalda",
+                "Japanese": "\u306d\u3063\u3077\u3046",
+                "Korean": "\uc5f4\ud48d",
+                "Spanish": "Onda \u00cdgnea"
+            },
+            "combat": {
+                "energy": -75,
+                "power": 95
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_441_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_441_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

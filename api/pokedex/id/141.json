@@ -1,1 +1,275 @@
-{"id":"KABUTOPS","formId":"KABUTOPS","dexNr":141,"generation":1,"names":{"English":"Kabutops","German":"Kabutops","French":"Kabutops","Italian":"Kabutops","Japanese":"\u30ab\u30d6\u30c8\u30d7\u30b9","Korean":"\ud22c\uad6c\ud478\uc2a4","Spanish":"Kabutops"},"stats":{"stamina":155,"attack":220,"defense":186},"primaryType":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"secondaryType":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"quickMoves":{"MUD_SHOT_FAST":{"id":"MUD_SHOT_FAST","power":5,"energy":7,"durationMs":600,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Mud Shot","German":"Lehmschuss","French":"Tir de Boue","Italian":"Colpodifango","Japanese":"\u30de\u30c3\u30c9\u30b7\u30e7\u30c3\u30c8","Korean":"\uba38\ub4dc\uc20f","Spanish":"Disparo Lodo"},"combat":{"energy":9,"power":3}},"ROCK_SMASH_FAST":{"id":"ROCK_SMASH_FAST","power":15,"energy":10,"durationMs":1300,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Rock Smash","German":"Zertr\u00fcmmerer","French":"\u00c9clate-Roc","Italian":"Spaccaroccia","Japanese":"\u3044\u308f\u304f\u3060\u304d","Korean":"\ubc14\uc704\uae68\uae30","Spanish":"Golpe Roca"},"combat":{"energy":7,"power":9}},"WATERFALL_FAST":{"id":"WATERFALL_FAST","power":16,"energy":8,"durationMs":1200,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Waterfall","German":"Kaskade","French":"Cascade","Italian":"Cascata","Japanese":"\u305f\u304d\u306e\u307c\u308a","Korean":"\ud3ed\ud3ec\uc624\ub974\uae30","Spanish":"Cascada"},"combat":{"energy":8,"power":12}}},"cinematicMoves":{"ANCIENT_POWER":{"id":"ANCIENT_POWER","power":70,"energy":-33,"durationMs":3500,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Ancient Power","German":"Antik-Kraft","French":"Pouvoir Antique","Italian":"Forzantica","Japanese":"\u3052\u3093\u3057\u306e\u3061\u304b\u3089","Korean":"\uc6d0\uc2dc\uc758\ud798","Spanish":"Poder Pasado"},"combat":{"energy":-45,"power":45}},"WATER_PULSE":{"id":"WATER_PULSE","power":70,"energy":-50,"durationMs":3200,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Water Pulse","German":"Aquawelle","French":"Vibraqua","Italian":"Idropulsar","Japanese":"\u307f\u305a\u306e\u306f\u3069\u3046","Korean":"\ubb3c\uc758\ud30c\ub3d9","Spanish":"Hidropulso"},"combat":{"energy":-60,"power":70}},"STONE_EDGE":{"id":"STONE_EDGE","power":100,"energy":-100,"durationMs":2300,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Stone Edge","German":"Steinkante","French":"Lame de Roc","Italian":"Pietrataglio","Japanese":"\u30b9\u30c8\u30fc\u30f3\u30a8\u30c3\u30b8","Korean":"\uc2a4\ud1a4\uc5d0\uc9c0","Spanish":"Roca Afilada"},"combat":{"energy":-55,"power":100}}},"eliteQuickMoves":{"FURY_CUTTER_FAST":{"id":"FURY_CUTTER_FAST","power":3,"energy":6,"durationMs":400,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Fury Cutter","German":"Zornklinge","French":"Taillade","Italian":"Tagliofuria","Japanese":"\u308c\u3093\u305e\u304f\u304e\u308a","Korean":"\uc5f0\uc18d\uc790\ub974\uae30","Spanish":"Corte Furia"},"combat":{"energy":4,"power":2}}},"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_141_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_141_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "KABUTOPS",
+    "formId": "KABUTOPS",
+    "dexNr": 141,
+    "generation": 1,
+    "names": {
+        "English": "Kabutops",
+        "German": "Kabutops",
+        "French": "Kabutops",
+        "Italian": "Kabutops",
+        "Japanese": "\u30ab\u30d6\u30c8\u30d7\u30b9",
+        "Korean": "\ud22c\uad6c\ud478\uc2a4",
+        "Spanish": "Kabutops"
+    },
+    "stats": {
+        "stamina": 155,
+        "attack": 220,
+        "defense": 186
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_ROCK",
+        "names": {
+            "English": "Rock",
+            "German": "Gestein",
+            "French": "Roche",
+            "Italian": "Roccia",
+            "Japanese": "\u3044\u308f",
+            "Korean": "\ubc14\uc704",
+            "Spanish": "Roca"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_WATER",
+        "names": {
+            "English": "Water",
+            "German": "Wasser",
+            "French": "Eau",
+            "Italian": "Acqua",
+            "Japanese": "\u307f\u305a",
+            "Korean": "\ubb3c",
+            "Spanish": "Agua"
+        }
+    },
+    "quickMoves": {
+        "MUD_SHOT_FAST": {
+            "id": "MUD_SHOT_FAST",
+            "power": 5,
+            "energy": 7,
+            "durationMs": 600,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Mud Shot",
+                "German": "Lehmschuss",
+                "French": "Tir de Boue",
+                "Italian": "Colpodifango",
+                "Japanese": "\u30de\u30c3\u30c9\u30b7\u30e7\u30c3\u30c8",
+                "Korean": "\uba38\ub4dc\uc20f",
+                "Spanish": "Disparo Lodo"
+            },
+            "combat": {
+                "energy": 9,
+                "power": 3
+            }
+        },
+        "ROCK_SMASH_FAST": {
+            "id": "ROCK_SMASH_FAST",
+            "power": 15,
+            "energy": 10,
+            "durationMs": 1300,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Rock Smash",
+                "German": "Zertr\u00fcmmerer",
+                "French": "\u00c9clate-Roc",
+                "Italian": "Spaccaroccia",
+                "Japanese": "\u3044\u308f\u304f\u3060\u304d",
+                "Korean": "\ubc14\uc704\uae68\uae30",
+                "Spanish": "Golpe Roca"
+            },
+            "combat": {
+                "energy": 7,
+                "power": 9
+            }
+        },
+        "WATERFALL_FAST": {
+            "id": "WATERFALL_FAST",
+            "power": 16,
+            "energy": 8,
+            "durationMs": 1200,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Waterfall",
+                "German": "Kaskade",
+                "French": "Cascade",
+                "Italian": "Cascata",
+                "Japanese": "\u305f\u304d\u306e\u307c\u308a",
+                "Korean": "\ud3ed\ud3ec\uc624\ub974\uae30",
+                "Spanish": "Cascada"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 12
+            }
+        }
+    },
+    "cinematicMoves": {
+        "ANCIENT_POWER": {
+            "id": "ANCIENT_POWER",
+            "power": 70,
+            "energy": -33,
+            "durationMs": 3500,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Ancient Power",
+                "German": "Antik-Kraft",
+                "French": "Pouvoir Antique",
+                "Italian": "Forzantica",
+                "Japanese": "\u3052\u3093\u3057\u306e\u3061\u304b\u3089",
+                "Korean": "\uc6d0\uc2dc\uc758\ud798",
+                "Spanish": "Poder Pasado"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 45
+            }
+        },
+        "WATER_PULSE": {
+            "id": "WATER_PULSE",
+            "power": 70,
+            "energy": -50,
+            "durationMs": 3200,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Water Pulse",
+                "German": "Aquawelle",
+                "French": "Vibraqua",
+                "Italian": "Idropulsar",
+                "Japanese": "\u307f\u305a\u306e\u306f\u3069\u3046",
+                "Korean": "\ubb3c\uc758\ud30c\ub3d9",
+                "Spanish": "Hidropulso"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 70
+            }
+        },
+        "STONE_EDGE": {
+            "id": "STONE_EDGE",
+            "power": 100,
+            "energy": -100,
+            "durationMs": 2300,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Stone Edge",
+                "German": "Steinkante",
+                "French": "Lame de Roc",
+                "Italian": "Pietrataglio",
+                "Japanese": "\u30b9\u30c8\u30fc\u30f3\u30a8\u30c3\u30b8",
+                "Korean": "\uc2a4\ud1a4\uc5d0\uc9c0",
+                "Spanish": "Roca Afilada"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 100
+            }
+        }
+    },
+    "eliteQuickMoves": {
+        "FURY_CUTTER_FAST": {
+            "id": "FURY_CUTTER_FAST",
+            "power": 3,
+            "energy": 6,
+            "durationMs": 400,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "Fury Cutter",
+                "German": "Zornklinge",
+                "French": "Taillade",
+                "Italian": "Tagliofuria",
+                "Japanese": "\u308c\u3093\u305e\u304f\u304e\u308a",
+                "Korean": "\uc5f0\uc18d\uc790\ub974\uae30",
+                "Spanish": "Corte Furia"
+            },
+            "combat": {
+                "energy": 4,
+                "power": 2
+            }
+        }
+    },
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_141_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_141_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

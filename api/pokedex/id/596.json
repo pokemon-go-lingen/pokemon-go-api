@@ -1,1 +1,274 @@
-{"id":"GALVANTULA","formId":"GALVANTULA","dexNr":596,"generation":5,"names":{"English":"Galvantula","German":"Voltula","French":"Mygavolt","Italian":"Galvantula","Japanese":"\u30c7\u30f3\u30c1\u30e5\u30e9","Korean":"\uc804\ud234\ub77c","Spanish":"Galvantula"},"stats":{"stamina":172,"attack":201,"defense":128},"primaryType":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"secondaryType":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"quickMoves":{"VOLT_SWITCH_FAST":{"id":"VOLT_SWITCH_FAST","power":14,"energy":21,"durationMs":1600,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Volt Switch","German":"Voltwechsel","French":"Change \u00c9clair","Italian":"Invertivolt","Japanese":"\u30dc\u30eb\u30c8\u30c1\u30a7\u30f3\u30b8","Korean":"\ubcfc\ud2b8\uccb4\uc778\uc9c0","Spanish":"Voltiocambio"},"combat":{"energy":16,"power":12}},"FURY_CUTTER_FAST":{"id":"FURY_CUTTER_FAST","power":3,"energy":6,"durationMs":400,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Fury Cutter","German":"Zornklinge","French":"Taillade","Italian":"Tagliofuria","Japanese":"\u308c\u3093\u305e\u304f\u304e\u308a","Korean":"\uc5f0\uc18d\uc790\ub974\uae30","Spanish":"Corte Furia"},"combat":{"energy":4,"power":2}}},"cinematicMoves":{"CROSS_POISON":{"id":"CROSS_POISON","power":40,"energy":-33,"durationMs":1500,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Cross Poison","German":"Giftstreich","French":"Poison Croix","Italian":"Velenocroce","Japanese":"\u30af\u30ed\u30b9\u30dd\u30a4\u30ba\u30f3","Korean":"\ud06c\ub85c\uc2a4\ud3ec\uc774\uc98c","Spanish":"Veneno X"},"combat":{"energy":-35,"power":40}},"BUG_BUZZ":{"id":"BUG_BUZZ","power":90,"energy":-50,"durationMs":3700,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Bug Buzz","German":"K\u00e4fergebrumm","French":"Bourdon","Italian":"Ronzio","Japanese":"\u3080\u3057\u306e\u3055\u3056\u3081\u304d","Korean":"\ubc8c\ub808\uc758\uc57c\ub2e8\ubc95\uc11d","Spanish":"Zumbido"},"combat":{"energy":-60,"power":90}},"DISCHARGE":{"id":"DISCHARGE","power":65,"energy":-33,"durationMs":2500,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Discharge","German":"Ladungssto\u00df","French":"Coup d\u2019Jus","Italian":"Scarica","Japanese":"\u307b\u3046\u3067\u3093","Korean":"\ubc29\uc804","Spanish":"Chispazo"},"combat":{"energy":-45,"power":65}},"ENERGY_BALL":{"id":"ENERGY_BALL","power":90,"energy":-50,"durationMs":3900,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Energy Ball","German":"Energieball","French":"\u00c9co-Sph\u00e8re","Italian":"Energipalla","Japanese":"\u30a8\u30ca\u30b8\u30fc\u30dc\u30fc\u30eb","Korean":"\uc5d0\ub108\uc9c0\ubcfc","Spanish":"Energibola"},"combat":{"energy":-55,"power":90}},"LUNGE":{"id":"LUNGE","power":55,"energy":-33,"durationMs":2900,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Lunge","German":"Anfallen","French":"Furie-Bond","Italian":"Assalto","Japanese":"\u3068\u3073\u304b\u304b\u308b","Korean":"\ub364\ubcbc\ub4e4\uae30","Spanish":"Plancha"},"combat":{"energy":-45,"power":60}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_596_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_596_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "GALVANTULA",
+    "formId": "GALVANTULA",
+    "dexNr": 596,
+    "generation": 5,
+    "names": {
+        "English": "Galvantula",
+        "German": "Voltula",
+        "French": "Mygavolt",
+        "Italian": "Galvantula",
+        "Japanese": "\u30c7\u30f3\u30c1\u30e5\u30e9",
+        "Korean": "\uc804\ud234\ub77c",
+        "Spanish": "Galvantula"
+    },
+    "stats": {
+        "stamina": 172,
+        "attack": 201,
+        "defense": 128
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_BUG",
+        "names": {
+            "English": "Bug",
+            "German": "K\u00e4fer",
+            "French": "Insecte",
+            "Italian": "Coleottero",
+            "Japanese": "\u3080\u3057",
+            "Korean": "\ubc8c\ub808",
+            "Spanish": "Bicho"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_ELECTRIC",
+        "names": {
+            "English": "Electric",
+            "German": "Elektro",
+            "French": "\u00c9lectrik",
+            "Italian": "Elettro",
+            "Japanese": "\u3067\u3093\u304d",
+            "Korean": "\uc804\uae30",
+            "Spanish": "El\u00e9ctrico"
+        }
+    },
+    "quickMoves": {
+        "VOLT_SWITCH_FAST": {
+            "id": "VOLT_SWITCH_FAST",
+            "power": 14,
+            "energy": 21,
+            "durationMs": 1600,
+            "type": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "names": {
+                "English": "Volt Switch",
+                "German": "Voltwechsel",
+                "French": "Change \u00c9clair",
+                "Italian": "Invertivolt",
+                "Japanese": "\u30dc\u30eb\u30c8\u30c1\u30a7\u30f3\u30b8",
+                "Korean": "\ubcfc\ud2b8\uccb4\uc778\uc9c0",
+                "Spanish": "Voltiocambio"
+            },
+            "combat": {
+                "energy": 16,
+                "power": 12
+            }
+        },
+        "FURY_CUTTER_FAST": {
+            "id": "FURY_CUTTER_FAST",
+            "power": 3,
+            "energy": 6,
+            "durationMs": 400,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "Fury Cutter",
+                "German": "Zornklinge",
+                "French": "Taillade",
+                "Italian": "Tagliofuria",
+                "Japanese": "\u308c\u3093\u305e\u304f\u304e\u308a",
+                "Korean": "\uc5f0\uc18d\uc790\ub974\uae30",
+                "Spanish": "Corte Furia"
+            },
+            "combat": {
+                "energy": 4,
+                "power": 2
+            }
+        }
+    },
+    "cinematicMoves": {
+        "CROSS_POISON": {
+            "id": "CROSS_POISON",
+            "power": 40,
+            "energy": -33,
+            "durationMs": 1500,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Cross Poison",
+                "German": "Giftstreich",
+                "French": "Poison Croix",
+                "Italian": "Velenocroce",
+                "Japanese": "\u30af\u30ed\u30b9\u30dd\u30a4\u30ba\u30f3",
+                "Korean": "\ud06c\ub85c\uc2a4\ud3ec\uc774\uc98c",
+                "Spanish": "Veneno X"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 40
+            }
+        },
+        "BUG_BUZZ": {
+            "id": "BUG_BUZZ",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 3700,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "Bug Buzz",
+                "German": "K\u00e4fergebrumm",
+                "French": "Bourdon",
+                "Italian": "Ronzio",
+                "Japanese": "\u3080\u3057\u306e\u3055\u3056\u3081\u304d",
+                "Korean": "\ubc8c\ub808\uc758\uc57c\ub2e8\ubc95\uc11d",
+                "Spanish": "Zumbido"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 90
+            }
+        },
+        "DISCHARGE": {
+            "id": "DISCHARGE",
+            "power": 65,
+            "energy": -33,
+            "durationMs": 2500,
+            "type": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "names": {
+                "English": "Discharge",
+                "German": "Ladungssto\u00df",
+                "French": "Coup d\u2019Jus",
+                "Italian": "Scarica",
+                "Japanese": "\u307b\u3046\u3067\u3093",
+                "Korean": "\ubc29\uc804",
+                "Spanish": "Chispazo"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 65
+            }
+        },
+        "ENERGY_BALL": {
+            "id": "ENERGY_BALL",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 3900,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Energy Ball",
+                "German": "Energieball",
+                "French": "\u00c9co-Sph\u00e8re",
+                "Italian": "Energipalla",
+                "Japanese": "\u30a8\u30ca\u30b8\u30fc\u30dc\u30fc\u30eb",
+                "Korean": "\uc5d0\ub108\uc9c0\ubcfc",
+                "Spanish": "Energibola"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        },
+        "LUNGE": {
+            "id": "LUNGE",
+            "power": 55,
+            "energy": -33,
+            "durationMs": 2900,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "Lunge",
+                "German": "Anfallen",
+                "French": "Furie-Bond",
+                "Italian": "Assalto",
+                "Japanese": "\u3068\u3073\u304b\u304b\u308b",
+                "Korean": "\ub364\ubcbc\ub4e4\uae30",
+                "Spanish": "Plancha"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 60
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_596_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_596_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

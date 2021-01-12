@@ -1,1 +1,243 @@
-{"id":"VOLCARONA","formId":"VOLCARONA","dexNr":637,"generation":5,"names":{"English":"Volcarona","German":"Ramoth","French":"Pyrax","Italian":"Volcarona","Japanese":"\u30a6\u30eb\u30ac\u30e2\u30b9","Korean":"\ubd88\uce74\ubaa8\uc2a4","Spanish":"Volcarona"},"stats":{"stamina":198,"attack":264,"defense":189},"primaryType":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"secondaryType":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"quickMoves":{"FIRE_SPIN_FAST":{"id":"FIRE_SPIN_FAST","power":14,"energy":10,"durationMs":1100,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Fire Spin","German":"Feuerwirbel","French":"Danse Flammes","Italian":"Turbofuoco","Japanese":"\u307b\u306e\u304a\u306e\u3046\u305a","Korean":"\ud68c\uc624\ub9ac\ubd88\uaf43","Spanish":"Giro Fuego"},"combat":{"energy":10,"power":9}},"BUG_BITE_FAST":{"id":"BUG_BITE_FAST","power":5,"energy":6,"durationMs":500,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Bug Bite","German":"K\u00e4ferbiss","French":"Piq\u00fbre","Italian":"Coleomorso","Japanese":"\u3080\u3057\u304f\u3044","Korean":"\ubc8c\ub808\uba39\uc74c","Spanish":"Picadura"},"combat":{"energy":3,"power":3}}},"cinematicMoves":{"OVERHEAT":{"id":"OVERHEAT","power":160,"energy":-100,"durationMs":4000,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Overheat","German":"Hitzekoller","French":"Surchauffe","Italian":"Vampata","Japanese":"\u30aa\u30fc\u30d0\u30fc\u30d2\u30fc\u30c8","Korean":"\uc624\ubc84\ud788\ud2b8","Spanish":"Sofoco"},"combat":{"energy":-55,"power":130}},"BUG_BUZZ":{"id":"BUG_BUZZ","power":90,"energy":-50,"durationMs":3700,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Bug Buzz","German":"K\u00e4fergebrumm","French":"Bourdon","Italian":"Ronzio","Japanese":"\u3080\u3057\u306e\u3055\u3056\u3081\u304d","Korean":"\ubc8c\ub808\uc758\uc57c\ub2e8\ubc95\uc11d","Spanish":"Zumbido"},"combat":{"energy":-60,"power":90}},"SOLAR_BEAM":{"id":"SOLAR_BEAM","power":180,"energy":-100,"durationMs":4900,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Solar Beam","German":"Solarstrahl","French":"Lance-Soleil","Italian":"Solarraggio","Japanese":"\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0","Korean":"\uc194\ub77c\ube54","Spanish":"Rayo Solar"},"combat":{"energy":-80,"power":150}},"HURRICANE":{"id":"HURRICANE","power":110,"energy":-100,"durationMs":2700,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Hurricane","German":"Orkan","French":"Vent Violent","Italian":"Tifone","Japanese":"\u307c\u3046\u3075\u3046","Korean":"\ud3ed\ud48d","Spanish":"Vendaval"},"combat":{"energy":-65,"power":110}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_637_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_637_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "VOLCARONA",
+    "formId": "VOLCARONA",
+    "dexNr": 637,
+    "generation": 5,
+    "names": {
+        "English": "Volcarona",
+        "German": "Ramoth",
+        "French": "Pyrax",
+        "Italian": "Volcarona",
+        "Japanese": "\u30a6\u30eb\u30ac\u30e2\u30b9",
+        "Korean": "\ubd88\uce74\ubaa8\uc2a4",
+        "Spanish": "Volcarona"
+    },
+    "stats": {
+        "stamina": 198,
+        "attack": 264,
+        "defense": 189
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_BUG",
+        "names": {
+            "English": "Bug",
+            "German": "K\u00e4fer",
+            "French": "Insecte",
+            "Italian": "Coleottero",
+            "Japanese": "\u3080\u3057",
+            "Korean": "\ubc8c\ub808",
+            "Spanish": "Bicho"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_FIRE",
+        "names": {
+            "English": "Fire",
+            "German": "Feuer",
+            "French": "Feu",
+            "Italian": "Fuoco",
+            "Japanese": "\u307b\u306e\u304a",
+            "Korean": "\ubd88\uaf43",
+            "Spanish": "Fuego"
+        }
+    },
+    "quickMoves": {
+        "FIRE_SPIN_FAST": {
+            "id": "FIRE_SPIN_FAST",
+            "power": 14,
+            "energy": 10,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Fire Spin",
+                "German": "Feuerwirbel",
+                "French": "Danse Flammes",
+                "Italian": "Turbofuoco",
+                "Japanese": "\u307b\u306e\u304a\u306e\u3046\u305a",
+                "Korean": "\ud68c\uc624\ub9ac\ubd88\uaf43",
+                "Spanish": "Giro Fuego"
+            },
+            "combat": {
+                "energy": 10,
+                "power": 9
+            }
+        },
+        "BUG_BITE_FAST": {
+            "id": "BUG_BITE_FAST",
+            "power": 5,
+            "energy": 6,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "Bug Bite",
+                "German": "K\u00e4ferbiss",
+                "French": "Piq\u00fbre",
+                "Italian": "Coleomorso",
+                "Japanese": "\u3080\u3057\u304f\u3044",
+                "Korean": "\ubc8c\ub808\uba39\uc74c",
+                "Spanish": "Picadura"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 3
+            }
+        }
+    },
+    "cinematicMoves": {
+        "OVERHEAT": {
+            "id": "OVERHEAT",
+            "power": 160,
+            "energy": -100,
+            "durationMs": 4000,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Overheat",
+                "German": "Hitzekoller",
+                "French": "Surchauffe",
+                "Italian": "Vampata",
+                "Japanese": "\u30aa\u30fc\u30d0\u30fc\u30d2\u30fc\u30c8",
+                "Korean": "\uc624\ubc84\ud788\ud2b8",
+                "Spanish": "Sofoco"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 130
+            }
+        },
+        "BUG_BUZZ": {
+            "id": "BUG_BUZZ",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 3700,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "Bug Buzz",
+                "German": "K\u00e4fergebrumm",
+                "French": "Bourdon",
+                "Italian": "Ronzio",
+                "Japanese": "\u3080\u3057\u306e\u3055\u3056\u3081\u304d",
+                "Korean": "\ubc8c\ub808\uc758\uc57c\ub2e8\ubc95\uc11d",
+                "Spanish": "Zumbido"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 90
+            }
+        },
+        "SOLAR_BEAM": {
+            "id": "SOLAR_BEAM",
+            "power": 180,
+            "energy": -100,
+            "durationMs": 4900,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Solar Beam",
+                "German": "Solarstrahl",
+                "French": "Lance-Soleil",
+                "Italian": "Solarraggio",
+                "Japanese": "\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0",
+                "Korean": "\uc194\ub77c\ube54",
+                "Spanish": "Rayo Solar"
+            },
+            "combat": {
+                "energy": -80,
+                "power": 150
+            }
+        },
+        "HURRICANE": {
+            "id": "HURRICANE",
+            "power": 110,
+            "energy": -100,
+            "durationMs": 2700,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Hurricane",
+                "German": "Orkan",
+                "French": "Vent Violent",
+                "Italian": "Tifone",
+                "Japanese": "\u307c\u3046\u3075\u3046",
+                "Korean": "\ud3ed\ud48d",
+                "Spanish": "Vendaval"
+            },
+            "combat": {
+                "energy": -65,
+                "power": 110
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_637_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_637_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

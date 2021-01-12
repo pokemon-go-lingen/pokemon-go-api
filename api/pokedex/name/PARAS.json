@@ -1,1 +1,212 @@
-{"id":"PARAS","formId":"PARAS","dexNr":46,"generation":1,"names":{"English":"Paras","German":"Paras","French":"Paras","Italian":"Paras","Japanese":"\u30d1\u30e9\u30b9","Korean":"\ud30c\ub77c\uc2a4","Spanish":"Paras"},"stats":{"stamina":111,"attack":121,"defense":99},"primaryType":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"secondaryType":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"quickMoves":{"SCRATCH_FAST":{"id":"SCRATCH_FAST","power":6,"energy":4,"durationMs":500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Scratch","German":"Kratzer","French":"Griffe","Italian":"Graffio","Japanese":"\u3072\u3063\u304b\u304f","Korean":"\ud560\ud034\uae30","Spanish":"Ara\u00f1azo"},"combat":{"energy":2,"power":4}},"BUG_BITE_FAST":{"id":"BUG_BITE_FAST","power":5,"energy":6,"durationMs":500,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Bug Bite","German":"K\u00e4ferbiss","French":"Piq\u00fbre","Italian":"Coleomorso","Japanese":"\u3080\u3057\u304f\u3044","Korean":"\ubc8c\ub808\uba39\uc74c","Spanish":"Picadura"},"combat":{"energy":3,"power":3}}},"cinematicMoves":{"CROSS_POISON":{"id":"CROSS_POISON","power":40,"energy":-33,"durationMs":1500,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Cross Poison","German":"Giftstreich","French":"Poison Croix","Italian":"Velenocroce","Japanese":"\u30af\u30ed\u30b9\u30dd\u30a4\u30ba\u30f3","Korean":"\ud06c\ub85c\uc2a4\ud3ec\uc774\uc98c","Spanish":"Veneno X"},"combat":{"energy":-35,"power":40}},"X_SCISSOR":{"id":"X_SCISSOR","power":45,"energy":-33,"durationMs":1600,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"X-Scissor","German":"Kreuzschere","French":"Plaie Croix","Italian":"Forbice X","Japanese":"\u30b7\u30b6\u30fc\u30af\u30ed\u30b9","Korean":"\uc2dc\uc800\ud06c\ub85c\uc2a4","Spanish":"Tijera X"},"combat":{"energy":-35,"power":45}},"SEED_BOMB":{"id":"SEED_BOMB","power":55,"energy":-33,"durationMs":2100,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Seed Bomb","German":"Samenbomben","French":"Canon Graine","Italian":"Semebomba","Japanese":"\u30bf\u30cd\u3070\u304f\u3060\u3093","Korean":"\uc528\ud3ed\ud0c4","Spanish":"Bomba Germen"},"combat":{"energy":-40,"power":55}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_046_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_046_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "PARAS",
+    "formId": "PARAS",
+    "dexNr": 46,
+    "generation": 1,
+    "names": {
+        "English": "Paras",
+        "German": "Paras",
+        "French": "Paras",
+        "Italian": "Paras",
+        "Japanese": "\u30d1\u30e9\u30b9",
+        "Korean": "\ud30c\ub77c\uc2a4",
+        "Spanish": "Paras"
+    },
+    "stats": {
+        "stamina": 111,
+        "attack": 121,
+        "defense": 99
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_BUG",
+        "names": {
+            "English": "Bug",
+            "German": "K\u00e4fer",
+            "French": "Insecte",
+            "Italian": "Coleottero",
+            "Japanese": "\u3080\u3057",
+            "Korean": "\ubc8c\ub808",
+            "Spanish": "Bicho"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_GRASS",
+        "names": {
+            "English": "Grass",
+            "German": "Pflanze",
+            "French": "Plante",
+            "Italian": "Erba",
+            "Japanese": "\u304f\u3055",
+            "Korean": "\ud480",
+            "Spanish": "Planta"
+        }
+    },
+    "quickMoves": {
+        "SCRATCH_FAST": {
+            "id": "SCRATCH_FAST",
+            "power": 6,
+            "energy": 4,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Scratch",
+                "German": "Kratzer",
+                "French": "Griffe",
+                "Italian": "Graffio",
+                "Japanese": "\u3072\u3063\u304b\u304f",
+                "Korean": "\ud560\ud034\uae30",
+                "Spanish": "Ara\u00f1azo"
+            },
+            "combat": {
+                "energy": 2,
+                "power": 4
+            }
+        },
+        "BUG_BITE_FAST": {
+            "id": "BUG_BITE_FAST",
+            "power": 5,
+            "energy": 6,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "Bug Bite",
+                "German": "K\u00e4ferbiss",
+                "French": "Piq\u00fbre",
+                "Italian": "Coleomorso",
+                "Japanese": "\u3080\u3057\u304f\u3044",
+                "Korean": "\ubc8c\ub808\uba39\uc74c",
+                "Spanish": "Picadura"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 3
+            }
+        }
+    },
+    "cinematicMoves": {
+        "CROSS_POISON": {
+            "id": "CROSS_POISON",
+            "power": 40,
+            "energy": -33,
+            "durationMs": 1500,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Cross Poison",
+                "German": "Giftstreich",
+                "French": "Poison Croix",
+                "Italian": "Velenocroce",
+                "Japanese": "\u30af\u30ed\u30b9\u30dd\u30a4\u30ba\u30f3",
+                "Korean": "\ud06c\ub85c\uc2a4\ud3ec\uc774\uc98c",
+                "Spanish": "Veneno X"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 40
+            }
+        },
+        "X_SCISSOR": {
+            "id": "X_SCISSOR",
+            "power": 45,
+            "energy": -33,
+            "durationMs": 1600,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "X-Scissor",
+                "German": "Kreuzschere",
+                "French": "Plaie Croix",
+                "Italian": "Forbice X",
+                "Japanese": "\u30b7\u30b6\u30fc\u30af\u30ed\u30b9",
+                "Korean": "\uc2dc\uc800\ud06c\ub85c\uc2a4",
+                "Spanish": "Tijera X"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 45
+            }
+        },
+        "SEED_BOMB": {
+            "id": "SEED_BOMB",
+            "power": 55,
+            "energy": -33,
+            "durationMs": 2100,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Seed Bomb",
+                "German": "Samenbomben",
+                "French": "Canon Graine",
+                "Italian": "Semebomba",
+                "Japanese": "\u30bf\u30cd\u3070\u304f\u3060\u3093",
+                "Korean": "\uc528\ud3ed\ud0c4",
+                "Spanish": "Bomba Germen"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 55
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_046_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_046_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

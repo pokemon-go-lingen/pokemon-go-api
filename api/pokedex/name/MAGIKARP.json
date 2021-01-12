@@ -1,1 +1,105 @@
-{"id":"MAGIKARP","formId":"MAGIKARP","dexNr":129,"generation":1,"names":{"English":"Magikarp","German":"Karpador","French":"Magicarpe","Italian":"Magikarp","Japanese":"\u30b3\u30a4\u30ad\u30f3\u30b0","Korean":"\uc789\uc5b4\ud0b9","Spanish":"Magikarp"},"stats":{"stamina":85,"attack":29,"defense":85},"primaryType":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"secondaryType":null,"quickMoves":{"SPLASH_FAST":{"id":"SPLASH_FAST","power":0,"energy":20,"durationMs":1730,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Splash","German":"Platscher","French":"Trempette","Italian":"Splash","Japanese":"\u306f\u306d\u308b","Korean":"\ud280\uc5b4\uc624\ub974\uae30","Spanish":"Salpicadura"},"combat":null}},"cinematicMoves":{"STRUGGLE":{"id":"STRUGGLE","power":35,"energy":0,"durationMs":2200,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Struggle","German":"Verzweifler","French":"Lutte","Italian":"Scontro","Japanese":"\u308f\u308b\u3042\u304c\u304d","Korean":"\ubc1c\ubc84\ub465","Spanish":"Combate"},"combat":{"energy":-100,"power":35}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_129_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_129_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "MAGIKARP",
+    "formId": "MAGIKARP",
+    "dexNr": 129,
+    "generation": 1,
+    "names": {
+        "English": "Magikarp",
+        "German": "Karpador",
+        "French": "Magicarpe",
+        "Italian": "Magikarp",
+        "Japanese": "\u30b3\u30a4\u30ad\u30f3\u30b0",
+        "Korean": "\uc789\uc5b4\ud0b9",
+        "Spanish": "Magikarp"
+    },
+    "stats": {
+        "stamina": 85,
+        "attack": 29,
+        "defense": 85
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_WATER",
+        "names": {
+            "English": "Water",
+            "German": "Wasser",
+            "French": "Eau",
+            "Italian": "Acqua",
+            "Japanese": "\u307f\u305a",
+            "Korean": "\ubb3c",
+            "Spanish": "Agua"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "SPLASH_FAST": {
+            "id": "SPLASH_FAST",
+            "power": 0,
+            "energy": 20,
+            "durationMs": 1730,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Splash",
+                "German": "Platscher",
+                "French": "Trempette",
+                "Italian": "Splash",
+                "Japanese": "\u306f\u306d\u308b",
+                "Korean": "\ud280\uc5b4\uc624\ub974\uae30",
+                "Spanish": "Salpicadura"
+            },
+            "combat": null
+        }
+    },
+    "cinematicMoves": {
+        "STRUGGLE": {
+            "id": "STRUGGLE",
+            "power": 35,
+            "energy": 0,
+            "durationMs": 2200,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Struggle",
+                "German": "Verzweifler",
+                "French": "Lutte",
+                "Italian": "Scontro",
+                "Japanese": "\u308f\u308b\u3042\u304c\u304d",
+                "Korean": "\ubc1c\ubc84\ub465",
+                "Spanish": "Combate"
+            },
+            "combat": {
+                "energy": -100,
+                "power": 35
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_129_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_129_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

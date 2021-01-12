@@ -1,1 +1,212 @@
-{"id":"CARRACOSTA","formId":"CARRACOSTA","dexNr":565,"generation":5,"names":{"English":"Carracosta","German":"Karippas","French":"M\u00e9gapagos","Italian":"Carracosta","Japanese":"\u30a2\u30d0\u30b4\u30fc\u30e9","Korean":"\ub291\uace8\ub77c","Spanish":"Carracosta"},"stats":{"stamina":179,"attack":192,"defense":197},"primaryType":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"secondaryType":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"quickMoves":{"WATER_GUN_FAST":{"id":"WATER_GUN_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Water Gun","German":"Aquaknarre","French":"Pistolet \u00e0 O","Italian":"Pistolacqua","Japanese":"\u307f\u305a\u3067\u3063\u307d\u3046","Korean":"\ubb3c\ub300\ud3ec","Spanish":"Pistola Agua"},"combat":{"energy":3,"power":3}},"ROCK_THROW_FAST":{"id":"ROCK_THROW_FAST","power":12,"energy":7,"durationMs":900,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Rock Throw","German":"Steinwurf","French":"Jet-Pierres","Italian":"Sassata","Japanese":"\u3044\u308f\u304a\u3068\u3057","Korean":"\ub3cc\ub5a8\uad6c\uae30","Spanish":"Lanzarrocas"},"combat":{"energy":5,"power":8}}},"cinematicMoves":{"SURF":{"id":"SURF","power":65,"energy":-50,"durationMs":1700,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Surf","German":"Surfer","French":"Surf","Italian":"Surf","Japanese":"\u306a\u307f\u306e\u308a","Korean":"\ud30c\ub3c4\ud0c0\uae30","Spanish":"Surf"},"combat":{"energy":-40,"power":65}},"ANCIENT_POWER":{"id":"ANCIENT_POWER","power":70,"energy":-33,"durationMs":3500,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Ancient Power","German":"Antik-Kraft","French":"Pouvoir Antique","Italian":"Forzantica","Japanese":"\u3052\u3093\u3057\u306e\u3061\u304b\u3089","Korean":"\uc6d0\uc2dc\uc758\ud798","Spanish":"Poder Pasado"},"combat":{"energy":-45,"power":45}},"BODY_SLAM":{"id":"BODY_SLAM","power":50,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Body Slam","German":"Bodyslam","French":"Plaquage","Italian":"Corposcontro","Japanese":"\u306e\u3057\u304b\u304b\u308a","Korean":"\ub204\ub974\uae30","Spanish":"Golpe Cuerpo"},"combat":{"energy":-35,"power":60}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_565_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_565_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "CARRACOSTA",
+    "formId": "CARRACOSTA",
+    "dexNr": 565,
+    "generation": 5,
+    "names": {
+        "English": "Carracosta",
+        "German": "Karippas",
+        "French": "M\u00e9gapagos",
+        "Italian": "Carracosta",
+        "Japanese": "\u30a2\u30d0\u30b4\u30fc\u30e9",
+        "Korean": "\ub291\uace8\ub77c",
+        "Spanish": "Carracosta"
+    },
+    "stats": {
+        "stamina": 179,
+        "attack": 192,
+        "defense": 197
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_WATER",
+        "names": {
+            "English": "Water",
+            "German": "Wasser",
+            "French": "Eau",
+            "Italian": "Acqua",
+            "Japanese": "\u307f\u305a",
+            "Korean": "\ubb3c",
+            "Spanish": "Agua"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_ROCK",
+        "names": {
+            "English": "Rock",
+            "German": "Gestein",
+            "French": "Roche",
+            "Italian": "Roccia",
+            "Japanese": "\u3044\u308f",
+            "Korean": "\ubc14\uc704",
+            "Spanish": "Roca"
+        }
+    },
+    "quickMoves": {
+        "WATER_GUN_FAST": {
+            "id": "WATER_GUN_FAST",
+            "power": 5,
+            "energy": 5,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Water Gun",
+                "German": "Aquaknarre",
+                "French": "Pistolet \u00e0 O",
+                "Italian": "Pistolacqua",
+                "Japanese": "\u307f\u305a\u3067\u3063\u307d\u3046",
+                "Korean": "\ubb3c\ub300\ud3ec",
+                "Spanish": "Pistola Agua"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 3
+            }
+        },
+        "ROCK_THROW_FAST": {
+            "id": "ROCK_THROW_FAST",
+            "power": 12,
+            "energy": 7,
+            "durationMs": 900,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Rock Throw",
+                "German": "Steinwurf",
+                "French": "Jet-Pierres",
+                "Italian": "Sassata",
+                "Japanese": "\u3044\u308f\u304a\u3068\u3057",
+                "Korean": "\ub3cc\ub5a8\uad6c\uae30",
+                "Spanish": "Lanzarrocas"
+            },
+            "combat": {
+                "energy": 5,
+                "power": 8
+            }
+        }
+    },
+    "cinematicMoves": {
+        "SURF": {
+            "id": "SURF",
+            "power": 65,
+            "energy": -50,
+            "durationMs": 1700,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Surf",
+                "German": "Surfer",
+                "French": "Surf",
+                "Italian": "Surf",
+                "Japanese": "\u306a\u307f\u306e\u308a",
+                "Korean": "\ud30c\ub3c4\ud0c0\uae30",
+                "Spanish": "Surf"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 65
+            }
+        },
+        "ANCIENT_POWER": {
+            "id": "ANCIENT_POWER",
+            "power": 70,
+            "energy": -33,
+            "durationMs": 3500,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Ancient Power",
+                "German": "Antik-Kraft",
+                "French": "Pouvoir Antique",
+                "Italian": "Forzantica",
+                "Japanese": "\u3052\u3093\u3057\u306e\u3061\u304b\u3089",
+                "Korean": "\uc6d0\uc2dc\uc758\ud798",
+                "Spanish": "Poder Pasado"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 45
+            }
+        },
+        "BODY_SLAM": {
+            "id": "BODY_SLAM",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 1900,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Body Slam",
+                "German": "Bodyslam",
+                "French": "Plaquage",
+                "Italian": "Corposcontro",
+                "Japanese": "\u306e\u3057\u304b\u304b\u308a",
+                "Korean": "\ub204\ub974\uae30",
+                "Spanish": "Golpe Cuerpo"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 60
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_565_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_565_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

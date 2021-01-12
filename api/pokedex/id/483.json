@@ -1,1 +1,212 @@
-{"id":"DIALGA","formId":"DIALGA","dexNr":483,"generation":4,"names":{"English":"Dialga","German":"Dialga","French":"Dialga","Italian":"Dialga","Japanese":"\u30c7\u30a3\u30a2\u30eb\u30ac","Korean":"\ub514\uc544\ub8e8\uac00","Spanish":"Dialga"},"stats":{"stamina":205,"attack":275,"defense":211},"primaryType":{"type":"POKEMON_TYPE_STEEL","names":{"English":"Steel","German":"Stahl","French":"Acier","Italian":"Acciaio","Japanese":"\u306f\u304c\u306d","Korean":"\uac15\ucca0","Spanish":"Acero"}},"secondaryType":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"quickMoves":{"DRAGON_BREATH_FAST":{"id":"DRAGON_BREATH_FAST","power":6,"energy":4,"durationMs":500,"type":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"names":{"English":"Dragon Breath","German":"Feuerodem","French":"Draco-Souffle","Italian":"Dragospiro","Japanese":"\u308a\u3085\u3046\u306e\u3044\u3076\u304d","Korean":"\uc6a9\uc758\uc228\uacb0","Spanish":"Dragoaliento"},"combat":{"energy":3,"power":4}},"METAL_CLAW_FAST":{"id":"METAL_CLAW_FAST","power":8,"energy":7,"durationMs":700,"type":{"type":"POKEMON_TYPE_STEEL","names":{"English":"Steel","German":"Stahl","French":"Acier","Italian":"Acciaio","Japanese":"\u306f\u304c\u306d","Korean":"\uac15\ucca0","Spanish":"Acero"}},"names":{"English":"Metal Claw","German":"Metallklaue","French":"Griffe Acier","Italian":"Ferrartigli","Japanese":"\u30e1\u30bf\u30eb\u30af\u30ed\u30fc","Korean":"\uba54\ud0c8\ud06c\ub85c\uc6b0","Spanish":"Garra Metal"},"combat":{"energy":6,"power":5}}},"cinematicMoves":{"DRACO_METEOR":{"id":"DRACO_METEOR","power":150,"energy":-100,"durationMs":3600,"type":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"names":{"English":"Draco Meteor","German":"Draco Meteor","French":"Draco-M\u00e9t\u00e9ore","Italian":"Dragobolide","Japanese":"\u308a\u3085\u3046\u305b\u3044\u3050\u3093","Korean":"\uc6a9\uc131\uad70","Spanish":"Cometa Draco"},"combat":{"energy":-65,"power":150}},"IRON_HEAD":{"id":"IRON_HEAD","power":60,"energy":-50,"durationMs":1900,"type":{"type":"POKEMON_TYPE_STEEL","names":{"English":"Steel","German":"Stahl","French":"Acier","Italian":"Acciaio","Japanese":"\u306f\u304c\u306d","Korean":"\uac15\ucca0","Spanish":"Acero"}},"names":{"English":"Iron Head","German":"Eisensch\u00e4del","French":"T\u00eate de Fer","Italian":"Metaltestata","Japanese":"\u30a2\u30a4\u30a2\u30f3\u30d8\u30c3\u30c9","Korean":"\uc544\uc774\uc5b8\ud5e4\ub4dc","Spanish":"Cabeza de Hierro"},"combat":{"energy":-50,"power":70}},"THUNDER":{"id":"THUNDER","power":100,"energy":-100,"durationMs":2400,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Thunder","German":"Donner","French":"Fatal-Foudre","Italian":"Tuono","Japanese":"\u304b\u307f\u306a\u308a","Korean":"\ubc88\uac1c","Spanish":"Trueno"},"combat":{"energy":-60,"power":100}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_483_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_483_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "DIALGA",
+    "formId": "DIALGA",
+    "dexNr": 483,
+    "generation": 4,
+    "names": {
+        "English": "Dialga",
+        "German": "Dialga",
+        "French": "Dialga",
+        "Italian": "Dialga",
+        "Japanese": "\u30c7\u30a3\u30a2\u30eb\u30ac",
+        "Korean": "\ub514\uc544\ub8e8\uac00",
+        "Spanish": "Dialga"
+    },
+    "stats": {
+        "stamina": 205,
+        "attack": 275,
+        "defense": 211
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_STEEL",
+        "names": {
+            "English": "Steel",
+            "German": "Stahl",
+            "French": "Acier",
+            "Italian": "Acciaio",
+            "Japanese": "\u306f\u304c\u306d",
+            "Korean": "\uac15\ucca0",
+            "Spanish": "Acero"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_DRAGON",
+        "names": {
+            "English": "Dragon",
+            "German": "Drache",
+            "French": "Dragon",
+            "Italian": "Drago",
+            "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+            "Korean": "\ub4dc\ub798\uace4",
+            "Spanish": "Drag\u00f3n"
+        }
+    },
+    "quickMoves": {
+        "DRAGON_BREATH_FAST": {
+            "id": "DRAGON_BREATH_FAST",
+            "power": 6,
+            "energy": 4,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_DRAGON",
+                "names": {
+                    "English": "Dragon",
+                    "German": "Drache",
+                    "French": "Dragon",
+                    "Italian": "Drago",
+                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                    "Korean": "\ub4dc\ub798\uace4",
+                    "Spanish": "Drag\u00f3n"
+                }
+            },
+            "names": {
+                "English": "Dragon Breath",
+                "German": "Feuerodem",
+                "French": "Draco-Souffle",
+                "Italian": "Dragospiro",
+                "Japanese": "\u308a\u3085\u3046\u306e\u3044\u3076\u304d",
+                "Korean": "\uc6a9\uc758\uc228\uacb0",
+                "Spanish": "Dragoaliento"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 4
+            }
+        },
+        "METAL_CLAW_FAST": {
+            "id": "METAL_CLAW_FAST",
+            "power": 8,
+            "energy": 7,
+            "durationMs": 700,
+            "type": {
+                "type": "POKEMON_TYPE_STEEL",
+                "names": {
+                    "English": "Steel",
+                    "German": "Stahl",
+                    "French": "Acier",
+                    "Italian": "Acciaio",
+                    "Japanese": "\u306f\u304c\u306d",
+                    "Korean": "\uac15\ucca0",
+                    "Spanish": "Acero"
+                }
+            },
+            "names": {
+                "English": "Metal Claw",
+                "German": "Metallklaue",
+                "French": "Griffe Acier",
+                "Italian": "Ferrartigli",
+                "Japanese": "\u30e1\u30bf\u30eb\u30af\u30ed\u30fc",
+                "Korean": "\uba54\ud0c8\ud06c\ub85c\uc6b0",
+                "Spanish": "Garra Metal"
+            },
+            "combat": {
+                "energy": 6,
+                "power": 5
+            }
+        }
+    },
+    "cinematicMoves": {
+        "DRACO_METEOR": {
+            "id": "DRACO_METEOR",
+            "power": 150,
+            "energy": -100,
+            "durationMs": 3600,
+            "type": {
+                "type": "POKEMON_TYPE_DRAGON",
+                "names": {
+                    "English": "Dragon",
+                    "German": "Drache",
+                    "French": "Dragon",
+                    "Italian": "Drago",
+                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                    "Korean": "\ub4dc\ub798\uace4",
+                    "Spanish": "Drag\u00f3n"
+                }
+            },
+            "names": {
+                "English": "Draco Meteor",
+                "German": "Draco Meteor",
+                "French": "Draco-M\u00e9t\u00e9ore",
+                "Italian": "Dragobolide",
+                "Japanese": "\u308a\u3085\u3046\u305b\u3044\u3050\u3093",
+                "Korean": "\uc6a9\uc131\uad70",
+                "Spanish": "Cometa Draco"
+            },
+            "combat": {
+                "energy": -65,
+                "power": 150
+            }
+        },
+        "IRON_HEAD": {
+            "id": "IRON_HEAD",
+            "power": 60,
+            "energy": -50,
+            "durationMs": 1900,
+            "type": {
+                "type": "POKEMON_TYPE_STEEL",
+                "names": {
+                    "English": "Steel",
+                    "German": "Stahl",
+                    "French": "Acier",
+                    "Italian": "Acciaio",
+                    "Japanese": "\u306f\u304c\u306d",
+                    "Korean": "\uac15\ucca0",
+                    "Spanish": "Acero"
+                }
+            },
+            "names": {
+                "English": "Iron Head",
+                "German": "Eisensch\u00e4del",
+                "French": "T\u00eate de Fer",
+                "Italian": "Metaltestata",
+                "Japanese": "\u30a2\u30a4\u30a2\u30f3\u30d8\u30c3\u30c9",
+                "Korean": "\uc544\uc774\uc5b8\ud5e4\ub4dc",
+                "Spanish": "Cabeza de Hierro"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 70
+            }
+        },
+        "THUNDER": {
+            "id": "THUNDER",
+            "power": 100,
+            "energy": -100,
+            "durationMs": 2400,
+            "type": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "names": {
+                "English": "Thunder",
+                "German": "Donner",
+                "French": "Fatal-Foudre",
+                "Italian": "Tuono",
+                "Japanese": "\u304b\u307f\u306a\u308a",
+                "Korean": "\ubc88\uac1c",
+                "Spanish": "Trueno"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 100
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_483_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_483_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

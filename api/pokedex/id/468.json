@@ -1,1 +1,274 @@
-{"id":"TOGEKISS","formId":"TOGEKISS","dexNr":468,"generation":4,"names":{"English":"Togekiss","German":"Togekiss","French":"Togekiss","Italian":"Togekiss","Japanese":"\u30c8\u30b2\u30ad\u30c3\u30b9","Korean":"\ud1a0\uac8c\ud0a4\uc2a4","Spanish":"Togekiss"},"stats":{"stamina":198,"attack":225,"defense":217},"primaryType":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"secondaryType":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"quickMoves":{"AIR_SLASH_FAST":{"id":"AIR_SLASH_FAST","power":14,"energy":10,"durationMs":1200,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Air Slash","German":"Luftschnitt","French":"Lame d\u2019Air","Italian":"Eterelama","Japanese":"\u30a8\u30a2\u30b9\u30e9\u30c3\u30b7\u30e5","Korean":"\uc5d0\uc5b4\uc2ac\ub798\uc2dc","Spanish":"Tajo A\u00e9reo"},"combat":{"energy":9,"power":9}},"HIDDEN_POWER_FAST":{"id":"HIDDEN_POWER_FAST","power":15,"energy":15,"durationMs":1500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Hidden Power","German":"Kraftreserve","French":"Puissance Cach\u00e9e","Italian":"Introforza","Japanese":"\u3081\u3056\u3081\u308b\u30d1\u30ef\u30fc","Korean":"\uc7a0\uc7ac\ud30c\uc6cc","Spanish":"Poder Oculto"},"combat":{"energy":8,"power":9}},"CHARM_FAST":{"id":"CHARM_FAST","power":20,"energy":11,"durationMs":1500,"type":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"names":{"English":"Charm","German":"Charme","French":"Charme","Italian":"Fascino","Japanese":"\u3042\u307e\u3048\u308b","Korean":"\uc560\uad50\ubd80\ub9ac\uae30","Spanish":"Encanto"},"combat":{"energy":6,"power":16}}},"cinematicMoves":{"ANCIENT_POWER":{"id":"ANCIENT_POWER","power":70,"energy":-33,"durationMs":3500,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Ancient Power","German":"Antik-Kraft","French":"Pouvoir Antique","Italian":"Forzantica","Japanese":"\u3052\u3093\u3057\u306e\u3061\u304b\u3089","Korean":"\uc6d0\uc2dc\uc758\ud798","Spanish":"Poder Pasado"},"combat":{"energy":-45,"power":45}},"DAZZLING_GLEAM":{"id":"DAZZLING_GLEAM","power":100,"energy":-50,"durationMs":3500,"type":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"names":{"English":"Dazzling Gleam","German":"Zauberschein","French":"\u00c9clat Magique","Italian":"Magibrillio","Japanese":"\u30de\u30b8\u30ab\u30eb\u30b7\u30e3\u30a4\u30f3","Korean":"\ub9e4\uc9c0\uceec\uc0e4\uc778","Spanish":"Brillo M\u00e1gico"},"combat":{"energy":-70,"power":110}},"AERIAL_ACE":{"id":"AERIAL_ACE","power":55,"energy":-33,"durationMs":2400,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Aerial Ace","German":"Aero-Ass","French":"A\u00e9ropique","Italian":"Aeroassalto","Japanese":"\u3064\u3070\u3081\u304c\u3048\u3057","Korean":"\uc81c\ube44\ubc18\ud658","Spanish":"Golpe A\u00e9reo"},"combat":{"energy":-45,"power":55}},"FLAMETHROWER":{"id":"FLAMETHROWER","power":70,"energy":-50,"durationMs":2200,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Flamethrower","German":"Flammenwurf","French":"Lance-Flammes","Italian":"Lanciafiamme","Japanese":"\u304b\u3048\u3093\u307b\u3046\u3057\u3083","Korean":"\ud654\uc5fc\ubc29\uc0ac","Spanish":"Lanzallamas"},"combat":{"energy":-55,"power":90}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_468_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_468_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "TOGEKISS",
+    "formId": "TOGEKISS",
+    "dexNr": 468,
+    "generation": 4,
+    "names": {
+        "English": "Togekiss",
+        "German": "Togekiss",
+        "French": "Togekiss",
+        "Italian": "Togekiss",
+        "Japanese": "\u30c8\u30b2\u30ad\u30c3\u30b9",
+        "Korean": "\ud1a0\uac8c\ud0a4\uc2a4",
+        "Spanish": "Togekiss"
+    },
+    "stats": {
+        "stamina": 198,
+        "attack": 225,
+        "defense": 217
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_FAIRY",
+        "names": {
+            "English": "Fairy",
+            "German": "Fee",
+            "French": "F\u00e9e",
+            "Italian": "Folletto",
+            "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+            "Korean": "\ud398\uc5b4\ub9ac",
+            "Spanish": "Hada"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_FLYING",
+        "names": {
+            "English": "Flying",
+            "German": "Flug",
+            "French": "Vol",
+            "Italian": "Volante",
+            "Japanese": "\u3072\u3053\u3046",
+            "Korean": "\ube44\ud589",
+            "Spanish": "Volador"
+        }
+    },
+    "quickMoves": {
+        "AIR_SLASH_FAST": {
+            "id": "AIR_SLASH_FAST",
+            "power": 14,
+            "energy": 10,
+            "durationMs": 1200,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Air Slash",
+                "German": "Luftschnitt",
+                "French": "Lame d\u2019Air",
+                "Italian": "Eterelama",
+                "Japanese": "\u30a8\u30a2\u30b9\u30e9\u30c3\u30b7\u30e5",
+                "Korean": "\uc5d0\uc5b4\uc2ac\ub798\uc2dc",
+                "Spanish": "Tajo A\u00e9reo"
+            },
+            "combat": {
+                "energy": 9,
+                "power": 9
+            }
+        },
+        "HIDDEN_POWER_FAST": {
+            "id": "HIDDEN_POWER_FAST",
+            "power": 15,
+            "energy": 15,
+            "durationMs": 1500,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Hidden Power",
+                "German": "Kraftreserve",
+                "French": "Puissance Cach\u00e9e",
+                "Italian": "Introforza",
+                "Japanese": "\u3081\u3056\u3081\u308b\u30d1\u30ef\u30fc",
+                "Korean": "\uc7a0\uc7ac\ud30c\uc6cc",
+                "Spanish": "Poder Oculto"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 9
+            }
+        },
+        "CHARM_FAST": {
+            "id": "CHARM_FAST",
+            "power": 20,
+            "energy": 11,
+            "durationMs": 1500,
+            "type": {
+                "type": "POKEMON_TYPE_FAIRY",
+                "names": {
+                    "English": "Fairy",
+                    "German": "Fee",
+                    "French": "F\u00e9e",
+                    "Italian": "Folletto",
+                    "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                    "Korean": "\ud398\uc5b4\ub9ac",
+                    "Spanish": "Hada"
+                }
+            },
+            "names": {
+                "English": "Charm",
+                "German": "Charme",
+                "French": "Charme",
+                "Italian": "Fascino",
+                "Japanese": "\u3042\u307e\u3048\u308b",
+                "Korean": "\uc560\uad50\ubd80\ub9ac\uae30",
+                "Spanish": "Encanto"
+            },
+            "combat": {
+                "energy": 6,
+                "power": 16
+            }
+        }
+    },
+    "cinematicMoves": {
+        "ANCIENT_POWER": {
+            "id": "ANCIENT_POWER",
+            "power": 70,
+            "energy": -33,
+            "durationMs": 3500,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Ancient Power",
+                "German": "Antik-Kraft",
+                "French": "Pouvoir Antique",
+                "Italian": "Forzantica",
+                "Japanese": "\u3052\u3093\u3057\u306e\u3061\u304b\u3089",
+                "Korean": "\uc6d0\uc2dc\uc758\ud798",
+                "Spanish": "Poder Pasado"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 45
+            }
+        },
+        "DAZZLING_GLEAM": {
+            "id": "DAZZLING_GLEAM",
+            "power": 100,
+            "energy": -50,
+            "durationMs": 3500,
+            "type": {
+                "type": "POKEMON_TYPE_FAIRY",
+                "names": {
+                    "English": "Fairy",
+                    "German": "Fee",
+                    "French": "F\u00e9e",
+                    "Italian": "Folletto",
+                    "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                    "Korean": "\ud398\uc5b4\ub9ac",
+                    "Spanish": "Hada"
+                }
+            },
+            "names": {
+                "English": "Dazzling Gleam",
+                "German": "Zauberschein",
+                "French": "\u00c9clat Magique",
+                "Italian": "Magibrillio",
+                "Japanese": "\u30de\u30b8\u30ab\u30eb\u30b7\u30e3\u30a4\u30f3",
+                "Korean": "\ub9e4\uc9c0\uceec\uc0e4\uc778",
+                "Spanish": "Brillo M\u00e1gico"
+            },
+            "combat": {
+                "energy": -70,
+                "power": 110
+            }
+        },
+        "AERIAL_ACE": {
+            "id": "AERIAL_ACE",
+            "power": 55,
+            "energy": -33,
+            "durationMs": 2400,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Aerial Ace",
+                "German": "Aero-Ass",
+                "French": "A\u00e9ropique",
+                "Italian": "Aeroassalto",
+                "Japanese": "\u3064\u3070\u3081\u304c\u3048\u3057",
+                "Korean": "\uc81c\ube44\ubc18\ud658",
+                "Spanish": "Golpe A\u00e9reo"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 55
+            }
+        },
+        "FLAMETHROWER": {
+            "id": "FLAMETHROWER",
+            "power": 70,
+            "energy": -50,
+            "durationMs": 2200,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Flamethrower",
+                "German": "Flammenwurf",
+                "French": "Lance-Flammes",
+                "Italian": "Lanciafiamme",
+                "Japanese": "\u304b\u3048\u3093\u307b\u3046\u3057\u3083",
+                "Korean": "\ud654\uc5fc\ubc29\uc0ac",
+                "Spanish": "Lanzallamas"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_468_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_468_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

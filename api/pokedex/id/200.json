@@ -1,1 +1,201 @@
-{"id":"MISDREAVUS","formId":"MISDREAVUS","dexNr":200,"generation":2,"names":{"English":"Misdreavus","German":"Traunfugil","French":"Feufor\u00eave","Italian":"Misdreavus","Japanese":"\u30e0\u30a6\u30de","Korean":"\ubb34\uc6b0\ub9c8","Spanish":"Misdreavus"},"stats":{"stamina":155,"attack":167,"defense":154},"primaryType":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"secondaryType":null,"quickMoves":{"ASTONISH_FAST":{"id":"ASTONISH_FAST","power":8,"energy":14,"durationMs":1100,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Astonish","German":"Erstauner","French":"\u00c9tonnement","Italian":"Sgomento","Japanese":"\u304a\u3069\u308d\u304b\u3059","Korean":"\ub180\ub798\ud0a4\uae30","Spanish":"Impresionar"},"combat":{"energy":9,"power":5}},"HEX_FAST":{"id":"HEX_FAST","power":10,"energy":16,"durationMs":1200,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Hex","German":"B\u00fcrde","French":"Ch\u00e2timent","Italian":"Sciagura","Japanese":"\u305f\u305f\u308a\u3081","Korean":"\ubcd1\uc0c1\ucca8\ubcd1","Spanish":"Infortunio"},"combat":{"energy":12,"power":6}}},"cinematicMoves":{"SHADOW_SNEAK":{"id":"SHADOW_SNEAK","power":50,"energy":-33,"durationMs":2900,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Shadow Sneak","German":"Schattensto\u00df","French":"Ombre Port\u00e9e","Italian":"Furtivombra","Japanese":"\u304b\u3052\u3046\u3061","Korean":"\uc57c\uc2b5","Spanish":"Sombra Vil"},"combat":{"energy":-45,"power":50}},"DARK_PULSE":{"id":"DARK_PULSE","power":80,"energy":-50,"durationMs":3000,"type":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"names":{"English":"Dark Pulse","German":"Finsteraura","French":"Vibrobscur","Italian":"Neropulsar","Japanese":"\u3042\u304f\u306e\u306f\u3069\u3046","Korean":"\uc545\uc758\ud30c\ub3d9","Spanish":"Pulso Umbr\u00edo"},"combat":{"energy":-50,"power":80}},"OMINOUS_WIND":{"id":"OMINOUS_WIND","power":50,"energy":-33,"durationMs":2300,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Ominous Wind","German":"Unheilb\u00f6en","French":"Vent Mauvais","Italian":"Funestovento","Japanese":"\u3042\u3084\u3057\u3044\u304b\u305c","Korean":"\uad34\uc0c1\ud55c\ubc14\ub78c","Spanish":"Viento Aciago"},"combat":{"energy":-45,"power":45}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_200_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_200_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "MISDREAVUS",
+    "formId": "MISDREAVUS",
+    "dexNr": 200,
+    "generation": 2,
+    "names": {
+        "English": "Misdreavus",
+        "German": "Traunfugil",
+        "French": "Feufor\u00eave",
+        "Italian": "Misdreavus",
+        "Japanese": "\u30e0\u30a6\u30de",
+        "Korean": "\ubb34\uc6b0\ub9c8",
+        "Spanish": "Misdreavus"
+    },
+    "stats": {
+        "stamina": 155,
+        "attack": 167,
+        "defense": 154
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_GHOST",
+        "names": {
+            "English": "Ghost",
+            "German": "Geist",
+            "French": "Spectre",
+            "Italian": "Spettro",
+            "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+            "Korean": "\uace0\uc2a4\ud2b8",
+            "Spanish": "Fantasma"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "ASTONISH_FAST": {
+            "id": "ASTONISH_FAST",
+            "power": 8,
+            "energy": 14,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Astonish",
+                "German": "Erstauner",
+                "French": "\u00c9tonnement",
+                "Italian": "Sgomento",
+                "Japanese": "\u304a\u3069\u308d\u304b\u3059",
+                "Korean": "\ub180\ub798\ud0a4\uae30",
+                "Spanish": "Impresionar"
+            },
+            "combat": {
+                "energy": 9,
+                "power": 5
+            }
+        },
+        "HEX_FAST": {
+            "id": "HEX_FAST",
+            "power": 10,
+            "energy": 16,
+            "durationMs": 1200,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Hex",
+                "German": "B\u00fcrde",
+                "French": "Ch\u00e2timent",
+                "Italian": "Sciagura",
+                "Japanese": "\u305f\u305f\u308a\u3081",
+                "Korean": "\ubcd1\uc0c1\ucca8\ubcd1",
+                "Spanish": "Infortunio"
+            },
+            "combat": {
+                "energy": 12,
+                "power": 6
+            }
+        }
+    },
+    "cinematicMoves": {
+        "SHADOW_SNEAK": {
+            "id": "SHADOW_SNEAK",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 2900,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Shadow Sneak",
+                "German": "Schattensto\u00df",
+                "French": "Ombre Port\u00e9e",
+                "Italian": "Furtivombra",
+                "Japanese": "\u304b\u3052\u3046\u3061",
+                "Korean": "\uc57c\uc2b5",
+                "Spanish": "Sombra Vil"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 50
+            }
+        },
+        "DARK_PULSE": {
+            "id": "DARK_PULSE",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 3000,
+            "type": {
+                "type": "POKEMON_TYPE_DARK",
+                "names": {
+                    "English": "Dark",
+                    "German": "Unlicht",
+                    "French": "T\u00e9n\u00e8bres",
+                    "Italian": "Buio",
+                    "Japanese": "\u3042\u304f",
+                    "Korean": "\uc545",
+                    "Spanish": "Siniestro"
+                }
+            },
+            "names": {
+                "English": "Dark Pulse",
+                "German": "Finsteraura",
+                "French": "Vibrobscur",
+                "Italian": "Neropulsar",
+                "Japanese": "\u3042\u304f\u306e\u306f\u3069\u3046",
+                "Korean": "\uc545\uc758\ud30c\ub3d9",
+                "Spanish": "Pulso Umbr\u00edo"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 80
+            }
+        },
+        "OMINOUS_WIND": {
+            "id": "OMINOUS_WIND",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 2300,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Ominous Wind",
+                "German": "Unheilb\u00f6en",
+                "French": "Vent Mauvais",
+                "Italian": "Funestovento",
+                "Japanese": "\u3042\u3084\u3057\u3044\u304b\u305c",
+                "Korean": "\uad34\uc0c1\ud55c\ubc14\ub78c",
+                "Spanish": "Viento Aciago"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 45
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_200_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_200_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

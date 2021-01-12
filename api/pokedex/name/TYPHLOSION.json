@@ -1,1 +1,264 @@
-{"id":"TYPHLOSION","formId":"TYPHLOSION","dexNr":157,"generation":2,"names":{"English":"Typhlosion","German":"Tornupto","French":"Typhlosion","Italian":"Typhlosion","Japanese":"\u30d0\u30af\u30d5\u30fc\u30f3","Korean":"\ube14\ub808\uc774\ubc94","Spanish":"Typhlosion"},"stats":{"stamina":186,"attack":223,"defense":173},"primaryType":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"secondaryType":null,"quickMoves":{"EMBER_FAST":{"id":"EMBER_FAST","power":10,"energy":10,"durationMs":1000,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Ember","German":"Glut","French":"Flamm\u00e8che","Italian":"Braciere","Japanese":"\u3072\u306e\u3053","Korean":"\ubd88\uaf43\uc138\ub840","Spanish":"Ascuas"},"combat":{"energy":6,"power":6}},"SHADOW_CLAW_FAST":{"id":"SHADOW_CLAW_FAST","power":9,"energy":6,"durationMs":700,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Shadow Claw","German":"Dunkelklaue","French":"Griffe Ombre","Italian":"Ombrartigli","Japanese":"\u30b7\u30e3\u30c9\u30fc\u30af\u30ed\u30fc","Korean":"\uc100\ub3c4\ud06c\ub8e8","Spanish":"Garra Umbr\u00eda"},"combat":{"energy":8,"power":6}},"INCINERATE_FAST":{"id":"INCINERATE_FAST","power":29,"energy":20,"durationMs":2300,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Incinerate","German":"Ein\u00e4schern","French":"Calcination","Italian":"Bruciatutto","Japanese":"\u3084\u304d\u3064\u304f\u3059","Korean":"\ubd88\ud0dc\uc6b0\uae30","Spanish":"Calcinaci\u00f3n"},"combat":{"energy":20,"power":15}}},"cinematicMoves":{"FIRE_BLAST":{"id":"FIRE_BLAST","power":140,"energy":-100,"durationMs":4200,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Fire Blast","German":"Feuersturm","French":"D\u00e9flagration","Italian":"Fuocobomba","Japanese":"\u3060\u3044\u3082\u3093\u3058","Korean":"\ubd88\ub300\ubb38\uc790","Spanish":"Llamarada"},"combat":{"energy":-80,"power":140}},"OVERHEAT":{"id":"OVERHEAT","power":160,"energy":-100,"durationMs":4000,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Overheat","German":"Hitzekoller","French":"Surchauffe","Italian":"Vampata","Japanese":"\u30aa\u30fc\u30d0\u30fc\u30d2\u30fc\u30c8","Korean":"\uc624\ubc84\ud788\ud2b8","Spanish":"Sofoco"},"combat":{"energy":-55,"power":130}},"SOLAR_BEAM":{"id":"SOLAR_BEAM","power":180,"energy":-100,"durationMs":4900,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Solar Beam","German":"Solarstrahl","French":"Lance-Soleil","Italian":"Solarraggio","Japanese":"\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0","Korean":"\uc194\ub77c\ube54","Spanish":"Rayo Solar"},"combat":{"energy":-80,"power":150}}},"eliteQuickMoves":[],"eliteCinematicMoves":{"BLAST_BURN":{"id":"BLAST_BURN","power":110,"energy":-50,"durationMs":3300,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Blast Burn","German":"Lohekanonade","French":"Rafale Feu","Italian":"Incendio","Japanese":"\u30d6\u30e9\u30b9\u30c8\u30d0\u30fc\u30f3","Korean":"\ube14\ub7ec\uc2a4\ud2b8\ubc88","Spanish":"Anillo \u00cdgneo"},"combat":{"energy":-50,"power":110}}},"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_157_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_157_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "TYPHLOSION",
+    "formId": "TYPHLOSION",
+    "dexNr": 157,
+    "generation": 2,
+    "names": {
+        "English": "Typhlosion",
+        "German": "Tornupto",
+        "French": "Typhlosion",
+        "Italian": "Typhlosion",
+        "Japanese": "\u30d0\u30af\u30d5\u30fc\u30f3",
+        "Korean": "\ube14\ub808\uc774\ubc94",
+        "Spanish": "Typhlosion"
+    },
+    "stats": {
+        "stamina": 186,
+        "attack": 223,
+        "defense": 173
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_FIRE",
+        "names": {
+            "English": "Fire",
+            "German": "Feuer",
+            "French": "Feu",
+            "Italian": "Fuoco",
+            "Japanese": "\u307b\u306e\u304a",
+            "Korean": "\ubd88\uaf43",
+            "Spanish": "Fuego"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "EMBER_FAST": {
+            "id": "EMBER_FAST",
+            "power": 10,
+            "energy": 10,
+            "durationMs": 1000,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Ember",
+                "German": "Glut",
+                "French": "Flamm\u00e8che",
+                "Italian": "Braciere",
+                "Japanese": "\u3072\u306e\u3053",
+                "Korean": "\ubd88\uaf43\uc138\ub840",
+                "Spanish": "Ascuas"
+            },
+            "combat": {
+                "energy": 6,
+                "power": 6
+            }
+        },
+        "SHADOW_CLAW_FAST": {
+            "id": "SHADOW_CLAW_FAST",
+            "power": 9,
+            "energy": 6,
+            "durationMs": 700,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Shadow Claw",
+                "German": "Dunkelklaue",
+                "French": "Griffe Ombre",
+                "Italian": "Ombrartigli",
+                "Japanese": "\u30b7\u30e3\u30c9\u30fc\u30af\u30ed\u30fc",
+                "Korean": "\uc100\ub3c4\ud06c\ub8e8",
+                "Spanish": "Garra Umbr\u00eda"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 6
+            }
+        },
+        "INCINERATE_FAST": {
+            "id": "INCINERATE_FAST",
+            "power": 29,
+            "energy": 20,
+            "durationMs": 2300,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Incinerate",
+                "German": "Ein\u00e4schern",
+                "French": "Calcination",
+                "Italian": "Bruciatutto",
+                "Japanese": "\u3084\u304d\u3064\u304f\u3059",
+                "Korean": "\ubd88\ud0dc\uc6b0\uae30",
+                "Spanish": "Calcinaci\u00f3n"
+            },
+            "combat": {
+                "energy": 20,
+                "power": 15
+            }
+        }
+    },
+    "cinematicMoves": {
+        "FIRE_BLAST": {
+            "id": "FIRE_BLAST",
+            "power": 140,
+            "energy": -100,
+            "durationMs": 4200,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Fire Blast",
+                "German": "Feuersturm",
+                "French": "D\u00e9flagration",
+                "Italian": "Fuocobomba",
+                "Japanese": "\u3060\u3044\u3082\u3093\u3058",
+                "Korean": "\ubd88\ub300\ubb38\uc790",
+                "Spanish": "Llamarada"
+            },
+            "combat": {
+                "energy": -80,
+                "power": 140
+            }
+        },
+        "OVERHEAT": {
+            "id": "OVERHEAT",
+            "power": 160,
+            "energy": -100,
+            "durationMs": 4000,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Overheat",
+                "German": "Hitzekoller",
+                "French": "Surchauffe",
+                "Italian": "Vampata",
+                "Japanese": "\u30aa\u30fc\u30d0\u30fc\u30d2\u30fc\u30c8",
+                "Korean": "\uc624\ubc84\ud788\ud2b8",
+                "Spanish": "Sofoco"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 130
+            }
+        },
+        "SOLAR_BEAM": {
+            "id": "SOLAR_BEAM",
+            "power": 180,
+            "energy": -100,
+            "durationMs": 4900,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Solar Beam",
+                "German": "Solarstrahl",
+                "French": "Lance-Soleil",
+                "Italian": "Solarraggio",
+                "Japanese": "\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0",
+                "Korean": "\uc194\ub77c\ube54",
+                "Spanish": "Rayo Solar"
+            },
+            "combat": {
+                "energy": -80,
+                "power": 150
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": {
+        "BLAST_BURN": {
+            "id": "BLAST_BURN",
+            "power": 110,
+            "energy": -50,
+            "durationMs": 3300,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Blast Burn",
+                "German": "Lohekanonade",
+                "French": "Rafale Feu",
+                "Italian": "Incendio",
+                "Japanese": "\u30d6\u30e9\u30b9\u30c8\u30d0\u30fc\u30f3",
+                "Korean": "\ube14\ub7ec\uc2a4\ud2b8\ubc88",
+                "Spanish": "Anillo \u00cdgneo"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 110
+            }
+        }
+    },
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_157_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_157_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

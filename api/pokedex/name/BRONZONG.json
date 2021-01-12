@@ -1,1 +1,274 @@
-{"id":"BRONZONG","formId":"BRONZONG","dexNr":437,"generation":4,"names":{"English":"Bronzong","German":"Bronzong","French":"Arch\u00e9odong","Italian":"Bronzong","Japanese":"\u30c9\u30fc\u30bf\u30af\u30f3","Korean":"\ub3d9\ud0c1\uad70","Spanish":"Bronzong"},"stats":{"stamina":167,"attack":161,"defense":213},"primaryType":{"type":"POKEMON_TYPE_STEEL","names":{"English":"Steel","German":"Stahl","French":"Acier","Italian":"Acciaio","Japanese":"\u306f\u304c\u306d","Korean":"\uac15\ucca0","Spanish":"Acero"}},"secondaryType":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"quickMoves":{"FEINT_ATTACK_FAST":{"id":"FEINT_ATTACK_FAST","power":10,"energy":9,"durationMs":900,"type":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"names":{"English":"Feint Attack","German":"Finte","French":"Feinte","Italian":"Finta","Japanese":"\u3060\u307e\u3057\u3046\u3061","Korean":"\uc18d\uc5ec\ub54c\ub9ac\uae30","Spanish":"Finta"},"combat":{"energy":6,"power":6}},"CONFUSION_FAST":{"id":"CONFUSION_FAST","power":20,"energy":15,"durationMs":1600,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Confusion","German":"Konfusion","French":"Choc Mental","Italian":"Confusione","Japanese":"\u306d\u3093\u308a\u304d","Korean":"\uc5fc\ub3d9\ub825","Spanish":"Confusi\u00f3n"},"combat":{"energy":12,"power":16}}},"cinematicMoves":{"FLASH_CANNON":{"id":"FLASH_CANNON","power":100,"energy":-100,"durationMs":2700,"type":{"type":"POKEMON_TYPE_STEEL","names":{"English":"Steel","German":"Stahl","French":"Acier","Italian":"Acciaio","Japanese":"\u306f\u304c\u306d","Korean":"\uac15\ucca0","Spanish":"Acero"}},"names":{"English":"Flash Cannon","German":"Lichtkanone","French":"Luminocanon","Italian":"Cannonflash","Japanese":"\u30e9\u30b9\u30bf\u30fc\u30ab\u30ce\u30f3","Korean":"\ub7ec\uc2a4\ud130\uce90\ub17c","Spanish":"Foco Resplandor"},"combat":{"energy":-70,"power":110}},"PSYCHIC":{"id":"PSYCHIC","power":90,"energy":-50,"durationMs":2800,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Psychic","German":"Psychokinese","French":"Psyko","Italian":"Psichico","Japanese":"\u30b5\u30a4\u30b3\u30ad\u30cd\u30b7\u30b9","Korean":"\uc0ac\uc774\ucf54\ud0a4\ub124\uc2dc\uc2a4","Spanish":"Ps\u00edquico"},"combat":{"energy":-55,"power":90}},"HEAVY_SLAM":{"id":"HEAVY_SLAM","power":70,"energy":-50,"durationMs":2100,"type":{"type":"POKEMON_TYPE_STEEL","names":{"English":"Steel","German":"Stahl","French":"Acier","Italian":"Acciaio","Japanese":"\u306f\u304c\u306d","Korean":"\uac15\ucca0","Spanish":"Acero"}},"names":{"English":"Heavy Slam","German":"Rammboss","French":"Tacle Lourd","Italian":"Pesobomba","Japanese":"\u30d8\u30d3\u30fc\u30dc\u30f3\u30d0\u30fc","Korean":"\ud5e4\ube44\ubd04\ubc84","Spanish":"Cuerpo Pesado"},"combat":{"energy":-50,"power":70}},"BULLDOZE":{"id":"BULLDOZE","power":80,"energy":-50,"durationMs":3500,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Bulldoze","German":"Dampfwalze","French":"Pi\u00e9tisol","Italian":"Battiterra","Japanese":"\u3058\u306a\u3089\u3057","Korean":"\ub545\uace0\ub974\uae30","Spanish":"Terratemblor"},"combat":{"energy":-60,"power":80}},"PSYSHOCK":{"id":"PSYSHOCK","power":65,"energy":-33,"durationMs":2700,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Psyshock","German":"Psychoschock","French":"Choc Psy","Italian":"Psicoshock","Japanese":"\u30b5\u30a4\u30b3\u30b7\u30e7\u30c3\u30af","Korean":"\uc0ac\uc774\ucf54\uc1fc\ud06c","Spanish":"Psicocarga"},"combat":{"energy":-45,"power":70}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_437_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_437_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "BRONZONG",
+    "formId": "BRONZONG",
+    "dexNr": 437,
+    "generation": 4,
+    "names": {
+        "English": "Bronzong",
+        "German": "Bronzong",
+        "French": "Arch\u00e9odong",
+        "Italian": "Bronzong",
+        "Japanese": "\u30c9\u30fc\u30bf\u30af\u30f3",
+        "Korean": "\ub3d9\ud0c1\uad70",
+        "Spanish": "Bronzong"
+    },
+    "stats": {
+        "stamina": 167,
+        "attack": 161,
+        "defense": 213
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_STEEL",
+        "names": {
+            "English": "Steel",
+            "German": "Stahl",
+            "French": "Acier",
+            "Italian": "Acciaio",
+            "Japanese": "\u306f\u304c\u306d",
+            "Korean": "\uac15\ucca0",
+            "Spanish": "Acero"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_PSYCHIC",
+        "names": {
+            "English": "Psychic",
+            "German": "Psycho",
+            "French": "Psy",
+            "Italian": "Psico",
+            "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+            "Korean": "\uc5d0\uc2a4\ud37c",
+            "Spanish": "Ps\u00edquico"
+        }
+    },
+    "quickMoves": {
+        "FEINT_ATTACK_FAST": {
+            "id": "FEINT_ATTACK_FAST",
+            "power": 10,
+            "energy": 9,
+            "durationMs": 900,
+            "type": {
+                "type": "POKEMON_TYPE_DARK",
+                "names": {
+                    "English": "Dark",
+                    "German": "Unlicht",
+                    "French": "T\u00e9n\u00e8bres",
+                    "Italian": "Buio",
+                    "Japanese": "\u3042\u304f",
+                    "Korean": "\uc545",
+                    "Spanish": "Siniestro"
+                }
+            },
+            "names": {
+                "English": "Feint Attack",
+                "German": "Finte",
+                "French": "Feinte",
+                "Italian": "Finta",
+                "Japanese": "\u3060\u307e\u3057\u3046\u3061",
+                "Korean": "\uc18d\uc5ec\ub54c\ub9ac\uae30",
+                "Spanish": "Finta"
+            },
+            "combat": {
+                "energy": 6,
+                "power": 6
+            }
+        },
+        "CONFUSION_FAST": {
+            "id": "CONFUSION_FAST",
+            "power": 20,
+            "energy": 15,
+            "durationMs": 1600,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Confusion",
+                "German": "Konfusion",
+                "French": "Choc Mental",
+                "Italian": "Confusione",
+                "Japanese": "\u306d\u3093\u308a\u304d",
+                "Korean": "\uc5fc\ub3d9\ub825",
+                "Spanish": "Confusi\u00f3n"
+            },
+            "combat": {
+                "energy": 12,
+                "power": 16
+            }
+        }
+    },
+    "cinematicMoves": {
+        "FLASH_CANNON": {
+            "id": "FLASH_CANNON",
+            "power": 100,
+            "energy": -100,
+            "durationMs": 2700,
+            "type": {
+                "type": "POKEMON_TYPE_STEEL",
+                "names": {
+                    "English": "Steel",
+                    "German": "Stahl",
+                    "French": "Acier",
+                    "Italian": "Acciaio",
+                    "Japanese": "\u306f\u304c\u306d",
+                    "Korean": "\uac15\ucca0",
+                    "Spanish": "Acero"
+                }
+            },
+            "names": {
+                "English": "Flash Cannon",
+                "German": "Lichtkanone",
+                "French": "Luminocanon",
+                "Italian": "Cannonflash",
+                "Japanese": "\u30e9\u30b9\u30bf\u30fc\u30ab\u30ce\u30f3",
+                "Korean": "\ub7ec\uc2a4\ud130\uce90\ub17c",
+                "Spanish": "Foco Resplandor"
+            },
+            "combat": {
+                "energy": -70,
+                "power": 110
+            }
+        },
+        "PSYCHIC": {
+            "id": "PSYCHIC",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 2800,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Psychic",
+                "German": "Psychokinese",
+                "French": "Psyko",
+                "Italian": "Psichico",
+                "Japanese": "\u30b5\u30a4\u30b3\u30ad\u30cd\u30b7\u30b9",
+                "Korean": "\uc0ac\uc774\ucf54\ud0a4\ub124\uc2dc\uc2a4",
+                "Spanish": "Ps\u00edquico"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        },
+        "HEAVY_SLAM": {
+            "id": "HEAVY_SLAM",
+            "power": 70,
+            "energy": -50,
+            "durationMs": 2100,
+            "type": {
+                "type": "POKEMON_TYPE_STEEL",
+                "names": {
+                    "English": "Steel",
+                    "German": "Stahl",
+                    "French": "Acier",
+                    "Italian": "Acciaio",
+                    "Japanese": "\u306f\u304c\u306d",
+                    "Korean": "\uac15\ucca0",
+                    "Spanish": "Acero"
+                }
+            },
+            "names": {
+                "English": "Heavy Slam",
+                "German": "Rammboss",
+                "French": "Tacle Lourd",
+                "Italian": "Pesobomba",
+                "Japanese": "\u30d8\u30d3\u30fc\u30dc\u30f3\u30d0\u30fc",
+                "Korean": "\ud5e4\ube44\ubd04\ubc84",
+                "Spanish": "Cuerpo Pesado"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 70
+            }
+        },
+        "BULLDOZE": {
+            "id": "BULLDOZE",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 3500,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Bulldoze",
+                "German": "Dampfwalze",
+                "French": "Pi\u00e9tisol",
+                "Italian": "Battiterra",
+                "Japanese": "\u3058\u306a\u3089\u3057",
+                "Korean": "\ub545\uace0\ub974\uae30",
+                "Spanish": "Terratemblor"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 80
+            }
+        },
+        "PSYSHOCK": {
+            "id": "PSYSHOCK",
+            "power": 65,
+            "energy": -33,
+            "durationMs": 2700,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Psyshock",
+                "German": "Psychoschock",
+                "French": "Choc Psy",
+                "Italian": "Psicoshock",
+                "Japanese": "\u30b5\u30a4\u30b3\u30b7\u30e7\u30c3\u30af",
+                "Korean": "\uc0ac\uc774\ucf54\uc1fc\ud06c",
+                "Spanish": "Psicocarga"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 70
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_437_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_437_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

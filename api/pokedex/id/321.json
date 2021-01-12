@@ -1,1 +1,201 @@
-{"id":"WAILORD","formId":"WAILORD","dexNr":321,"generation":3,"names":{"English":"Wailord","German":"Wailord","French":"Wailord","Italian":"Wailord","Japanese":"\u30db\u30a8\u30eb\u30aa\u30fc","Korean":"\uace0\ub798\uc655","Spanish":"Wailord"},"stats":{"stamina":347,"attack":175,"defense":87},"primaryType":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"secondaryType":null,"quickMoves":{"ZEN_HEADBUTT_FAST":{"id":"ZEN_HEADBUTT_FAST","power":12,"energy":10,"durationMs":1100,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Zen Headbutt","German":"Zen-Kopfsto\u00df","French":"Psykoud\u2019Boul","Italian":"Cozzata Zen","Japanese":"\u3057\u306d\u3093\u306e\u305a\u3064\u304d","Korean":"\uc0ac\ub150\uc758\ubc15\uce58\uae30","Spanish":"Cabezazo Zen"},"combat":{"energy":6,"power":8}},"WATER_GUN_FAST":{"id":"WATER_GUN_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Water Gun","German":"Aquaknarre","French":"Pistolet \u00e0 O","Italian":"Pistolacqua","Japanese":"\u307f\u305a\u3067\u3063\u307d\u3046","Korean":"\ubb3c\ub300\ud3ec","Spanish":"Pistola Agua"},"combat":{"energy":3,"power":3}}},"cinematicMoves":{"SURF":{"id":"SURF","power":65,"energy":-50,"durationMs":1700,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Surf","German":"Surfer","French":"Surf","Italian":"Surf","Japanese":"\u306a\u307f\u306e\u308a","Korean":"\ud30c\ub3c4\ud0c0\uae30","Spanish":"Surf"},"combat":{"energy":-40,"power":65}},"BLIZZARD":{"id":"BLIZZARD","power":130,"energy":-100,"durationMs":3100,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Blizzard","German":"Blizzard","French":"Blizzard","Italian":"Bora","Japanese":"\u3075\u3076\u304d","Korean":"\ub208\ubcf4\ub77c","Spanish":"Ventisca"},"combat":{"energy":-75,"power":140}},"HYPER_BEAM":{"id":"HYPER_BEAM","power":150,"energy":-100,"durationMs":3800,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Hyper Beam","German":"Hyperstrahl","French":"Ultralaser","Italian":"Iper Raggio","Japanese":"\u306f\u304b\u3044\u3053\u3046\u305b\u3093","Korean":"\ud30c\uad34\uad11\uc120","Spanish":"Hiperrayo"},"combat":{"energy":-80,"power":150}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_321_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_321_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "WAILORD",
+    "formId": "WAILORD",
+    "dexNr": 321,
+    "generation": 3,
+    "names": {
+        "English": "Wailord",
+        "German": "Wailord",
+        "French": "Wailord",
+        "Italian": "Wailord",
+        "Japanese": "\u30db\u30a8\u30eb\u30aa\u30fc",
+        "Korean": "\uace0\ub798\uc655",
+        "Spanish": "Wailord"
+    },
+    "stats": {
+        "stamina": 347,
+        "attack": 175,
+        "defense": 87
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_WATER",
+        "names": {
+            "English": "Water",
+            "German": "Wasser",
+            "French": "Eau",
+            "Italian": "Acqua",
+            "Japanese": "\u307f\u305a",
+            "Korean": "\ubb3c",
+            "Spanish": "Agua"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "ZEN_HEADBUTT_FAST": {
+            "id": "ZEN_HEADBUTT_FAST",
+            "power": 12,
+            "energy": 10,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Zen Headbutt",
+                "German": "Zen-Kopfsto\u00df",
+                "French": "Psykoud\u2019Boul",
+                "Italian": "Cozzata Zen",
+                "Japanese": "\u3057\u306d\u3093\u306e\u305a\u3064\u304d",
+                "Korean": "\uc0ac\ub150\uc758\ubc15\uce58\uae30",
+                "Spanish": "Cabezazo Zen"
+            },
+            "combat": {
+                "energy": 6,
+                "power": 8
+            }
+        },
+        "WATER_GUN_FAST": {
+            "id": "WATER_GUN_FAST",
+            "power": 5,
+            "energy": 5,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Water Gun",
+                "German": "Aquaknarre",
+                "French": "Pistolet \u00e0 O",
+                "Italian": "Pistolacqua",
+                "Japanese": "\u307f\u305a\u3067\u3063\u307d\u3046",
+                "Korean": "\ubb3c\ub300\ud3ec",
+                "Spanish": "Pistola Agua"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 3
+            }
+        }
+    },
+    "cinematicMoves": {
+        "SURF": {
+            "id": "SURF",
+            "power": 65,
+            "energy": -50,
+            "durationMs": 1700,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Surf",
+                "German": "Surfer",
+                "French": "Surf",
+                "Italian": "Surf",
+                "Japanese": "\u306a\u307f\u306e\u308a",
+                "Korean": "\ud30c\ub3c4\ud0c0\uae30",
+                "Spanish": "Surf"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 65
+            }
+        },
+        "BLIZZARD": {
+            "id": "BLIZZARD",
+            "power": 130,
+            "energy": -100,
+            "durationMs": 3100,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Blizzard",
+                "German": "Blizzard",
+                "French": "Blizzard",
+                "Italian": "Bora",
+                "Japanese": "\u3075\u3076\u304d",
+                "Korean": "\ub208\ubcf4\ub77c",
+                "Spanish": "Ventisca"
+            },
+            "combat": {
+                "energy": -75,
+                "power": 140
+            }
+        },
+        "HYPER_BEAM": {
+            "id": "HYPER_BEAM",
+            "power": 150,
+            "energy": -100,
+            "durationMs": 3800,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Hyper Beam",
+                "German": "Hyperstrahl",
+                "French": "Ultralaser",
+                "Italian": "Iper Raggio",
+                "Japanese": "\u306f\u304b\u3044\u3053\u3046\u305b\u3093",
+                "Korean": "\ud30c\uad34\uad11\uc120",
+                "Spanish": "Hiperrayo"
+            },
+            "combat": {
+                "energy": -80,
+                "power": 150
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_321_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_321_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

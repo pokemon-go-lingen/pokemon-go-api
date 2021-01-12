@@ -1,1 +1,201 @@
-{"id":"GROWLITHE","formId":"GROWLITHE","dexNr":58,"generation":1,"names":{"English":"Growlithe","German":"Fukano","French":"Caninos","Italian":"Growlithe","Japanese":"\u30ac\u30fc\u30c7\u30a3","Korean":"\uac00\ub514","Spanish":"Growlithe"},"stats":{"stamina":146,"attack":136,"defense":93},"primaryType":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"secondaryType":null,"quickMoves":{"EMBER_FAST":{"id":"EMBER_FAST","power":10,"energy":10,"durationMs":1000,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Ember","German":"Glut","French":"Flamm\u00e8che","Italian":"Braciere","Japanese":"\u3072\u306e\u3053","Korean":"\ubd88\uaf43\uc138\ub840","Spanish":"Ascuas"},"combat":{"energy":6,"power":6}},"BITE_FAST":{"id":"BITE_FAST","power":6,"energy":4,"durationMs":500,"type":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"names":{"English":"Bite","German":"Biss","French":"Morsure","Italian":"Morso","Japanese":"\u304b\u307f\u3064\u304f","Korean":"\ubb3c\uae30","Spanish":"Mordisco"},"combat":{"energy":2,"power":4}}},"cinematicMoves":{"FLAME_WHEEL":{"id":"FLAME_WHEEL","power":60,"energy":-50,"durationMs":2700,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Flame Wheel","German":"Flammenrad","French":"Roue de Feu","Italian":"Ruotafuoco","Japanese":"\u304b\u3048\u3093\u3050\u308b\u307e","Korean":"\ud654\uc5fc\uc790\ub3d9\ucc28","Spanish":"Rueda Fuego"},"combat":{"energy":-55,"power":60}},"BODY_SLAM":{"id":"BODY_SLAM","power":50,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Body Slam","German":"Bodyslam","French":"Plaquage","Italian":"Corposcontro","Japanese":"\u306e\u3057\u304b\u304b\u308a","Korean":"\ub204\ub974\uae30","Spanish":"Golpe Cuerpo"},"combat":{"energy":-35,"power":60}},"FLAMETHROWER":{"id":"FLAMETHROWER","power":70,"energy":-50,"durationMs":2200,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Flamethrower","German":"Flammenwurf","French":"Lance-Flammes","Italian":"Lanciafiamme","Japanese":"\u304b\u3048\u3093\u307b\u3046\u3057\u3083","Korean":"\ud654\uc5fc\ubc29\uc0ac","Spanish":"Lanzallamas"},"combat":{"energy":-55,"power":90}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_058_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_058_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "GROWLITHE",
+    "formId": "GROWLITHE",
+    "dexNr": 58,
+    "generation": 1,
+    "names": {
+        "English": "Growlithe",
+        "German": "Fukano",
+        "French": "Caninos",
+        "Italian": "Growlithe",
+        "Japanese": "\u30ac\u30fc\u30c7\u30a3",
+        "Korean": "\uac00\ub514",
+        "Spanish": "Growlithe"
+    },
+    "stats": {
+        "stamina": 146,
+        "attack": 136,
+        "defense": 93
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_FIRE",
+        "names": {
+            "English": "Fire",
+            "German": "Feuer",
+            "French": "Feu",
+            "Italian": "Fuoco",
+            "Japanese": "\u307b\u306e\u304a",
+            "Korean": "\ubd88\uaf43",
+            "Spanish": "Fuego"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "EMBER_FAST": {
+            "id": "EMBER_FAST",
+            "power": 10,
+            "energy": 10,
+            "durationMs": 1000,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Ember",
+                "German": "Glut",
+                "French": "Flamm\u00e8che",
+                "Italian": "Braciere",
+                "Japanese": "\u3072\u306e\u3053",
+                "Korean": "\ubd88\uaf43\uc138\ub840",
+                "Spanish": "Ascuas"
+            },
+            "combat": {
+                "energy": 6,
+                "power": 6
+            }
+        },
+        "BITE_FAST": {
+            "id": "BITE_FAST",
+            "power": 6,
+            "energy": 4,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_DARK",
+                "names": {
+                    "English": "Dark",
+                    "German": "Unlicht",
+                    "French": "T\u00e9n\u00e8bres",
+                    "Italian": "Buio",
+                    "Japanese": "\u3042\u304f",
+                    "Korean": "\uc545",
+                    "Spanish": "Siniestro"
+                }
+            },
+            "names": {
+                "English": "Bite",
+                "German": "Biss",
+                "French": "Morsure",
+                "Italian": "Morso",
+                "Japanese": "\u304b\u307f\u3064\u304f",
+                "Korean": "\ubb3c\uae30",
+                "Spanish": "Mordisco"
+            },
+            "combat": {
+                "energy": 2,
+                "power": 4
+            }
+        }
+    },
+    "cinematicMoves": {
+        "FLAME_WHEEL": {
+            "id": "FLAME_WHEEL",
+            "power": 60,
+            "energy": -50,
+            "durationMs": 2700,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Flame Wheel",
+                "German": "Flammenrad",
+                "French": "Roue de Feu",
+                "Italian": "Ruotafuoco",
+                "Japanese": "\u304b\u3048\u3093\u3050\u308b\u307e",
+                "Korean": "\ud654\uc5fc\uc790\ub3d9\ucc28",
+                "Spanish": "Rueda Fuego"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 60
+            }
+        },
+        "BODY_SLAM": {
+            "id": "BODY_SLAM",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 1900,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Body Slam",
+                "German": "Bodyslam",
+                "French": "Plaquage",
+                "Italian": "Corposcontro",
+                "Japanese": "\u306e\u3057\u304b\u304b\u308a",
+                "Korean": "\ub204\ub974\uae30",
+                "Spanish": "Golpe Cuerpo"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 60
+            }
+        },
+        "FLAMETHROWER": {
+            "id": "FLAMETHROWER",
+            "power": 70,
+            "energy": -50,
+            "durationMs": 2200,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Flamethrower",
+                "German": "Flammenwurf",
+                "French": "Lance-Flammes",
+                "Italian": "Lanciafiamme",
+                "Japanese": "\u304b\u3048\u3093\u307b\u3046\u3057\u3083",
+                "Korean": "\ud654\uc5fc\ubc29\uc0ac",
+                "Spanish": "Lanzallamas"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_058_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_058_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

@@ -1,1 +1,232 @@
-{"id":"SLURPUFF","formId":"SLURPUFF","dexNr":685,"generation":6,"names":{"English":"Slurpuff","German":"Sabbaione","French":"Cupcanaille","Italian":"Slurpuff","Japanese":"\u30da\u30ed\u30ea\u30fc\u30e0","Korean":"\ub098\ub8e8\ub9bc","Spanish":"Slurpuff"},"stats":{"stamina":193,"attack":168,"defense":163},"primaryType":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"secondaryType":null,"quickMoves":{"TACKLE_FAST":{"id":"TACKLE_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Tackle","German":"Tackle","French":"Charge","Italian":"Azione","Japanese":"\u305f\u3044\u3042\u305f\u308a","Korean":"\ubab8\ud1b5\ubc15\uce58\uae30","Spanish":"Placaje"},"combat":{"energy":2,"power":3}},"CHARM_FAST":{"id":"CHARM_FAST","power":20,"energy":11,"durationMs":1500,"type":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"names":{"English":"Charm","German":"Charme","French":"Charme","Italian":"Fascino","Japanese":"\u3042\u307e\u3048\u308b","Korean":"\uc560\uad50\ubd80\ub9ac\uae30","Spanish":"Encanto"},"combat":{"energy":6,"power":16}}},"cinematicMoves":{"PLAY_ROUGH":{"id":"PLAY_ROUGH","power":90,"energy":-50,"durationMs":2900,"type":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"names":{"English":"Play Rough","German":"Knuddler","French":"C\u00e2linerie","Italian":"Carineria","Japanese":"\u3058\u3083\u308c\u3064\u304f","Korean":"\uce58\uadfc\uac70\ub9ac\uae30","Spanish":"Caranto\u00f1a"},"combat":{"energy":-60,"power":90}},"ENERGY_BALL":{"id":"ENERGY_BALL","power":90,"energy":-50,"durationMs":3900,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Energy Ball","German":"Energieball","French":"\u00c9co-Sph\u00e8re","Italian":"Energipalla","Japanese":"\u30a8\u30ca\u30b8\u30fc\u30dc\u30fc\u30eb","Korean":"\uc5d0\ub108\uc9c0\ubcfc","Spanish":"Energibola"},"combat":{"energy":-55,"power":90}},"FLAMETHROWER":{"id":"FLAMETHROWER","power":70,"energy":-50,"durationMs":2200,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Flamethrower","German":"Flammenwurf","French":"Lance-Flammes","Italian":"Lanciafiamme","Japanese":"\u304b\u3048\u3093\u307b\u3046\u3057\u3083","Korean":"\ud654\uc5fc\ubc29\uc0ac","Spanish":"Lanzallamas"},"combat":{"energy":-55,"power":90}},"DRAINING_KISS":{"id":"DRAINING_KISS","power":60,"energy":-50,"durationMs":2600,"type":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"names":{"English":"Draining Kiss","German":"Diebeskuss","French":"Vampibaiser","Italian":"Assorbibacio","Japanese":"\u30c9\u30ec\u30a4\u30f3\u30ad\u30c3\u30b9","Korean":"\ub4dc\ub808\uc778\ud0a4\uc2a4","Spanish":"Beso Drenaje"},"combat":{"energy":-55,"power":60}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_685_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_685_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "SLURPUFF",
+    "formId": "SLURPUFF",
+    "dexNr": 685,
+    "generation": 6,
+    "names": {
+        "English": "Slurpuff",
+        "German": "Sabbaione",
+        "French": "Cupcanaille",
+        "Italian": "Slurpuff",
+        "Japanese": "\u30da\u30ed\u30ea\u30fc\u30e0",
+        "Korean": "\ub098\ub8e8\ub9bc",
+        "Spanish": "Slurpuff"
+    },
+    "stats": {
+        "stamina": 193,
+        "attack": 168,
+        "defense": 163
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_FAIRY",
+        "names": {
+            "English": "Fairy",
+            "German": "Fee",
+            "French": "F\u00e9e",
+            "Italian": "Folletto",
+            "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+            "Korean": "\ud398\uc5b4\ub9ac",
+            "Spanish": "Hada"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "TACKLE_FAST": {
+            "id": "TACKLE_FAST",
+            "power": 5,
+            "energy": 5,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Tackle",
+                "German": "Tackle",
+                "French": "Charge",
+                "Italian": "Azione",
+                "Japanese": "\u305f\u3044\u3042\u305f\u308a",
+                "Korean": "\ubab8\ud1b5\ubc15\uce58\uae30",
+                "Spanish": "Placaje"
+            },
+            "combat": {
+                "energy": 2,
+                "power": 3
+            }
+        },
+        "CHARM_FAST": {
+            "id": "CHARM_FAST",
+            "power": 20,
+            "energy": 11,
+            "durationMs": 1500,
+            "type": {
+                "type": "POKEMON_TYPE_FAIRY",
+                "names": {
+                    "English": "Fairy",
+                    "German": "Fee",
+                    "French": "F\u00e9e",
+                    "Italian": "Folletto",
+                    "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                    "Korean": "\ud398\uc5b4\ub9ac",
+                    "Spanish": "Hada"
+                }
+            },
+            "names": {
+                "English": "Charm",
+                "German": "Charme",
+                "French": "Charme",
+                "Italian": "Fascino",
+                "Japanese": "\u3042\u307e\u3048\u308b",
+                "Korean": "\uc560\uad50\ubd80\ub9ac\uae30",
+                "Spanish": "Encanto"
+            },
+            "combat": {
+                "energy": 6,
+                "power": 16
+            }
+        }
+    },
+    "cinematicMoves": {
+        "PLAY_ROUGH": {
+            "id": "PLAY_ROUGH",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 2900,
+            "type": {
+                "type": "POKEMON_TYPE_FAIRY",
+                "names": {
+                    "English": "Fairy",
+                    "German": "Fee",
+                    "French": "F\u00e9e",
+                    "Italian": "Folletto",
+                    "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                    "Korean": "\ud398\uc5b4\ub9ac",
+                    "Spanish": "Hada"
+                }
+            },
+            "names": {
+                "English": "Play Rough",
+                "German": "Knuddler",
+                "French": "C\u00e2linerie",
+                "Italian": "Carineria",
+                "Japanese": "\u3058\u3083\u308c\u3064\u304f",
+                "Korean": "\uce58\uadfc\uac70\ub9ac\uae30",
+                "Spanish": "Caranto\u00f1a"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 90
+            }
+        },
+        "ENERGY_BALL": {
+            "id": "ENERGY_BALL",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 3900,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Energy Ball",
+                "German": "Energieball",
+                "French": "\u00c9co-Sph\u00e8re",
+                "Italian": "Energipalla",
+                "Japanese": "\u30a8\u30ca\u30b8\u30fc\u30dc\u30fc\u30eb",
+                "Korean": "\uc5d0\ub108\uc9c0\ubcfc",
+                "Spanish": "Energibola"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        },
+        "FLAMETHROWER": {
+            "id": "FLAMETHROWER",
+            "power": 70,
+            "energy": -50,
+            "durationMs": 2200,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Flamethrower",
+                "German": "Flammenwurf",
+                "French": "Lance-Flammes",
+                "Italian": "Lanciafiamme",
+                "Japanese": "\u304b\u3048\u3093\u307b\u3046\u3057\u3083",
+                "Korean": "\ud654\uc5fc\ubc29\uc0ac",
+                "Spanish": "Lanzallamas"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        },
+        "DRAINING_KISS": {
+            "id": "DRAINING_KISS",
+            "power": 60,
+            "energy": -50,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_FAIRY",
+                "names": {
+                    "English": "Fairy",
+                    "German": "Fee",
+                    "French": "F\u00e9e",
+                    "Italian": "Folletto",
+                    "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                    "Korean": "\ud398\uc5b4\ub9ac",
+                    "Spanish": "Hada"
+                }
+            },
+            "names": {
+                "English": "Draining Kiss",
+                "German": "Diebeskuss",
+                "French": "Vampibaiser",
+                "Italian": "Assorbibacio",
+                "Japanese": "\u30c9\u30ec\u30a4\u30f3\u30ad\u30c3\u30b9",
+                "Korean": "\ub4dc\ub808\uc778\ud0a4\uc2a4",
+                "Spanish": "Beso Drenaje"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 60
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_685_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_685_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

@@ -1,1 +1,201 @@
-{"id":"CUBONE","formId":"CUBONE","dexNr":104,"generation":1,"names":{"English":"Cubone","German":"Tragosso","French":"Osselait","Italian":"Cubone","Japanese":"\u30ab\u30e9\u30ab\u30e9","Korean":"\ud0d5\uad6c\ub9ac","Spanish":"Cubone"},"stats":{"stamina":137,"attack":90,"defense":144},"primaryType":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"secondaryType":null,"quickMoves":{"MUD_SLAP_FAST":{"id":"MUD_SLAP_FAST","power":18,"energy":12,"durationMs":1400,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Mud-Slap","German":"Lehmschelle","French":"Coud\u2019Boue","Italian":"Fangosberla","Japanese":"\u3069\u308d\u304b\u3051","Korean":"\uc9c4\ud759\ubfcc\ub9ac\uae30","Spanish":"Bofet\u00f3n Lodo"},"combat":{"energy":8,"power":11}},"ROCK_SMASH_FAST":{"id":"ROCK_SMASH_FAST","power":15,"energy":10,"durationMs":1300,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Rock Smash","German":"Zertr\u00fcmmerer","French":"\u00c9clate-Roc","Italian":"Spaccaroccia","Japanese":"\u3044\u308f\u304f\u3060\u304d","Korean":"\ubc14\uc704\uae68\uae30","Spanish":"Golpe Roca"},"combat":{"energy":7,"power":9}}},"cinematicMoves":{"BONE_CLUB":{"id":"BONE_CLUB","power":40,"energy":-33,"durationMs":1600,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Bone Club","German":"Knochenkeule","French":"Massd\u2019Os","Italian":"Ossoclava","Japanese":"\u30db\u30cd\u3053\u3093\u307c\u3046","Korean":"\ubf08\ub2e4\uadc0\uce58\uae30","Spanish":"Hueso Palo"},"combat":{"energy":-35,"power":40}},"DIG":{"id":"DIG","power":100,"energy":-50,"durationMs":4700,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Dig","German":"Schaufler","French":"Tunnel","Italian":"Fossa","Japanese":"\u3042\u306a\u3092\u307b\u308b","Korean":"\uad6c\uba4d\ud30c\uae30","Spanish":"Excavar"},"combat":{"energy":-80,"power":100}},"BULLDOZE":{"id":"BULLDOZE","power":80,"energy":-50,"durationMs":3500,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Bulldoze","German":"Dampfwalze","French":"Pi\u00e9tisol","Italian":"Battiterra","Japanese":"\u3058\u306a\u3089\u3057","Korean":"\ub545\uace0\ub974\uae30","Spanish":"Terratemblor"},"combat":{"energy":-60,"power":80}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_104_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_104_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "CUBONE",
+    "formId": "CUBONE",
+    "dexNr": 104,
+    "generation": 1,
+    "names": {
+        "English": "Cubone",
+        "German": "Tragosso",
+        "French": "Osselait",
+        "Italian": "Cubone",
+        "Japanese": "\u30ab\u30e9\u30ab\u30e9",
+        "Korean": "\ud0d5\uad6c\ub9ac",
+        "Spanish": "Cubone"
+    },
+    "stats": {
+        "stamina": 137,
+        "attack": 90,
+        "defense": 144
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_GROUND",
+        "names": {
+            "English": "Ground",
+            "German": "Boden",
+            "French": "Sol",
+            "Italian": "Terra",
+            "Japanese": "\u3058\u3081\u3093",
+            "Korean": "\ub545",
+            "Spanish": "Tierra"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "MUD_SLAP_FAST": {
+            "id": "MUD_SLAP_FAST",
+            "power": 18,
+            "energy": 12,
+            "durationMs": 1400,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Mud-Slap",
+                "German": "Lehmschelle",
+                "French": "Coud\u2019Boue",
+                "Italian": "Fangosberla",
+                "Japanese": "\u3069\u308d\u304b\u3051",
+                "Korean": "\uc9c4\ud759\ubfcc\ub9ac\uae30",
+                "Spanish": "Bofet\u00f3n Lodo"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 11
+            }
+        },
+        "ROCK_SMASH_FAST": {
+            "id": "ROCK_SMASH_FAST",
+            "power": 15,
+            "energy": 10,
+            "durationMs": 1300,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Rock Smash",
+                "German": "Zertr\u00fcmmerer",
+                "French": "\u00c9clate-Roc",
+                "Italian": "Spaccaroccia",
+                "Japanese": "\u3044\u308f\u304f\u3060\u304d",
+                "Korean": "\ubc14\uc704\uae68\uae30",
+                "Spanish": "Golpe Roca"
+            },
+            "combat": {
+                "energy": 7,
+                "power": 9
+            }
+        }
+    },
+    "cinematicMoves": {
+        "BONE_CLUB": {
+            "id": "BONE_CLUB",
+            "power": 40,
+            "energy": -33,
+            "durationMs": 1600,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Bone Club",
+                "German": "Knochenkeule",
+                "French": "Massd\u2019Os",
+                "Italian": "Ossoclava",
+                "Japanese": "\u30db\u30cd\u3053\u3093\u307c\u3046",
+                "Korean": "\ubf08\ub2e4\uadc0\uce58\uae30",
+                "Spanish": "Hueso Palo"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 40
+            }
+        },
+        "DIG": {
+            "id": "DIG",
+            "power": 100,
+            "energy": -50,
+            "durationMs": 4700,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Dig",
+                "German": "Schaufler",
+                "French": "Tunnel",
+                "Italian": "Fossa",
+                "Japanese": "\u3042\u306a\u3092\u307b\u308b",
+                "Korean": "\uad6c\uba4d\ud30c\uae30",
+                "Spanish": "Excavar"
+            },
+            "combat": {
+                "energy": -80,
+                "power": 100
+            }
+        },
+        "BULLDOZE": {
+            "id": "BULLDOZE",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 3500,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Bulldoze",
+                "German": "Dampfwalze",
+                "French": "Pi\u00e9tisol",
+                "Italian": "Battiterra",
+                "Japanese": "\u3058\u306a\u3089\u3057",
+                "Korean": "\ub545\uace0\ub974\uae30",
+                "Spanish": "Terratemblor"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 80
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_104_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_104_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

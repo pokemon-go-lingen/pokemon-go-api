@@ -1,1 +1,201 @@
-{"id":"TREECKO","formId":"TREECKO","dexNr":252,"generation":3,"names":{"English":"Treecko","German":"Geckarbor","French":"Arcko","Italian":"Treecko","Japanese":"\u30ad\u30e2\u30ea","Korean":"\ub098\ubb34\uc9c0\uae30","Spanish":"Treecko"},"stats":{"stamina":120,"attack":124,"defense":94},"primaryType":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"secondaryType":null,"quickMoves":{"POUND_FAST":{"id":"POUND_FAST","power":7,"energy":6,"durationMs":600,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Pound","German":"Klaps","French":"\u00c9cras\u2019Face","Italian":"Botta","Japanese":"\u306f\u305f\u304f","Korean":"\ub9c9\uce58\uae30","Spanish":"Destructor"},"combat":{"energy":4,"power":5}},"BULLET_SEED_FAST":{"id":"BULLET_SEED_FAST","power":8,"energy":14,"durationMs":1100,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Bullet Seed","German":"Kugelsaat","French":"Balle Graine","Italian":"Semitraglia","Japanese":"\u30bf\u30cd\u30de\u30b7\u30f3\u30ac\u30f3","Korean":"\uae30\uad00\ucd1d","Spanish":"Semilladora"},"combat":{"energy":13,"power":5}}},"cinematicMoves":{"ENERGY_BALL":{"id":"ENERGY_BALL","power":90,"energy":-50,"durationMs":3900,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Energy Ball","German":"Energieball","French":"\u00c9co-Sph\u00e8re","Italian":"Energipalla","Japanese":"\u30a8\u30ca\u30b8\u30fc\u30dc\u30fc\u30eb","Korean":"\uc5d0\ub108\uc9c0\ubcfc","Spanish":"Energibola"},"combat":{"energy":-55,"power":90}},"AERIAL_ACE":{"id":"AERIAL_ACE","power":55,"energy":-33,"durationMs":2400,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Aerial Ace","German":"Aero-Ass","French":"A\u00e9ropique","Italian":"Aeroassalto","Japanese":"\u3064\u3070\u3081\u304c\u3048\u3057","Korean":"\uc81c\ube44\ubc18\ud658","Spanish":"Golpe A\u00e9reo"},"combat":{"energy":-45,"power":55}},"GRASS_KNOT":{"id":"GRASS_KNOT","power":90,"energy":-50,"durationMs":2600,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Grass Knot","German":"Strauchler","French":"N\u0153ud Herbe","Italian":"Laccioerboso","Japanese":"\u304f\u3055\u3080\u3059\u3073","Korean":"\ud480\ubb36\uae30","Spanish":"Hierba Lazo"},"combat":{"energy":-50,"power":90}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_252_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_252_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "TREECKO",
+    "formId": "TREECKO",
+    "dexNr": 252,
+    "generation": 3,
+    "names": {
+        "English": "Treecko",
+        "German": "Geckarbor",
+        "French": "Arcko",
+        "Italian": "Treecko",
+        "Japanese": "\u30ad\u30e2\u30ea",
+        "Korean": "\ub098\ubb34\uc9c0\uae30",
+        "Spanish": "Treecko"
+    },
+    "stats": {
+        "stamina": 120,
+        "attack": 124,
+        "defense": 94
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_GRASS",
+        "names": {
+            "English": "Grass",
+            "German": "Pflanze",
+            "French": "Plante",
+            "Italian": "Erba",
+            "Japanese": "\u304f\u3055",
+            "Korean": "\ud480",
+            "Spanish": "Planta"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "POUND_FAST": {
+            "id": "POUND_FAST",
+            "power": 7,
+            "energy": 6,
+            "durationMs": 600,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Pound",
+                "German": "Klaps",
+                "French": "\u00c9cras\u2019Face",
+                "Italian": "Botta",
+                "Japanese": "\u306f\u305f\u304f",
+                "Korean": "\ub9c9\uce58\uae30",
+                "Spanish": "Destructor"
+            },
+            "combat": {
+                "energy": 4,
+                "power": 5
+            }
+        },
+        "BULLET_SEED_FAST": {
+            "id": "BULLET_SEED_FAST",
+            "power": 8,
+            "energy": 14,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Bullet Seed",
+                "German": "Kugelsaat",
+                "French": "Balle Graine",
+                "Italian": "Semitraglia",
+                "Japanese": "\u30bf\u30cd\u30de\u30b7\u30f3\u30ac\u30f3",
+                "Korean": "\uae30\uad00\ucd1d",
+                "Spanish": "Semilladora"
+            },
+            "combat": {
+                "energy": 13,
+                "power": 5
+            }
+        }
+    },
+    "cinematicMoves": {
+        "ENERGY_BALL": {
+            "id": "ENERGY_BALL",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 3900,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Energy Ball",
+                "German": "Energieball",
+                "French": "\u00c9co-Sph\u00e8re",
+                "Italian": "Energipalla",
+                "Japanese": "\u30a8\u30ca\u30b8\u30fc\u30dc\u30fc\u30eb",
+                "Korean": "\uc5d0\ub108\uc9c0\ubcfc",
+                "Spanish": "Energibola"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        },
+        "AERIAL_ACE": {
+            "id": "AERIAL_ACE",
+            "power": 55,
+            "energy": -33,
+            "durationMs": 2400,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Aerial Ace",
+                "German": "Aero-Ass",
+                "French": "A\u00e9ropique",
+                "Italian": "Aeroassalto",
+                "Japanese": "\u3064\u3070\u3081\u304c\u3048\u3057",
+                "Korean": "\uc81c\ube44\ubc18\ud658",
+                "Spanish": "Golpe A\u00e9reo"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 55
+            }
+        },
+        "GRASS_KNOT": {
+            "id": "GRASS_KNOT",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Grass Knot",
+                "German": "Strauchler",
+                "French": "N\u0153ud Herbe",
+                "Italian": "Laccioerboso",
+                "Japanese": "\u304f\u3055\u3080\u3059\u3073",
+                "Korean": "\ud480\ubb36\uae30",
+                "Spanish": "Hierba Lazo"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 90
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_252_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_252_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

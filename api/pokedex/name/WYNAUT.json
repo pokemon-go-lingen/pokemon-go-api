@@ -1,1 +1,136 @@
-{"id":"WYNAUT","formId":"WYNAUT","dexNr":360,"generation":3,"names":{"English":"Wynaut","German":"Isso","French":"Ok\u00e9ok\u00e9","Italian":"Wynaut","Japanese":"\u30bd\u30fc\u30ca\u30ce","Korean":"\ub9c8\uc790","Spanish":"Wynaut"},"stats":{"stamina":216,"attack":41,"defense":86},"primaryType":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"secondaryType":null,"quickMoves":{"SPLASH_FAST":{"id":"SPLASH_FAST","power":0,"energy":20,"durationMs":1730,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Splash","German":"Platscher","French":"Trempette","Italian":"Splash","Japanese":"\u306f\u306d\u308b","Korean":"\ud280\uc5b4\uc624\ub974\uae30","Spanish":"Salpicadura"},"combat":null},"COUNTER_FAST":{"id":"COUNTER_FAST","power":12,"energy":8,"durationMs":900,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Counter","German":"Konter","French":"Riposte","Italian":"Contrattacco","Japanese":"\u30ab\u30a6\u30f3\u30bf\u30fc","Korean":"\uce74\uc6b4\ud130","Spanish":"Contraataque"},"combat":{"energy":7,"power":8}}},"cinematicMoves":{"MIRROR_COAT":{"id":"MIRROR_COAT","power":60,"energy":-50,"durationMs":2600,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Mirror Coat","German":"Spiegelcape","French":"Voile Miroir","Italian":"Specchiovelo","Japanese":"\u30df\u30e9\u30fc\u30b3\u30fc\u30c8","Korean":"\ubbf8\ub7ec\ucf54\ud2b8","Spanish":"Manto Espejo"},"combat":{"energy":-55,"power":60}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_360_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_360_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "WYNAUT",
+    "formId": "WYNAUT",
+    "dexNr": 360,
+    "generation": 3,
+    "names": {
+        "English": "Wynaut",
+        "German": "Isso",
+        "French": "Ok\u00e9ok\u00e9",
+        "Italian": "Wynaut",
+        "Japanese": "\u30bd\u30fc\u30ca\u30ce",
+        "Korean": "\ub9c8\uc790",
+        "Spanish": "Wynaut"
+    },
+    "stats": {
+        "stamina": 216,
+        "attack": 41,
+        "defense": 86
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_PSYCHIC",
+        "names": {
+            "English": "Psychic",
+            "German": "Psycho",
+            "French": "Psy",
+            "Italian": "Psico",
+            "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+            "Korean": "\uc5d0\uc2a4\ud37c",
+            "Spanish": "Ps\u00edquico"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "SPLASH_FAST": {
+            "id": "SPLASH_FAST",
+            "power": 0,
+            "energy": 20,
+            "durationMs": 1730,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Splash",
+                "German": "Platscher",
+                "French": "Trempette",
+                "Italian": "Splash",
+                "Japanese": "\u306f\u306d\u308b",
+                "Korean": "\ud280\uc5b4\uc624\ub974\uae30",
+                "Spanish": "Salpicadura"
+            },
+            "combat": null
+        },
+        "COUNTER_FAST": {
+            "id": "COUNTER_FAST",
+            "power": 12,
+            "energy": 8,
+            "durationMs": 900,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Counter",
+                "German": "Konter",
+                "French": "Riposte",
+                "Italian": "Contrattacco",
+                "Japanese": "\u30ab\u30a6\u30f3\u30bf\u30fc",
+                "Korean": "\uce74\uc6b4\ud130",
+                "Spanish": "Contraataque"
+            },
+            "combat": {
+                "energy": 7,
+                "power": 8
+            }
+        }
+    },
+    "cinematicMoves": {
+        "MIRROR_COAT": {
+            "id": "MIRROR_COAT",
+            "power": 60,
+            "energy": -50,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Mirror Coat",
+                "German": "Spiegelcape",
+                "French": "Voile Miroir",
+                "Italian": "Specchiovelo",
+                "Japanese": "\u30df\u30e9\u30fc\u30b3\u30fc\u30c8",
+                "Korean": "\ubbf8\ub7ec\ucf54\ud2b8",
+                "Spanish": "Manto Espejo"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 60
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_360_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_360_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

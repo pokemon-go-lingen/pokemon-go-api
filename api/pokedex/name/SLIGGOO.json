@@ -1,1 +1,232 @@
-{"id":"SLIGGOO","formId":"SLIGGOO","dexNr":705,"generation":6,"names":{"English":"Sliggoo","German":"Viscargot","French":"Colimucus","Italian":"Sliggoo","Japanese":"\u30cc\u30e1\u30a4\u30eb","Korean":"\ubbf8\ub044\ub124\uc77c","Spanish":"Sliggoo"},"stats":{"stamina":169,"attack":159,"defense":176},"primaryType":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"secondaryType":null,"quickMoves":{"WATER_GUN_FAST":{"id":"WATER_GUN_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Water Gun","German":"Aquaknarre","French":"Pistolet \u00e0 O","Italian":"Pistolacqua","Japanese":"\u307f\u305a\u3067\u3063\u307d\u3046","Korean":"\ubb3c\ub300\ud3ec","Spanish":"Pistola Agua"},"combat":{"energy":3,"power":3}},"TACKLE_FAST":{"id":"TACKLE_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Tackle","German":"Tackle","French":"Charge","Italian":"Azione","Japanese":"\u305f\u3044\u3042\u305f\u308a","Korean":"\ubab8\ud1b5\ubc15\uce58\uae30","Spanish":"Placaje"},"combat":{"energy":2,"power":3}}},"cinematicMoves":{"DRAGON_PULSE":{"id":"DRAGON_PULSE","power":90,"energy":-50,"durationMs":3600,"type":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"names":{"English":"Dragon Pulse","German":"Drachenpuls","French":"Draco-Choc","Italian":"Dragopulsar","Japanese":"\u308a\u3085\u3046\u306e\u306f\u3069\u3046","Korean":"\uc6a9\uc758\ud30c\ub3d9","Spanish":"Pulso Drag\u00f3n"},"combat":{"energy":-60,"power":90}},"SLUDGE_WAVE":{"id":"SLUDGE_WAVE","power":110,"energy":-100,"durationMs":3200,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Sludge Wave","German":"Schlammwoge","French":"Cradovague","Italian":"Fangonda","Japanese":"\u30d8\u30c9\u30ed\u30a6\u30a7\u30fc\u30d6","Korean":"\uc624\ubb3c\uc6e8\uc774\ube0c","Spanish":"Onda T\u00f3xica"},"combat":{"energy":-65,"power":110}},"MUDDY_WATER":{"id":"MUDDY_WATER","power":50,"energy":-33,"durationMs":2200,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Muddy Water","German":"Lehmbr\u00fche","French":"Ocroupi","Italian":"Fanghiglia","Japanese":"\u3060\u304f\u308a\u3085\u3046","Korean":"\ud0c1\ub958","Spanish":"Agua Lodosa"},"combat":{"energy":-35,"power":35}},"WATER_PULSE":{"id":"WATER_PULSE","power":70,"energy":-50,"durationMs":3200,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Water Pulse","German":"Aquawelle","French":"Vibraqua","Italian":"Idropulsar","Japanese":"\u307f\u305a\u306e\u306f\u3069\u3046","Korean":"\ubb3c\uc758\ud30c\ub3d9","Spanish":"Hidropulso"},"combat":{"energy":-60,"power":70}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_705_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_705_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "SLIGGOO",
+    "formId": "SLIGGOO",
+    "dexNr": 705,
+    "generation": 6,
+    "names": {
+        "English": "Sliggoo",
+        "German": "Viscargot",
+        "French": "Colimucus",
+        "Italian": "Sliggoo",
+        "Japanese": "\u30cc\u30e1\u30a4\u30eb",
+        "Korean": "\ubbf8\ub044\ub124\uc77c",
+        "Spanish": "Sliggoo"
+    },
+    "stats": {
+        "stamina": 169,
+        "attack": 159,
+        "defense": 176
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_DRAGON",
+        "names": {
+            "English": "Dragon",
+            "German": "Drache",
+            "French": "Dragon",
+            "Italian": "Drago",
+            "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+            "Korean": "\ub4dc\ub798\uace4",
+            "Spanish": "Drag\u00f3n"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "WATER_GUN_FAST": {
+            "id": "WATER_GUN_FAST",
+            "power": 5,
+            "energy": 5,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Water Gun",
+                "German": "Aquaknarre",
+                "French": "Pistolet \u00e0 O",
+                "Italian": "Pistolacqua",
+                "Japanese": "\u307f\u305a\u3067\u3063\u307d\u3046",
+                "Korean": "\ubb3c\ub300\ud3ec",
+                "Spanish": "Pistola Agua"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 3
+            }
+        },
+        "TACKLE_FAST": {
+            "id": "TACKLE_FAST",
+            "power": 5,
+            "energy": 5,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Tackle",
+                "German": "Tackle",
+                "French": "Charge",
+                "Italian": "Azione",
+                "Japanese": "\u305f\u3044\u3042\u305f\u308a",
+                "Korean": "\ubab8\ud1b5\ubc15\uce58\uae30",
+                "Spanish": "Placaje"
+            },
+            "combat": {
+                "energy": 2,
+                "power": 3
+            }
+        }
+    },
+    "cinematicMoves": {
+        "DRAGON_PULSE": {
+            "id": "DRAGON_PULSE",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 3600,
+            "type": {
+                "type": "POKEMON_TYPE_DRAGON",
+                "names": {
+                    "English": "Dragon",
+                    "German": "Drache",
+                    "French": "Dragon",
+                    "Italian": "Drago",
+                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                    "Korean": "\ub4dc\ub798\uace4",
+                    "Spanish": "Drag\u00f3n"
+                }
+            },
+            "names": {
+                "English": "Dragon Pulse",
+                "German": "Drachenpuls",
+                "French": "Draco-Choc",
+                "Italian": "Dragopulsar",
+                "Japanese": "\u308a\u3085\u3046\u306e\u306f\u3069\u3046",
+                "Korean": "\uc6a9\uc758\ud30c\ub3d9",
+                "Spanish": "Pulso Drag\u00f3n"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 90
+            }
+        },
+        "SLUDGE_WAVE": {
+            "id": "SLUDGE_WAVE",
+            "power": 110,
+            "energy": -100,
+            "durationMs": 3200,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Sludge Wave",
+                "German": "Schlammwoge",
+                "French": "Cradovague",
+                "Italian": "Fangonda",
+                "Japanese": "\u30d8\u30c9\u30ed\u30a6\u30a7\u30fc\u30d6",
+                "Korean": "\uc624\ubb3c\uc6e8\uc774\ube0c",
+                "Spanish": "Onda T\u00f3xica"
+            },
+            "combat": {
+                "energy": -65,
+                "power": 110
+            }
+        },
+        "MUDDY_WATER": {
+            "id": "MUDDY_WATER",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 2200,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Muddy Water",
+                "German": "Lehmbr\u00fche",
+                "French": "Ocroupi",
+                "Italian": "Fanghiglia",
+                "Japanese": "\u3060\u304f\u308a\u3085\u3046",
+                "Korean": "\ud0c1\ub958",
+                "Spanish": "Agua Lodosa"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 35
+            }
+        },
+        "WATER_PULSE": {
+            "id": "WATER_PULSE",
+            "power": 70,
+            "energy": -50,
+            "durationMs": 3200,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Water Pulse",
+                "German": "Aquawelle",
+                "French": "Vibraqua",
+                "Italian": "Idropulsar",
+                "Japanese": "\u307f\u305a\u306e\u306f\u3069\u3046",
+                "Korean": "\ubb3c\uc758\ud30c\ub3d9",
+                "Spanish": "Hidropulso"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 70
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_705_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_705_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

@@ -1,1 +1,232 @@
-{"id":"REGIROCK","formId":"REGIROCK","dexNr":377,"generation":3,"names":{"English":"Regirock","German":"Regirock","French":"Regirock","Italian":"Regirock","Japanese":"\u30ec\u30b8\u30ed\u30c3\u30af","Korean":"\ub808\uc9c0\ub77d","Spanish":"Regirock"},"stats":{"stamina":190,"attack":179,"defense":309},"primaryType":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"secondaryType":null,"quickMoves":{"ROCK_THROW_FAST":{"id":"ROCK_THROW_FAST","power":12,"energy":7,"durationMs":900,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Rock Throw","German":"Steinwurf","French":"Jet-Pierres","Italian":"Sassata","Japanese":"\u3044\u308f\u304a\u3068\u3057","Korean":"\ub3cc\ub5a8\uad6c\uae30","Spanish":"Lanzarrocas"},"combat":{"energy":5,"power":8}},"ROCK_SMASH_FAST":{"id":"ROCK_SMASH_FAST","power":15,"energy":10,"durationMs":1300,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Rock Smash","German":"Zertr\u00fcmmerer","French":"\u00c9clate-Roc","Italian":"Spaccaroccia","Japanese":"\u3044\u308f\u304f\u3060\u304d","Korean":"\ubc14\uc704\uae68\uae30","Spanish":"Golpe Roca"},"combat":{"energy":7,"power":9}},"LOCK_ON_FAST":{"id":"LOCK_ON_FAST","power":1,"energy":6,"durationMs":300,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Lock-On","German":"Zielschuss","French":"Verrouillage","Italian":"Localizza","Japanese":"\u30ed\u30c3\u30af\u30aa\u30f3","Korean":"\ub85d\uc628","Spanish":"Fijar Blanco"},"combat":{"energy":5,"power":1}}},"cinematicMoves":{"STONE_EDGE":{"id":"STONE_EDGE","power":100,"energy":-100,"durationMs":2300,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Stone Edge","German":"Steinkante","French":"Lame de Roc","Italian":"Pietrataglio","Japanese":"\u30b9\u30c8\u30fc\u30f3\u30a8\u30c3\u30b8","Korean":"\uc2a4\ud1a4\uc5d0\uc9c0","Spanish":"Roca Afilada"},"combat":{"energy":-55,"power":100}},"ZAP_CANNON":{"id":"ZAP_CANNON","power":140,"energy":-100,"durationMs":3700,"type":{"type":"POKEMON_TYPE_ELECTRIC","names":{"English":"Electric","German":"Elektro","French":"\u00c9lectrik","Italian":"Elettro","Japanese":"\u3067\u3093\u304d","Korean":"\uc804\uae30","Spanish":"El\u00e9ctrico"}},"names":{"English":"Zap Cannon","German":"Blitzkanone","French":"\u00c9lecanon","Italian":"Falcecannone","Japanese":"\u3067\u3093\u3058\u307b\u3046","Korean":"\uc804\uc790\ud3ec","Spanish":"Electroca\u00f1\u00f3n"},"combat":{"energy":-80,"power":150}},"FOCUS_BLAST":{"id":"FOCUS_BLAST","power":140,"energy":-100,"durationMs":3500,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Focus Blast","German":"Fokussto\u00df","French":"Exploforce","Italian":"Focalcolpo","Japanese":"\u304d\u3042\u3044\u3060\u307e","Korean":"\uae30\ud569\uad6c\uc2ac","Spanish":"Onda Certera"},"combat":{"energy":-75,"power":140}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_377_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_377_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "REGIROCK",
+    "formId": "REGIROCK",
+    "dexNr": 377,
+    "generation": 3,
+    "names": {
+        "English": "Regirock",
+        "German": "Regirock",
+        "French": "Regirock",
+        "Italian": "Regirock",
+        "Japanese": "\u30ec\u30b8\u30ed\u30c3\u30af",
+        "Korean": "\ub808\uc9c0\ub77d",
+        "Spanish": "Regirock"
+    },
+    "stats": {
+        "stamina": 190,
+        "attack": 179,
+        "defense": 309
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_ROCK",
+        "names": {
+            "English": "Rock",
+            "German": "Gestein",
+            "French": "Roche",
+            "Italian": "Roccia",
+            "Japanese": "\u3044\u308f",
+            "Korean": "\ubc14\uc704",
+            "Spanish": "Roca"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "ROCK_THROW_FAST": {
+            "id": "ROCK_THROW_FAST",
+            "power": 12,
+            "energy": 7,
+            "durationMs": 900,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Rock Throw",
+                "German": "Steinwurf",
+                "French": "Jet-Pierres",
+                "Italian": "Sassata",
+                "Japanese": "\u3044\u308f\u304a\u3068\u3057",
+                "Korean": "\ub3cc\ub5a8\uad6c\uae30",
+                "Spanish": "Lanzarrocas"
+            },
+            "combat": {
+                "energy": 5,
+                "power": 8
+            }
+        },
+        "ROCK_SMASH_FAST": {
+            "id": "ROCK_SMASH_FAST",
+            "power": 15,
+            "energy": 10,
+            "durationMs": 1300,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Rock Smash",
+                "German": "Zertr\u00fcmmerer",
+                "French": "\u00c9clate-Roc",
+                "Italian": "Spaccaroccia",
+                "Japanese": "\u3044\u308f\u304f\u3060\u304d",
+                "Korean": "\ubc14\uc704\uae68\uae30",
+                "Spanish": "Golpe Roca"
+            },
+            "combat": {
+                "energy": 7,
+                "power": 9
+            }
+        },
+        "LOCK_ON_FAST": {
+            "id": "LOCK_ON_FAST",
+            "power": 1,
+            "energy": 6,
+            "durationMs": 300,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Lock-On",
+                "German": "Zielschuss",
+                "French": "Verrouillage",
+                "Italian": "Localizza",
+                "Japanese": "\u30ed\u30c3\u30af\u30aa\u30f3",
+                "Korean": "\ub85d\uc628",
+                "Spanish": "Fijar Blanco"
+            },
+            "combat": {
+                "energy": 5,
+                "power": 1
+            }
+        }
+    },
+    "cinematicMoves": {
+        "STONE_EDGE": {
+            "id": "STONE_EDGE",
+            "power": 100,
+            "energy": -100,
+            "durationMs": 2300,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Stone Edge",
+                "German": "Steinkante",
+                "French": "Lame de Roc",
+                "Italian": "Pietrataglio",
+                "Japanese": "\u30b9\u30c8\u30fc\u30f3\u30a8\u30c3\u30b8",
+                "Korean": "\uc2a4\ud1a4\uc5d0\uc9c0",
+                "Spanish": "Roca Afilada"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 100
+            }
+        },
+        "ZAP_CANNON": {
+            "id": "ZAP_CANNON",
+            "power": 140,
+            "energy": -100,
+            "durationMs": 3700,
+            "type": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "names": {
+                "English": "Zap Cannon",
+                "German": "Blitzkanone",
+                "French": "\u00c9lecanon",
+                "Italian": "Falcecannone",
+                "Japanese": "\u3067\u3093\u3058\u307b\u3046",
+                "Korean": "\uc804\uc790\ud3ec",
+                "Spanish": "Electroca\u00f1\u00f3n"
+            },
+            "combat": {
+                "energy": -80,
+                "power": 150
+            }
+        },
+        "FOCUS_BLAST": {
+            "id": "FOCUS_BLAST",
+            "power": 140,
+            "energy": -100,
+            "durationMs": 3500,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Focus Blast",
+                "German": "Fokussto\u00df",
+                "French": "Exploforce",
+                "Italian": "Focalcolpo",
+                "Japanese": "\u304d\u3042\u3044\u3060\u307e",
+                "Korean": "\uae30\ud569\uad6c\uc2ac",
+                "Spanish": "Onda Certera"
+            },
+            "combat": {
+                "energy": -75,
+                "power": 140
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_377_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_377_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

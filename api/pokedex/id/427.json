@@ -1,1 +1,170 @@
-{"id":"BUNEARY","formId":"BUNEARY","dexNr":427,"generation":4,"names":{"English":"Buneary","German":"Haspiror","French":"Laporeille","Italian":"Buneary","Japanese":"\u30df\u30df\u30ed\u30eb","Korean":"\uc774\uc5b4\ub864","Spanish":"Buneary"},"stats":{"stamina":146,"attack":130,"defense":105},"primaryType":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"secondaryType":null,"quickMoves":{"POUND_FAST":{"id":"POUND_FAST","power":7,"energy":6,"durationMs":600,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Pound","German":"Klaps","French":"\u00c9cras\u2019Face","Italian":"Botta","Japanese":"\u306f\u305f\u304f","Korean":"\ub9c9\uce58\uae30","Spanish":"Destructor"},"combat":{"energy":4,"power":5}},"QUICK_ATTACK_FAST":{"id":"QUICK_ATTACK_FAST","power":8,"energy":10,"durationMs":800,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Quick Attack","German":"Ruckzuckhieb","French":"Vive-Attaque","Italian":"Attacco Rapido","Japanese":"\u3067\u3093\u3053\u3046\u305b\u3063\u304b","Korean":"\uc804\uad11\uc11d\ud654","Spanish":"Ataque R\u00e1pido"},"combat":{"energy":7,"power":5}}},"cinematicMoves":{"FIRE_PUNCH":{"id":"FIRE_PUNCH","power":55,"energy":-33,"durationMs":2200,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Fire Punch","German":"Feuerschlag","French":"Poing Feu","Italian":"Fuocopugno","Japanese":"\u307b\u306e\u304a\u306e\u30d1\u30f3\u30c1","Korean":"\ubd88\uaf43\ud380\uce58","Spanish":"Pu\u00f1o Fuego"},"combat":{"energy":-40,"power":55}},"SWIFT":{"id":"SWIFT","power":60,"energy":-50,"durationMs":2800,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Swift","German":"Sternschauer","French":"M\u00e9t\u00e9ores","Italian":"Comete","Japanese":"\u30b9\u30d4\u30fc\u30c9\u30b9\u30bf\u30fc","Korean":"\uc2a4\ud53c\ub4dc\uc2a4\ud0c0","Spanish":"Rapidez"},"combat":{"energy":-55,"power":60}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_427_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_427_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "BUNEARY",
+    "formId": "BUNEARY",
+    "dexNr": 427,
+    "generation": 4,
+    "names": {
+        "English": "Buneary",
+        "German": "Haspiror",
+        "French": "Laporeille",
+        "Italian": "Buneary",
+        "Japanese": "\u30df\u30df\u30ed\u30eb",
+        "Korean": "\uc774\uc5b4\ub864",
+        "Spanish": "Buneary"
+    },
+    "stats": {
+        "stamina": 146,
+        "attack": 130,
+        "defense": 105
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_NORMAL",
+        "names": {
+            "English": "Normal",
+            "German": "Normal",
+            "French": "Normal",
+            "Italian": "Normale",
+            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+            "Korean": "\ub178\ub9d0",
+            "Spanish": "Normal"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "POUND_FAST": {
+            "id": "POUND_FAST",
+            "power": 7,
+            "energy": 6,
+            "durationMs": 600,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Pound",
+                "German": "Klaps",
+                "French": "\u00c9cras\u2019Face",
+                "Italian": "Botta",
+                "Japanese": "\u306f\u305f\u304f",
+                "Korean": "\ub9c9\uce58\uae30",
+                "Spanish": "Destructor"
+            },
+            "combat": {
+                "energy": 4,
+                "power": 5
+            }
+        },
+        "QUICK_ATTACK_FAST": {
+            "id": "QUICK_ATTACK_FAST",
+            "power": 8,
+            "energy": 10,
+            "durationMs": 800,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Quick Attack",
+                "German": "Ruckzuckhieb",
+                "French": "Vive-Attaque",
+                "Italian": "Attacco Rapido",
+                "Japanese": "\u3067\u3093\u3053\u3046\u305b\u3063\u304b",
+                "Korean": "\uc804\uad11\uc11d\ud654",
+                "Spanish": "Ataque R\u00e1pido"
+            },
+            "combat": {
+                "energy": 7,
+                "power": 5
+            }
+        }
+    },
+    "cinematicMoves": {
+        "FIRE_PUNCH": {
+            "id": "FIRE_PUNCH",
+            "power": 55,
+            "energy": -33,
+            "durationMs": 2200,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Fire Punch",
+                "German": "Feuerschlag",
+                "French": "Poing Feu",
+                "Italian": "Fuocopugno",
+                "Japanese": "\u307b\u306e\u304a\u306e\u30d1\u30f3\u30c1",
+                "Korean": "\ubd88\uaf43\ud380\uce58",
+                "Spanish": "Pu\u00f1o Fuego"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 55
+            }
+        },
+        "SWIFT": {
+            "id": "SWIFT",
+            "power": 60,
+            "energy": -50,
+            "durationMs": 2800,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Swift",
+                "German": "Sternschauer",
+                "French": "M\u00e9t\u00e9ores",
+                "Italian": "Comete",
+                "Japanese": "\u30b9\u30d4\u30fc\u30c9\u30b9\u30bf\u30fc",
+                "Korean": "\uc2a4\ud53c\ub4dc\uc2a4\ud0c0",
+                "Spanish": "Rapidez"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 60
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_427_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_427_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

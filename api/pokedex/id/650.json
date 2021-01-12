@@ -1,1 +1,201 @@
-{"id":"CHESPIN","formId":"CHESPIN","dexNr":650,"generation":6,"names":{"English":"Chespin","German":"Igamaro","French":"Marisson","Italian":"Chespin","Japanese":"\u30cf\u30ea\u30de\u30ed\u30f3","Korean":"\ub3c4\uce58\ub9c8\ub860","Spanish":"Chespin"},"stats":{"stamina":148,"attack":110,"defense":106},"primaryType":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"secondaryType":null,"quickMoves":{"TAKE_DOWN_FAST":{"id":"TAKE_DOWN_FAST","power":8,"energy":10,"durationMs":1200,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Take Down","German":"Bodycheck","French":"B\u00e9lier","Italian":"Riduttore","Japanese":"\u3068\u3063\u3057\u3093","Korean":"\ub3cc\uc9c4","Spanish":"Derribo"},"combat":{"energy":8,"power":5}},"VINE_WHIP_FAST":{"id":"VINE_WHIP_FAST","power":7,"energy":6,"durationMs":600,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Vine Whip","German":"Rankenhieb","French":"Fouet Lianes","Italian":"Frustata","Japanese":"\u3064\u308b\u306e\u30e0\u30c1","Korean":"\ub369\uad74\ucc44\ucc0d","Spanish":"L\u00e1tigo Cepa"},"combat":{"energy":8,"power":5}}},"cinematicMoves":{"GYRO_BALL":{"id":"GYRO_BALL","power":80,"energy":-50,"durationMs":3300,"type":{"type":"POKEMON_TYPE_STEEL","names":{"English":"Steel","German":"Stahl","French":"Acier","Italian":"Acciaio","Japanese":"\u306f\u304c\u306d","Korean":"\uac15\ucca0","Spanish":"Acero"}},"names":{"English":"Gyro Ball","German":"Gyroball","French":"Gyroballe","Italian":"Vortexpalla","Japanese":"\u30b8\u30e3\u30a4\u30ed\u30dc\u30fc\u30eb","Korean":"\uc790\uc774\ub85c\ubcfc","Spanish":"Giro Bola"},"combat":{"energy":-60,"power":80}},"SEED_BOMB":{"id":"SEED_BOMB","power":55,"energy":-33,"durationMs":2100,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Seed Bomb","German":"Samenbomben","French":"Canon Graine","Italian":"Semebomba","Japanese":"\u30bf\u30cd\u3070\u304f\u3060\u3093","Korean":"\uc528\ud3ed\ud0c4","Spanish":"Bomba Germen"},"combat":{"energy":-40,"power":55}},"BODY_SLAM":{"id":"BODY_SLAM","power":50,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Body Slam","German":"Bodyslam","French":"Plaquage","Italian":"Corposcontro","Japanese":"\u306e\u3057\u304b\u304b\u308a","Korean":"\ub204\ub974\uae30","Spanish":"Golpe Cuerpo"},"combat":{"energy":-35,"power":60}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_650_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_650_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "CHESPIN",
+    "formId": "CHESPIN",
+    "dexNr": 650,
+    "generation": 6,
+    "names": {
+        "English": "Chespin",
+        "German": "Igamaro",
+        "French": "Marisson",
+        "Italian": "Chespin",
+        "Japanese": "\u30cf\u30ea\u30de\u30ed\u30f3",
+        "Korean": "\ub3c4\uce58\ub9c8\ub860",
+        "Spanish": "Chespin"
+    },
+    "stats": {
+        "stamina": 148,
+        "attack": 110,
+        "defense": 106
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_GRASS",
+        "names": {
+            "English": "Grass",
+            "German": "Pflanze",
+            "French": "Plante",
+            "Italian": "Erba",
+            "Japanese": "\u304f\u3055",
+            "Korean": "\ud480",
+            "Spanish": "Planta"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "TAKE_DOWN_FAST": {
+            "id": "TAKE_DOWN_FAST",
+            "power": 8,
+            "energy": 10,
+            "durationMs": 1200,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Take Down",
+                "German": "Bodycheck",
+                "French": "B\u00e9lier",
+                "Italian": "Riduttore",
+                "Japanese": "\u3068\u3063\u3057\u3093",
+                "Korean": "\ub3cc\uc9c4",
+                "Spanish": "Derribo"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 5
+            }
+        },
+        "VINE_WHIP_FAST": {
+            "id": "VINE_WHIP_FAST",
+            "power": 7,
+            "energy": 6,
+            "durationMs": 600,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Vine Whip",
+                "German": "Rankenhieb",
+                "French": "Fouet Lianes",
+                "Italian": "Frustata",
+                "Japanese": "\u3064\u308b\u306e\u30e0\u30c1",
+                "Korean": "\ub369\uad74\ucc44\ucc0d",
+                "Spanish": "L\u00e1tigo Cepa"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 5
+            }
+        }
+    },
+    "cinematicMoves": {
+        "GYRO_BALL": {
+            "id": "GYRO_BALL",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 3300,
+            "type": {
+                "type": "POKEMON_TYPE_STEEL",
+                "names": {
+                    "English": "Steel",
+                    "German": "Stahl",
+                    "French": "Acier",
+                    "Italian": "Acciaio",
+                    "Japanese": "\u306f\u304c\u306d",
+                    "Korean": "\uac15\ucca0",
+                    "Spanish": "Acero"
+                }
+            },
+            "names": {
+                "English": "Gyro Ball",
+                "German": "Gyroball",
+                "French": "Gyroballe",
+                "Italian": "Vortexpalla",
+                "Japanese": "\u30b8\u30e3\u30a4\u30ed\u30dc\u30fc\u30eb",
+                "Korean": "\uc790\uc774\ub85c\ubcfc",
+                "Spanish": "Giro Bola"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 80
+            }
+        },
+        "SEED_BOMB": {
+            "id": "SEED_BOMB",
+            "power": 55,
+            "energy": -33,
+            "durationMs": 2100,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Seed Bomb",
+                "German": "Samenbomben",
+                "French": "Canon Graine",
+                "Italian": "Semebomba",
+                "Japanese": "\u30bf\u30cd\u3070\u304f\u3060\u3093",
+                "Korean": "\uc528\ud3ed\ud0c4",
+                "Spanish": "Bomba Germen"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 55
+            }
+        },
+        "BODY_SLAM": {
+            "id": "BODY_SLAM",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 1900,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Body Slam",
+                "German": "Bodyslam",
+                "French": "Plaquage",
+                "Italian": "Corposcontro",
+                "Japanese": "\u306e\u3057\u304b\u304b\u308a",
+                "Korean": "\ub204\ub974\uae30",
+                "Spanish": "Golpe Cuerpo"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 60
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_650_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_650_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

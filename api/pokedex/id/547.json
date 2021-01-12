@@ -1,1 +1,212 @@
-{"id":"WHIMSICOTT","formId":"WHIMSICOTT","dexNr":547,"generation":5,"names":{"English":"Whimsicott","German":"Elfun","French":"Farfaduvet","Italian":"Whimsicott","Japanese":"\u30a8\u30eb\u30d5\u30fc\u30f3","Korean":"\uc5d8\ud48d","Spanish":"Whimsicott"},"stats":{"stamina":155,"attack":164,"defense":176},"primaryType":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"secondaryType":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"quickMoves":{"CHARM_FAST":{"id":"CHARM_FAST","power":20,"energy":11,"durationMs":1500,"type":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"names":{"English":"Charm","German":"Charme","French":"Charme","Italian":"Fascino","Japanese":"\u3042\u307e\u3048\u308b","Korean":"\uc560\uad50\ubd80\ub9ac\uae30","Spanish":"Encanto"},"combat":{"energy":6,"power":16}},"RAZOR_LEAF_FAST":{"id":"RAZOR_LEAF_FAST","power":13,"energy":7,"durationMs":1000,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Razor Leaf","German":"Rasierblatt","French":"Tranch\u2019Herbe","Italian":"Foglielama","Japanese":"\u306f\u3063\u3071\u30ab\u30c3\u30bf\u30fc","Korean":"\uc78e\ub0a0\uac00\ub974\uae30","Spanish":"Hoja Afilada"},"combat":{"energy":4,"power":11}}},"cinematicMoves":{"GRASS_KNOT":{"id":"GRASS_KNOT","power":90,"energy":-50,"durationMs":2600,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Grass Knot","German":"Strauchler","French":"N\u0153ud Herbe","Italian":"Laccioerboso","Japanese":"\u304f\u3055\u3080\u3059\u3073","Korean":"\ud480\ubb36\uae30","Spanish":"Hierba Lazo"},"combat":{"energy":-50,"power":90}},"HURRICANE":{"id":"HURRICANE","power":110,"energy":-100,"durationMs":2700,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Hurricane","German":"Orkan","French":"Vent Violent","Italian":"Tifone","Japanese":"\u307c\u3046\u3075\u3046","Korean":"\ud3ed\ud48d","Spanish":"Vendaval"},"combat":{"energy":-65,"power":110}},"MOONBLAST":{"id":"MOONBLAST","power":130,"energy":-100,"durationMs":3900,"type":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"names":{"English":"Moonblast","German":"Mondgewalt","French":"Pouvoir Lunaire","Italian":"Forza Lunare","Japanese":"\u30e0\u30fc\u30f3\u30d5\u30a9\u30fc\u30b9","Korean":"\ubb38\ud3ec\uc2a4","Spanish":"Fuerza Lunar"},"combat":{"energy":-60,"power":110}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_547_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_547_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "WHIMSICOTT",
+    "formId": "WHIMSICOTT",
+    "dexNr": 547,
+    "generation": 5,
+    "names": {
+        "English": "Whimsicott",
+        "German": "Elfun",
+        "French": "Farfaduvet",
+        "Italian": "Whimsicott",
+        "Japanese": "\u30a8\u30eb\u30d5\u30fc\u30f3",
+        "Korean": "\uc5d8\ud48d",
+        "Spanish": "Whimsicott"
+    },
+    "stats": {
+        "stamina": 155,
+        "attack": 164,
+        "defense": 176
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_GRASS",
+        "names": {
+            "English": "Grass",
+            "German": "Pflanze",
+            "French": "Plante",
+            "Italian": "Erba",
+            "Japanese": "\u304f\u3055",
+            "Korean": "\ud480",
+            "Spanish": "Planta"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_FAIRY",
+        "names": {
+            "English": "Fairy",
+            "German": "Fee",
+            "French": "F\u00e9e",
+            "Italian": "Folletto",
+            "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+            "Korean": "\ud398\uc5b4\ub9ac",
+            "Spanish": "Hada"
+        }
+    },
+    "quickMoves": {
+        "CHARM_FAST": {
+            "id": "CHARM_FAST",
+            "power": 20,
+            "energy": 11,
+            "durationMs": 1500,
+            "type": {
+                "type": "POKEMON_TYPE_FAIRY",
+                "names": {
+                    "English": "Fairy",
+                    "German": "Fee",
+                    "French": "F\u00e9e",
+                    "Italian": "Folletto",
+                    "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                    "Korean": "\ud398\uc5b4\ub9ac",
+                    "Spanish": "Hada"
+                }
+            },
+            "names": {
+                "English": "Charm",
+                "German": "Charme",
+                "French": "Charme",
+                "Italian": "Fascino",
+                "Japanese": "\u3042\u307e\u3048\u308b",
+                "Korean": "\uc560\uad50\ubd80\ub9ac\uae30",
+                "Spanish": "Encanto"
+            },
+            "combat": {
+                "energy": 6,
+                "power": 16
+            }
+        },
+        "RAZOR_LEAF_FAST": {
+            "id": "RAZOR_LEAF_FAST",
+            "power": 13,
+            "energy": 7,
+            "durationMs": 1000,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Razor Leaf",
+                "German": "Rasierblatt",
+                "French": "Tranch\u2019Herbe",
+                "Italian": "Foglielama",
+                "Japanese": "\u306f\u3063\u3071\u30ab\u30c3\u30bf\u30fc",
+                "Korean": "\uc78e\ub0a0\uac00\ub974\uae30",
+                "Spanish": "Hoja Afilada"
+            },
+            "combat": {
+                "energy": 4,
+                "power": 11
+            }
+        }
+    },
+    "cinematicMoves": {
+        "GRASS_KNOT": {
+            "id": "GRASS_KNOT",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Grass Knot",
+                "German": "Strauchler",
+                "French": "N\u0153ud Herbe",
+                "Italian": "Laccioerboso",
+                "Japanese": "\u304f\u3055\u3080\u3059\u3073",
+                "Korean": "\ud480\ubb36\uae30",
+                "Spanish": "Hierba Lazo"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 90
+            }
+        },
+        "HURRICANE": {
+            "id": "HURRICANE",
+            "power": 110,
+            "energy": -100,
+            "durationMs": 2700,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Hurricane",
+                "German": "Orkan",
+                "French": "Vent Violent",
+                "Italian": "Tifone",
+                "Japanese": "\u307c\u3046\u3075\u3046",
+                "Korean": "\ud3ed\ud48d",
+                "Spanish": "Vendaval"
+            },
+            "combat": {
+                "energy": -65,
+                "power": 110
+            }
+        },
+        "MOONBLAST": {
+            "id": "MOONBLAST",
+            "power": 130,
+            "energy": -100,
+            "durationMs": 3900,
+            "type": {
+                "type": "POKEMON_TYPE_FAIRY",
+                "names": {
+                    "English": "Fairy",
+                    "German": "Fee",
+                    "French": "F\u00e9e",
+                    "Italian": "Folletto",
+                    "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                    "Korean": "\ud398\uc5b4\ub9ac",
+                    "Spanish": "Hada"
+                }
+            },
+            "names": {
+                "English": "Moonblast",
+                "German": "Mondgewalt",
+                "French": "Pouvoir Lunaire",
+                "Italian": "Forza Lunare",
+                "Japanese": "\u30e0\u30fc\u30f3\u30d5\u30a9\u30fc\u30b9",
+                "Korean": "\ubb38\ud3ec\uc2a4",
+                "Spanish": "Fuerza Lunar"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 110
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_547_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_547_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

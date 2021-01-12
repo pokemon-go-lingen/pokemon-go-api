@@ -1,1 +1,233 @@
-{"id":"EKANS","formId":"EKANS","dexNr":23,"generation":1,"names":{"English":"Ekans","German":"Rettan","French":"Abo","Italian":"Ekans","Japanese":"\u30a2\u30fc\u30dc","Korean":"\uc544\ubcf4","Spanish":"Ekans"},"stats":{"stamina":111,"attack":110,"defense":97},"primaryType":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"secondaryType":null,"quickMoves":{"POISON_STING_FAST":{"id":"POISON_STING_FAST","power":5,"energy":7,"durationMs":600,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Poison Sting","German":"Giftstachel","French":"Dard-Venin","Italian":"Velenospina","Japanese":"\u3069\u304f\u3070\u308a","Korean":"\ub3c5\uce68","Spanish":"Picotazo Veneno"},"combat":{"energy":8,"power":3}},"ACID_FAST":{"id":"ACID_FAST","power":9,"energy":8,"durationMs":800,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Acid","German":"S\u00e4ure","French":"Acide","Italian":"Acido","Japanese":"\u3088\u3046\u304b\u3044\u3048\u304d","Korean":"\uc6a9\ud574\uc561","Spanish":"\u00c1cido"},"combat":{"energy":5,"power":6}}},"cinematicMoves":{"WRAP":{"id":"WRAP","power":60,"energy":-33,"durationMs":2900,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Wrap","German":"Wickel","French":"Ligotage","Italian":"Avvolgibotta","Japanese":"\u307e\u304d\u3064\u304f","Korean":"\uae40\ubc25\ub9d0\uc774","Spanish":"Constricci\u00f3n"},"combat":{"energy":-45,"power":60}},"POISON_FANG":{"id":"POISON_FANG","power":35,"energy":-33,"durationMs":1700,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Poison Fang","German":"Giftzahn","French":"Crochet Venin","Italian":"Velenodenti","Japanese":"\u3069\u304f\u3069\u304f\u306e\u30ad\u30d0","Korean":"\ub3c5\uc5c4\ub2c8","Spanish":"Colmillo Veneno"},"combat":{"energy":-35,"power":40}},"SLUDGE_BOMB":{"id":"SLUDGE_BOMB","power":80,"energy":-50,"durationMs":2300,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Sludge Bomb","German":"Matschbombe","French":"Bombe Beurk","Italian":"Fangobomba","Japanese":"\u30d8\u30c9\u30ed\u3070\u304f\u3060\u3093","Korean":"\uc624\ubb3c\ud3ed\ud0c4","Spanish":"Bomba Lodo"},"combat":{"energy":-50,"power":80}}},"eliteQuickMoves":[],"eliteCinematicMoves":{"GUNK_SHOT":{"id":"GUNK_SHOT","power":130,"energy":-100,"durationMs":3100,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Gunk Shot","German":"M\u00fclltreffer","French":"D\u00e9tricanon","Italian":"Sporcolancio","Japanese":"\u30c0\u30b9\u30c8\u30b7\u30e5\u30fc\u30c8","Korean":"\ub354\uc2a4\ud2b8\uc288\ud2b8","Spanish":"Lanzamugre"},"combat":{"energy":-75,"power":130}}},"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_023_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_023_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "EKANS",
+    "formId": "EKANS",
+    "dexNr": 23,
+    "generation": 1,
+    "names": {
+        "English": "Ekans",
+        "German": "Rettan",
+        "French": "Abo",
+        "Italian": "Ekans",
+        "Japanese": "\u30a2\u30fc\u30dc",
+        "Korean": "\uc544\ubcf4",
+        "Spanish": "Ekans"
+    },
+    "stats": {
+        "stamina": 111,
+        "attack": 110,
+        "defense": 97
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_POISON",
+        "names": {
+            "English": "Poison",
+            "German": "Gift",
+            "French": "Poison",
+            "Italian": "Veleno",
+            "Japanese": "\u3069\u304f",
+            "Korean": "\ub3c5",
+            "Spanish": "Veneno"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "POISON_STING_FAST": {
+            "id": "POISON_STING_FAST",
+            "power": 5,
+            "energy": 7,
+            "durationMs": 600,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Poison Sting",
+                "German": "Giftstachel",
+                "French": "Dard-Venin",
+                "Italian": "Velenospina",
+                "Japanese": "\u3069\u304f\u3070\u308a",
+                "Korean": "\ub3c5\uce68",
+                "Spanish": "Picotazo Veneno"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 3
+            }
+        },
+        "ACID_FAST": {
+            "id": "ACID_FAST",
+            "power": 9,
+            "energy": 8,
+            "durationMs": 800,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Acid",
+                "German": "S\u00e4ure",
+                "French": "Acide",
+                "Italian": "Acido",
+                "Japanese": "\u3088\u3046\u304b\u3044\u3048\u304d",
+                "Korean": "\uc6a9\ud574\uc561",
+                "Spanish": "\u00c1cido"
+            },
+            "combat": {
+                "energy": 5,
+                "power": 6
+            }
+        }
+    },
+    "cinematicMoves": {
+        "WRAP": {
+            "id": "WRAP",
+            "power": 60,
+            "energy": -33,
+            "durationMs": 2900,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Wrap",
+                "German": "Wickel",
+                "French": "Ligotage",
+                "Italian": "Avvolgibotta",
+                "Japanese": "\u307e\u304d\u3064\u304f",
+                "Korean": "\uae40\ubc25\ub9d0\uc774",
+                "Spanish": "Constricci\u00f3n"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 60
+            }
+        },
+        "POISON_FANG": {
+            "id": "POISON_FANG",
+            "power": 35,
+            "energy": -33,
+            "durationMs": 1700,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Poison Fang",
+                "German": "Giftzahn",
+                "French": "Crochet Venin",
+                "Italian": "Velenodenti",
+                "Japanese": "\u3069\u304f\u3069\u304f\u306e\u30ad\u30d0",
+                "Korean": "\ub3c5\uc5c4\ub2c8",
+                "Spanish": "Colmillo Veneno"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 40
+            }
+        },
+        "SLUDGE_BOMB": {
+            "id": "SLUDGE_BOMB",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 2300,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Sludge Bomb",
+                "German": "Matschbombe",
+                "French": "Bombe Beurk",
+                "Italian": "Fangobomba",
+                "Japanese": "\u30d8\u30c9\u30ed\u3070\u304f\u3060\u3093",
+                "Korean": "\uc624\ubb3c\ud3ed\ud0c4",
+                "Spanish": "Bomba Lodo"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 80
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": {
+        "GUNK_SHOT": {
+            "id": "GUNK_SHOT",
+            "power": 130,
+            "energy": -100,
+            "durationMs": 3100,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Gunk Shot",
+                "German": "M\u00fclltreffer",
+                "French": "D\u00e9tricanon",
+                "Italian": "Sporcolancio",
+                "Japanese": "\u30c0\u30b9\u30c8\u30b7\u30e5\u30fc\u30c8",
+                "Korean": "\ub354\uc2a4\ud2b8\uc288\ud2b8",
+                "Spanish": "Lanzamugre"
+            },
+            "combat": {
+                "energy": -75,
+                "power": 130
+            }
+        }
+    },
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_023_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_023_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

@@ -1,1 +1,243 @@
-{"id":"SCOLIPEDE","formId":"SCOLIPEDE","dexNr":545,"generation":5,"names":{"English":"Scolipede","German":"Cerapendra","French":"Brutapode","Italian":"Scolipede","Japanese":"\u30da\u30f3\u30c9\u30e9\u30fc","Korean":"\ud39c\ub4dc\ub77c","Spanish":"Scolipede"},"stats":{"stamina":155,"attack":203,"defense":175},"primaryType":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"secondaryType":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"quickMoves":{"BUG_BITE_FAST":{"id":"BUG_BITE_FAST","power":5,"energy":6,"durationMs":500,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Bug Bite","German":"K\u00e4ferbiss","French":"Piq\u00fbre","Italian":"Coleomorso","Japanese":"\u3080\u3057\u304f\u3044","Korean":"\ubc8c\ub808\uba39\uc74c","Spanish":"Picadura"},"combat":{"energy":3,"power":3}},"POISON_JAB_FAST":{"id":"POISON_JAB_FAST","power":10,"energy":7,"durationMs":800,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Poison Jab","German":"Gifthieb","French":"Direct Toxik","Italian":"Velenpuntura","Japanese":"\u3069\u304f\u3065\u304d","Korean":"\ub3c5\ucc0c\ub974\uae30","Spanish":"Puya Nociva"},"combat":{"energy":7,"power":6}}},"cinematicMoves":{"MEGAHORN":{"id":"MEGAHORN","power":110,"energy":-100,"durationMs":2200,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Megahorn","German":"Vielender","French":"M\u00e9gacorne","Italian":"Megacorno","Japanese":"\u30e1\u30ac\u30db\u30fc\u30f3","Korean":"\uba54\uac00\ud3f0","Spanish":"Megacuerno"},"combat":{"energy":-55,"power":100}},"SLUDGE_BOMB":{"id":"SLUDGE_BOMB","power":80,"energy":-50,"durationMs":2300,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Sludge Bomb","German":"Matschbombe","French":"Bombe Beurk","Italian":"Fangobomba","Japanese":"\u30d8\u30c9\u30ed\u3070\u304f\u3060\u3093","Korean":"\uc624\ubb3c\ud3ed\ud0c4","Spanish":"Bomba Lodo"},"combat":{"energy":-50,"power":80}},"GYRO_BALL":{"id":"GYRO_BALL","power":80,"energy":-50,"durationMs":3300,"type":{"type":"POKEMON_TYPE_STEEL","names":{"English":"Steel","German":"Stahl","French":"Acier","Italian":"Acciaio","Japanese":"\u306f\u304c\u306d","Korean":"\uac15\ucca0","Spanish":"Acero"}},"names":{"English":"Gyro Ball","German":"Gyroball","French":"Gyroballe","Italian":"Vortexpalla","Japanese":"\u30b8\u30e3\u30a4\u30ed\u30dc\u30fc\u30eb","Korean":"\uc790\uc774\ub85c\ubcfc","Spanish":"Giro Bola"},"combat":{"energy":-60,"power":80}},"X_SCISSOR":{"id":"X_SCISSOR","power":45,"energy":-33,"durationMs":1600,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"X-Scissor","German":"Kreuzschere","French":"Plaie Croix","Italian":"Forbice X","Japanese":"\u30b7\u30b6\u30fc\u30af\u30ed\u30b9","Korean":"\uc2dc\uc800\ud06c\ub85c\uc2a4","Spanish":"Tijera X"},"combat":{"energy":-35,"power":45}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_545_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_545_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "SCOLIPEDE",
+    "formId": "SCOLIPEDE",
+    "dexNr": 545,
+    "generation": 5,
+    "names": {
+        "English": "Scolipede",
+        "German": "Cerapendra",
+        "French": "Brutapode",
+        "Italian": "Scolipede",
+        "Japanese": "\u30da\u30f3\u30c9\u30e9\u30fc",
+        "Korean": "\ud39c\ub4dc\ub77c",
+        "Spanish": "Scolipede"
+    },
+    "stats": {
+        "stamina": 155,
+        "attack": 203,
+        "defense": 175
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_BUG",
+        "names": {
+            "English": "Bug",
+            "German": "K\u00e4fer",
+            "French": "Insecte",
+            "Italian": "Coleottero",
+            "Japanese": "\u3080\u3057",
+            "Korean": "\ubc8c\ub808",
+            "Spanish": "Bicho"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_POISON",
+        "names": {
+            "English": "Poison",
+            "German": "Gift",
+            "French": "Poison",
+            "Italian": "Veleno",
+            "Japanese": "\u3069\u304f",
+            "Korean": "\ub3c5",
+            "Spanish": "Veneno"
+        }
+    },
+    "quickMoves": {
+        "BUG_BITE_FAST": {
+            "id": "BUG_BITE_FAST",
+            "power": 5,
+            "energy": 6,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "Bug Bite",
+                "German": "K\u00e4ferbiss",
+                "French": "Piq\u00fbre",
+                "Italian": "Coleomorso",
+                "Japanese": "\u3080\u3057\u304f\u3044",
+                "Korean": "\ubc8c\ub808\uba39\uc74c",
+                "Spanish": "Picadura"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 3
+            }
+        },
+        "POISON_JAB_FAST": {
+            "id": "POISON_JAB_FAST",
+            "power": 10,
+            "energy": 7,
+            "durationMs": 800,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Poison Jab",
+                "German": "Gifthieb",
+                "French": "Direct Toxik",
+                "Italian": "Velenpuntura",
+                "Japanese": "\u3069\u304f\u3065\u304d",
+                "Korean": "\ub3c5\ucc0c\ub974\uae30",
+                "Spanish": "Puya Nociva"
+            },
+            "combat": {
+                "energy": 7,
+                "power": 6
+            }
+        }
+    },
+    "cinematicMoves": {
+        "MEGAHORN": {
+            "id": "MEGAHORN",
+            "power": 110,
+            "energy": -100,
+            "durationMs": 2200,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "Megahorn",
+                "German": "Vielender",
+                "French": "M\u00e9gacorne",
+                "Italian": "Megacorno",
+                "Japanese": "\u30e1\u30ac\u30db\u30fc\u30f3",
+                "Korean": "\uba54\uac00\ud3f0",
+                "Spanish": "Megacuerno"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 100
+            }
+        },
+        "SLUDGE_BOMB": {
+            "id": "SLUDGE_BOMB",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 2300,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Sludge Bomb",
+                "German": "Matschbombe",
+                "French": "Bombe Beurk",
+                "Italian": "Fangobomba",
+                "Japanese": "\u30d8\u30c9\u30ed\u3070\u304f\u3060\u3093",
+                "Korean": "\uc624\ubb3c\ud3ed\ud0c4",
+                "Spanish": "Bomba Lodo"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 80
+            }
+        },
+        "GYRO_BALL": {
+            "id": "GYRO_BALL",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 3300,
+            "type": {
+                "type": "POKEMON_TYPE_STEEL",
+                "names": {
+                    "English": "Steel",
+                    "German": "Stahl",
+                    "French": "Acier",
+                    "Italian": "Acciaio",
+                    "Japanese": "\u306f\u304c\u306d",
+                    "Korean": "\uac15\ucca0",
+                    "Spanish": "Acero"
+                }
+            },
+            "names": {
+                "English": "Gyro Ball",
+                "German": "Gyroball",
+                "French": "Gyroballe",
+                "Italian": "Vortexpalla",
+                "Japanese": "\u30b8\u30e3\u30a4\u30ed\u30dc\u30fc\u30eb",
+                "Korean": "\uc790\uc774\ub85c\ubcfc",
+                "Spanish": "Giro Bola"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 80
+            }
+        },
+        "X_SCISSOR": {
+            "id": "X_SCISSOR",
+            "power": 45,
+            "energy": -33,
+            "durationMs": 1600,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "X-Scissor",
+                "German": "Kreuzschere",
+                "French": "Plaie Croix",
+                "Italian": "Forbice X",
+                "Japanese": "\u30b7\u30b6\u30fc\u30af\u30ed\u30b9",
+                "Korean": "\uc2dc\uc800\ud06c\ub85c\uc2a4",
+                "Spanish": "Tijera X"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 45
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_545_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_545_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

@@ -1,1 +1,233 @@
-{"id":"POLIWHIRL","formId":"POLIWHIRL","dexNr":61,"generation":1,"names":{"English":"Poliwhirl","German":"Quaputzi","French":"T\u00eatarte","Italian":"Poliwhirl","Japanese":"\u30cb\u30e7\u30ed\u30be","Korean":"\uc288\ub959\ucc59\uc774","Spanish":"Poliwhirl"},"stats":{"stamina":163,"attack":130,"defense":123},"primaryType":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"secondaryType":null,"quickMoves":{"BUBBLE_FAST":{"id":"BUBBLE_FAST","power":12,"energy":14,"durationMs":1200,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Bubble","German":"Blubber","French":"\u00c9cume","Italian":"Bolla","Japanese":"\u3042\u308f","Korean":"\uac70\ud488","Spanish":"Burbuja"},"combat":{"energy":11,"power":8}},"MUD_SHOT_FAST":{"id":"MUD_SHOT_FAST","power":5,"energy":7,"durationMs":600,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Mud Shot","German":"Lehmschuss","French":"Tir de Boue","Italian":"Colpodifango","Japanese":"\u30de\u30c3\u30c9\u30b7\u30e7\u30c3\u30c8","Korean":"\uba38\ub4dc\uc20f","Spanish":"Disparo Lodo"},"combat":{"energy":9,"power":3}}},"cinematicMoves":{"WATER_PULSE":{"id":"WATER_PULSE","power":70,"energy":-50,"durationMs":3200,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Water Pulse","German":"Aquawelle","French":"Vibraqua","Italian":"Idropulsar","Japanese":"\u307f\u305a\u306e\u306f\u3069\u3046","Korean":"\ubb3c\uc758\ud30c\ub3d9","Spanish":"Hidropulso"},"combat":{"energy":-60,"power":70}},"MUD_BOMB":{"id":"MUD_BOMB","power":55,"energy":-33,"durationMs":2300,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Mud Bomb","German":"Schlammbombe","French":"Boue-Bombe","Italian":"Pantanobomba","Japanese":"\u3069\u308d\u3070\u304f\u3060\u3093","Korean":"\uc9c4\ud759\ud3ed\ud0c4","Spanish":"Bomba Fango"},"combat":{"energy":-40,"power":55}},"BUBBLE_BEAM":{"id":"BUBBLE_BEAM","power":45,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Bubble Beam","German":"Blubbstrahl","French":"Bulles d\u2019O","Italian":"Bollaraggio","Japanese":"\u30d0\u30d6\u30eb\u3053\u3046\u305b\u3093","Korean":"\uac70\ud488\uad11\uc120","Spanish":"Rayo Burbuja"},"combat":{"energy":-40,"power":25}}},"eliteQuickMoves":[],"eliteCinematicMoves":{"SCALD":{"id":"SCALD","power":80,"energy":-50,"durationMs":3700,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Scald","German":"Siedewasser","French":"\u00c9bullition","Italian":"Idrovampata","Japanese":"\u306d\u3063\u3068\u3046","Korean":"\uc5f4\ud0d5","Spanish":"Escaldar"},"combat":{"energy":-60,"power":80}}},"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_061_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_061_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "POLIWHIRL",
+    "formId": "POLIWHIRL",
+    "dexNr": 61,
+    "generation": 1,
+    "names": {
+        "English": "Poliwhirl",
+        "German": "Quaputzi",
+        "French": "T\u00eatarte",
+        "Italian": "Poliwhirl",
+        "Japanese": "\u30cb\u30e7\u30ed\u30be",
+        "Korean": "\uc288\ub959\ucc59\uc774",
+        "Spanish": "Poliwhirl"
+    },
+    "stats": {
+        "stamina": 163,
+        "attack": 130,
+        "defense": 123
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_WATER",
+        "names": {
+            "English": "Water",
+            "German": "Wasser",
+            "French": "Eau",
+            "Italian": "Acqua",
+            "Japanese": "\u307f\u305a",
+            "Korean": "\ubb3c",
+            "Spanish": "Agua"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "BUBBLE_FAST": {
+            "id": "BUBBLE_FAST",
+            "power": 12,
+            "energy": 14,
+            "durationMs": 1200,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Bubble",
+                "German": "Blubber",
+                "French": "\u00c9cume",
+                "Italian": "Bolla",
+                "Japanese": "\u3042\u308f",
+                "Korean": "\uac70\ud488",
+                "Spanish": "Burbuja"
+            },
+            "combat": {
+                "energy": 11,
+                "power": 8
+            }
+        },
+        "MUD_SHOT_FAST": {
+            "id": "MUD_SHOT_FAST",
+            "power": 5,
+            "energy": 7,
+            "durationMs": 600,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Mud Shot",
+                "German": "Lehmschuss",
+                "French": "Tir de Boue",
+                "Italian": "Colpodifango",
+                "Japanese": "\u30de\u30c3\u30c9\u30b7\u30e7\u30c3\u30c8",
+                "Korean": "\uba38\ub4dc\uc20f",
+                "Spanish": "Disparo Lodo"
+            },
+            "combat": {
+                "energy": 9,
+                "power": 3
+            }
+        }
+    },
+    "cinematicMoves": {
+        "WATER_PULSE": {
+            "id": "WATER_PULSE",
+            "power": 70,
+            "energy": -50,
+            "durationMs": 3200,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Water Pulse",
+                "German": "Aquawelle",
+                "French": "Vibraqua",
+                "Italian": "Idropulsar",
+                "Japanese": "\u307f\u305a\u306e\u306f\u3069\u3046",
+                "Korean": "\ubb3c\uc758\ud30c\ub3d9",
+                "Spanish": "Hidropulso"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 70
+            }
+        },
+        "MUD_BOMB": {
+            "id": "MUD_BOMB",
+            "power": 55,
+            "energy": -33,
+            "durationMs": 2300,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Mud Bomb",
+                "German": "Schlammbombe",
+                "French": "Boue-Bombe",
+                "Italian": "Pantanobomba",
+                "Japanese": "\u3069\u308d\u3070\u304f\u3060\u3093",
+                "Korean": "\uc9c4\ud759\ud3ed\ud0c4",
+                "Spanish": "Bomba Fango"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 55
+            }
+        },
+        "BUBBLE_BEAM": {
+            "id": "BUBBLE_BEAM",
+            "power": 45,
+            "energy": -33,
+            "durationMs": 1900,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Bubble Beam",
+                "German": "Blubbstrahl",
+                "French": "Bulles d\u2019O",
+                "Italian": "Bollaraggio",
+                "Japanese": "\u30d0\u30d6\u30eb\u3053\u3046\u305b\u3093",
+                "Korean": "\uac70\ud488\uad11\uc120",
+                "Spanish": "Rayo Burbuja"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 25
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": {
+        "SCALD": {
+            "id": "SCALD",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 3700,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Scald",
+                "German": "Siedewasser",
+                "French": "\u00c9bullition",
+                "Italian": "Idrovampata",
+                "Japanese": "\u306d\u3063\u3068\u3046",
+                "Korean": "\uc5f4\ud0d5",
+                "Spanish": "Escaldar"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 80
+            }
+        }
+    },
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_061_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_061_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

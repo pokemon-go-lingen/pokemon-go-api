@@ -1,1 +1,201 @@
-{"id":"LILLIGANT","formId":"LILLIGANT","dexNr":549,"generation":5,"names":{"English":"Lilligant","German":"Dressella","French":"Fragilady","Italian":"Lilligant","Japanese":"\u30c9\u30ec\u30c7\u30a3\u30a2","Korean":"\ub4dc\ub808\ub514\uc5b4","Spanish":"Lilligant"},"stats":{"stamina":172,"attack":214,"defense":155},"primaryType":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"secondaryType":null,"quickMoves":{"CHARM_FAST":{"id":"CHARM_FAST","power":20,"energy":11,"durationMs":1500,"type":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"names":{"English":"Charm","German":"Charme","French":"Charme","Italian":"Fascino","Japanese":"\u3042\u307e\u3048\u308b","Korean":"\uc560\uad50\ubd80\ub9ac\uae30","Spanish":"Encanto"},"combat":{"energy":6,"power":16}},"HIDDEN_POWER_FAST":{"id":"HIDDEN_POWER_FAST","power":15,"energy":15,"durationMs":1500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Hidden Power","German":"Kraftreserve","French":"Puissance Cach\u00e9e","Italian":"Introforza","Japanese":"\u3081\u3056\u3081\u308b\u30d1\u30ef\u30fc","Korean":"\uc7a0\uc7ac\ud30c\uc6cc","Spanish":"Poder Oculto"},"combat":{"energy":8,"power":9}}},"cinematicMoves":{"PETAL_BLIZZARD":{"id":"PETAL_BLIZZARD","power":110,"energy":-100,"durationMs":2600,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Petal Blizzard","German":"Bl\u00fctenwirbel","French":"Temp\u00eate Florale","Italian":"Fiortempesta","Japanese":"\u306f\u306a\u3075\u3076\u304d","Korean":"\uaf43\ubcf4\ub77c","Spanish":"Tormenta Floral"},"combat":{"energy":-65,"power":110}},"HYPER_BEAM":{"id":"HYPER_BEAM","power":150,"energy":-100,"durationMs":3800,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Hyper Beam","German":"Hyperstrahl","French":"Ultralaser","Italian":"Iper Raggio","Japanese":"\u306f\u304b\u3044\u3053\u3046\u305b\u3093","Korean":"\ud30c\uad34\uad11\uc120","Spanish":"Hiperrayo"},"combat":{"energy":-80,"power":150}},"SOLAR_BEAM":{"id":"SOLAR_BEAM","power":180,"energy":-100,"durationMs":4900,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Solar Beam","German":"Solarstrahl","French":"Lance-Soleil","Italian":"Solarraggio","Japanese":"\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0","Korean":"\uc194\ub77c\ube54","Spanish":"Rayo Solar"},"combat":{"energy":-80,"power":150}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_549_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_549_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "LILLIGANT",
+    "formId": "LILLIGANT",
+    "dexNr": 549,
+    "generation": 5,
+    "names": {
+        "English": "Lilligant",
+        "German": "Dressella",
+        "French": "Fragilady",
+        "Italian": "Lilligant",
+        "Japanese": "\u30c9\u30ec\u30c7\u30a3\u30a2",
+        "Korean": "\ub4dc\ub808\ub514\uc5b4",
+        "Spanish": "Lilligant"
+    },
+    "stats": {
+        "stamina": 172,
+        "attack": 214,
+        "defense": 155
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_GRASS",
+        "names": {
+            "English": "Grass",
+            "German": "Pflanze",
+            "French": "Plante",
+            "Italian": "Erba",
+            "Japanese": "\u304f\u3055",
+            "Korean": "\ud480",
+            "Spanish": "Planta"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "CHARM_FAST": {
+            "id": "CHARM_FAST",
+            "power": 20,
+            "energy": 11,
+            "durationMs": 1500,
+            "type": {
+                "type": "POKEMON_TYPE_FAIRY",
+                "names": {
+                    "English": "Fairy",
+                    "German": "Fee",
+                    "French": "F\u00e9e",
+                    "Italian": "Folletto",
+                    "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                    "Korean": "\ud398\uc5b4\ub9ac",
+                    "Spanish": "Hada"
+                }
+            },
+            "names": {
+                "English": "Charm",
+                "German": "Charme",
+                "French": "Charme",
+                "Italian": "Fascino",
+                "Japanese": "\u3042\u307e\u3048\u308b",
+                "Korean": "\uc560\uad50\ubd80\ub9ac\uae30",
+                "Spanish": "Encanto"
+            },
+            "combat": {
+                "energy": 6,
+                "power": 16
+            }
+        },
+        "HIDDEN_POWER_FAST": {
+            "id": "HIDDEN_POWER_FAST",
+            "power": 15,
+            "energy": 15,
+            "durationMs": 1500,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Hidden Power",
+                "German": "Kraftreserve",
+                "French": "Puissance Cach\u00e9e",
+                "Italian": "Introforza",
+                "Japanese": "\u3081\u3056\u3081\u308b\u30d1\u30ef\u30fc",
+                "Korean": "\uc7a0\uc7ac\ud30c\uc6cc",
+                "Spanish": "Poder Oculto"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 9
+            }
+        }
+    },
+    "cinematicMoves": {
+        "PETAL_BLIZZARD": {
+            "id": "PETAL_BLIZZARD",
+            "power": 110,
+            "energy": -100,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Petal Blizzard",
+                "German": "Bl\u00fctenwirbel",
+                "French": "Temp\u00eate Florale",
+                "Italian": "Fiortempesta",
+                "Japanese": "\u306f\u306a\u3075\u3076\u304d",
+                "Korean": "\uaf43\ubcf4\ub77c",
+                "Spanish": "Tormenta Floral"
+            },
+            "combat": {
+                "energy": -65,
+                "power": 110
+            }
+        },
+        "HYPER_BEAM": {
+            "id": "HYPER_BEAM",
+            "power": 150,
+            "energy": -100,
+            "durationMs": 3800,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Hyper Beam",
+                "German": "Hyperstrahl",
+                "French": "Ultralaser",
+                "Italian": "Iper Raggio",
+                "Japanese": "\u306f\u304b\u3044\u3053\u3046\u305b\u3093",
+                "Korean": "\ud30c\uad34\uad11\uc120",
+                "Spanish": "Hiperrayo"
+            },
+            "combat": {
+                "energy": -80,
+                "power": 150
+            }
+        },
+        "SOLAR_BEAM": {
+            "id": "SOLAR_BEAM",
+            "power": 180,
+            "energy": -100,
+            "durationMs": 4900,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Solar Beam",
+                "German": "Solarstrahl",
+                "French": "Lance-Soleil",
+                "Italian": "Solarraggio",
+                "Japanese": "\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0",
+                "Korean": "\uc194\ub77c\ube54",
+                "Spanish": "Rayo Solar"
+            },
+            "combat": {
+                "energy": -80,
+                "power": 150
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_549_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_549_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

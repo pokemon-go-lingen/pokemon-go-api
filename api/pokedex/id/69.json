@@ -1,1 +1,212 @@
-{"id":"BELLSPROUT","formId":"BELLSPROUT","dexNr":69,"generation":1,"names":{"English":"Bellsprout","German":"Knofensa","French":"Ch\u00e9tiflor","Italian":"Bellsprout","Japanese":"\u30de\u30c0\u30c4\u30dc\u30df","Korean":"\ubaa8\ub2e4\ud53c","Spanish":"Bellsprout"},"stats":{"stamina":137,"attack":139,"defense":61},"primaryType":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"secondaryType":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"quickMoves":{"VINE_WHIP_FAST":{"id":"VINE_WHIP_FAST","power":7,"energy":6,"durationMs":600,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Vine Whip","German":"Rankenhieb","French":"Fouet Lianes","Italian":"Frustata","Japanese":"\u3064\u308b\u306e\u30e0\u30c1","Korean":"\ub369\uad74\ucc44\ucc0d","Spanish":"L\u00e1tigo Cepa"},"combat":{"energy":8,"power":5}},"ACID_FAST":{"id":"ACID_FAST","power":9,"energy":8,"durationMs":800,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Acid","German":"S\u00e4ure","French":"Acide","Italian":"Acido","Japanese":"\u3088\u3046\u304b\u3044\u3048\u304d","Korean":"\uc6a9\ud574\uc561","Spanish":"\u00c1cido"},"combat":{"energy":5,"power":6}}},"cinematicMoves":{"POWER_WHIP":{"id":"POWER_WHIP","power":90,"energy":-50,"durationMs":2600,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Power Whip","German":"Blattgei\u00dfel","French":"M\u00e9gafouet","Italian":"Vigorcolpo","Japanese":"\u30d1\u30ef\u30fc\u30a6\u30a3\u30c3\u30d7","Korean":"\ud30c\uc6cc\ud729","Spanish":"Latigazo"},"combat":{"energy":-50,"power":90}},"SLUDGE_BOMB":{"id":"SLUDGE_BOMB","power":80,"energy":-50,"durationMs":2300,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Sludge Bomb","German":"Matschbombe","French":"Bombe Beurk","Italian":"Fangobomba","Japanese":"\u30d8\u30c9\u30ed\u3070\u304f\u3060\u3093","Korean":"\uc624\ubb3c\ud3ed\ud0c4","Spanish":"Bomba Lodo"},"combat":{"energy":-50,"power":80}},"WRAP":{"id":"WRAP","power":60,"energy":-33,"durationMs":2900,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Wrap","German":"Wickel","French":"Ligotage","Italian":"Avvolgibotta","Japanese":"\u307e\u304d\u3064\u304f","Korean":"\uae40\ubc25\ub9d0\uc774","Spanish":"Constricci\u00f3n"},"combat":{"energy":-45,"power":60}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_069_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_069_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "BELLSPROUT",
+    "formId": "BELLSPROUT",
+    "dexNr": 69,
+    "generation": 1,
+    "names": {
+        "English": "Bellsprout",
+        "German": "Knofensa",
+        "French": "Ch\u00e9tiflor",
+        "Italian": "Bellsprout",
+        "Japanese": "\u30de\u30c0\u30c4\u30dc\u30df",
+        "Korean": "\ubaa8\ub2e4\ud53c",
+        "Spanish": "Bellsprout"
+    },
+    "stats": {
+        "stamina": 137,
+        "attack": 139,
+        "defense": 61
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_GRASS",
+        "names": {
+            "English": "Grass",
+            "German": "Pflanze",
+            "French": "Plante",
+            "Italian": "Erba",
+            "Japanese": "\u304f\u3055",
+            "Korean": "\ud480",
+            "Spanish": "Planta"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_POISON",
+        "names": {
+            "English": "Poison",
+            "German": "Gift",
+            "French": "Poison",
+            "Italian": "Veleno",
+            "Japanese": "\u3069\u304f",
+            "Korean": "\ub3c5",
+            "Spanish": "Veneno"
+        }
+    },
+    "quickMoves": {
+        "VINE_WHIP_FAST": {
+            "id": "VINE_WHIP_FAST",
+            "power": 7,
+            "energy": 6,
+            "durationMs": 600,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Vine Whip",
+                "German": "Rankenhieb",
+                "French": "Fouet Lianes",
+                "Italian": "Frustata",
+                "Japanese": "\u3064\u308b\u306e\u30e0\u30c1",
+                "Korean": "\ub369\uad74\ucc44\ucc0d",
+                "Spanish": "L\u00e1tigo Cepa"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 5
+            }
+        },
+        "ACID_FAST": {
+            "id": "ACID_FAST",
+            "power": 9,
+            "energy": 8,
+            "durationMs": 800,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Acid",
+                "German": "S\u00e4ure",
+                "French": "Acide",
+                "Italian": "Acido",
+                "Japanese": "\u3088\u3046\u304b\u3044\u3048\u304d",
+                "Korean": "\uc6a9\ud574\uc561",
+                "Spanish": "\u00c1cido"
+            },
+            "combat": {
+                "energy": 5,
+                "power": 6
+            }
+        }
+    },
+    "cinematicMoves": {
+        "POWER_WHIP": {
+            "id": "POWER_WHIP",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Power Whip",
+                "German": "Blattgei\u00dfel",
+                "French": "M\u00e9gafouet",
+                "Italian": "Vigorcolpo",
+                "Japanese": "\u30d1\u30ef\u30fc\u30a6\u30a3\u30c3\u30d7",
+                "Korean": "\ud30c\uc6cc\ud729",
+                "Spanish": "Latigazo"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 90
+            }
+        },
+        "SLUDGE_BOMB": {
+            "id": "SLUDGE_BOMB",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 2300,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Sludge Bomb",
+                "German": "Matschbombe",
+                "French": "Bombe Beurk",
+                "Italian": "Fangobomba",
+                "Japanese": "\u30d8\u30c9\u30ed\u3070\u304f\u3060\u3093",
+                "Korean": "\uc624\ubb3c\ud3ed\ud0c4",
+                "Spanish": "Bomba Lodo"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 80
+            }
+        },
+        "WRAP": {
+            "id": "WRAP",
+            "power": 60,
+            "energy": -33,
+            "durationMs": 2900,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Wrap",
+                "German": "Wickel",
+                "French": "Ligotage",
+                "Italian": "Avvolgibotta",
+                "Japanese": "\u307e\u304d\u3064\u304f",
+                "Korean": "\uae40\ubc25\ub9d0\uc774",
+                "Spanish": "Constricci\u00f3n"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 60
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_069_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_069_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

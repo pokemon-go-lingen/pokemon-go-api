@@ -1,1 +1,212 @@
-{"id":"RAYQUAZA","formId":"RAYQUAZA","dexNr":384,"generation":3,"names":{"English":"Rayquaza","German":"Rayquaza","French":"Rayquaza","Italian":"Rayquaza","Japanese":"\u30ec\u30c3\u30af\u30a6\u30b6","Korean":"\ub808\ucfe0\uc7c8","Spanish":"Rayquaza"},"stats":{"stamina":213,"attack":284,"defense":170},"primaryType":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"secondaryType":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"quickMoves":{"AIR_SLASH_FAST":{"id":"AIR_SLASH_FAST","power":14,"energy":10,"durationMs":1200,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Air Slash","German":"Luftschnitt","French":"Lame d\u2019Air","Italian":"Eterelama","Japanese":"\u30a8\u30a2\u30b9\u30e9\u30c3\u30b7\u30e5","Korean":"\uc5d0\uc5b4\uc2ac\ub798\uc2dc","Spanish":"Tajo A\u00e9reo"},"combat":{"energy":9,"power":9}},"DRAGON_TAIL_FAST":{"id":"DRAGON_TAIL_FAST","power":15,"energy":9,"durationMs":1100,"type":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"names":{"English":"Dragon Tail","German":"Drachenrute","French":"Draco-Queue","Italian":"Codadrago","Japanese":"\u30c9\u30e9\u30b4\u30f3\u30c6\u30fc\u30eb","Korean":"\ub4dc\ub798\uace4\ud14c\uc77c","Spanish":"Cola Drag\u00f3n"},"combat":{"energy":10,"power":9}}},"cinematicMoves":{"OUTRAGE":{"id":"OUTRAGE","power":110,"energy":-50,"durationMs":3900,"type":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"names":{"English":"Outrage","German":"Wutanfall","French":"Col\u00e8re","Italian":"Oltraggio","Japanese":"\u3052\u304d\u308a\u3093","Korean":"\uc5ed\ub9b0","Spanish":"Enfado"},"combat":{"energy":-60,"power":110}},"AERIAL_ACE":{"id":"AERIAL_ACE","power":55,"energy":-33,"durationMs":2400,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Aerial Ace","German":"Aero-Ass","French":"A\u00e9ropique","Italian":"Aeroassalto","Japanese":"\u3064\u3070\u3081\u304c\u3048\u3057","Korean":"\uc81c\ube44\ubc18\ud658","Spanish":"Golpe A\u00e9reo"},"combat":{"energy":-45,"power":55}},"ANCIENT_POWER":{"id":"ANCIENT_POWER","power":70,"energy":-33,"durationMs":3500,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Ancient Power","German":"Antik-Kraft","French":"Pouvoir Antique","Italian":"Forzantica","Japanese":"\u3052\u3093\u3057\u306e\u3061\u304b\u3089","Korean":"\uc6d0\uc2dc\uc758\ud798","Spanish":"Poder Pasado"},"combat":{"energy":-45,"power":45}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_384_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_384_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "RAYQUAZA",
+    "formId": "RAYQUAZA",
+    "dexNr": 384,
+    "generation": 3,
+    "names": {
+        "English": "Rayquaza",
+        "German": "Rayquaza",
+        "French": "Rayquaza",
+        "Italian": "Rayquaza",
+        "Japanese": "\u30ec\u30c3\u30af\u30a6\u30b6",
+        "Korean": "\ub808\ucfe0\uc7c8",
+        "Spanish": "Rayquaza"
+    },
+    "stats": {
+        "stamina": 213,
+        "attack": 284,
+        "defense": 170
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_DRAGON",
+        "names": {
+            "English": "Dragon",
+            "German": "Drache",
+            "French": "Dragon",
+            "Italian": "Drago",
+            "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+            "Korean": "\ub4dc\ub798\uace4",
+            "Spanish": "Drag\u00f3n"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_FLYING",
+        "names": {
+            "English": "Flying",
+            "German": "Flug",
+            "French": "Vol",
+            "Italian": "Volante",
+            "Japanese": "\u3072\u3053\u3046",
+            "Korean": "\ube44\ud589",
+            "Spanish": "Volador"
+        }
+    },
+    "quickMoves": {
+        "AIR_SLASH_FAST": {
+            "id": "AIR_SLASH_FAST",
+            "power": 14,
+            "energy": 10,
+            "durationMs": 1200,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Air Slash",
+                "German": "Luftschnitt",
+                "French": "Lame d\u2019Air",
+                "Italian": "Eterelama",
+                "Japanese": "\u30a8\u30a2\u30b9\u30e9\u30c3\u30b7\u30e5",
+                "Korean": "\uc5d0\uc5b4\uc2ac\ub798\uc2dc",
+                "Spanish": "Tajo A\u00e9reo"
+            },
+            "combat": {
+                "energy": 9,
+                "power": 9
+            }
+        },
+        "DRAGON_TAIL_FAST": {
+            "id": "DRAGON_TAIL_FAST",
+            "power": 15,
+            "energy": 9,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_DRAGON",
+                "names": {
+                    "English": "Dragon",
+                    "German": "Drache",
+                    "French": "Dragon",
+                    "Italian": "Drago",
+                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                    "Korean": "\ub4dc\ub798\uace4",
+                    "Spanish": "Drag\u00f3n"
+                }
+            },
+            "names": {
+                "English": "Dragon Tail",
+                "German": "Drachenrute",
+                "French": "Draco-Queue",
+                "Italian": "Codadrago",
+                "Japanese": "\u30c9\u30e9\u30b4\u30f3\u30c6\u30fc\u30eb",
+                "Korean": "\ub4dc\ub798\uace4\ud14c\uc77c",
+                "Spanish": "Cola Drag\u00f3n"
+            },
+            "combat": {
+                "energy": 10,
+                "power": 9
+            }
+        }
+    },
+    "cinematicMoves": {
+        "OUTRAGE": {
+            "id": "OUTRAGE",
+            "power": 110,
+            "energy": -50,
+            "durationMs": 3900,
+            "type": {
+                "type": "POKEMON_TYPE_DRAGON",
+                "names": {
+                    "English": "Dragon",
+                    "German": "Drache",
+                    "French": "Dragon",
+                    "Italian": "Drago",
+                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                    "Korean": "\ub4dc\ub798\uace4",
+                    "Spanish": "Drag\u00f3n"
+                }
+            },
+            "names": {
+                "English": "Outrage",
+                "German": "Wutanfall",
+                "French": "Col\u00e8re",
+                "Italian": "Oltraggio",
+                "Japanese": "\u3052\u304d\u308a\u3093",
+                "Korean": "\uc5ed\ub9b0",
+                "Spanish": "Enfado"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 110
+            }
+        },
+        "AERIAL_ACE": {
+            "id": "AERIAL_ACE",
+            "power": 55,
+            "energy": -33,
+            "durationMs": 2400,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Aerial Ace",
+                "German": "Aero-Ass",
+                "French": "A\u00e9ropique",
+                "Italian": "Aeroassalto",
+                "Japanese": "\u3064\u3070\u3081\u304c\u3048\u3057",
+                "Korean": "\uc81c\ube44\ubc18\ud658",
+                "Spanish": "Golpe A\u00e9reo"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 55
+            }
+        },
+        "ANCIENT_POWER": {
+            "id": "ANCIENT_POWER",
+            "power": 70,
+            "energy": -33,
+            "durationMs": 3500,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Ancient Power",
+                "German": "Antik-Kraft",
+                "French": "Pouvoir Antique",
+                "Italian": "Forzantica",
+                "Japanese": "\u3052\u3093\u3057\u306e\u3061\u304b\u3089",
+                "Korean": "\uc6d0\uc2dc\uc758\ud798",
+                "Spanish": "Poder Pasado"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 45
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_384_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_384_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

@@ -1,1 +1,295 @@
-{"id":"PINSIR","formId":"PINSIR","dexNr":127,"generation":1,"names":{"English":"Pinsir","German":"Pinsir","French":"Scarabrute","Italian":"Pinsir","Japanese":"\u30ab\u30a4\u30ed\u30b9","Korean":"\uc058\uc0ac\uc774\uc800","Spanish":"Pinsir"},"stats":{"stamina":163,"attack":238,"defense":182},"primaryType":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"secondaryType":null,"quickMoves":{"ROCK_SMASH_FAST":{"id":"ROCK_SMASH_FAST","power":15,"energy":10,"durationMs":1300,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Rock Smash","German":"Zertr\u00fcmmerer","French":"\u00c9clate-Roc","Italian":"Spaccaroccia","Japanese":"\u3044\u308f\u304f\u3060\u304d","Korean":"\ubc14\uc704\uae68\uae30","Spanish":"Golpe Roca"},"combat":{"energy":7,"power":9}},"BUG_BITE_FAST":{"id":"BUG_BITE_FAST","power":5,"energy":6,"durationMs":500,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Bug Bite","German":"K\u00e4ferbiss","French":"Piq\u00fbre","Italian":"Coleomorso","Japanese":"\u3080\u3057\u304f\u3044","Korean":"\ubc8c\ub808\uba39\uc74c","Spanish":"Picadura"},"combat":{"energy":3,"power":3}},"FURY_CUTTER_FAST":{"id":"FURY_CUTTER_FAST","power":3,"energy":6,"durationMs":400,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Fury Cutter","German":"Zornklinge","French":"Taillade","Italian":"Tagliofuria","Japanese":"\u308c\u3093\u305e\u304f\u304e\u308a","Korean":"\uc5f0\uc18d\uc790\ub974\uae30","Spanish":"Corte Furia"},"combat":{"energy":4,"power":2}}},"cinematicMoves":{"VICE_GRIP":{"id":"VICE_GRIP","power":35,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Vise Grip","German":"Klammer","French":"Force Poigne","Italian":"Presa","Japanese":"\u306f\u3055\u3080","Korean":"\ucc1d\uae30","Spanish":"Agarre"},"combat":{"energy":-40,"power":40}},"X_SCISSOR":{"id":"X_SCISSOR","power":45,"energy":-33,"durationMs":1600,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"X-Scissor","German":"Kreuzschere","French":"Plaie Croix","Italian":"Forbice X","Japanese":"\u30b7\u30b6\u30fc\u30af\u30ed\u30b9","Korean":"\uc2dc\uc800\ud06c\ub85c\uc2a4","Spanish":"Tijera X"},"combat":{"energy":-35,"power":45}},"CLOSE_COMBAT":{"id":"CLOSE_COMBAT","power":100,"energy":-100,"durationMs":2300,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Close Combat","German":"Nahkampf","French":"Close Combat","Italian":"Zuffa","Japanese":"\u30a4\u30f3\u30d5\u30a1\u30a4\u30c8","Korean":"\uc778\ud30c\uc774\ud2b8","Spanish":"A Bocajarro"},"combat":{"energy":-45,"power":100}},"SUPER_POWER":{"id":"SUPER_POWER","power":85,"energy":-50,"durationMs":3000,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Superpower","German":"Kraftkoloss","French":"Surpuissance","Italian":"Troppoforte","Japanese":"\u3070\u304b\u3062\u304b\u3089","Korean":"\uc5c4\uccad\ub09c\ud798","Spanish":"Fuerza Bruta"},"combat":{"energy":-40,"power":85}}},"eliteQuickMoves":[],"eliteCinematicMoves":{"SUBMISSION":{"id":"SUBMISSION","power":60,"energy":-50,"durationMs":2200,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Submission","German":"\u00dcberroller","French":"Sacrifice","Italian":"Sottomissione","Japanese":"\u3058\u3054\u304f\u3050\u308b\u307e","Korean":"\uc9c0\uc625\uc758\ubc14\ud034","Spanish":"Sumisi\u00f3n"},"combat":{"energy":-50,"power":60}}},"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_127_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_127_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "PINSIR",
+    "formId": "PINSIR",
+    "dexNr": 127,
+    "generation": 1,
+    "names": {
+        "English": "Pinsir",
+        "German": "Pinsir",
+        "French": "Scarabrute",
+        "Italian": "Pinsir",
+        "Japanese": "\u30ab\u30a4\u30ed\u30b9",
+        "Korean": "\uc058\uc0ac\uc774\uc800",
+        "Spanish": "Pinsir"
+    },
+    "stats": {
+        "stamina": 163,
+        "attack": 238,
+        "defense": 182
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_BUG",
+        "names": {
+            "English": "Bug",
+            "German": "K\u00e4fer",
+            "French": "Insecte",
+            "Italian": "Coleottero",
+            "Japanese": "\u3080\u3057",
+            "Korean": "\ubc8c\ub808",
+            "Spanish": "Bicho"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "ROCK_SMASH_FAST": {
+            "id": "ROCK_SMASH_FAST",
+            "power": 15,
+            "energy": 10,
+            "durationMs": 1300,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Rock Smash",
+                "German": "Zertr\u00fcmmerer",
+                "French": "\u00c9clate-Roc",
+                "Italian": "Spaccaroccia",
+                "Japanese": "\u3044\u308f\u304f\u3060\u304d",
+                "Korean": "\ubc14\uc704\uae68\uae30",
+                "Spanish": "Golpe Roca"
+            },
+            "combat": {
+                "energy": 7,
+                "power": 9
+            }
+        },
+        "BUG_BITE_FAST": {
+            "id": "BUG_BITE_FAST",
+            "power": 5,
+            "energy": 6,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "Bug Bite",
+                "German": "K\u00e4ferbiss",
+                "French": "Piq\u00fbre",
+                "Italian": "Coleomorso",
+                "Japanese": "\u3080\u3057\u304f\u3044",
+                "Korean": "\ubc8c\ub808\uba39\uc74c",
+                "Spanish": "Picadura"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 3
+            }
+        },
+        "FURY_CUTTER_FAST": {
+            "id": "FURY_CUTTER_FAST",
+            "power": 3,
+            "energy": 6,
+            "durationMs": 400,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "Fury Cutter",
+                "German": "Zornklinge",
+                "French": "Taillade",
+                "Italian": "Tagliofuria",
+                "Japanese": "\u308c\u3093\u305e\u304f\u304e\u308a",
+                "Korean": "\uc5f0\uc18d\uc790\ub974\uae30",
+                "Spanish": "Corte Furia"
+            },
+            "combat": {
+                "energy": 4,
+                "power": 2
+            }
+        }
+    },
+    "cinematicMoves": {
+        "VICE_GRIP": {
+            "id": "VICE_GRIP",
+            "power": 35,
+            "energy": -33,
+            "durationMs": 1900,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Vise Grip",
+                "German": "Klammer",
+                "French": "Force Poigne",
+                "Italian": "Presa",
+                "Japanese": "\u306f\u3055\u3080",
+                "Korean": "\ucc1d\uae30",
+                "Spanish": "Agarre"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 40
+            }
+        },
+        "X_SCISSOR": {
+            "id": "X_SCISSOR",
+            "power": 45,
+            "energy": -33,
+            "durationMs": 1600,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "X-Scissor",
+                "German": "Kreuzschere",
+                "French": "Plaie Croix",
+                "Italian": "Forbice X",
+                "Japanese": "\u30b7\u30b6\u30fc\u30af\u30ed\u30b9",
+                "Korean": "\uc2dc\uc800\ud06c\ub85c\uc2a4",
+                "Spanish": "Tijera X"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 45
+            }
+        },
+        "CLOSE_COMBAT": {
+            "id": "CLOSE_COMBAT",
+            "power": 100,
+            "energy": -100,
+            "durationMs": 2300,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Close Combat",
+                "German": "Nahkampf",
+                "French": "Close Combat",
+                "Italian": "Zuffa",
+                "Japanese": "\u30a4\u30f3\u30d5\u30a1\u30a4\u30c8",
+                "Korean": "\uc778\ud30c\uc774\ud2b8",
+                "Spanish": "A Bocajarro"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 100
+            }
+        },
+        "SUPER_POWER": {
+            "id": "SUPER_POWER",
+            "power": 85,
+            "energy": -50,
+            "durationMs": 3000,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Superpower",
+                "German": "Kraftkoloss",
+                "French": "Surpuissance",
+                "Italian": "Troppoforte",
+                "Japanese": "\u3070\u304b\u3062\u304b\u3089",
+                "Korean": "\uc5c4\uccad\ub09c\ud798",
+                "Spanish": "Fuerza Bruta"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 85
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": {
+        "SUBMISSION": {
+            "id": "SUBMISSION",
+            "power": 60,
+            "energy": -50,
+            "durationMs": 2200,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Submission",
+                "German": "\u00dcberroller",
+                "French": "Sacrifice",
+                "Italian": "Sottomissione",
+                "Japanese": "\u3058\u3054\u304f\u3050\u308b\u307e",
+                "Korean": "\uc9c0\uc625\uc758\ubc14\ud034",
+                "Spanish": "Sumisi\u00f3n"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 60
+            }
+        }
+    },
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_127_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_127_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

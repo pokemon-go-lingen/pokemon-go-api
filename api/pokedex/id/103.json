@@ -1,1 +1,488 @@
-{"id":"EXEGGUTOR","formId":"EXEGGUTOR","dexNr":103,"generation":1,"names":{"English":"Exeggutor","German":"Kokowei","French":"Noadkoko","Italian":"Exeggutor","Japanese":"\u30ca\u30c3\u30b7\u30fc","Korean":"\ub098\uc2dc","Spanish":"Exeggutor"},"stats":{"stamina":216,"attack":233,"defense":149},"primaryType":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"secondaryType":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"quickMoves":{"BULLET_SEED_FAST":{"id":"BULLET_SEED_FAST","power":8,"energy":14,"durationMs":1100,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Bullet Seed","German":"Kugelsaat","French":"Balle Graine","Italian":"Semitraglia","Japanese":"\u30bf\u30cd\u30de\u30b7\u30f3\u30ac\u30f3","Korean":"\uae30\uad00\ucd1d","Spanish":"Semilladora"},"combat":{"energy":13,"power":5}},"EXTRASENSORY_FAST":{"id":"EXTRASENSORY_FAST","power":12,"energy":12,"durationMs":1100,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Extrasensory","German":"Sondersensor","French":"Extrasenseur","Italian":"Extrasenso","Japanese":"\u3058\u3093\u3064\u3046\u308a\u304d","Korean":"\uc2e0\ud1b5\ub825","Spanish":"Paranormal"},"combat":{"energy":10,"power":8}},"CONFUSION_FAST":{"id":"CONFUSION_FAST","power":20,"energy":15,"durationMs":1600,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Confusion","German":"Konfusion","French":"Choc Mental","Italian":"Confusione","Japanese":"\u306d\u3093\u308a\u304d","Korean":"\uc5fc\ub3d9\ub825","Spanish":"Confusi\u00f3n"},"combat":{"energy":12,"power":16}}},"cinematicMoves":{"SEED_BOMB":{"id":"SEED_BOMB","power":55,"energy":-33,"durationMs":2100,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Seed Bomb","German":"Samenbomben","French":"Canon Graine","Italian":"Semebomba","Japanese":"\u30bf\u30cd\u3070\u304f\u3060\u3093","Korean":"\uc528\ud3ed\ud0c4","Spanish":"Bomba Germen"},"combat":{"energy":-40,"power":55}},"PSYCHIC":{"id":"PSYCHIC","power":90,"energy":-50,"durationMs":2800,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Psychic","German":"Psychokinese","French":"Psyko","Italian":"Psichico","Japanese":"\u30b5\u30a4\u30b3\u30ad\u30cd\u30b7\u30b9","Korean":"\uc0ac\uc774\ucf54\ud0a4\ub124\uc2dc\uc2a4","Spanish":"Ps\u00edquico"},"combat":{"energy":-55,"power":90}},"SOLAR_BEAM":{"id":"SOLAR_BEAM","power":180,"energy":-100,"durationMs":4900,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Solar Beam","German":"Solarstrahl","French":"Lance-Soleil","Italian":"Solarraggio","Japanese":"\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0","Korean":"\uc194\ub77c\ube54","Spanish":"Rayo Solar"},"combat":{"energy":-80,"power":150}}},"eliteQuickMoves":{"ZEN_HEADBUTT_FAST":{"id":"ZEN_HEADBUTT_FAST","power":12,"energy":10,"durationMs":1100,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Zen Headbutt","German":"Zen-Kopfsto\u00df","French":"Psykoud\u2019Boul","Italian":"Cozzata Zen","Japanese":"\u3057\u306d\u3093\u306e\u305a\u3064\u304d","Korean":"\uc0ac\ub150\uc758\ubc15\uce58\uae30","Spanish":"Cabezazo Zen"},"combat":{"energy":6,"power":8}}},"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_103_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_103_00_shiny.png"},"regionForms":[{"id":"EXEGGUTOR","formId":"EXEGGUTOR_ALOLA","dexNr":103,"generation":1,"names":{"English":"Alolan Exeggutor","German":"Alola-Kokowei","French":"Noadkoko d'Alola","Italian":"Exeggutor di Alola","Japanese":"\u30a2\u30ed\u30fc\u30e9 \u30ca\u30c3\u30b7\u30fc","Korean":"\uc54c\ub85c\ub77c \ub098\uc2dc","Spanish":"Exeggutor de Alola"},"stats":{"stamina":216,"attack":230,"defense":153},"primaryType":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"secondaryType":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"quickMoves":{"BULLET_SEED_FAST":{"id":"BULLET_SEED_FAST","power":8,"energy":14,"durationMs":1100,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Bullet Seed","German":"Kugelsaat","French":"Balle Graine","Italian":"Semitraglia","Japanese":"\u30bf\u30cd\u30de\u30b7\u30f3\u30ac\u30f3","Korean":"\uae30\uad00\ucd1d","Spanish":"Semilladora"},"combat":{"energy":13,"power":5}},"DRAGON_TAIL_FAST":{"id":"DRAGON_TAIL_FAST","power":15,"energy":9,"durationMs":1100,"type":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"names":{"English":"Dragon Tail","German":"Drachenrute","French":"Draco-Queue","Italian":"Codadrago","Japanese":"\u30c9\u30e9\u30b4\u30f3\u30c6\u30fc\u30eb","Korean":"\ub4dc\ub798\uace4\ud14c\uc77c","Spanish":"Cola Drag\u00f3n"},"combat":{"energy":10,"power":9}}},"cinematicMoves":{"SEED_BOMB":{"id":"SEED_BOMB","power":55,"energy":-33,"durationMs":2100,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Seed Bomb","German":"Samenbomben","French":"Canon Graine","Italian":"Semebomba","Japanese":"\u30bf\u30cd\u3070\u304f\u3060\u3093","Korean":"\uc528\ud3ed\ud0c4","Spanish":"Bomba Germen"},"combat":{"energy":-40,"power":55}},"DRAGON_PULSE":{"id":"DRAGON_PULSE","power":90,"energy":-50,"durationMs":3600,"type":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"names":{"English":"Dragon Pulse","German":"Drachenpuls","French":"Draco-Choc","Italian":"Dragopulsar","Japanese":"\u308a\u3085\u3046\u306e\u306f\u3069\u3046","Korean":"\uc6a9\uc758\ud30c\ub3d9","Spanish":"Pulso Drag\u00f3n"},"combat":{"energy":-60,"power":90}},"SOLAR_BEAM":{"id":"SOLAR_BEAM","power":180,"energy":-100,"durationMs":4900,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Solar Beam","German":"Solarstrahl","French":"Lance-Soleil","Italian":"Solarraggio","Japanese":"\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0","Korean":"\uc194\ub77c\ube54","Spanish":"Rayo Solar"},"combat":{"energy":-80,"power":150}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_103_61.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_103_61_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "EXEGGUTOR",
+    "formId": "EXEGGUTOR",
+    "dexNr": 103,
+    "generation": 1,
+    "names": {
+        "English": "Exeggutor",
+        "German": "Kokowei",
+        "French": "Noadkoko",
+        "Italian": "Exeggutor",
+        "Japanese": "\u30ca\u30c3\u30b7\u30fc",
+        "Korean": "\ub098\uc2dc",
+        "Spanish": "Exeggutor"
+    },
+    "stats": {
+        "stamina": 216,
+        "attack": 233,
+        "defense": 149
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_GRASS",
+        "names": {
+            "English": "Grass",
+            "German": "Pflanze",
+            "French": "Plante",
+            "Italian": "Erba",
+            "Japanese": "\u304f\u3055",
+            "Korean": "\ud480",
+            "Spanish": "Planta"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_PSYCHIC",
+        "names": {
+            "English": "Psychic",
+            "German": "Psycho",
+            "French": "Psy",
+            "Italian": "Psico",
+            "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+            "Korean": "\uc5d0\uc2a4\ud37c",
+            "Spanish": "Ps\u00edquico"
+        }
+    },
+    "quickMoves": {
+        "BULLET_SEED_FAST": {
+            "id": "BULLET_SEED_FAST",
+            "power": 8,
+            "energy": 14,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Bullet Seed",
+                "German": "Kugelsaat",
+                "French": "Balle Graine",
+                "Italian": "Semitraglia",
+                "Japanese": "\u30bf\u30cd\u30de\u30b7\u30f3\u30ac\u30f3",
+                "Korean": "\uae30\uad00\ucd1d",
+                "Spanish": "Semilladora"
+            },
+            "combat": {
+                "energy": 13,
+                "power": 5
+            }
+        },
+        "EXTRASENSORY_FAST": {
+            "id": "EXTRASENSORY_FAST",
+            "power": 12,
+            "energy": 12,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Extrasensory",
+                "German": "Sondersensor",
+                "French": "Extrasenseur",
+                "Italian": "Extrasenso",
+                "Japanese": "\u3058\u3093\u3064\u3046\u308a\u304d",
+                "Korean": "\uc2e0\ud1b5\ub825",
+                "Spanish": "Paranormal"
+            },
+            "combat": {
+                "energy": 10,
+                "power": 8
+            }
+        },
+        "CONFUSION_FAST": {
+            "id": "CONFUSION_FAST",
+            "power": 20,
+            "energy": 15,
+            "durationMs": 1600,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Confusion",
+                "German": "Konfusion",
+                "French": "Choc Mental",
+                "Italian": "Confusione",
+                "Japanese": "\u306d\u3093\u308a\u304d",
+                "Korean": "\uc5fc\ub3d9\ub825",
+                "Spanish": "Confusi\u00f3n"
+            },
+            "combat": {
+                "energy": 12,
+                "power": 16
+            }
+        }
+    },
+    "cinematicMoves": {
+        "SEED_BOMB": {
+            "id": "SEED_BOMB",
+            "power": 55,
+            "energy": -33,
+            "durationMs": 2100,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Seed Bomb",
+                "German": "Samenbomben",
+                "French": "Canon Graine",
+                "Italian": "Semebomba",
+                "Japanese": "\u30bf\u30cd\u3070\u304f\u3060\u3093",
+                "Korean": "\uc528\ud3ed\ud0c4",
+                "Spanish": "Bomba Germen"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 55
+            }
+        },
+        "PSYCHIC": {
+            "id": "PSYCHIC",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 2800,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Psychic",
+                "German": "Psychokinese",
+                "French": "Psyko",
+                "Italian": "Psichico",
+                "Japanese": "\u30b5\u30a4\u30b3\u30ad\u30cd\u30b7\u30b9",
+                "Korean": "\uc0ac\uc774\ucf54\ud0a4\ub124\uc2dc\uc2a4",
+                "Spanish": "Ps\u00edquico"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        },
+        "SOLAR_BEAM": {
+            "id": "SOLAR_BEAM",
+            "power": 180,
+            "energy": -100,
+            "durationMs": 4900,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Solar Beam",
+                "German": "Solarstrahl",
+                "French": "Lance-Soleil",
+                "Italian": "Solarraggio",
+                "Japanese": "\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0",
+                "Korean": "\uc194\ub77c\ube54",
+                "Spanish": "Rayo Solar"
+            },
+            "combat": {
+                "energy": -80,
+                "power": 150
+            }
+        }
+    },
+    "eliteQuickMoves": {
+        "ZEN_HEADBUTT_FAST": {
+            "id": "ZEN_HEADBUTT_FAST",
+            "power": 12,
+            "energy": 10,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Zen Headbutt",
+                "German": "Zen-Kopfsto\u00df",
+                "French": "Psykoud\u2019Boul",
+                "Italian": "Cozzata Zen",
+                "Japanese": "\u3057\u306d\u3093\u306e\u305a\u3064\u304d",
+                "Korean": "\uc0ac\ub150\uc758\ubc15\uce58\uae30",
+                "Spanish": "Cabezazo Zen"
+            },
+            "combat": {
+                "energy": 6,
+                "power": 8
+            }
+        }
+    },
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_103_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_103_00_shiny.png"
+    },
+    "regionForms": [
+        {
+            "id": "EXEGGUTOR",
+            "formId": "EXEGGUTOR_ALOLA",
+            "dexNr": 103,
+            "generation": 1,
+            "names": {
+                "English": "Alolan Exeggutor",
+                "German": "Alola-Kokowei",
+                "French": "Noadkoko d'Alola",
+                "Italian": "Exeggutor di Alola",
+                "Japanese": "\u30a2\u30ed\u30fc\u30e9 \u30ca\u30c3\u30b7\u30fc",
+                "Korean": "\uc54c\ub85c\ub77c \ub098\uc2dc",
+                "Spanish": "Exeggutor de Alola"
+            },
+            "stats": {
+                "stamina": 216,
+                "attack": 230,
+                "defense": 153
+            },
+            "primaryType": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "secondaryType": {
+                "type": "POKEMON_TYPE_DRAGON",
+                "names": {
+                    "English": "Dragon",
+                    "German": "Drache",
+                    "French": "Dragon",
+                    "Italian": "Drago",
+                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                    "Korean": "\ub4dc\ub798\uace4",
+                    "Spanish": "Drag\u00f3n"
+                }
+            },
+            "quickMoves": {
+                "BULLET_SEED_FAST": {
+                    "id": "BULLET_SEED_FAST",
+                    "power": 8,
+                    "energy": 14,
+                    "durationMs": 1100,
+                    "type": {
+                        "type": "POKEMON_TYPE_GRASS",
+                        "names": {
+                            "English": "Grass",
+                            "German": "Pflanze",
+                            "French": "Plante",
+                            "Italian": "Erba",
+                            "Japanese": "\u304f\u3055",
+                            "Korean": "\ud480",
+                            "Spanish": "Planta"
+                        }
+                    },
+                    "names": {
+                        "English": "Bullet Seed",
+                        "German": "Kugelsaat",
+                        "French": "Balle Graine",
+                        "Italian": "Semitraglia",
+                        "Japanese": "\u30bf\u30cd\u30de\u30b7\u30f3\u30ac\u30f3",
+                        "Korean": "\uae30\uad00\ucd1d",
+                        "Spanish": "Semilladora"
+                    },
+                    "combat": {
+                        "energy": 13,
+                        "power": 5
+                    }
+                },
+                "DRAGON_TAIL_FAST": {
+                    "id": "DRAGON_TAIL_FAST",
+                    "power": 15,
+                    "energy": 9,
+                    "durationMs": 1100,
+                    "type": {
+                        "type": "POKEMON_TYPE_DRAGON",
+                        "names": {
+                            "English": "Dragon",
+                            "German": "Drache",
+                            "French": "Dragon",
+                            "Italian": "Drago",
+                            "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                            "Korean": "\ub4dc\ub798\uace4",
+                            "Spanish": "Drag\u00f3n"
+                        }
+                    },
+                    "names": {
+                        "English": "Dragon Tail",
+                        "German": "Drachenrute",
+                        "French": "Draco-Queue",
+                        "Italian": "Codadrago",
+                        "Japanese": "\u30c9\u30e9\u30b4\u30f3\u30c6\u30fc\u30eb",
+                        "Korean": "\ub4dc\ub798\uace4\ud14c\uc77c",
+                        "Spanish": "Cola Drag\u00f3n"
+                    },
+                    "combat": {
+                        "energy": 10,
+                        "power": 9
+                    }
+                }
+            },
+            "cinematicMoves": {
+                "SEED_BOMB": {
+                    "id": "SEED_BOMB",
+                    "power": 55,
+                    "energy": -33,
+                    "durationMs": 2100,
+                    "type": {
+                        "type": "POKEMON_TYPE_GRASS",
+                        "names": {
+                            "English": "Grass",
+                            "German": "Pflanze",
+                            "French": "Plante",
+                            "Italian": "Erba",
+                            "Japanese": "\u304f\u3055",
+                            "Korean": "\ud480",
+                            "Spanish": "Planta"
+                        }
+                    },
+                    "names": {
+                        "English": "Seed Bomb",
+                        "German": "Samenbomben",
+                        "French": "Canon Graine",
+                        "Italian": "Semebomba",
+                        "Japanese": "\u30bf\u30cd\u3070\u304f\u3060\u3093",
+                        "Korean": "\uc528\ud3ed\ud0c4",
+                        "Spanish": "Bomba Germen"
+                    },
+                    "combat": {
+                        "energy": -40,
+                        "power": 55
+                    }
+                },
+                "DRAGON_PULSE": {
+                    "id": "DRAGON_PULSE",
+                    "power": 90,
+                    "energy": -50,
+                    "durationMs": 3600,
+                    "type": {
+                        "type": "POKEMON_TYPE_DRAGON",
+                        "names": {
+                            "English": "Dragon",
+                            "German": "Drache",
+                            "French": "Dragon",
+                            "Italian": "Drago",
+                            "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                            "Korean": "\ub4dc\ub798\uace4",
+                            "Spanish": "Drag\u00f3n"
+                        }
+                    },
+                    "names": {
+                        "English": "Dragon Pulse",
+                        "German": "Drachenpuls",
+                        "French": "Draco-Choc",
+                        "Italian": "Dragopulsar",
+                        "Japanese": "\u308a\u3085\u3046\u306e\u306f\u3069\u3046",
+                        "Korean": "\uc6a9\uc758\ud30c\ub3d9",
+                        "Spanish": "Pulso Drag\u00f3n"
+                    },
+                    "combat": {
+                        "energy": -60,
+                        "power": 90
+                    }
+                },
+                "SOLAR_BEAM": {
+                    "id": "SOLAR_BEAM",
+                    "power": 180,
+                    "energy": -100,
+                    "durationMs": 4900,
+                    "type": {
+                        "type": "POKEMON_TYPE_GRASS",
+                        "names": {
+                            "English": "Grass",
+                            "German": "Pflanze",
+                            "French": "Plante",
+                            "Italian": "Erba",
+                            "Japanese": "\u304f\u3055",
+                            "Korean": "\ud480",
+                            "Spanish": "Planta"
+                        }
+                    },
+                    "names": {
+                        "English": "Solar Beam",
+                        "German": "Solarstrahl",
+                        "French": "Lance-Soleil",
+                        "Italian": "Solarraggio",
+                        "Japanese": "\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0",
+                        "Korean": "\uc194\ub77c\ube54",
+                        "Spanish": "Rayo Solar"
+                    },
+                    "combat": {
+                        "energy": -80,
+                        "power": 150
+                    }
+                }
+            },
+            "eliteQuickMoves": [],
+            "eliteCinematicMoves": [],
+            "assets": {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_103_61.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_103_61_shiny.png"
+            },
+            "regionForms": [],
+            "hasMegaEvolution": false,
+            "megaEvolutions": []
+        }
+    ],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

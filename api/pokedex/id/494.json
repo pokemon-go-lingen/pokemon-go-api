@@ -1,1 +1,243 @@
-{"id":"VICTINI","formId":"VICTINI","dexNr":494,"generation":5,"names":{"English":"Victini","German":"Victini","French":"Victini","Italian":"Victini","Japanese":"\u30d3\u30af\u30c6\u30a3\u30cb","Korean":"\ube44\ud06c\ud2f0\ub2c8","Spanish":"Victini"},"stats":{"stamina":225,"attack":210,"defense":210},"primaryType":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"secondaryType":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"quickMoves":{"CONFUSION_FAST":{"id":"CONFUSION_FAST","power":20,"energy":15,"durationMs":1600,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Confusion","German":"Konfusion","French":"Choc Mental","Italian":"Confusione","Japanese":"\u306d\u3093\u308a\u304d","Korean":"\uc5fc\ub3d9\ub825","Spanish":"Confusi\u00f3n"},"combat":{"energy":12,"power":16}},"QUICK_ATTACK_FAST":{"id":"QUICK_ATTACK_FAST","power":8,"energy":10,"durationMs":800,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Quick Attack","German":"Ruckzuckhieb","French":"Vive-Attaque","Italian":"Attacco Rapido","Japanese":"\u3067\u3093\u3053\u3046\u305b\u3063\u304b","Korean":"\uc804\uad11\uc11d\ud654","Spanish":"Ataque R\u00e1pido"},"combat":{"energy":7,"power":5}}},"cinematicMoves":{"OVERHEAT":{"id":"OVERHEAT","power":160,"energy":-100,"durationMs":4000,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Overheat","German":"Hitzekoller","French":"Surchauffe","Italian":"Vampata","Japanese":"\u30aa\u30fc\u30d0\u30fc\u30d2\u30fc\u30c8","Korean":"\uc624\ubc84\ud788\ud2b8","Spanish":"Sofoco"},"combat":{"energy":-55,"power":130}},"FOCUS_BLAST":{"id":"FOCUS_BLAST","power":140,"energy":-100,"durationMs":3500,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Focus Blast","German":"Fokussto\u00df","French":"Exploforce","Italian":"Focalcolpo","Japanese":"\u304d\u3042\u3044\u3060\u307e","Korean":"\uae30\ud569\uad6c\uc2ac","Spanish":"Onda Certera"},"combat":{"energy":-75,"power":140}},"PSYCHIC":{"id":"PSYCHIC","power":90,"energy":-50,"durationMs":2800,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Psychic","German":"Psychokinese","French":"Psyko","Italian":"Psichico","Japanese":"\u30b5\u30a4\u30b3\u30ad\u30cd\u30b7\u30b9","Korean":"\uc0ac\uc774\ucf54\ud0a4\ub124\uc2dc\uc2a4","Spanish":"Ps\u00edquico"},"combat":{"energy":-55,"power":90}},"V_CREATE":{"id":"V_CREATE","power":95,"energy":-33,"durationMs":2800,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"V-create","German":"V-Generator","French":"Coup Victoire","Italian":"Generatore V","Japanese":"\uff36\u30b8\u30a7\u30cd\u30ec\u30fc\u30c8","Korean":"V\uc81c\ub108\ub808\uc774\ud2b8","Spanish":"V de Fuego"},"combat":{"energy":-40,"power":95}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_494_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_494_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "VICTINI",
+    "formId": "VICTINI",
+    "dexNr": 494,
+    "generation": 5,
+    "names": {
+        "English": "Victini",
+        "German": "Victini",
+        "French": "Victini",
+        "Italian": "Victini",
+        "Japanese": "\u30d3\u30af\u30c6\u30a3\u30cb",
+        "Korean": "\ube44\ud06c\ud2f0\ub2c8",
+        "Spanish": "Victini"
+    },
+    "stats": {
+        "stamina": 225,
+        "attack": 210,
+        "defense": 210
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_PSYCHIC",
+        "names": {
+            "English": "Psychic",
+            "German": "Psycho",
+            "French": "Psy",
+            "Italian": "Psico",
+            "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+            "Korean": "\uc5d0\uc2a4\ud37c",
+            "Spanish": "Ps\u00edquico"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_FIRE",
+        "names": {
+            "English": "Fire",
+            "German": "Feuer",
+            "French": "Feu",
+            "Italian": "Fuoco",
+            "Japanese": "\u307b\u306e\u304a",
+            "Korean": "\ubd88\uaf43",
+            "Spanish": "Fuego"
+        }
+    },
+    "quickMoves": {
+        "CONFUSION_FAST": {
+            "id": "CONFUSION_FAST",
+            "power": 20,
+            "energy": 15,
+            "durationMs": 1600,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Confusion",
+                "German": "Konfusion",
+                "French": "Choc Mental",
+                "Italian": "Confusione",
+                "Japanese": "\u306d\u3093\u308a\u304d",
+                "Korean": "\uc5fc\ub3d9\ub825",
+                "Spanish": "Confusi\u00f3n"
+            },
+            "combat": {
+                "energy": 12,
+                "power": 16
+            }
+        },
+        "QUICK_ATTACK_FAST": {
+            "id": "QUICK_ATTACK_FAST",
+            "power": 8,
+            "energy": 10,
+            "durationMs": 800,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Quick Attack",
+                "German": "Ruckzuckhieb",
+                "French": "Vive-Attaque",
+                "Italian": "Attacco Rapido",
+                "Japanese": "\u3067\u3093\u3053\u3046\u305b\u3063\u304b",
+                "Korean": "\uc804\uad11\uc11d\ud654",
+                "Spanish": "Ataque R\u00e1pido"
+            },
+            "combat": {
+                "energy": 7,
+                "power": 5
+            }
+        }
+    },
+    "cinematicMoves": {
+        "OVERHEAT": {
+            "id": "OVERHEAT",
+            "power": 160,
+            "energy": -100,
+            "durationMs": 4000,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Overheat",
+                "German": "Hitzekoller",
+                "French": "Surchauffe",
+                "Italian": "Vampata",
+                "Japanese": "\u30aa\u30fc\u30d0\u30fc\u30d2\u30fc\u30c8",
+                "Korean": "\uc624\ubc84\ud788\ud2b8",
+                "Spanish": "Sofoco"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 130
+            }
+        },
+        "FOCUS_BLAST": {
+            "id": "FOCUS_BLAST",
+            "power": 140,
+            "energy": -100,
+            "durationMs": 3500,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Focus Blast",
+                "German": "Fokussto\u00df",
+                "French": "Exploforce",
+                "Italian": "Focalcolpo",
+                "Japanese": "\u304d\u3042\u3044\u3060\u307e",
+                "Korean": "\uae30\ud569\uad6c\uc2ac",
+                "Spanish": "Onda Certera"
+            },
+            "combat": {
+                "energy": -75,
+                "power": 140
+            }
+        },
+        "PSYCHIC": {
+            "id": "PSYCHIC",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 2800,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Psychic",
+                "German": "Psychokinese",
+                "French": "Psyko",
+                "Italian": "Psichico",
+                "Japanese": "\u30b5\u30a4\u30b3\u30ad\u30cd\u30b7\u30b9",
+                "Korean": "\uc0ac\uc774\ucf54\ud0a4\ub124\uc2dc\uc2a4",
+                "Spanish": "Ps\u00edquico"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        },
+        "V_CREATE": {
+            "id": "V_CREATE",
+            "power": 95,
+            "energy": -33,
+            "durationMs": 2800,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "V-create",
+                "German": "V-Generator",
+                "French": "Coup Victoire",
+                "Italian": "Generatore V",
+                "Japanese": "\uff36\u30b8\u30a7\u30cd\u30ec\u30fc\u30c8",
+                "Korean": "V\uc81c\ub108\ub808\uc774\ud2b8",
+                "Spanish": "V de Fuego"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 95
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_494_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_494_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

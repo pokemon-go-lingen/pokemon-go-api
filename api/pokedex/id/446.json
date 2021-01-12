@@ -1,1 +1,201 @@
-{"id":"MUNCHLAX","formId":"MUNCHLAX","dexNr":446,"generation":4,"names":{"English":"Munchlax","German":"Mampfaxo","French":"Goinfrex","Italian":"Munchlax","Japanese":"\u30b4\u30f3\u30d9","Korean":"\uba39\uace0\uc790","Spanish":"Munchlax"},"stats":{"stamina":286,"attack":137,"defense":117},"primaryType":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"secondaryType":null,"quickMoves":{"TACKLE_FAST":{"id":"TACKLE_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Tackle","German":"Tackle","French":"Charge","Italian":"Azione","Japanese":"\u305f\u3044\u3042\u305f\u308a","Korean":"\ubab8\ud1b5\ubc15\uce58\uae30","Spanish":"Placaje"},"combat":{"energy":2,"power":3}},"LICK_FAST":{"id":"LICK_FAST","power":5,"energy":6,"durationMs":500,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Lick","German":"Schlecker","French":"L\u00e9chouille","Italian":"Leccata","Japanese":"\u3057\u305f\u3067\u306a\u3081\u308b","Korean":"\ud565\uae30","Spanish":"Leng\u00fcetazo"},"combat":{"energy":3,"power":3}}},"cinematicMoves":{"GUNK_SHOT":{"id":"GUNK_SHOT","power":130,"energy":-100,"durationMs":3100,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Gunk Shot","German":"M\u00fclltreffer","French":"D\u00e9tricanon","Italian":"Sporcolancio","Japanese":"\u30c0\u30b9\u30c8\u30b7\u30e5\u30fc\u30c8","Korean":"\ub354\uc2a4\ud2b8\uc288\ud2b8","Spanish":"Lanzamugre"},"combat":{"energy":-75,"power":130}},"BODY_SLAM":{"id":"BODY_SLAM","power":50,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Body Slam","German":"Bodyslam","French":"Plaquage","Italian":"Corposcontro","Japanese":"\u306e\u3057\u304b\u304b\u308a","Korean":"\ub204\ub974\uae30","Spanish":"Golpe Cuerpo"},"combat":{"energy":-35,"power":60}},"BULLDOZE":{"id":"BULLDOZE","power":80,"energy":-50,"durationMs":3500,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Bulldoze","German":"Dampfwalze","French":"Pi\u00e9tisol","Italian":"Battiterra","Japanese":"\u3058\u306a\u3089\u3057","Korean":"\ub545\uace0\ub974\uae30","Spanish":"Terratemblor"},"combat":{"energy":-60,"power":80}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_446_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_446_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "MUNCHLAX",
+    "formId": "MUNCHLAX",
+    "dexNr": 446,
+    "generation": 4,
+    "names": {
+        "English": "Munchlax",
+        "German": "Mampfaxo",
+        "French": "Goinfrex",
+        "Italian": "Munchlax",
+        "Japanese": "\u30b4\u30f3\u30d9",
+        "Korean": "\uba39\uace0\uc790",
+        "Spanish": "Munchlax"
+    },
+    "stats": {
+        "stamina": 286,
+        "attack": 137,
+        "defense": 117
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_NORMAL",
+        "names": {
+            "English": "Normal",
+            "German": "Normal",
+            "French": "Normal",
+            "Italian": "Normale",
+            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+            "Korean": "\ub178\ub9d0",
+            "Spanish": "Normal"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "TACKLE_FAST": {
+            "id": "TACKLE_FAST",
+            "power": 5,
+            "energy": 5,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Tackle",
+                "German": "Tackle",
+                "French": "Charge",
+                "Italian": "Azione",
+                "Japanese": "\u305f\u3044\u3042\u305f\u308a",
+                "Korean": "\ubab8\ud1b5\ubc15\uce58\uae30",
+                "Spanish": "Placaje"
+            },
+            "combat": {
+                "energy": 2,
+                "power": 3
+            }
+        },
+        "LICK_FAST": {
+            "id": "LICK_FAST",
+            "power": 5,
+            "energy": 6,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Lick",
+                "German": "Schlecker",
+                "French": "L\u00e9chouille",
+                "Italian": "Leccata",
+                "Japanese": "\u3057\u305f\u3067\u306a\u3081\u308b",
+                "Korean": "\ud565\uae30",
+                "Spanish": "Leng\u00fcetazo"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 3
+            }
+        }
+    },
+    "cinematicMoves": {
+        "GUNK_SHOT": {
+            "id": "GUNK_SHOT",
+            "power": 130,
+            "energy": -100,
+            "durationMs": 3100,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Gunk Shot",
+                "German": "M\u00fclltreffer",
+                "French": "D\u00e9tricanon",
+                "Italian": "Sporcolancio",
+                "Japanese": "\u30c0\u30b9\u30c8\u30b7\u30e5\u30fc\u30c8",
+                "Korean": "\ub354\uc2a4\ud2b8\uc288\ud2b8",
+                "Spanish": "Lanzamugre"
+            },
+            "combat": {
+                "energy": -75,
+                "power": 130
+            }
+        },
+        "BODY_SLAM": {
+            "id": "BODY_SLAM",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 1900,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Body Slam",
+                "German": "Bodyslam",
+                "French": "Plaquage",
+                "Italian": "Corposcontro",
+                "Japanese": "\u306e\u3057\u304b\u304b\u308a",
+                "Korean": "\ub204\ub974\uae30",
+                "Spanish": "Golpe Cuerpo"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 60
+            }
+        },
+        "BULLDOZE": {
+            "id": "BULLDOZE",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 3500,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Bulldoze",
+                "German": "Dampfwalze",
+                "French": "Pi\u00e9tisol",
+                "Italian": "Battiterra",
+                "Japanese": "\u3058\u306a\u3089\u3057",
+                "Korean": "\ub545\uace0\ub974\uae30",
+                "Spanish": "Terratemblor"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 80
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_446_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_446_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

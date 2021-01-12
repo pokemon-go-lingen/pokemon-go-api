@@ -1,1 +1,212 @@
-{"id":"TYRUNT","formId":"TYRUNT","dexNr":696,"generation":6,"names":{"English":"Tyrunt","German":"Balgoras","French":"Ptyranidur","Italian":"Tyrunt","Japanese":"\u30c1\u30b4\u30e9\u30b9","Korean":"\ud2f0\uace0\ub77c\uc2a4","Spanish":"Tyrunt"},"stats":{"stamina":151,"attack":158,"defense":123},"primaryType":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"secondaryType":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"quickMoves":{"DRAGON_TAIL_FAST":{"id":"DRAGON_TAIL_FAST","power":15,"energy":9,"durationMs":1100,"type":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"names":{"English":"Dragon Tail","German":"Drachenrute","French":"Draco-Queue","Italian":"Codadrago","Japanese":"\u30c9\u30e9\u30b4\u30f3\u30c6\u30fc\u30eb","Korean":"\ub4dc\ub798\uace4\ud14c\uc77c","Spanish":"Cola Drag\u00f3n"},"combat":{"energy":10,"power":9}},"TACKLE_FAST":{"id":"TACKLE_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Tackle","German":"Tackle","French":"Charge","Italian":"Azione","Japanese":"\u305f\u3044\u3042\u305f\u308a","Korean":"\ubab8\ud1b5\ubc15\uce58\uae30","Spanish":"Placaje"},"combat":{"energy":2,"power":3}}},"cinematicMoves":{"STOMP":{"id":"STOMP","power":55,"energy":-50,"durationMs":1700,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Stomp","German":"Stampfer","French":"\u00c9crasement","Italian":"Pestone","Japanese":"\u3075\u307f\u3064\u3051","Korean":"\uc9d3\ubc1f\uae30","Spanish":"Pisot\u00f3n"},"combat":{"energy":-40,"power":55}},"ANCIENT_POWER":{"id":"ANCIENT_POWER","power":70,"energy":-33,"durationMs":3500,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Ancient Power","German":"Antik-Kraft","French":"Pouvoir Antique","Italian":"Forzantica","Japanese":"\u3052\u3093\u3057\u306e\u3061\u304b\u3089","Korean":"\uc6d0\uc2dc\uc758\ud798","Spanish":"Poder Pasado"},"combat":{"energy":-45,"power":45}},"DRAGON_CLAW":{"id":"DRAGON_CLAW","power":50,"energy":-33,"durationMs":1700,"type":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"names":{"English":"Dragon Claw","German":"Drachenklaue","French":"Draco-Griffe","Italian":"Dragartigli","Japanese":"\u30c9\u30e9\u30b4\u30f3\u30af\u30ed\u30fc","Korean":"\ub4dc\ub798\uace4\ud06c\ub8e8","Spanish":"Garra Drag\u00f3n"},"combat":{"energy":-35,"power":50}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_696_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_696_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "TYRUNT",
+    "formId": "TYRUNT",
+    "dexNr": 696,
+    "generation": 6,
+    "names": {
+        "English": "Tyrunt",
+        "German": "Balgoras",
+        "French": "Ptyranidur",
+        "Italian": "Tyrunt",
+        "Japanese": "\u30c1\u30b4\u30e9\u30b9",
+        "Korean": "\ud2f0\uace0\ub77c\uc2a4",
+        "Spanish": "Tyrunt"
+    },
+    "stats": {
+        "stamina": 151,
+        "attack": 158,
+        "defense": 123
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_ROCK",
+        "names": {
+            "English": "Rock",
+            "German": "Gestein",
+            "French": "Roche",
+            "Italian": "Roccia",
+            "Japanese": "\u3044\u308f",
+            "Korean": "\ubc14\uc704",
+            "Spanish": "Roca"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_DRAGON",
+        "names": {
+            "English": "Dragon",
+            "German": "Drache",
+            "French": "Dragon",
+            "Italian": "Drago",
+            "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+            "Korean": "\ub4dc\ub798\uace4",
+            "Spanish": "Drag\u00f3n"
+        }
+    },
+    "quickMoves": {
+        "DRAGON_TAIL_FAST": {
+            "id": "DRAGON_TAIL_FAST",
+            "power": 15,
+            "energy": 9,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_DRAGON",
+                "names": {
+                    "English": "Dragon",
+                    "German": "Drache",
+                    "French": "Dragon",
+                    "Italian": "Drago",
+                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                    "Korean": "\ub4dc\ub798\uace4",
+                    "Spanish": "Drag\u00f3n"
+                }
+            },
+            "names": {
+                "English": "Dragon Tail",
+                "German": "Drachenrute",
+                "French": "Draco-Queue",
+                "Italian": "Codadrago",
+                "Japanese": "\u30c9\u30e9\u30b4\u30f3\u30c6\u30fc\u30eb",
+                "Korean": "\ub4dc\ub798\uace4\ud14c\uc77c",
+                "Spanish": "Cola Drag\u00f3n"
+            },
+            "combat": {
+                "energy": 10,
+                "power": 9
+            }
+        },
+        "TACKLE_FAST": {
+            "id": "TACKLE_FAST",
+            "power": 5,
+            "energy": 5,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Tackle",
+                "German": "Tackle",
+                "French": "Charge",
+                "Italian": "Azione",
+                "Japanese": "\u305f\u3044\u3042\u305f\u308a",
+                "Korean": "\ubab8\ud1b5\ubc15\uce58\uae30",
+                "Spanish": "Placaje"
+            },
+            "combat": {
+                "energy": 2,
+                "power": 3
+            }
+        }
+    },
+    "cinematicMoves": {
+        "STOMP": {
+            "id": "STOMP",
+            "power": 55,
+            "energy": -50,
+            "durationMs": 1700,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Stomp",
+                "German": "Stampfer",
+                "French": "\u00c9crasement",
+                "Italian": "Pestone",
+                "Japanese": "\u3075\u307f\u3064\u3051",
+                "Korean": "\uc9d3\ubc1f\uae30",
+                "Spanish": "Pisot\u00f3n"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 55
+            }
+        },
+        "ANCIENT_POWER": {
+            "id": "ANCIENT_POWER",
+            "power": 70,
+            "energy": -33,
+            "durationMs": 3500,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Ancient Power",
+                "German": "Antik-Kraft",
+                "French": "Pouvoir Antique",
+                "Italian": "Forzantica",
+                "Japanese": "\u3052\u3093\u3057\u306e\u3061\u304b\u3089",
+                "Korean": "\uc6d0\uc2dc\uc758\ud798",
+                "Spanish": "Poder Pasado"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 45
+            }
+        },
+        "DRAGON_CLAW": {
+            "id": "DRAGON_CLAW",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 1700,
+            "type": {
+                "type": "POKEMON_TYPE_DRAGON",
+                "names": {
+                    "English": "Dragon",
+                    "German": "Drache",
+                    "French": "Dragon",
+                    "Italian": "Drago",
+                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                    "Korean": "\ub4dc\ub798\uace4",
+                    "Spanish": "Drag\u00f3n"
+                }
+            },
+            "names": {
+                "English": "Dragon Claw",
+                "German": "Drachenklaue",
+                "French": "Draco-Griffe",
+                "Italian": "Dragartigli",
+                "Japanese": "\u30c9\u30e9\u30b4\u30f3\u30af\u30ed\u30fc",
+                "Korean": "\ub4dc\ub798\uace4\ud06c\ub8e8",
+                "Spanish": "Garra Drag\u00f3n"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 50
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_696_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_696_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

@@ -1,1 +1,181 @@
-{"id":"DELIBIRD","formId":"DELIBIRD","dexNr":225,"generation":2,"names":{"English":"Delibird","German":"Botogel","French":"Cadoizo","Italian":"Delibird","Japanese":"\u30c7\u30ea\u30d0\u30fc\u30c9","Korean":"\ub51c\ub9ac\ubc84\ub4dc","Spanish":"Delibird"},"stats":{"stamina":128,"attack":128,"defense":90},"primaryType":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"secondaryType":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"quickMoves":{"PRESENT_FAST":{"id":"PRESENT_FAST","power":5,"energy":20,"durationMs":1300,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Present","German":"Geschenk","French":"Cadeau","Italian":"Regalino","Japanese":"\u30d7\u30ec\u30bc\u30f3\u30c8","Korean":"\ud504\ub808\uc820\ud2b8","Spanish":"Presente"},"combat":{"energy":12,"power":3}}},"cinematicMoves":{"ICE_PUNCH":{"id":"ICE_PUNCH","power":50,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Ice Punch","German":"Eishieb","French":"Poing Glace","Italian":"Gelopugno","Japanese":"\u308c\u3044\u3068\u3046\u30d1\u30f3\u30c1","Korean":"\ub0c9\ub3d9\ud380\uce58","Spanish":"Pu\u00f1o Hielo"},"combat":{"energy":-40,"power":55}},"ICY_WIND":{"id":"ICY_WIND","power":60,"energy":-33,"durationMs":3300,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Icy Wind","German":"Eissturm","French":"Vent Glace","Italian":"Ventogelato","Japanese":"\u3053\u3054\u3048\u308b\u304b\u305c","Korean":"\uc5bc\ub2e4\ubc14\ub78c","Spanish":"Viento Hielo"},"combat":{"energy":-45,"power":60}},"AERIAL_ACE":{"id":"AERIAL_ACE","power":55,"energy":-33,"durationMs":2400,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Aerial Ace","German":"Aero-Ass","French":"A\u00e9ropique","Italian":"Aeroassalto","Japanese":"\u3064\u3070\u3081\u304c\u3048\u3057","Korean":"\uc81c\ube44\ubc18\ud658","Spanish":"Golpe A\u00e9reo"},"combat":{"energy":-45,"power":55}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_225_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_225_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "DELIBIRD",
+    "formId": "DELIBIRD",
+    "dexNr": 225,
+    "generation": 2,
+    "names": {
+        "English": "Delibird",
+        "German": "Botogel",
+        "French": "Cadoizo",
+        "Italian": "Delibird",
+        "Japanese": "\u30c7\u30ea\u30d0\u30fc\u30c9",
+        "Korean": "\ub51c\ub9ac\ubc84\ub4dc",
+        "Spanish": "Delibird"
+    },
+    "stats": {
+        "stamina": 128,
+        "attack": 128,
+        "defense": 90
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_ICE",
+        "names": {
+            "English": "Ice",
+            "German": "Eis",
+            "French": "Glace",
+            "Italian": "Ghiaccio",
+            "Japanese": "\u3053\u304a\u308a",
+            "Korean": "\uc5bc\uc74c",
+            "Spanish": "Hielo"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_FLYING",
+        "names": {
+            "English": "Flying",
+            "German": "Flug",
+            "French": "Vol",
+            "Italian": "Volante",
+            "Japanese": "\u3072\u3053\u3046",
+            "Korean": "\ube44\ud589",
+            "Spanish": "Volador"
+        }
+    },
+    "quickMoves": {
+        "PRESENT_FAST": {
+            "id": "PRESENT_FAST",
+            "power": 5,
+            "energy": 20,
+            "durationMs": 1300,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Present",
+                "German": "Geschenk",
+                "French": "Cadeau",
+                "Italian": "Regalino",
+                "Japanese": "\u30d7\u30ec\u30bc\u30f3\u30c8",
+                "Korean": "\ud504\ub808\uc820\ud2b8",
+                "Spanish": "Presente"
+            },
+            "combat": {
+                "energy": 12,
+                "power": 3
+            }
+        }
+    },
+    "cinematicMoves": {
+        "ICE_PUNCH": {
+            "id": "ICE_PUNCH",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 1900,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Ice Punch",
+                "German": "Eishieb",
+                "French": "Poing Glace",
+                "Italian": "Gelopugno",
+                "Japanese": "\u308c\u3044\u3068\u3046\u30d1\u30f3\u30c1",
+                "Korean": "\ub0c9\ub3d9\ud380\uce58",
+                "Spanish": "Pu\u00f1o Hielo"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 55
+            }
+        },
+        "ICY_WIND": {
+            "id": "ICY_WIND",
+            "power": 60,
+            "energy": -33,
+            "durationMs": 3300,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Icy Wind",
+                "German": "Eissturm",
+                "French": "Vent Glace",
+                "Italian": "Ventogelato",
+                "Japanese": "\u3053\u3054\u3048\u308b\u304b\u305c",
+                "Korean": "\uc5bc\ub2e4\ubc14\ub78c",
+                "Spanish": "Viento Hielo"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 60
+            }
+        },
+        "AERIAL_ACE": {
+            "id": "AERIAL_ACE",
+            "power": 55,
+            "energy": -33,
+            "durationMs": 2400,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Aerial Ace",
+                "German": "Aero-Ass",
+                "French": "A\u00e9ropique",
+                "Italian": "Aeroassalto",
+                "Japanese": "\u3064\u3070\u3081\u304c\u3048\u3057",
+                "Korean": "\uc81c\ube44\ubc18\ud658",
+                "Spanish": "Golpe A\u00e9reo"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 55
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_225_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_225_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

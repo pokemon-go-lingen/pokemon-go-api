@@ -1,1 +1,637 @@
-{"id":"GASTRODON","formId":"GASTRODON","dexNr":423,"generation":4,"names":{"English":"Gastrodon","German":"Gastrodon","French":"Tritosor","Italian":"Gastrodon","Japanese":"\u30c8\u30ea\u30c8\u30c9\u30f3","Korean":"\ud2b8\ub9ac\ud1a0\ub3c8","Spanish":"Gastrodon"},"stats":{"stamina":244,"attack":169,"defense":143},"primaryType":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"secondaryType":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"quickMoves":{"MUD_SLAP_FAST":{"id":"MUD_SLAP_FAST","power":18,"energy":12,"durationMs":1400,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Mud-Slap","German":"Lehmschelle","French":"Coud\u2019Boue","Italian":"Fangosberla","Japanese":"\u3069\u308d\u304b\u3051","Korean":"\uc9c4\ud759\ubfcc\ub9ac\uae30","Spanish":"Bofet\u00f3n Lodo"},"combat":{"energy":8,"power":11}},"HIDDEN_POWER_FAST":{"id":"HIDDEN_POWER_FAST","power":15,"energy":15,"durationMs":1500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Hidden Power","German":"Kraftreserve","French":"Puissance Cach\u00e9e","Italian":"Introforza","Japanese":"\u3081\u3056\u3081\u308b\u30d1\u30ef\u30fc","Korean":"\uc7a0\uc7ac\ud30c\uc6cc","Spanish":"Poder Oculto"},"combat":{"energy":8,"power":9}}},"cinematicMoves":{"WATER_PULSE":{"id":"WATER_PULSE","power":70,"energy":-50,"durationMs":3200,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Water Pulse","German":"Aquawelle","French":"Vibraqua","Italian":"Idropulsar","Japanese":"\u307f\u305a\u306e\u306f\u3069\u3046","Korean":"\ubb3c\uc758\ud30c\ub3d9","Spanish":"Hidropulso"},"combat":{"energy":-60,"power":70}},"EARTH_POWER":{"id":"EARTH_POWER","power":100,"energy":-50,"durationMs":3600,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Earth Power","German":"Erdkr\u00e4fte","French":"Telluriforce","Italian":"Geoforza","Japanese":"\u3060\u3044\u3061\u306e\u3061\u304b\u3089","Korean":"\ub300\uc9c0\uc758\ud798","Spanish":"Tierra Viva"},"combat":{"energy":-55,"power":90}},"BODY_SLAM":{"id":"BODY_SLAM","power":50,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Body Slam","German":"Bodyslam","French":"Plaquage","Italian":"Corposcontro","Japanese":"\u306e\u3057\u304b\u304b\u308a","Korean":"\ub204\ub974\uae30","Spanish":"Golpe Cuerpo"},"combat":{"energy":-35,"power":60}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_423_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_423_00_shiny.png"},"regionForms":[{"id":"GASTRODON","formId":"GASTRODON_EAST_SEA","dexNr":423,"generation":4,"names":{"English":"Gastrodon (East Sea)","German":"Gastrodon (\u00d6stliches Meer)","French":"Tritosor (Mer Orient)","Italian":"Gastrodon (Mare Est)","Japanese":"\u30c8\u30ea\u30c8\u30c9\u30f3 (\u3072\u304c\u3057\u306e\u3046\u307f)","Korean":"\ud2b8\ub9ac\ud1a0\ub3c8 (\ub3d9\ucabd\ubc14\ub2e4)","Spanish":"Gastrodon (Mar Este)"},"stats":{"stamina":244,"attack":169,"defense":143},"primaryType":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"secondaryType":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"quickMoves":{"MUD_SLAP_FAST":{"id":"MUD_SLAP_FAST","power":18,"energy":12,"durationMs":1400,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Mud-Slap","German":"Lehmschelle","French":"Coud\u2019Boue","Italian":"Fangosberla","Japanese":"\u3069\u308d\u304b\u3051","Korean":"\uc9c4\ud759\ubfcc\ub9ac\uae30","Spanish":"Bofet\u00f3n Lodo"},"combat":{"energy":8,"power":11}},"HIDDEN_POWER_FAST":{"id":"HIDDEN_POWER_FAST","power":15,"energy":15,"durationMs":1500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Hidden Power","German":"Kraftreserve","French":"Puissance Cach\u00e9e","Italian":"Introforza","Japanese":"\u3081\u3056\u3081\u308b\u30d1\u30ef\u30fc","Korean":"\uc7a0\uc7ac\ud30c\uc6cc","Spanish":"Poder Oculto"},"combat":{"energy":8,"power":9}}},"cinematicMoves":{"WATER_PULSE":{"id":"WATER_PULSE","power":70,"energy":-50,"durationMs":3200,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Water Pulse","German":"Aquawelle","French":"Vibraqua","Italian":"Idropulsar","Japanese":"\u307f\u305a\u306e\u306f\u3069\u3046","Korean":"\ubb3c\uc758\ud30c\ub3d9","Spanish":"Hidropulso"},"combat":{"energy":-60,"power":70}},"EARTH_POWER":{"id":"EARTH_POWER","power":100,"energy":-50,"durationMs":3600,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Earth Power","German":"Erdkr\u00e4fte","French":"Telluriforce","Italian":"Geoforza","Japanese":"\u3060\u3044\u3061\u306e\u3061\u304b\u3089","Korean":"\ub300\uc9c0\uc758\ud798","Spanish":"Tierra Viva"},"combat":{"energy":-55,"power":90}},"BODY_SLAM":{"id":"BODY_SLAM","power":50,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Body Slam","German":"Bodyslam","French":"Plaquage","Italian":"Corposcontro","Japanese":"\u306e\u3057\u304b\u304b\u308a","Korean":"\ub204\ub974\uae30","Spanish":"Golpe Cuerpo"},"combat":{"energy":-35,"power":60}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_423_12.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_423_12_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]},{"id":"GASTRODON","formId":"GASTRODON_WEST_SEA","dexNr":423,"generation":4,"names":{"English":"Gastrodon (West Sea)","German":"Gastrodon (Westliches Meer)","French":"Tritosor (Mer Occident)","Italian":"Gastrodon (Mare Ovest)","Japanese":"\u30c8\u30ea\u30c8\u30c9\u30f3 (\u306b\u3057\u306e\u3046\u307f)","Korean":"\ud2b8\ub9ac\ud1a0\ub3c8 (\uc11c\ucabd\ubc14\ub2e4)","Spanish":"Gastrodon (Mar Oeste)"},"stats":{"stamina":244,"attack":169,"defense":143},"primaryType":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"secondaryType":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"quickMoves":{"MUD_SLAP_FAST":{"id":"MUD_SLAP_FAST","power":18,"energy":12,"durationMs":1400,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Mud-Slap","German":"Lehmschelle","French":"Coud\u2019Boue","Italian":"Fangosberla","Japanese":"\u3069\u308d\u304b\u3051","Korean":"\uc9c4\ud759\ubfcc\ub9ac\uae30","Spanish":"Bofet\u00f3n Lodo"},"combat":{"energy":8,"power":11}},"HIDDEN_POWER_FAST":{"id":"HIDDEN_POWER_FAST","power":15,"energy":15,"durationMs":1500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Hidden Power","German":"Kraftreserve","French":"Puissance Cach\u00e9e","Italian":"Introforza","Japanese":"\u3081\u3056\u3081\u308b\u30d1\u30ef\u30fc","Korean":"\uc7a0\uc7ac\ud30c\uc6cc","Spanish":"Poder Oculto"},"combat":{"energy":8,"power":9}}},"cinematicMoves":{"WATER_PULSE":{"id":"WATER_PULSE","power":70,"energy":-50,"durationMs":3200,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Water Pulse","German":"Aquawelle","French":"Vibraqua","Italian":"Idropulsar","Japanese":"\u307f\u305a\u306e\u306f\u3069\u3046","Korean":"\ubb3c\uc758\ud30c\ub3d9","Spanish":"Hidropulso"},"combat":{"energy":-60,"power":70}},"EARTH_POWER":{"id":"EARTH_POWER","power":100,"energy":-50,"durationMs":3600,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Earth Power","German":"Erdkr\u00e4fte","French":"Telluriforce","Italian":"Geoforza","Japanese":"\u3060\u3044\u3061\u306e\u3061\u304b\u3089","Korean":"\ub300\uc9c0\uc758\ud798","Spanish":"Tierra Viva"},"combat":{"energy":-55,"power":90}},"BODY_SLAM":{"id":"BODY_SLAM","power":50,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Body Slam","German":"Bodyslam","French":"Plaquage","Italian":"Corposcontro","Japanese":"\u306e\u3057\u304b\u304b\u308a","Korean":"\ub204\ub974\uae30","Spanish":"Golpe Cuerpo"},"combat":{"energy":-35,"power":60}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_423_11.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_423_11_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "GASTRODON",
+    "formId": "GASTRODON",
+    "dexNr": 423,
+    "generation": 4,
+    "names": {
+        "English": "Gastrodon",
+        "German": "Gastrodon",
+        "French": "Tritosor",
+        "Italian": "Gastrodon",
+        "Japanese": "\u30c8\u30ea\u30c8\u30c9\u30f3",
+        "Korean": "\ud2b8\ub9ac\ud1a0\ub3c8",
+        "Spanish": "Gastrodon"
+    },
+    "stats": {
+        "stamina": 244,
+        "attack": 169,
+        "defense": 143
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_WATER",
+        "names": {
+            "English": "Water",
+            "German": "Wasser",
+            "French": "Eau",
+            "Italian": "Acqua",
+            "Japanese": "\u307f\u305a",
+            "Korean": "\ubb3c",
+            "Spanish": "Agua"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_GROUND",
+        "names": {
+            "English": "Ground",
+            "German": "Boden",
+            "French": "Sol",
+            "Italian": "Terra",
+            "Japanese": "\u3058\u3081\u3093",
+            "Korean": "\ub545",
+            "Spanish": "Tierra"
+        }
+    },
+    "quickMoves": {
+        "MUD_SLAP_FAST": {
+            "id": "MUD_SLAP_FAST",
+            "power": 18,
+            "energy": 12,
+            "durationMs": 1400,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Mud-Slap",
+                "German": "Lehmschelle",
+                "French": "Coud\u2019Boue",
+                "Italian": "Fangosberla",
+                "Japanese": "\u3069\u308d\u304b\u3051",
+                "Korean": "\uc9c4\ud759\ubfcc\ub9ac\uae30",
+                "Spanish": "Bofet\u00f3n Lodo"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 11
+            }
+        },
+        "HIDDEN_POWER_FAST": {
+            "id": "HIDDEN_POWER_FAST",
+            "power": 15,
+            "energy": 15,
+            "durationMs": 1500,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Hidden Power",
+                "German": "Kraftreserve",
+                "French": "Puissance Cach\u00e9e",
+                "Italian": "Introforza",
+                "Japanese": "\u3081\u3056\u3081\u308b\u30d1\u30ef\u30fc",
+                "Korean": "\uc7a0\uc7ac\ud30c\uc6cc",
+                "Spanish": "Poder Oculto"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 9
+            }
+        }
+    },
+    "cinematicMoves": {
+        "WATER_PULSE": {
+            "id": "WATER_PULSE",
+            "power": 70,
+            "energy": -50,
+            "durationMs": 3200,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Water Pulse",
+                "German": "Aquawelle",
+                "French": "Vibraqua",
+                "Italian": "Idropulsar",
+                "Japanese": "\u307f\u305a\u306e\u306f\u3069\u3046",
+                "Korean": "\ubb3c\uc758\ud30c\ub3d9",
+                "Spanish": "Hidropulso"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 70
+            }
+        },
+        "EARTH_POWER": {
+            "id": "EARTH_POWER",
+            "power": 100,
+            "energy": -50,
+            "durationMs": 3600,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Earth Power",
+                "German": "Erdkr\u00e4fte",
+                "French": "Telluriforce",
+                "Italian": "Geoforza",
+                "Japanese": "\u3060\u3044\u3061\u306e\u3061\u304b\u3089",
+                "Korean": "\ub300\uc9c0\uc758\ud798",
+                "Spanish": "Tierra Viva"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        },
+        "BODY_SLAM": {
+            "id": "BODY_SLAM",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 1900,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Body Slam",
+                "German": "Bodyslam",
+                "French": "Plaquage",
+                "Italian": "Corposcontro",
+                "Japanese": "\u306e\u3057\u304b\u304b\u308a",
+                "Korean": "\ub204\ub974\uae30",
+                "Spanish": "Golpe Cuerpo"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 60
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_423_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_423_00_shiny.png"
+    },
+    "regionForms": [
+        {
+            "id": "GASTRODON",
+            "formId": "GASTRODON_EAST_SEA",
+            "dexNr": 423,
+            "generation": 4,
+            "names": {
+                "English": "Gastrodon (East Sea)",
+                "German": "Gastrodon (\u00d6stliches Meer)",
+                "French": "Tritosor (Mer Orient)",
+                "Italian": "Gastrodon (Mare Est)",
+                "Japanese": "\u30c8\u30ea\u30c8\u30c9\u30f3 (\u3072\u304c\u3057\u306e\u3046\u307f)",
+                "Korean": "\ud2b8\ub9ac\ud1a0\ub3c8 (\ub3d9\ucabd\ubc14\ub2e4)",
+                "Spanish": "Gastrodon (Mar Este)"
+            },
+            "stats": {
+                "stamina": 244,
+                "attack": 169,
+                "defense": 143
+            },
+            "primaryType": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "secondaryType": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "quickMoves": {
+                "MUD_SLAP_FAST": {
+                    "id": "MUD_SLAP_FAST",
+                    "power": 18,
+                    "energy": 12,
+                    "durationMs": 1400,
+                    "type": {
+                        "type": "POKEMON_TYPE_GROUND",
+                        "names": {
+                            "English": "Ground",
+                            "German": "Boden",
+                            "French": "Sol",
+                            "Italian": "Terra",
+                            "Japanese": "\u3058\u3081\u3093",
+                            "Korean": "\ub545",
+                            "Spanish": "Tierra"
+                        }
+                    },
+                    "names": {
+                        "English": "Mud-Slap",
+                        "German": "Lehmschelle",
+                        "French": "Coud\u2019Boue",
+                        "Italian": "Fangosberla",
+                        "Japanese": "\u3069\u308d\u304b\u3051",
+                        "Korean": "\uc9c4\ud759\ubfcc\ub9ac\uae30",
+                        "Spanish": "Bofet\u00f3n Lodo"
+                    },
+                    "combat": {
+                        "energy": 8,
+                        "power": 11
+                    }
+                },
+                "HIDDEN_POWER_FAST": {
+                    "id": "HIDDEN_POWER_FAST",
+                    "power": 15,
+                    "energy": 15,
+                    "durationMs": 1500,
+                    "type": {
+                        "type": "POKEMON_TYPE_NORMAL",
+                        "names": {
+                            "English": "Normal",
+                            "German": "Normal",
+                            "French": "Normal",
+                            "Italian": "Normale",
+                            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                            "Korean": "\ub178\ub9d0",
+                            "Spanish": "Normal"
+                        }
+                    },
+                    "names": {
+                        "English": "Hidden Power",
+                        "German": "Kraftreserve",
+                        "French": "Puissance Cach\u00e9e",
+                        "Italian": "Introforza",
+                        "Japanese": "\u3081\u3056\u3081\u308b\u30d1\u30ef\u30fc",
+                        "Korean": "\uc7a0\uc7ac\ud30c\uc6cc",
+                        "Spanish": "Poder Oculto"
+                    },
+                    "combat": {
+                        "energy": 8,
+                        "power": 9
+                    }
+                }
+            },
+            "cinematicMoves": {
+                "WATER_PULSE": {
+                    "id": "WATER_PULSE",
+                    "power": 70,
+                    "energy": -50,
+                    "durationMs": 3200,
+                    "type": {
+                        "type": "POKEMON_TYPE_WATER",
+                        "names": {
+                            "English": "Water",
+                            "German": "Wasser",
+                            "French": "Eau",
+                            "Italian": "Acqua",
+                            "Japanese": "\u307f\u305a",
+                            "Korean": "\ubb3c",
+                            "Spanish": "Agua"
+                        }
+                    },
+                    "names": {
+                        "English": "Water Pulse",
+                        "German": "Aquawelle",
+                        "French": "Vibraqua",
+                        "Italian": "Idropulsar",
+                        "Japanese": "\u307f\u305a\u306e\u306f\u3069\u3046",
+                        "Korean": "\ubb3c\uc758\ud30c\ub3d9",
+                        "Spanish": "Hidropulso"
+                    },
+                    "combat": {
+                        "energy": -60,
+                        "power": 70
+                    }
+                },
+                "EARTH_POWER": {
+                    "id": "EARTH_POWER",
+                    "power": 100,
+                    "energy": -50,
+                    "durationMs": 3600,
+                    "type": {
+                        "type": "POKEMON_TYPE_GROUND",
+                        "names": {
+                            "English": "Ground",
+                            "German": "Boden",
+                            "French": "Sol",
+                            "Italian": "Terra",
+                            "Japanese": "\u3058\u3081\u3093",
+                            "Korean": "\ub545",
+                            "Spanish": "Tierra"
+                        }
+                    },
+                    "names": {
+                        "English": "Earth Power",
+                        "German": "Erdkr\u00e4fte",
+                        "French": "Telluriforce",
+                        "Italian": "Geoforza",
+                        "Japanese": "\u3060\u3044\u3061\u306e\u3061\u304b\u3089",
+                        "Korean": "\ub300\uc9c0\uc758\ud798",
+                        "Spanish": "Tierra Viva"
+                    },
+                    "combat": {
+                        "energy": -55,
+                        "power": 90
+                    }
+                },
+                "BODY_SLAM": {
+                    "id": "BODY_SLAM",
+                    "power": 50,
+                    "energy": -33,
+                    "durationMs": 1900,
+                    "type": {
+                        "type": "POKEMON_TYPE_NORMAL",
+                        "names": {
+                            "English": "Normal",
+                            "German": "Normal",
+                            "French": "Normal",
+                            "Italian": "Normale",
+                            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                            "Korean": "\ub178\ub9d0",
+                            "Spanish": "Normal"
+                        }
+                    },
+                    "names": {
+                        "English": "Body Slam",
+                        "German": "Bodyslam",
+                        "French": "Plaquage",
+                        "Italian": "Corposcontro",
+                        "Japanese": "\u306e\u3057\u304b\u304b\u308a",
+                        "Korean": "\ub204\ub974\uae30",
+                        "Spanish": "Golpe Cuerpo"
+                    },
+                    "combat": {
+                        "energy": -35,
+                        "power": 60
+                    }
+                }
+            },
+            "eliteQuickMoves": [],
+            "eliteCinematicMoves": [],
+            "assets": {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_423_12.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_423_12_shiny.png"
+            },
+            "regionForms": [],
+            "hasMegaEvolution": false,
+            "megaEvolutions": []
+        },
+        {
+            "id": "GASTRODON",
+            "formId": "GASTRODON_WEST_SEA",
+            "dexNr": 423,
+            "generation": 4,
+            "names": {
+                "English": "Gastrodon (West Sea)",
+                "German": "Gastrodon (Westliches Meer)",
+                "French": "Tritosor (Mer Occident)",
+                "Italian": "Gastrodon (Mare Ovest)",
+                "Japanese": "\u30c8\u30ea\u30c8\u30c9\u30f3 (\u306b\u3057\u306e\u3046\u307f)",
+                "Korean": "\ud2b8\ub9ac\ud1a0\ub3c8 (\uc11c\ucabd\ubc14\ub2e4)",
+                "Spanish": "Gastrodon (Mar Oeste)"
+            },
+            "stats": {
+                "stamina": 244,
+                "attack": 169,
+                "defense": 143
+            },
+            "primaryType": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "secondaryType": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "quickMoves": {
+                "MUD_SLAP_FAST": {
+                    "id": "MUD_SLAP_FAST",
+                    "power": 18,
+                    "energy": 12,
+                    "durationMs": 1400,
+                    "type": {
+                        "type": "POKEMON_TYPE_GROUND",
+                        "names": {
+                            "English": "Ground",
+                            "German": "Boden",
+                            "French": "Sol",
+                            "Italian": "Terra",
+                            "Japanese": "\u3058\u3081\u3093",
+                            "Korean": "\ub545",
+                            "Spanish": "Tierra"
+                        }
+                    },
+                    "names": {
+                        "English": "Mud-Slap",
+                        "German": "Lehmschelle",
+                        "French": "Coud\u2019Boue",
+                        "Italian": "Fangosberla",
+                        "Japanese": "\u3069\u308d\u304b\u3051",
+                        "Korean": "\uc9c4\ud759\ubfcc\ub9ac\uae30",
+                        "Spanish": "Bofet\u00f3n Lodo"
+                    },
+                    "combat": {
+                        "energy": 8,
+                        "power": 11
+                    }
+                },
+                "HIDDEN_POWER_FAST": {
+                    "id": "HIDDEN_POWER_FAST",
+                    "power": 15,
+                    "energy": 15,
+                    "durationMs": 1500,
+                    "type": {
+                        "type": "POKEMON_TYPE_NORMAL",
+                        "names": {
+                            "English": "Normal",
+                            "German": "Normal",
+                            "French": "Normal",
+                            "Italian": "Normale",
+                            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                            "Korean": "\ub178\ub9d0",
+                            "Spanish": "Normal"
+                        }
+                    },
+                    "names": {
+                        "English": "Hidden Power",
+                        "German": "Kraftreserve",
+                        "French": "Puissance Cach\u00e9e",
+                        "Italian": "Introforza",
+                        "Japanese": "\u3081\u3056\u3081\u308b\u30d1\u30ef\u30fc",
+                        "Korean": "\uc7a0\uc7ac\ud30c\uc6cc",
+                        "Spanish": "Poder Oculto"
+                    },
+                    "combat": {
+                        "energy": 8,
+                        "power": 9
+                    }
+                }
+            },
+            "cinematicMoves": {
+                "WATER_PULSE": {
+                    "id": "WATER_PULSE",
+                    "power": 70,
+                    "energy": -50,
+                    "durationMs": 3200,
+                    "type": {
+                        "type": "POKEMON_TYPE_WATER",
+                        "names": {
+                            "English": "Water",
+                            "German": "Wasser",
+                            "French": "Eau",
+                            "Italian": "Acqua",
+                            "Japanese": "\u307f\u305a",
+                            "Korean": "\ubb3c",
+                            "Spanish": "Agua"
+                        }
+                    },
+                    "names": {
+                        "English": "Water Pulse",
+                        "German": "Aquawelle",
+                        "French": "Vibraqua",
+                        "Italian": "Idropulsar",
+                        "Japanese": "\u307f\u305a\u306e\u306f\u3069\u3046",
+                        "Korean": "\ubb3c\uc758\ud30c\ub3d9",
+                        "Spanish": "Hidropulso"
+                    },
+                    "combat": {
+                        "energy": -60,
+                        "power": 70
+                    }
+                },
+                "EARTH_POWER": {
+                    "id": "EARTH_POWER",
+                    "power": 100,
+                    "energy": -50,
+                    "durationMs": 3600,
+                    "type": {
+                        "type": "POKEMON_TYPE_GROUND",
+                        "names": {
+                            "English": "Ground",
+                            "German": "Boden",
+                            "French": "Sol",
+                            "Italian": "Terra",
+                            "Japanese": "\u3058\u3081\u3093",
+                            "Korean": "\ub545",
+                            "Spanish": "Tierra"
+                        }
+                    },
+                    "names": {
+                        "English": "Earth Power",
+                        "German": "Erdkr\u00e4fte",
+                        "French": "Telluriforce",
+                        "Italian": "Geoforza",
+                        "Japanese": "\u3060\u3044\u3061\u306e\u3061\u304b\u3089",
+                        "Korean": "\ub300\uc9c0\uc758\ud798",
+                        "Spanish": "Tierra Viva"
+                    },
+                    "combat": {
+                        "energy": -55,
+                        "power": 90
+                    }
+                },
+                "BODY_SLAM": {
+                    "id": "BODY_SLAM",
+                    "power": 50,
+                    "energy": -33,
+                    "durationMs": 1900,
+                    "type": {
+                        "type": "POKEMON_TYPE_NORMAL",
+                        "names": {
+                            "English": "Normal",
+                            "German": "Normal",
+                            "French": "Normal",
+                            "Italian": "Normale",
+                            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                            "Korean": "\ub178\ub9d0",
+                            "Spanish": "Normal"
+                        }
+                    },
+                    "names": {
+                        "English": "Body Slam",
+                        "German": "Bodyslam",
+                        "French": "Plaquage",
+                        "Italian": "Corposcontro",
+                        "Japanese": "\u306e\u3057\u304b\u304b\u308a",
+                        "Korean": "\ub204\ub974\uae30",
+                        "Spanish": "Golpe Cuerpo"
+                    },
+                    "combat": {
+                        "energy": -35,
+                        "power": 60
+                    }
+                }
+            },
+            "eliteQuickMoves": [],
+            "eliteCinematicMoves": [],
+            "assets": {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_423_11.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_423_11_shiny.png"
+            },
+            "regionForms": [],
+            "hasMegaEvolution": false,
+            "megaEvolutions": []
+        }
+    ],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

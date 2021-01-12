@@ -1,1 +1,201 @@
-{"id":"ILLUMISE","formId":"ILLUMISE","dexNr":314,"generation":3,"names":{"English":"Illumise","German":"Illumise","French":"Lumivole","Italian":"Illumise","Japanese":"\u30a4\u30eb\u30df\u30fc\u30bc","Korean":"\ub124\uc624\ube44\ud2b8","Spanish":"Illumise"},"stats":{"stamina":163,"attack":143,"defense":166},"primaryType":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"secondaryType":null,"quickMoves":{"STRUGGLE_BUG_FAST":{"id":"STRUGGLE_BUG_FAST","power":15,"energy":15,"durationMs":1500,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Struggle Bug","German":"K\u00e4fertrutz","French":"Survinsecte","Italian":"Entomoblocco","Japanese":"\u3080\u3057\u306e\u3066\u3044\u3053\u3046","Korean":"\ubc8c\ub808\uc758\uc800\ud56d","Spanish":"Estoicismo"},"combat":{"energy":8,"power":9}},"TACKLE_FAST":{"id":"TACKLE_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Tackle","German":"Tackle","French":"Charge","Italian":"Azione","Japanese":"\u305f\u3044\u3042\u305f\u308a","Korean":"\ubab8\ud1b5\ubc15\uce58\uae30","Spanish":"Placaje"},"combat":{"energy":2,"power":3}}},"cinematicMoves":{"SILVER_WIND":{"id":"SILVER_WIND","power":70,"energy":-33,"durationMs":3700,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Silver Wind","German":"Silberhauch","French":"Vent Argent\u00e9","Italian":"Ventargenteo","Japanese":"\u304e\u3093\u3044\u308d\u306e\u304b\u305c","Korean":"\uc740\ube5b\ubc14\ub78c","Spanish":"Viento Plata"},"combat":{"energy":-45,"power":45}},"BUG_BUZZ":{"id":"BUG_BUZZ","power":90,"energy":-50,"durationMs":3700,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Bug Buzz","German":"K\u00e4fergebrumm","French":"Bourdon","Italian":"Ronzio","Japanese":"\u3080\u3057\u306e\u3055\u3056\u3081\u304d","Korean":"\ubc8c\ub808\uc758\uc57c\ub2e8\ubc95\uc11d","Spanish":"Zumbido"},"combat":{"energy":-60,"power":90}},"DAZZLING_GLEAM":{"id":"DAZZLING_GLEAM","power":100,"energy":-50,"durationMs":3500,"type":{"type":"POKEMON_TYPE_FAIRY","names":{"English":"Fairy","German":"Fee","French":"F\u00e9e","Italian":"Folletto","Japanese":"\u30d5\u30a7\u30a2\u30ea\u30fc","Korean":"\ud398\uc5b4\ub9ac","Spanish":"Hada"}},"names":{"English":"Dazzling Gleam","German":"Zauberschein","French":"\u00c9clat Magique","Italian":"Magibrillio","Japanese":"\u30de\u30b8\u30ab\u30eb\u30b7\u30e3\u30a4\u30f3","Korean":"\ub9e4\uc9c0\uceec\uc0e4\uc778","Spanish":"Brillo M\u00e1gico"},"combat":{"energy":-70,"power":110}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_314_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_314_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "ILLUMISE",
+    "formId": "ILLUMISE",
+    "dexNr": 314,
+    "generation": 3,
+    "names": {
+        "English": "Illumise",
+        "German": "Illumise",
+        "French": "Lumivole",
+        "Italian": "Illumise",
+        "Japanese": "\u30a4\u30eb\u30df\u30fc\u30bc",
+        "Korean": "\ub124\uc624\ube44\ud2b8",
+        "Spanish": "Illumise"
+    },
+    "stats": {
+        "stamina": 163,
+        "attack": 143,
+        "defense": 166
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_BUG",
+        "names": {
+            "English": "Bug",
+            "German": "K\u00e4fer",
+            "French": "Insecte",
+            "Italian": "Coleottero",
+            "Japanese": "\u3080\u3057",
+            "Korean": "\ubc8c\ub808",
+            "Spanish": "Bicho"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "STRUGGLE_BUG_FAST": {
+            "id": "STRUGGLE_BUG_FAST",
+            "power": 15,
+            "energy": 15,
+            "durationMs": 1500,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "Struggle Bug",
+                "German": "K\u00e4fertrutz",
+                "French": "Survinsecte",
+                "Italian": "Entomoblocco",
+                "Japanese": "\u3080\u3057\u306e\u3066\u3044\u3053\u3046",
+                "Korean": "\ubc8c\ub808\uc758\uc800\ud56d",
+                "Spanish": "Estoicismo"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 9
+            }
+        },
+        "TACKLE_FAST": {
+            "id": "TACKLE_FAST",
+            "power": 5,
+            "energy": 5,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Tackle",
+                "German": "Tackle",
+                "French": "Charge",
+                "Italian": "Azione",
+                "Japanese": "\u305f\u3044\u3042\u305f\u308a",
+                "Korean": "\ubab8\ud1b5\ubc15\uce58\uae30",
+                "Spanish": "Placaje"
+            },
+            "combat": {
+                "energy": 2,
+                "power": 3
+            }
+        }
+    },
+    "cinematicMoves": {
+        "SILVER_WIND": {
+            "id": "SILVER_WIND",
+            "power": 70,
+            "energy": -33,
+            "durationMs": 3700,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "Silver Wind",
+                "German": "Silberhauch",
+                "French": "Vent Argent\u00e9",
+                "Italian": "Ventargenteo",
+                "Japanese": "\u304e\u3093\u3044\u308d\u306e\u304b\u305c",
+                "Korean": "\uc740\ube5b\ubc14\ub78c",
+                "Spanish": "Viento Plata"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 45
+            }
+        },
+        "BUG_BUZZ": {
+            "id": "BUG_BUZZ",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 3700,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "Bug Buzz",
+                "German": "K\u00e4fergebrumm",
+                "French": "Bourdon",
+                "Italian": "Ronzio",
+                "Japanese": "\u3080\u3057\u306e\u3055\u3056\u3081\u304d",
+                "Korean": "\ubc8c\ub808\uc758\uc57c\ub2e8\ubc95\uc11d",
+                "Spanish": "Zumbido"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 90
+            }
+        },
+        "DAZZLING_GLEAM": {
+            "id": "DAZZLING_GLEAM",
+            "power": 100,
+            "energy": -50,
+            "durationMs": 3500,
+            "type": {
+                "type": "POKEMON_TYPE_FAIRY",
+                "names": {
+                    "English": "Fairy",
+                    "German": "Fee",
+                    "French": "F\u00e9e",
+                    "Italian": "Folletto",
+                    "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                    "Korean": "\ud398\uc5b4\ub9ac",
+                    "Spanish": "Hada"
+                }
+            },
+            "names": {
+                "English": "Dazzling Gleam",
+                "German": "Zauberschein",
+                "French": "\u00c9clat Magique",
+                "Italian": "Magibrillio",
+                "Japanese": "\u30de\u30b8\u30ab\u30eb\u30b7\u30e3\u30a4\u30f3",
+                "Korean": "\ub9e4\uc9c0\uceec\uc0e4\uc778",
+                "Spanish": "Brillo M\u00e1gico"
+            },
+            "combat": {
+                "energy": -70,
+                "power": 110
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_314_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_314_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

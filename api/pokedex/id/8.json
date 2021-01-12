@@ -1,1 +1,201 @@
-{"id":"WARTORTLE","formId":"WARTORTLE","dexNr":8,"generation":1,"names":{"English":"Wartortle","German":"Schillok","French":"Carabaffe","Italian":"Wartortle","Japanese":"\u30ab\u30e1\u30fc\u30eb","Korean":"\uc5b4\ub2c8\ubd80\uae30","Spanish":"Wartortle"},"stats":{"stamina":153,"attack":126,"defense":155},"primaryType":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"secondaryType":null,"quickMoves":{"WATER_GUN_FAST":{"id":"WATER_GUN_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Water Gun","German":"Aquaknarre","French":"Pistolet \u00e0 O","Italian":"Pistolacqua","Japanese":"\u307f\u305a\u3067\u3063\u307d\u3046","Korean":"\ubb3c\ub300\ud3ec","Spanish":"Pistola Agua"},"combat":{"energy":3,"power":3}},"BITE_FAST":{"id":"BITE_FAST","power":6,"energy":4,"durationMs":500,"type":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"names":{"English":"Bite","German":"Biss","French":"Morsure","Italian":"Morso","Japanese":"\u304b\u307f\u3064\u304f","Korean":"\ubb3c\uae30","Spanish":"Mordisco"},"combat":{"energy":2,"power":4}}},"cinematicMoves":{"AQUA_JET":{"id":"AQUA_JET","power":45,"energy":-33,"durationMs":2600,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Aqua Jet","German":"Wasserd\u00fcse","French":"Aqua-Jet","Italian":"Acquagetto","Japanese":"\u30a2\u30af\u30a2\u30b8\u30a7\u30c3\u30c8","Korean":"\uc544\ucfe0\uc544\uc81c\ud2b8","Spanish":"Acua Jet"},"combat":{"energy":-45,"power":45}},"ICE_BEAM":{"id":"ICE_BEAM","power":90,"energy":-50,"durationMs":3300,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Ice Beam","German":"Eisstrahl","French":"Laser Glace","Italian":"Geloraggio","Japanese":"\u308c\u3044\u3068\u3046\u30d3\u30fc\u30e0","Korean":"\ub0c9\ub3d9\ube54","Spanish":"Rayo Hielo"},"combat":{"energy":-55,"power":90}},"HYDRO_PUMP":{"id":"HYDRO_PUMP","power":130,"energy":-100,"durationMs":3300,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Hydro Pump","German":"Hydropumpe","French":"Hydrocanon","Italian":"Idropompa","Japanese":"\u30cf\u30a4\u30c9\u30ed\u30dd\u30f3\u30d7","Korean":"\ud558\uc774\ub4dc\ub85c\ud38c\ud504","Spanish":"Hidrobomba"},"combat":{"energy":-75,"power":130}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_008_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_008_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "WARTORTLE",
+    "formId": "WARTORTLE",
+    "dexNr": 8,
+    "generation": 1,
+    "names": {
+        "English": "Wartortle",
+        "German": "Schillok",
+        "French": "Carabaffe",
+        "Italian": "Wartortle",
+        "Japanese": "\u30ab\u30e1\u30fc\u30eb",
+        "Korean": "\uc5b4\ub2c8\ubd80\uae30",
+        "Spanish": "Wartortle"
+    },
+    "stats": {
+        "stamina": 153,
+        "attack": 126,
+        "defense": 155
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_WATER",
+        "names": {
+            "English": "Water",
+            "German": "Wasser",
+            "French": "Eau",
+            "Italian": "Acqua",
+            "Japanese": "\u307f\u305a",
+            "Korean": "\ubb3c",
+            "Spanish": "Agua"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "WATER_GUN_FAST": {
+            "id": "WATER_GUN_FAST",
+            "power": 5,
+            "energy": 5,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Water Gun",
+                "German": "Aquaknarre",
+                "French": "Pistolet \u00e0 O",
+                "Italian": "Pistolacqua",
+                "Japanese": "\u307f\u305a\u3067\u3063\u307d\u3046",
+                "Korean": "\ubb3c\ub300\ud3ec",
+                "Spanish": "Pistola Agua"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 3
+            }
+        },
+        "BITE_FAST": {
+            "id": "BITE_FAST",
+            "power": 6,
+            "energy": 4,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_DARK",
+                "names": {
+                    "English": "Dark",
+                    "German": "Unlicht",
+                    "French": "T\u00e9n\u00e8bres",
+                    "Italian": "Buio",
+                    "Japanese": "\u3042\u304f",
+                    "Korean": "\uc545",
+                    "Spanish": "Siniestro"
+                }
+            },
+            "names": {
+                "English": "Bite",
+                "German": "Biss",
+                "French": "Morsure",
+                "Italian": "Morso",
+                "Japanese": "\u304b\u307f\u3064\u304f",
+                "Korean": "\ubb3c\uae30",
+                "Spanish": "Mordisco"
+            },
+            "combat": {
+                "energy": 2,
+                "power": 4
+            }
+        }
+    },
+    "cinematicMoves": {
+        "AQUA_JET": {
+            "id": "AQUA_JET",
+            "power": 45,
+            "energy": -33,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Aqua Jet",
+                "German": "Wasserd\u00fcse",
+                "French": "Aqua-Jet",
+                "Italian": "Acquagetto",
+                "Japanese": "\u30a2\u30af\u30a2\u30b8\u30a7\u30c3\u30c8",
+                "Korean": "\uc544\ucfe0\uc544\uc81c\ud2b8",
+                "Spanish": "Acua Jet"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 45
+            }
+        },
+        "ICE_BEAM": {
+            "id": "ICE_BEAM",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 3300,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Ice Beam",
+                "German": "Eisstrahl",
+                "French": "Laser Glace",
+                "Italian": "Geloraggio",
+                "Japanese": "\u308c\u3044\u3068\u3046\u30d3\u30fc\u30e0",
+                "Korean": "\ub0c9\ub3d9\ube54",
+                "Spanish": "Rayo Hielo"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        },
+        "HYDRO_PUMP": {
+            "id": "HYDRO_PUMP",
+            "power": 130,
+            "energy": -100,
+            "durationMs": 3300,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Hydro Pump",
+                "German": "Hydropumpe",
+                "French": "Hydrocanon",
+                "Italian": "Idropompa",
+                "Japanese": "\u30cf\u30a4\u30c9\u30ed\u30dd\u30f3\u30d7",
+                "Korean": "\ud558\uc774\ub4dc\ub85c\ud38c\ud504",
+                "Spanish": "Hidrobomba"
+            },
+            "combat": {
+                "energy": -75,
+                "power": 130
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_008_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_008_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

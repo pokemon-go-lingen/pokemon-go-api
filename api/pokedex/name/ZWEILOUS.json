@@ -1,1 +1,212 @@
-{"id":"ZWEILOUS","formId":"ZWEILOUS","dexNr":634,"generation":5,"names":{"English":"Zweilous","German":"Duodino","French":"Diamat","Italian":"Zweilous","Japanese":"\u30b8\u30d8\u30c3\u30c9","Korean":"\ub514\ud5e4\ub4dc","Spanish":"Zweilous"},"stats":{"stamina":176,"attack":159,"defense":135},"primaryType":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"secondaryType":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"quickMoves":{"BITE_FAST":{"id":"BITE_FAST","power":6,"energy":4,"durationMs":500,"type":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"names":{"English":"Bite","German":"Biss","French":"Morsure","Italian":"Morso","Japanese":"\u304b\u307f\u3064\u304f","Korean":"\ubb3c\uae30","Spanish":"Mordisco"},"combat":{"energy":2,"power":4}},"DRAGON_BREATH_FAST":{"id":"DRAGON_BREATH_FAST","power":6,"energy":4,"durationMs":500,"type":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"names":{"English":"Dragon Breath","German":"Feuerodem","French":"Draco-Souffle","Italian":"Dragospiro","Japanese":"\u308a\u3085\u3046\u306e\u3044\u3076\u304d","Korean":"\uc6a9\uc758\uc228\uacb0","Spanish":"Dragoaliento"},"combat":{"energy":3,"power":4}}},"cinematicMoves":{"DRAGON_PULSE":{"id":"DRAGON_PULSE","power":90,"energy":-50,"durationMs":3600,"type":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"names":{"English":"Dragon Pulse","German":"Drachenpuls","French":"Draco-Choc","Italian":"Dragopulsar","Japanese":"\u308a\u3085\u3046\u306e\u306f\u3069\u3046","Korean":"\uc6a9\uc758\ud30c\ub3d9","Spanish":"Pulso Drag\u00f3n"},"combat":{"energy":-60,"power":90}},"DARK_PULSE":{"id":"DARK_PULSE","power":80,"energy":-50,"durationMs":3000,"type":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"names":{"English":"Dark Pulse","German":"Finsteraura","French":"Vibrobscur","Italian":"Neropulsar","Japanese":"\u3042\u304f\u306e\u306f\u3069\u3046","Korean":"\uc545\uc758\ud30c\ub3d9","Spanish":"Pulso Umbr\u00edo"},"combat":{"energy":-50,"power":80}},"BODY_SLAM":{"id":"BODY_SLAM","power":50,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Body Slam","German":"Bodyslam","French":"Plaquage","Italian":"Corposcontro","Japanese":"\u306e\u3057\u304b\u304b\u308a","Korean":"\ub204\ub974\uae30","Spanish":"Golpe Cuerpo"},"combat":{"energy":-35,"power":60}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_634_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_634_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "ZWEILOUS",
+    "formId": "ZWEILOUS",
+    "dexNr": 634,
+    "generation": 5,
+    "names": {
+        "English": "Zweilous",
+        "German": "Duodino",
+        "French": "Diamat",
+        "Italian": "Zweilous",
+        "Japanese": "\u30b8\u30d8\u30c3\u30c9",
+        "Korean": "\ub514\ud5e4\ub4dc",
+        "Spanish": "Zweilous"
+    },
+    "stats": {
+        "stamina": 176,
+        "attack": 159,
+        "defense": 135
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_DARK",
+        "names": {
+            "English": "Dark",
+            "German": "Unlicht",
+            "French": "T\u00e9n\u00e8bres",
+            "Italian": "Buio",
+            "Japanese": "\u3042\u304f",
+            "Korean": "\uc545",
+            "Spanish": "Siniestro"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_DRAGON",
+        "names": {
+            "English": "Dragon",
+            "German": "Drache",
+            "French": "Dragon",
+            "Italian": "Drago",
+            "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+            "Korean": "\ub4dc\ub798\uace4",
+            "Spanish": "Drag\u00f3n"
+        }
+    },
+    "quickMoves": {
+        "BITE_FAST": {
+            "id": "BITE_FAST",
+            "power": 6,
+            "energy": 4,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_DARK",
+                "names": {
+                    "English": "Dark",
+                    "German": "Unlicht",
+                    "French": "T\u00e9n\u00e8bres",
+                    "Italian": "Buio",
+                    "Japanese": "\u3042\u304f",
+                    "Korean": "\uc545",
+                    "Spanish": "Siniestro"
+                }
+            },
+            "names": {
+                "English": "Bite",
+                "German": "Biss",
+                "French": "Morsure",
+                "Italian": "Morso",
+                "Japanese": "\u304b\u307f\u3064\u304f",
+                "Korean": "\ubb3c\uae30",
+                "Spanish": "Mordisco"
+            },
+            "combat": {
+                "energy": 2,
+                "power": 4
+            }
+        },
+        "DRAGON_BREATH_FAST": {
+            "id": "DRAGON_BREATH_FAST",
+            "power": 6,
+            "energy": 4,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_DRAGON",
+                "names": {
+                    "English": "Dragon",
+                    "German": "Drache",
+                    "French": "Dragon",
+                    "Italian": "Drago",
+                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                    "Korean": "\ub4dc\ub798\uace4",
+                    "Spanish": "Drag\u00f3n"
+                }
+            },
+            "names": {
+                "English": "Dragon Breath",
+                "German": "Feuerodem",
+                "French": "Draco-Souffle",
+                "Italian": "Dragospiro",
+                "Japanese": "\u308a\u3085\u3046\u306e\u3044\u3076\u304d",
+                "Korean": "\uc6a9\uc758\uc228\uacb0",
+                "Spanish": "Dragoaliento"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 4
+            }
+        }
+    },
+    "cinematicMoves": {
+        "DRAGON_PULSE": {
+            "id": "DRAGON_PULSE",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 3600,
+            "type": {
+                "type": "POKEMON_TYPE_DRAGON",
+                "names": {
+                    "English": "Dragon",
+                    "German": "Drache",
+                    "French": "Dragon",
+                    "Italian": "Drago",
+                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                    "Korean": "\ub4dc\ub798\uace4",
+                    "Spanish": "Drag\u00f3n"
+                }
+            },
+            "names": {
+                "English": "Dragon Pulse",
+                "German": "Drachenpuls",
+                "French": "Draco-Choc",
+                "Italian": "Dragopulsar",
+                "Japanese": "\u308a\u3085\u3046\u306e\u306f\u3069\u3046",
+                "Korean": "\uc6a9\uc758\ud30c\ub3d9",
+                "Spanish": "Pulso Drag\u00f3n"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 90
+            }
+        },
+        "DARK_PULSE": {
+            "id": "DARK_PULSE",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 3000,
+            "type": {
+                "type": "POKEMON_TYPE_DARK",
+                "names": {
+                    "English": "Dark",
+                    "German": "Unlicht",
+                    "French": "T\u00e9n\u00e8bres",
+                    "Italian": "Buio",
+                    "Japanese": "\u3042\u304f",
+                    "Korean": "\uc545",
+                    "Spanish": "Siniestro"
+                }
+            },
+            "names": {
+                "English": "Dark Pulse",
+                "German": "Finsteraura",
+                "French": "Vibrobscur",
+                "Italian": "Neropulsar",
+                "Japanese": "\u3042\u304f\u306e\u306f\u3069\u3046",
+                "Korean": "\uc545\uc758\ud30c\ub3d9",
+                "Spanish": "Pulso Umbr\u00edo"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 80
+            }
+        },
+        "BODY_SLAM": {
+            "id": "BODY_SLAM",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 1900,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Body Slam",
+                "German": "Bodyslam",
+                "French": "Plaquage",
+                "Italian": "Corposcontro",
+                "Japanese": "\u306e\u3057\u304b\u304b\u308a",
+                "Korean": "\ub204\ub974\uae30",
+                "Spanish": "Golpe Cuerpo"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 60
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_634_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_634_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

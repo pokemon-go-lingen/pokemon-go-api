@@ -1,1 +1,201 @@
-{"id":"SUNFLORA","formId":"SUNFLORA","dexNr":192,"generation":2,"names":{"English":"Sunflora","German":"Sonnflora","French":"H\u00e9liatronc","Italian":"Sunflora","Japanese":"\u30ad\u30de\u30ef\u30ea","Korean":"\ud574\ub8e8\ubbf8","Spanish":"Sunflora"},"stats":{"stamina":181,"attack":185,"defense":135},"primaryType":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"secondaryType":null,"quickMoves":{"RAZOR_LEAF_FAST":{"id":"RAZOR_LEAF_FAST","power":13,"energy":7,"durationMs":1000,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Razor Leaf","German":"Rasierblatt","French":"Tranch\u2019Herbe","Italian":"Foglielama","Japanese":"\u306f\u3063\u3071\u30ab\u30c3\u30bf\u30fc","Korean":"\uc78e\ub0a0\uac00\ub974\uae30","Spanish":"Hoja Afilada"},"combat":{"energy":4,"power":11}},"BULLET_SEED_FAST":{"id":"BULLET_SEED_FAST","power":8,"energy":14,"durationMs":1100,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Bullet Seed","German":"Kugelsaat","French":"Balle Graine","Italian":"Semitraglia","Japanese":"\u30bf\u30cd\u30de\u30b7\u30f3\u30ac\u30f3","Korean":"\uae30\uad00\ucd1d","Spanish":"Semilladora"},"combat":{"energy":13,"power":5}}},"cinematicMoves":{"SOLAR_BEAM":{"id":"SOLAR_BEAM","power":180,"energy":-100,"durationMs":4900,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Solar Beam","German":"Solarstrahl","French":"Lance-Soleil","Italian":"Solarraggio","Japanese":"\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0","Korean":"\uc194\ub77c\ube54","Spanish":"Rayo Solar"},"combat":{"energy":-80,"power":150}},"PETAL_BLIZZARD":{"id":"PETAL_BLIZZARD","power":110,"energy":-100,"durationMs":2600,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Petal Blizzard","German":"Bl\u00fctenwirbel","French":"Temp\u00eate Florale","Italian":"Fiortempesta","Japanese":"\u306f\u306a\u3075\u3076\u304d","Korean":"\uaf43\ubcf4\ub77c","Spanish":"Tormenta Floral"},"combat":{"energy":-65,"power":110}},"SLUDGE_BOMB":{"id":"SLUDGE_BOMB","power":80,"energy":-50,"durationMs":2300,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Sludge Bomb","German":"Matschbombe","French":"Bombe Beurk","Italian":"Fangobomba","Japanese":"\u30d8\u30c9\u30ed\u3070\u304f\u3060\u3093","Korean":"\uc624\ubb3c\ud3ed\ud0c4","Spanish":"Bomba Lodo"},"combat":{"energy":-50,"power":80}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_192_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_192_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "SUNFLORA",
+    "formId": "SUNFLORA",
+    "dexNr": 192,
+    "generation": 2,
+    "names": {
+        "English": "Sunflora",
+        "German": "Sonnflora",
+        "French": "H\u00e9liatronc",
+        "Italian": "Sunflora",
+        "Japanese": "\u30ad\u30de\u30ef\u30ea",
+        "Korean": "\ud574\ub8e8\ubbf8",
+        "Spanish": "Sunflora"
+    },
+    "stats": {
+        "stamina": 181,
+        "attack": 185,
+        "defense": 135
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_GRASS",
+        "names": {
+            "English": "Grass",
+            "German": "Pflanze",
+            "French": "Plante",
+            "Italian": "Erba",
+            "Japanese": "\u304f\u3055",
+            "Korean": "\ud480",
+            "Spanish": "Planta"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "RAZOR_LEAF_FAST": {
+            "id": "RAZOR_LEAF_FAST",
+            "power": 13,
+            "energy": 7,
+            "durationMs": 1000,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Razor Leaf",
+                "German": "Rasierblatt",
+                "French": "Tranch\u2019Herbe",
+                "Italian": "Foglielama",
+                "Japanese": "\u306f\u3063\u3071\u30ab\u30c3\u30bf\u30fc",
+                "Korean": "\uc78e\ub0a0\uac00\ub974\uae30",
+                "Spanish": "Hoja Afilada"
+            },
+            "combat": {
+                "energy": 4,
+                "power": 11
+            }
+        },
+        "BULLET_SEED_FAST": {
+            "id": "BULLET_SEED_FAST",
+            "power": 8,
+            "energy": 14,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Bullet Seed",
+                "German": "Kugelsaat",
+                "French": "Balle Graine",
+                "Italian": "Semitraglia",
+                "Japanese": "\u30bf\u30cd\u30de\u30b7\u30f3\u30ac\u30f3",
+                "Korean": "\uae30\uad00\ucd1d",
+                "Spanish": "Semilladora"
+            },
+            "combat": {
+                "energy": 13,
+                "power": 5
+            }
+        }
+    },
+    "cinematicMoves": {
+        "SOLAR_BEAM": {
+            "id": "SOLAR_BEAM",
+            "power": 180,
+            "energy": -100,
+            "durationMs": 4900,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Solar Beam",
+                "German": "Solarstrahl",
+                "French": "Lance-Soleil",
+                "Italian": "Solarraggio",
+                "Japanese": "\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0",
+                "Korean": "\uc194\ub77c\ube54",
+                "Spanish": "Rayo Solar"
+            },
+            "combat": {
+                "energy": -80,
+                "power": 150
+            }
+        },
+        "PETAL_BLIZZARD": {
+            "id": "PETAL_BLIZZARD",
+            "power": 110,
+            "energy": -100,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Petal Blizzard",
+                "German": "Bl\u00fctenwirbel",
+                "French": "Temp\u00eate Florale",
+                "Italian": "Fiortempesta",
+                "Japanese": "\u306f\u306a\u3075\u3076\u304d",
+                "Korean": "\uaf43\ubcf4\ub77c",
+                "Spanish": "Tormenta Floral"
+            },
+            "combat": {
+                "energy": -65,
+                "power": 110
+            }
+        },
+        "SLUDGE_BOMB": {
+            "id": "SLUDGE_BOMB",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 2300,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Sludge Bomb",
+                "German": "Matschbombe",
+                "French": "Bombe Beurk",
+                "Italian": "Fangobomba",
+                "Japanese": "\u30d8\u30c9\u30ed\u3070\u304f\u3060\u3093",
+                "Korean": "\uc624\ubb3c\ud3ed\ud0c4",
+                "Spanish": "Bomba Lodo"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 80
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_192_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_192_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

@@ -1,1 +1,181 @@
-{"id":"RUNERIGUS","formId":"RUNERIGUS","dexNr":867,"generation":8,"names":{"English":"Runerigus","German":"Oghnatoll","French":"Tut\u00e9t\u00e9kri","Italian":"Runerigus","Japanese":"\u30c7\u30b9\u30d0\u30fc\u30f3","Korean":"\ub370\uc2a4\ud310","Spanish":"Runerigus"},"stats":{"stamina":151,"attack":163,"defense":237},"primaryType":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"secondaryType":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"quickMoves":{"ASTONISH_FAST":{"id":"ASTONISH_FAST","power":8,"energy":14,"durationMs":1100,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Astonish","German":"Erstauner","French":"\u00c9tonnement","Italian":"Sgomento","Japanese":"\u304a\u3069\u308d\u304b\u3059","Korean":"\ub180\ub798\ud0a4\uae30","Spanish":"Impresionar"},"combat":{"energy":9,"power":5}}},"cinematicMoves":{"SHADOW_BALL":{"id":"SHADOW_BALL","power":100,"energy":-50,"durationMs":3000,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Shadow Ball","German":"Spukball","French":"Ball\u2019Ombre","Italian":"Palla Ombra","Japanese":"\u30b7\u30e3\u30c9\u30fc\u30dc\u30fc\u30eb","Korean":"\uc100\ub3c4\ubcfc","Spanish":"Bola Sombra"},"combat":{"energy":-55,"power":100}},"SAND_TOMB":{"id":"SAND_TOMB","power":60,"energy":-33,"durationMs":4000,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Sand Tomb","German":"Sandgrab","French":"Tourbi-Sable","Italian":"Sabbiotomba","Japanese":"\u3059\u306a\u3058\u3054\u304f","Korean":"\ubaa8\ub798\uc9c0\uc625","Spanish":"Bucle Arena"},"combat":{"energy":-40,"power":25}},"ROCK_TOMB":{"id":"ROCK_TOMB","power":70,"energy":-50,"durationMs":3200,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Rock Tomb","German":"Felsgrab","French":"Tomberoche","Italian":"Rocciotomba","Japanese":"\u304c\u3093\u305b\u304d\u3075\u3046\u3058","Korean":"\uc554\uc11d\ubd09\uc778","Spanish":"Tumba Rocas"},"combat":{"energy":-60,"power":70}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_867_31.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_867_31_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "RUNERIGUS",
+    "formId": "RUNERIGUS",
+    "dexNr": 867,
+    "generation": 8,
+    "names": {
+        "English": "Runerigus",
+        "German": "Oghnatoll",
+        "French": "Tut\u00e9t\u00e9kri",
+        "Italian": "Runerigus",
+        "Japanese": "\u30c7\u30b9\u30d0\u30fc\u30f3",
+        "Korean": "\ub370\uc2a4\ud310",
+        "Spanish": "Runerigus"
+    },
+    "stats": {
+        "stamina": 151,
+        "attack": 163,
+        "defense": 237
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_GROUND",
+        "names": {
+            "English": "Ground",
+            "German": "Boden",
+            "French": "Sol",
+            "Italian": "Terra",
+            "Japanese": "\u3058\u3081\u3093",
+            "Korean": "\ub545",
+            "Spanish": "Tierra"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_GHOST",
+        "names": {
+            "English": "Ghost",
+            "German": "Geist",
+            "French": "Spectre",
+            "Italian": "Spettro",
+            "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+            "Korean": "\uace0\uc2a4\ud2b8",
+            "Spanish": "Fantasma"
+        }
+    },
+    "quickMoves": {
+        "ASTONISH_FAST": {
+            "id": "ASTONISH_FAST",
+            "power": 8,
+            "energy": 14,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Astonish",
+                "German": "Erstauner",
+                "French": "\u00c9tonnement",
+                "Italian": "Sgomento",
+                "Japanese": "\u304a\u3069\u308d\u304b\u3059",
+                "Korean": "\ub180\ub798\ud0a4\uae30",
+                "Spanish": "Impresionar"
+            },
+            "combat": {
+                "energy": 9,
+                "power": 5
+            }
+        }
+    },
+    "cinematicMoves": {
+        "SHADOW_BALL": {
+            "id": "SHADOW_BALL",
+            "power": 100,
+            "energy": -50,
+            "durationMs": 3000,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Shadow Ball",
+                "German": "Spukball",
+                "French": "Ball\u2019Ombre",
+                "Italian": "Palla Ombra",
+                "Japanese": "\u30b7\u30e3\u30c9\u30fc\u30dc\u30fc\u30eb",
+                "Korean": "\uc100\ub3c4\ubcfc",
+                "Spanish": "Bola Sombra"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 100
+            }
+        },
+        "SAND_TOMB": {
+            "id": "SAND_TOMB",
+            "power": 60,
+            "energy": -33,
+            "durationMs": 4000,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Sand Tomb",
+                "German": "Sandgrab",
+                "French": "Tourbi-Sable",
+                "Italian": "Sabbiotomba",
+                "Japanese": "\u3059\u306a\u3058\u3054\u304f",
+                "Korean": "\ubaa8\ub798\uc9c0\uc625",
+                "Spanish": "Bucle Arena"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 25
+            }
+        },
+        "ROCK_TOMB": {
+            "id": "ROCK_TOMB",
+            "power": 70,
+            "energy": -50,
+            "durationMs": 3200,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Rock Tomb",
+                "German": "Felsgrab",
+                "French": "Tomberoche",
+                "Italian": "Rocciotomba",
+                "Japanese": "\u304c\u3093\u305b\u304d\u3075\u3046\u3058",
+                "Korean": "\uc554\uc11d\ubd09\uc778",
+                "Spanish": "Tumba Rocas"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 70
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_867_31.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_867_31_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

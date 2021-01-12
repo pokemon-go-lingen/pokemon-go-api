@@ -1,1 +1,358 @@
-{"id":"MACHAMP","formId":"MACHAMP","dexNr":68,"generation":1,"names":{"English":"Machamp","German":"Machomei","French":"Mackogneur","Italian":"Machamp","Japanese":"\u30ab\u30a4\u30ea\u30ad\u30fc","Korean":"\uad34\ub825\ubaac","Spanish":"Machamp"},"stats":{"stamina":207,"attack":234,"defense":159},"primaryType":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"secondaryType":null,"quickMoves":{"BULLET_PUNCH_FAST":{"id":"BULLET_PUNCH_FAST","power":9,"energy":10,"durationMs":900,"type":{"type":"POKEMON_TYPE_STEEL","names":{"English":"Steel","German":"Stahl","French":"Acier","Italian":"Acciaio","Japanese":"\u306f\u304c\u306d","Korean":"\uac15\ucca0","Spanish":"Acero"}},"names":{"English":"Bullet Punch","German":"Patronenhieb","French":"Pisto-Poing","Italian":"Pugnoscarica","Japanese":"\u30d0\u30ec\u30c3\u30c8\u30d1\u30f3\u30c1","Korean":"\ubd88\ub9bf\ud380\uce58","Spanish":"Pu\u00f1o Bala"},"combat":{"energy":7,"power":6}},"COUNTER_FAST":{"id":"COUNTER_FAST","power":12,"energy":8,"durationMs":900,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Counter","German":"Konter","French":"Riposte","Italian":"Contrattacco","Japanese":"\u30ab\u30a6\u30f3\u30bf\u30fc","Korean":"\uce74\uc6b4\ud130","Spanish":"Contraataque"},"combat":{"energy":7,"power":8}}},"cinematicMoves":{"HEAVY_SLAM":{"id":"HEAVY_SLAM","power":70,"energy":-50,"durationMs":2100,"type":{"type":"POKEMON_TYPE_STEEL","names":{"English":"Steel","German":"Stahl","French":"Acier","Italian":"Acciaio","Japanese":"\u306f\u304c\u306d","Korean":"\uac15\ucca0","Spanish":"Acero"}},"names":{"English":"Heavy Slam","German":"Rammboss","French":"Tacle Lourd","Italian":"Pesobomba","Japanese":"\u30d8\u30d3\u30fc\u30dc\u30f3\u30d0\u30fc","Korean":"\ud5e4\ube44\ubd04\ubc84","Spanish":"Cuerpo Pesado"},"combat":{"energy":-50,"power":70}},"DYNAMIC_PUNCH":{"id":"DYNAMIC_PUNCH","power":90,"energy":-50,"durationMs":2700,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Dynamic Punch","German":"Wuchtschlag","French":"Dynamo-Poing","Italian":"Dinamipugno","Japanese":"\u3070\u304f\u308c\u3064\u30d1\u30f3\u30c1","Korean":"\ud3ed\ubc1c\ud380\uce58","Spanish":"Pu\u00f1o Din\u00e1mico"},"combat":{"energy":-50,"power":90}},"CLOSE_COMBAT":{"id":"CLOSE_COMBAT","power":100,"energy":-100,"durationMs":2300,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Close Combat","German":"Nahkampf","French":"Close Combat","Italian":"Zuffa","Japanese":"\u30a4\u30f3\u30d5\u30a1\u30a4\u30c8","Korean":"\uc778\ud30c\uc774\ud2b8","Spanish":"A Bocajarro"},"combat":{"energy":-45,"power":100}},"ROCK_SLIDE":{"id":"ROCK_SLIDE","power":80,"energy":-50,"durationMs":2700,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Rock Slide","German":"Steinhagel","French":"\u00c9boulement","Italian":"Frana","Japanese":"\u3044\u308f\u306a\u3060\u308c","Korean":"\uc2a4\ud1a4\uc0e4\uc6cc","Spanish":"Avalancha"},"combat":{"energy":-45,"power":80}},"CROSS_CHOP":{"id":"CROSS_CHOP","power":50,"energy":-50,"durationMs":1500,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Cross Chop","German":"Kreuzhieb","French":"Coup Croix","Italian":"Incrocolpo","Japanese":"\u30af\u30ed\u30b9\u30c1\u30e7\u30c3\u30d7","Korean":"\ud06c\ub85c\uc2a4\ucd19","Spanish":"Tajo Cruzado"},"combat":{"energy":-35,"power":50}}},"eliteQuickMoves":{"KARATE_CHOP_FAST":{"id":"KARATE_CHOP_FAST","power":8,"energy":10,"durationMs":800,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Karate Chop","German":"Karateschlag","French":"Poing Karat\u00e9","Italian":"Colpokarate","Japanese":"\u304b\u3089\u3066\u30c1\u30e7\u30c3\u30d7","Korean":"\ud0dc\uad8c\ub2f9\uc218","Spanish":"Golpe K\u00e1rate"},"combat":{"energy":7,"power":5}}},"eliteCinematicMoves":{"STONE_EDGE":{"id":"STONE_EDGE","power":100,"energy":-100,"durationMs":2300,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Stone Edge","German":"Steinkante","French":"Lame de Roc","Italian":"Pietrataglio","Japanese":"\u30b9\u30c8\u30fc\u30f3\u30a8\u30c3\u30b8","Korean":"\uc2a4\ud1a4\uc5d0\uc9c0","Spanish":"Roca Afilada"},"combat":{"energy":-55,"power":100}},"SUBMISSION":{"id":"SUBMISSION","power":60,"energy":-50,"durationMs":2200,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Submission","German":"\u00dcberroller","French":"Sacrifice","Italian":"Sottomissione","Japanese":"\u3058\u3054\u304f\u3050\u308b\u307e","Korean":"\uc9c0\uc625\uc758\ubc14\ud034","Spanish":"Sumisi\u00f3n"},"combat":{"energy":-50,"power":60}}},"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_068_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_068_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "MACHAMP",
+    "formId": "MACHAMP",
+    "dexNr": 68,
+    "generation": 1,
+    "names": {
+        "English": "Machamp",
+        "German": "Machomei",
+        "French": "Mackogneur",
+        "Italian": "Machamp",
+        "Japanese": "\u30ab\u30a4\u30ea\u30ad\u30fc",
+        "Korean": "\uad34\ub825\ubaac",
+        "Spanish": "Machamp"
+    },
+    "stats": {
+        "stamina": 207,
+        "attack": 234,
+        "defense": 159
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_FIGHTING",
+        "names": {
+            "English": "Fighting",
+            "German": "Kampf",
+            "French": "Combat",
+            "Italian": "Lotta",
+            "Japanese": "\u304b\u304f\u3068\u3046",
+            "Korean": "\uaca9\ud22c",
+            "Spanish": "Lucha"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "BULLET_PUNCH_FAST": {
+            "id": "BULLET_PUNCH_FAST",
+            "power": 9,
+            "energy": 10,
+            "durationMs": 900,
+            "type": {
+                "type": "POKEMON_TYPE_STEEL",
+                "names": {
+                    "English": "Steel",
+                    "German": "Stahl",
+                    "French": "Acier",
+                    "Italian": "Acciaio",
+                    "Japanese": "\u306f\u304c\u306d",
+                    "Korean": "\uac15\ucca0",
+                    "Spanish": "Acero"
+                }
+            },
+            "names": {
+                "English": "Bullet Punch",
+                "German": "Patronenhieb",
+                "French": "Pisto-Poing",
+                "Italian": "Pugnoscarica",
+                "Japanese": "\u30d0\u30ec\u30c3\u30c8\u30d1\u30f3\u30c1",
+                "Korean": "\ubd88\ub9bf\ud380\uce58",
+                "Spanish": "Pu\u00f1o Bala"
+            },
+            "combat": {
+                "energy": 7,
+                "power": 6
+            }
+        },
+        "COUNTER_FAST": {
+            "id": "COUNTER_FAST",
+            "power": 12,
+            "energy": 8,
+            "durationMs": 900,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Counter",
+                "German": "Konter",
+                "French": "Riposte",
+                "Italian": "Contrattacco",
+                "Japanese": "\u30ab\u30a6\u30f3\u30bf\u30fc",
+                "Korean": "\uce74\uc6b4\ud130",
+                "Spanish": "Contraataque"
+            },
+            "combat": {
+                "energy": 7,
+                "power": 8
+            }
+        }
+    },
+    "cinematicMoves": {
+        "HEAVY_SLAM": {
+            "id": "HEAVY_SLAM",
+            "power": 70,
+            "energy": -50,
+            "durationMs": 2100,
+            "type": {
+                "type": "POKEMON_TYPE_STEEL",
+                "names": {
+                    "English": "Steel",
+                    "German": "Stahl",
+                    "French": "Acier",
+                    "Italian": "Acciaio",
+                    "Japanese": "\u306f\u304c\u306d",
+                    "Korean": "\uac15\ucca0",
+                    "Spanish": "Acero"
+                }
+            },
+            "names": {
+                "English": "Heavy Slam",
+                "German": "Rammboss",
+                "French": "Tacle Lourd",
+                "Italian": "Pesobomba",
+                "Japanese": "\u30d8\u30d3\u30fc\u30dc\u30f3\u30d0\u30fc",
+                "Korean": "\ud5e4\ube44\ubd04\ubc84",
+                "Spanish": "Cuerpo Pesado"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 70
+            }
+        },
+        "DYNAMIC_PUNCH": {
+            "id": "DYNAMIC_PUNCH",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 2700,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Dynamic Punch",
+                "German": "Wuchtschlag",
+                "French": "Dynamo-Poing",
+                "Italian": "Dinamipugno",
+                "Japanese": "\u3070\u304f\u308c\u3064\u30d1\u30f3\u30c1",
+                "Korean": "\ud3ed\ubc1c\ud380\uce58",
+                "Spanish": "Pu\u00f1o Din\u00e1mico"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 90
+            }
+        },
+        "CLOSE_COMBAT": {
+            "id": "CLOSE_COMBAT",
+            "power": 100,
+            "energy": -100,
+            "durationMs": 2300,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Close Combat",
+                "German": "Nahkampf",
+                "French": "Close Combat",
+                "Italian": "Zuffa",
+                "Japanese": "\u30a4\u30f3\u30d5\u30a1\u30a4\u30c8",
+                "Korean": "\uc778\ud30c\uc774\ud2b8",
+                "Spanish": "A Bocajarro"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 100
+            }
+        },
+        "ROCK_SLIDE": {
+            "id": "ROCK_SLIDE",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 2700,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Rock Slide",
+                "German": "Steinhagel",
+                "French": "\u00c9boulement",
+                "Italian": "Frana",
+                "Japanese": "\u3044\u308f\u306a\u3060\u308c",
+                "Korean": "\uc2a4\ud1a4\uc0e4\uc6cc",
+                "Spanish": "Avalancha"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 80
+            }
+        },
+        "CROSS_CHOP": {
+            "id": "CROSS_CHOP",
+            "power": 50,
+            "energy": -50,
+            "durationMs": 1500,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Cross Chop",
+                "German": "Kreuzhieb",
+                "French": "Coup Croix",
+                "Italian": "Incrocolpo",
+                "Japanese": "\u30af\u30ed\u30b9\u30c1\u30e7\u30c3\u30d7",
+                "Korean": "\ud06c\ub85c\uc2a4\ucd19",
+                "Spanish": "Tajo Cruzado"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 50
+            }
+        }
+    },
+    "eliteQuickMoves": {
+        "KARATE_CHOP_FAST": {
+            "id": "KARATE_CHOP_FAST",
+            "power": 8,
+            "energy": 10,
+            "durationMs": 800,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Karate Chop",
+                "German": "Karateschlag",
+                "French": "Poing Karat\u00e9",
+                "Italian": "Colpokarate",
+                "Japanese": "\u304b\u3089\u3066\u30c1\u30e7\u30c3\u30d7",
+                "Korean": "\ud0dc\uad8c\ub2f9\uc218",
+                "Spanish": "Golpe K\u00e1rate"
+            },
+            "combat": {
+                "energy": 7,
+                "power": 5
+            }
+        }
+    },
+    "eliteCinematicMoves": {
+        "STONE_EDGE": {
+            "id": "STONE_EDGE",
+            "power": 100,
+            "energy": -100,
+            "durationMs": 2300,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Stone Edge",
+                "German": "Steinkante",
+                "French": "Lame de Roc",
+                "Italian": "Pietrataglio",
+                "Japanese": "\u30b9\u30c8\u30fc\u30f3\u30a8\u30c3\u30b8",
+                "Korean": "\uc2a4\ud1a4\uc5d0\uc9c0",
+                "Spanish": "Roca Afilada"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 100
+            }
+        },
+        "SUBMISSION": {
+            "id": "SUBMISSION",
+            "power": 60,
+            "energy": -50,
+            "durationMs": 2200,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Submission",
+                "German": "\u00dcberroller",
+                "French": "Sacrifice",
+                "Italian": "Sottomissione",
+                "Japanese": "\u3058\u3054\u304f\u3050\u308b\u307e",
+                "Korean": "\uc9c0\uc625\uc758\ubc14\ud034",
+                "Spanish": "Sumisi\u00f3n"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 60
+            }
+        }
+    },
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_068_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_068_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

@@ -1,1 +1,201 @@
-{"id":"MUDKIP","formId":"MUDKIP","dexNr":258,"generation":3,"names":{"English":"Mudkip","German":"Hydropi","French":"Gobou","Italian":"Mudkip","Japanese":"\u30df\u30ba\u30b4\u30ed\u30a6","Korean":"\ubb3c\uc9f1\uc774","Spanish":"Mudkip"},"stats":{"stamina":137,"attack":126,"defense":93},"primaryType":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"secondaryType":null,"quickMoves":{"TACKLE_FAST":{"id":"TACKLE_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Tackle","German":"Tackle","French":"Charge","Italian":"Azione","Japanese":"\u305f\u3044\u3042\u305f\u308a","Korean":"\ubab8\ud1b5\ubc15\uce58\uae30","Spanish":"Placaje"},"combat":{"energy":2,"power":3}},"WATER_GUN_FAST":{"id":"WATER_GUN_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Water Gun","German":"Aquaknarre","French":"Pistolet \u00e0 O","Italian":"Pistolacqua","Japanese":"\u307f\u305a\u3067\u3063\u307d\u3046","Korean":"\ubb3c\ub300\ud3ec","Spanish":"Pistola Agua"},"combat":{"energy":3,"power":3}}},"cinematicMoves":{"DIG":{"id":"DIG","power":100,"energy":-50,"durationMs":4700,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Dig","German":"Schaufler","French":"Tunnel","Italian":"Fossa","Japanese":"\u3042\u306a\u3092\u307b\u308b","Korean":"\uad6c\uba4d\ud30c\uae30","Spanish":"Excavar"},"combat":{"energy":-80,"power":100}},"SLUDGE":{"id":"SLUDGE","power":50,"energy":-33,"durationMs":2100,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Sludge","German":"Schlammbad","French":"D\u00e9tritus","Italian":"Fango","Japanese":"\u30d8\u30c9\u30ed\u3053\u3046\u3052\u304d","Korean":"\uc624\ubb3c\uacf5\uaca9","Spanish":"Residuos"},"combat":{"energy":-40,"power":50}},"STOMP":{"id":"STOMP","power":55,"energy":-50,"durationMs":1700,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Stomp","German":"Stampfer","French":"\u00c9crasement","Italian":"Pestone","Japanese":"\u3075\u307f\u3064\u3051","Korean":"\uc9d3\ubc1f\uae30","Spanish":"Pisot\u00f3n"},"combat":{"energy":-40,"power":55}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_258_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_258_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "MUDKIP",
+    "formId": "MUDKIP",
+    "dexNr": 258,
+    "generation": 3,
+    "names": {
+        "English": "Mudkip",
+        "German": "Hydropi",
+        "French": "Gobou",
+        "Italian": "Mudkip",
+        "Japanese": "\u30df\u30ba\u30b4\u30ed\u30a6",
+        "Korean": "\ubb3c\uc9f1\uc774",
+        "Spanish": "Mudkip"
+    },
+    "stats": {
+        "stamina": 137,
+        "attack": 126,
+        "defense": 93
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_WATER",
+        "names": {
+            "English": "Water",
+            "German": "Wasser",
+            "French": "Eau",
+            "Italian": "Acqua",
+            "Japanese": "\u307f\u305a",
+            "Korean": "\ubb3c",
+            "Spanish": "Agua"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "TACKLE_FAST": {
+            "id": "TACKLE_FAST",
+            "power": 5,
+            "energy": 5,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Tackle",
+                "German": "Tackle",
+                "French": "Charge",
+                "Italian": "Azione",
+                "Japanese": "\u305f\u3044\u3042\u305f\u308a",
+                "Korean": "\ubab8\ud1b5\ubc15\uce58\uae30",
+                "Spanish": "Placaje"
+            },
+            "combat": {
+                "energy": 2,
+                "power": 3
+            }
+        },
+        "WATER_GUN_FAST": {
+            "id": "WATER_GUN_FAST",
+            "power": 5,
+            "energy": 5,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Water Gun",
+                "German": "Aquaknarre",
+                "French": "Pistolet \u00e0 O",
+                "Italian": "Pistolacqua",
+                "Japanese": "\u307f\u305a\u3067\u3063\u307d\u3046",
+                "Korean": "\ubb3c\ub300\ud3ec",
+                "Spanish": "Pistola Agua"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 3
+            }
+        }
+    },
+    "cinematicMoves": {
+        "DIG": {
+            "id": "DIG",
+            "power": 100,
+            "energy": -50,
+            "durationMs": 4700,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Dig",
+                "German": "Schaufler",
+                "French": "Tunnel",
+                "Italian": "Fossa",
+                "Japanese": "\u3042\u306a\u3092\u307b\u308b",
+                "Korean": "\uad6c\uba4d\ud30c\uae30",
+                "Spanish": "Excavar"
+            },
+            "combat": {
+                "energy": -80,
+                "power": 100
+            }
+        },
+        "SLUDGE": {
+            "id": "SLUDGE",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 2100,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Sludge",
+                "German": "Schlammbad",
+                "French": "D\u00e9tritus",
+                "Italian": "Fango",
+                "Japanese": "\u30d8\u30c9\u30ed\u3053\u3046\u3052\u304d",
+                "Korean": "\uc624\ubb3c\uacf5\uaca9",
+                "Spanish": "Residuos"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 50
+            }
+        },
+        "STOMP": {
+            "id": "STOMP",
+            "power": 55,
+            "energy": -50,
+            "durationMs": 1700,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Stomp",
+                "German": "Stampfer",
+                "French": "\u00c9crasement",
+                "Italian": "Pestone",
+                "Japanese": "\u3075\u307f\u3064\u3051",
+                "Korean": "\uc9d3\ubc1f\uae30",
+                "Spanish": "Pisot\u00f3n"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 55
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_258_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_258_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

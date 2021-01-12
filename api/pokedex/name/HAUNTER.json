@@ -1,1 +1,275 @@
-{"id":"HAUNTER","formId":"HAUNTER","dexNr":93,"generation":1,"names":{"English":"Haunter","German":"Alpollo","French":"Spectrum","Italian":"Haunter","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc6b0\uc2a4\ud2b8","Spanish":"Haunter"},"stats":{"stamina":128,"attack":223,"defense":107},"primaryType":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"secondaryType":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"quickMoves":{"SHADOW_CLAW_FAST":{"id":"SHADOW_CLAW_FAST","power":9,"energy":6,"durationMs":700,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Shadow Claw","German":"Dunkelklaue","French":"Griffe Ombre","Italian":"Ombrartigli","Japanese":"\u30b7\u30e3\u30c9\u30fc\u30af\u30ed\u30fc","Korean":"\uc100\ub3c4\ud06c\ub8e8","Spanish":"Garra Umbr\u00eda"},"combat":{"energy":8,"power":6}},"ASTONISH_FAST":{"id":"ASTONISH_FAST","power":8,"energy":14,"durationMs":1100,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Astonish","German":"Erstauner","French":"\u00c9tonnement","Italian":"Sgomento","Japanese":"\u304a\u3069\u308d\u304b\u3059","Korean":"\ub180\ub798\ud0a4\uae30","Spanish":"Impresionar"},"combat":{"energy":9,"power":5}}},"cinematicMoves":{"SHADOW_PUNCH":{"id":"SHADOW_PUNCH","power":40,"energy":-33,"durationMs":1700,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Shadow Punch","German":"Finsterfaust","French":"Poing Ombre","Italian":"Pugnodombra","Japanese":"\u30b7\u30e3\u30c9\u30fc\u30d1\u30f3\u30c1","Korean":"\uc100\ub3c4\ud380\uce58","Spanish":"Pu\u00f1o Sombra"},"combat":{"energy":-35,"power":40}},"DARK_PULSE":{"id":"DARK_PULSE","power":80,"energy":-50,"durationMs":3000,"type":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"names":{"English":"Dark Pulse","German":"Finsteraura","French":"Vibrobscur","Italian":"Neropulsar","Japanese":"\u3042\u304f\u306e\u306f\u3069\u3046","Korean":"\uc545\uc758\ud30c\ub3d9","Spanish":"Pulso Umbr\u00edo"},"combat":{"energy":-50,"power":80}},"SLUDGE_BOMB":{"id":"SLUDGE_BOMB","power":80,"energy":-50,"durationMs":2300,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Sludge Bomb","German":"Matschbombe","French":"Bombe Beurk","Italian":"Fangobomba","Japanese":"\u30d8\u30c9\u30ed\u3070\u304f\u3060\u3093","Korean":"\uc624\ubb3c\ud3ed\ud0c4","Spanish":"Bomba Lodo"},"combat":{"energy":-50,"power":80}},"SHADOW_BALL":{"id":"SHADOW_BALL","power":100,"energy":-50,"durationMs":3000,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Shadow Ball","German":"Spukball","French":"Ball\u2019Ombre","Italian":"Palla Ombra","Japanese":"\u30b7\u30e3\u30c9\u30fc\u30dc\u30fc\u30eb","Korean":"\uc100\ub3c4\ubcfc","Spanish":"Bola Sombra"},"combat":{"energy":-55,"power":100}}},"eliteQuickMoves":{"LICK_FAST":{"id":"LICK_FAST","power":5,"energy":6,"durationMs":500,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Lick","German":"Schlecker","French":"L\u00e9chouille","Italian":"Leccata","Japanese":"\u3057\u305f\u3067\u306a\u3081\u308b","Korean":"\ud565\uae30","Spanish":"Leng\u00fcetazo"},"combat":{"energy":3,"power":3}}},"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_093_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_093_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "HAUNTER",
+    "formId": "HAUNTER",
+    "dexNr": 93,
+    "generation": 1,
+    "names": {
+        "English": "Haunter",
+        "German": "Alpollo",
+        "French": "Spectrum",
+        "Italian": "Haunter",
+        "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+        "Korean": "\uace0\uc6b0\uc2a4\ud2b8",
+        "Spanish": "Haunter"
+    },
+    "stats": {
+        "stamina": 128,
+        "attack": 223,
+        "defense": 107
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_GHOST",
+        "names": {
+            "English": "Ghost",
+            "German": "Geist",
+            "French": "Spectre",
+            "Italian": "Spettro",
+            "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+            "Korean": "\uace0\uc2a4\ud2b8",
+            "Spanish": "Fantasma"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_POISON",
+        "names": {
+            "English": "Poison",
+            "German": "Gift",
+            "French": "Poison",
+            "Italian": "Veleno",
+            "Japanese": "\u3069\u304f",
+            "Korean": "\ub3c5",
+            "Spanish": "Veneno"
+        }
+    },
+    "quickMoves": {
+        "SHADOW_CLAW_FAST": {
+            "id": "SHADOW_CLAW_FAST",
+            "power": 9,
+            "energy": 6,
+            "durationMs": 700,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Shadow Claw",
+                "German": "Dunkelklaue",
+                "French": "Griffe Ombre",
+                "Italian": "Ombrartigli",
+                "Japanese": "\u30b7\u30e3\u30c9\u30fc\u30af\u30ed\u30fc",
+                "Korean": "\uc100\ub3c4\ud06c\ub8e8",
+                "Spanish": "Garra Umbr\u00eda"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 6
+            }
+        },
+        "ASTONISH_FAST": {
+            "id": "ASTONISH_FAST",
+            "power": 8,
+            "energy": 14,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Astonish",
+                "German": "Erstauner",
+                "French": "\u00c9tonnement",
+                "Italian": "Sgomento",
+                "Japanese": "\u304a\u3069\u308d\u304b\u3059",
+                "Korean": "\ub180\ub798\ud0a4\uae30",
+                "Spanish": "Impresionar"
+            },
+            "combat": {
+                "energy": 9,
+                "power": 5
+            }
+        }
+    },
+    "cinematicMoves": {
+        "SHADOW_PUNCH": {
+            "id": "SHADOW_PUNCH",
+            "power": 40,
+            "energy": -33,
+            "durationMs": 1700,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Shadow Punch",
+                "German": "Finsterfaust",
+                "French": "Poing Ombre",
+                "Italian": "Pugnodombra",
+                "Japanese": "\u30b7\u30e3\u30c9\u30fc\u30d1\u30f3\u30c1",
+                "Korean": "\uc100\ub3c4\ud380\uce58",
+                "Spanish": "Pu\u00f1o Sombra"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 40
+            }
+        },
+        "DARK_PULSE": {
+            "id": "DARK_PULSE",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 3000,
+            "type": {
+                "type": "POKEMON_TYPE_DARK",
+                "names": {
+                    "English": "Dark",
+                    "German": "Unlicht",
+                    "French": "T\u00e9n\u00e8bres",
+                    "Italian": "Buio",
+                    "Japanese": "\u3042\u304f",
+                    "Korean": "\uc545",
+                    "Spanish": "Siniestro"
+                }
+            },
+            "names": {
+                "English": "Dark Pulse",
+                "German": "Finsteraura",
+                "French": "Vibrobscur",
+                "Italian": "Neropulsar",
+                "Japanese": "\u3042\u304f\u306e\u306f\u3069\u3046",
+                "Korean": "\uc545\uc758\ud30c\ub3d9",
+                "Spanish": "Pulso Umbr\u00edo"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 80
+            }
+        },
+        "SLUDGE_BOMB": {
+            "id": "SLUDGE_BOMB",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 2300,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Sludge Bomb",
+                "German": "Matschbombe",
+                "French": "Bombe Beurk",
+                "Italian": "Fangobomba",
+                "Japanese": "\u30d8\u30c9\u30ed\u3070\u304f\u3060\u3093",
+                "Korean": "\uc624\ubb3c\ud3ed\ud0c4",
+                "Spanish": "Bomba Lodo"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 80
+            }
+        },
+        "SHADOW_BALL": {
+            "id": "SHADOW_BALL",
+            "power": 100,
+            "energy": -50,
+            "durationMs": 3000,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Shadow Ball",
+                "German": "Spukball",
+                "French": "Ball\u2019Ombre",
+                "Italian": "Palla Ombra",
+                "Japanese": "\u30b7\u30e3\u30c9\u30fc\u30dc\u30fc\u30eb",
+                "Korean": "\uc100\ub3c4\ubcfc",
+                "Spanish": "Bola Sombra"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 100
+            }
+        }
+    },
+    "eliteQuickMoves": {
+        "LICK_FAST": {
+            "id": "LICK_FAST",
+            "power": 5,
+            "energy": 6,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Lick",
+                "German": "Schlecker",
+                "French": "L\u00e9chouille",
+                "Italian": "Leccata",
+                "Japanese": "\u3057\u305f\u3067\u306a\u3081\u308b",
+                "Korean": "\ud565\uae30",
+                "Spanish": "Leng\u00fcetazo"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 3
+            }
+        }
+    },
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_093_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_093_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

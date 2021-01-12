@@ -1,1 +1,201 @@
-{"id":"SPINDA","formId":"SPINDA","dexNr":327,"generation":3,"names":{"English":"Spinda","German":"Pandir","French":"Spinda","Italian":"Spinda","Japanese":"\u30d1\u30c3\u30c1\u30fc\u30eb","Korean":"\uc5bc\ub8e8\uae30","Spanish":"Spinda"},"stats":{"stamina":155,"attack":116,"defense":116},"primaryType":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"secondaryType":null,"quickMoves":{"SUCKER_PUNCH_FAST":{"id":"SUCKER_PUNCH_FAST","power":7,"energy":8,"durationMs":700,"type":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"names":{"English":"Sucker Punch","German":"Tiefschlag","French":"Coup Bas","Italian":"Sbigoattacco","Japanese":"\u3075\u3044\u3046\u3061","Korean":"\uae30\uc2b5","Spanish":"Golpe Bajo"},"combat":{"energy":7,"power":5}},"PSYCHO_CUT_FAST":{"id":"PSYCHO_CUT_FAST","power":5,"energy":8,"durationMs":600,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Psycho Cut","German":"Psychoklinge","French":"Coupe Psycho","Italian":"Psicotaglio","Japanese":"\u30b5\u30a4\u30b3\u30ab\u30c3\u30bf\u30fc","Korean":"\uc0ac\uc774\ucf54\ucee4\ud130","Spanish":"Psicocorte"},"combat":{"energy":9,"power":3}}},"cinematicMoves":{"DIG":{"id":"DIG","power":100,"energy":-50,"durationMs":4700,"type":{"type":"POKEMON_TYPE_GROUND","names":{"English":"Ground","German":"Boden","French":"Sol","Italian":"Terra","Japanese":"\u3058\u3081\u3093","Korean":"\ub545","Spanish":"Tierra"}},"names":{"English":"Dig","German":"Schaufler","French":"Tunnel","Italian":"Fossa","Japanese":"\u3042\u306a\u3092\u307b\u308b","Korean":"\uad6c\uba4d\ud30c\uae30","Spanish":"Excavar"},"combat":{"energy":-80,"power":100}},"ROCK_TOMB":{"id":"ROCK_TOMB","power":70,"energy":-50,"durationMs":3200,"type":{"type":"POKEMON_TYPE_ROCK","names":{"English":"Rock","German":"Gestein","French":"Roche","Italian":"Roccia","Japanese":"\u3044\u308f","Korean":"\ubc14\uc704","Spanish":"Roca"}},"names":{"English":"Rock Tomb","German":"Felsgrab","French":"Tomberoche","Italian":"Rocciotomba","Japanese":"\u304c\u3093\u305b\u304d\u3075\u3046\u3058","Korean":"\uc554\uc11d\ubd09\uc778","Spanish":"Tumba Rocas"},"combat":{"energy":-60,"power":70}},"ICY_WIND":{"id":"ICY_WIND","power":60,"energy":-33,"durationMs":3300,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Icy Wind","German":"Eissturm","French":"Vent Glace","Italian":"Ventogelato","Japanese":"\u3053\u3054\u3048\u308b\u304b\u305c","Korean":"\uc5bc\ub2e4\ubc14\ub78c","Spanish":"Viento Hielo"},"combat":{"energy":-45,"power":60}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_327_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_327_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "SPINDA",
+    "formId": "SPINDA",
+    "dexNr": 327,
+    "generation": 3,
+    "names": {
+        "English": "Spinda",
+        "German": "Pandir",
+        "French": "Spinda",
+        "Italian": "Spinda",
+        "Japanese": "\u30d1\u30c3\u30c1\u30fc\u30eb",
+        "Korean": "\uc5bc\ub8e8\uae30",
+        "Spanish": "Spinda"
+    },
+    "stats": {
+        "stamina": 155,
+        "attack": 116,
+        "defense": 116
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_NORMAL",
+        "names": {
+            "English": "Normal",
+            "German": "Normal",
+            "French": "Normal",
+            "Italian": "Normale",
+            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+            "Korean": "\ub178\ub9d0",
+            "Spanish": "Normal"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "SUCKER_PUNCH_FAST": {
+            "id": "SUCKER_PUNCH_FAST",
+            "power": 7,
+            "energy": 8,
+            "durationMs": 700,
+            "type": {
+                "type": "POKEMON_TYPE_DARK",
+                "names": {
+                    "English": "Dark",
+                    "German": "Unlicht",
+                    "French": "T\u00e9n\u00e8bres",
+                    "Italian": "Buio",
+                    "Japanese": "\u3042\u304f",
+                    "Korean": "\uc545",
+                    "Spanish": "Siniestro"
+                }
+            },
+            "names": {
+                "English": "Sucker Punch",
+                "German": "Tiefschlag",
+                "French": "Coup Bas",
+                "Italian": "Sbigoattacco",
+                "Japanese": "\u3075\u3044\u3046\u3061",
+                "Korean": "\uae30\uc2b5",
+                "Spanish": "Golpe Bajo"
+            },
+            "combat": {
+                "energy": 7,
+                "power": 5
+            }
+        },
+        "PSYCHO_CUT_FAST": {
+            "id": "PSYCHO_CUT_FAST",
+            "power": 5,
+            "energy": 8,
+            "durationMs": 600,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Psycho Cut",
+                "German": "Psychoklinge",
+                "French": "Coupe Psycho",
+                "Italian": "Psicotaglio",
+                "Japanese": "\u30b5\u30a4\u30b3\u30ab\u30c3\u30bf\u30fc",
+                "Korean": "\uc0ac\uc774\ucf54\ucee4\ud130",
+                "Spanish": "Psicocorte"
+            },
+            "combat": {
+                "energy": 9,
+                "power": 3
+            }
+        }
+    },
+    "cinematicMoves": {
+        "DIG": {
+            "id": "DIG",
+            "power": 100,
+            "energy": -50,
+            "durationMs": 4700,
+            "type": {
+                "type": "POKEMON_TYPE_GROUND",
+                "names": {
+                    "English": "Ground",
+                    "German": "Boden",
+                    "French": "Sol",
+                    "Italian": "Terra",
+                    "Japanese": "\u3058\u3081\u3093",
+                    "Korean": "\ub545",
+                    "Spanish": "Tierra"
+                }
+            },
+            "names": {
+                "English": "Dig",
+                "German": "Schaufler",
+                "French": "Tunnel",
+                "Italian": "Fossa",
+                "Japanese": "\u3042\u306a\u3092\u307b\u308b",
+                "Korean": "\uad6c\uba4d\ud30c\uae30",
+                "Spanish": "Excavar"
+            },
+            "combat": {
+                "energy": -80,
+                "power": 100
+            }
+        },
+        "ROCK_TOMB": {
+            "id": "ROCK_TOMB",
+            "power": 70,
+            "energy": -50,
+            "durationMs": 3200,
+            "type": {
+                "type": "POKEMON_TYPE_ROCK",
+                "names": {
+                    "English": "Rock",
+                    "German": "Gestein",
+                    "French": "Roche",
+                    "Italian": "Roccia",
+                    "Japanese": "\u3044\u308f",
+                    "Korean": "\ubc14\uc704",
+                    "Spanish": "Roca"
+                }
+            },
+            "names": {
+                "English": "Rock Tomb",
+                "German": "Felsgrab",
+                "French": "Tomberoche",
+                "Italian": "Rocciotomba",
+                "Japanese": "\u304c\u3093\u305b\u304d\u3075\u3046\u3058",
+                "Korean": "\uc554\uc11d\ubd09\uc778",
+                "Spanish": "Tumba Rocas"
+            },
+            "combat": {
+                "energy": -60,
+                "power": 70
+            }
+        },
+        "ICY_WIND": {
+            "id": "ICY_WIND",
+            "power": 60,
+            "energy": -33,
+            "durationMs": 3300,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Icy Wind",
+                "German": "Eissturm",
+                "French": "Vent Glace",
+                "Italian": "Ventogelato",
+                "Japanese": "\u3053\u3054\u3048\u308b\u304b\u305c",
+                "Korean": "\uc5bc\ub2e4\ubc14\ub78c",
+                "Spanish": "Viento Hielo"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 60
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_327_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_327_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

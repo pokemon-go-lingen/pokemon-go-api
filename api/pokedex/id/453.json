@@ -1,1 +1,212 @@
-{"id":"CROAGUNK","formId":"CROAGUNK","dexNr":453,"generation":4,"names":{"English":"Croagunk","German":"Glibunkel","French":"Cradopaud","Italian":"Croagunk","Japanese":"\u30b0\u30ec\u30c3\u30b0\u30eb","Korean":"\uc090\ub531\uad6c\ub9ac","Spanish":"Croagunk"},"stats":{"stamina":134,"attack":116,"defense":76},"primaryType":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"secondaryType":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"quickMoves":{"POISON_STING_FAST":{"id":"POISON_STING_FAST","power":5,"energy":7,"durationMs":600,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Poison Sting","German":"Giftstachel","French":"Dard-Venin","Italian":"Velenospina","Japanese":"\u3069\u304f\u3070\u308a","Korean":"\ub3c5\uce68","Spanish":"Picotazo Veneno"},"combat":{"energy":8,"power":3}},"POISON_JAB_FAST":{"id":"POISON_JAB_FAST","power":10,"energy":7,"durationMs":800,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Poison Jab","German":"Gifthieb","French":"Direct Toxik","Italian":"Velenpuntura","Japanese":"\u3069\u304f\u3065\u304d","Korean":"\ub3c5\ucc0c\ub974\uae30","Spanish":"Puya Nociva"},"combat":{"energy":7,"power":6}}},"cinematicMoves":{"BRICK_BREAK":{"id":"BRICK_BREAK","power":40,"energy":-33,"durationMs":1600,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Brick Break","German":"Durchbruch","French":"Casse-Brique","Italian":"Breccia","Japanese":"\u304b\u308f\u3089\u308f\u308a","Korean":"\uae68\ud2b8\ub9ac\ub2e4","Spanish":"Demolici\u00f3n"},"combat":{"energy":-35,"power":40}},"LOW_SWEEP":{"id":"LOW_SWEEP","power":40,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_FIGHTING","names":{"English":"Fighting","German":"Kampf","French":"Combat","Italian":"Lotta","Japanese":"\u304b\u304f\u3068\u3046","Korean":"\uaca9\ud22c","Spanish":"Lucha"}},"names":{"English":"Low Sweep","German":"Fu\u00dftritt","French":"Balayette","Italian":"Calciobasso","Japanese":"\u30ed\u30fc\u30ad\u30c3\u30af","Korean":"\ub85c\ud0a5","Spanish":"Puntapi\u00e9"},"combat":{"energy":-40,"power":40}},"SLUDGE_BOMB":{"id":"SLUDGE_BOMB","power":80,"energy":-50,"durationMs":2300,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Sludge Bomb","German":"Matschbombe","French":"Bombe Beurk","Italian":"Fangobomba","Japanese":"\u30d8\u30c9\u30ed\u3070\u304f\u3060\u3093","Korean":"\uc624\ubb3c\ud3ed\ud0c4","Spanish":"Bomba Lodo"},"combat":{"energy":-50,"power":80}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_453_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_453_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "CROAGUNK",
+    "formId": "CROAGUNK",
+    "dexNr": 453,
+    "generation": 4,
+    "names": {
+        "English": "Croagunk",
+        "German": "Glibunkel",
+        "French": "Cradopaud",
+        "Italian": "Croagunk",
+        "Japanese": "\u30b0\u30ec\u30c3\u30b0\u30eb",
+        "Korean": "\uc090\ub531\uad6c\ub9ac",
+        "Spanish": "Croagunk"
+    },
+    "stats": {
+        "stamina": 134,
+        "attack": 116,
+        "defense": 76
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_POISON",
+        "names": {
+            "English": "Poison",
+            "German": "Gift",
+            "French": "Poison",
+            "Italian": "Veleno",
+            "Japanese": "\u3069\u304f",
+            "Korean": "\ub3c5",
+            "Spanish": "Veneno"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_FIGHTING",
+        "names": {
+            "English": "Fighting",
+            "German": "Kampf",
+            "French": "Combat",
+            "Italian": "Lotta",
+            "Japanese": "\u304b\u304f\u3068\u3046",
+            "Korean": "\uaca9\ud22c",
+            "Spanish": "Lucha"
+        }
+    },
+    "quickMoves": {
+        "POISON_STING_FAST": {
+            "id": "POISON_STING_FAST",
+            "power": 5,
+            "energy": 7,
+            "durationMs": 600,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Poison Sting",
+                "German": "Giftstachel",
+                "French": "Dard-Venin",
+                "Italian": "Velenospina",
+                "Japanese": "\u3069\u304f\u3070\u308a",
+                "Korean": "\ub3c5\uce68",
+                "Spanish": "Picotazo Veneno"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 3
+            }
+        },
+        "POISON_JAB_FAST": {
+            "id": "POISON_JAB_FAST",
+            "power": 10,
+            "energy": 7,
+            "durationMs": 800,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Poison Jab",
+                "German": "Gifthieb",
+                "French": "Direct Toxik",
+                "Italian": "Velenpuntura",
+                "Japanese": "\u3069\u304f\u3065\u304d",
+                "Korean": "\ub3c5\ucc0c\ub974\uae30",
+                "Spanish": "Puya Nociva"
+            },
+            "combat": {
+                "energy": 7,
+                "power": 6
+            }
+        }
+    },
+    "cinematicMoves": {
+        "BRICK_BREAK": {
+            "id": "BRICK_BREAK",
+            "power": 40,
+            "energy": -33,
+            "durationMs": 1600,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Brick Break",
+                "German": "Durchbruch",
+                "French": "Casse-Brique",
+                "Italian": "Breccia",
+                "Japanese": "\u304b\u308f\u3089\u308f\u308a",
+                "Korean": "\uae68\ud2b8\ub9ac\ub2e4",
+                "Spanish": "Demolici\u00f3n"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 40
+            }
+        },
+        "LOW_SWEEP": {
+            "id": "LOW_SWEEP",
+            "power": 40,
+            "energy": -33,
+            "durationMs": 1900,
+            "type": {
+                "type": "POKEMON_TYPE_FIGHTING",
+                "names": {
+                    "English": "Fighting",
+                    "German": "Kampf",
+                    "French": "Combat",
+                    "Italian": "Lotta",
+                    "Japanese": "\u304b\u304f\u3068\u3046",
+                    "Korean": "\uaca9\ud22c",
+                    "Spanish": "Lucha"
+                }
+            },
+            "names": {
+                "English": "Low Sweep",
+                "German": "Fu\u00dftritt",
+                "French": "Balayette",
+                "Italian": "Calciobasso",
+                "Japanese": "\u30ed\u30fc\u30ad\u30c3\u30af",
+                "Korean": "\ub85c\ud0a5",
+                "Spanish": "Puntapi\u00e9"
+            },
+            "combat": {
+                "energy": -40,
+                "power": 40
+            }
+        },
+        "SLUDGE_BOMB": {
+            "id": "SLUDGE_BOMB",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 2300,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Sludge Bomb",
+                "German": "Matschbombe",
+                "French": "Bombe Beurk",
+                "Italian": "Fangobomba",
+                "Japanese": "\u30d8\u30c9\u30ed\u3070\u304f\u3060\u3093",
+                "Korean": "\uc624\ubb3c\ud3ed\ud0c4",
+                "Spanish": "Bomba Lodo"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 80
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_453_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_453_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

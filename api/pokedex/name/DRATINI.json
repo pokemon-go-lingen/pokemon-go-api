@@ -1,1 +1,201 @@
-{"id":"DRATINI","formId":"DRATINI","dexNr":147,"generation":1,"names":{"English":"Dratini","German":"Dratini","French":"Minidraco","Italian":"Dratini","Japanese":"\u30df\u30cb\u30ea\u30e5\u30a6","Korean":"\ubbf8\ub1fd","Spanish":"Dratini"},"stats":{"stamina":121,"attack":119,"defense":91},"primaryType":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"secondaryType":null,"quickMoves":{"DRAGON_BREATH_FAST":{"id":"DRAGON_BREATH_FAST","power":6,"energy":4,"durationMs":500,"type":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"names":{"English":"Dragon Breath","German":"Feuerodem","French":"Draco-Souffle","Italian":"Dragospiro","Japanese":"\u308a\u3085\u3046\u306e\u3044\u3076\u304d","Korean":"\uc6a9\uc758\uc228\uacb0","Spanish":"Dragoaliento"},"combat":{"energy":3,"power":4}},"IRON_TAIL_FAST":{"id":"IRON_TAIL_FAST","power":15,"energy":7,"durationMs":1100,"type":{"type":"POKEMON_TYPE_STEEL","names":{"English":"Steel","German":"Stahl","French":"Acier","Italian":"Acciaio","Japanese":"\u306f\u304c\u306d","Korean":"\uac15\ucca0","Spanish":"Acero"}},"names":{"English":"Iron Tail","German":"Eisenschweif","French":"Queue de Fer","Italian":"Codacciaio","Japanese":"\u30a2\u30a4\u30a2\u30f3\u30c6\u30fc\u30eb","Korean":"\uc544\uc774\uc5b8\ud14c\uc77c","Spanish":"Cola F\u00e9rrea"},"combat":{"energy":6,"power":9}}},"cinematicMoves":{"WRAP":{"id":"WRAP","power":60,"energy":-33,"durationMs":2900,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Wrap","German":"Wickel","French":"Ligotage","Italian":"Avvolgibotta","Japanese":"\u307e\u304d\u3064\u304f","Korean":"\uae40\ubc25\ub9d0\uc774","Spanish":"Constricci\u00f3n"},"combat":{"energy":-45,"power":60}},"TWISTER":{"id":"TWISTER","power":45,"energy":-33,"durationMs":2800,"type":{"type":"POKEMON_TYPE_DRAGON","names":{"English":"Dragon","German":"Drache","French":"Dragon","Italian":"Drago","Japanese":"\u30c9\u30e9\u30b4\u30f3","Korean":"\ub4dc\ub798\uace4","Spanish":"Drag\u00f3n"}},"names":{"English":"Twister","German":"Windhose","French":"Ouragan","Italian":"Tornado","Japanese":"\u305f\u3064\u307e\u304d","Korean":"\ud68c\uc624\ub9ac","Spanish":"Cicl\u00f3n"},"combat":{"energy":-45,"power":45}},"AQUA_TAIL":{"id":"AQUA_TAIL","power":50,"energy":-33,"durationMs":1900,"type":{"type":"POKEMON_TYPE_WATER","names":{"English":"Water","German":"Wasser","French":"Eau","Italian":"Acqua","Japanese":"\u307f\u305a","Korean":"\ubb3c","Spanish":"Agua"}},"names":{"English":"Aqua Tail","German":"Nassschweif","French":"Hydro-Queue","Italian":"Idrondata","Japanese":"\u30a2\u30af\u30a2\u30c6\u30fc\u30eb","Korean":"\uc544\ucfe0\uc544\ud14c\uc77c","Spanish":"Acua Cola"},"combat":{"energy":-35,"power":50}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_147_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_147_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "DRATINI",
+    "formId": "DRATINI",
+    "dexNr": 147,
+    "generation": 1,
+    "names": {
+        "English": "Dratini",
+        "German": "Dratini",
+        "French": "Minidraco",
+        "Italian": "Dratini",
+        "Japanese": "\u30df\u30cb\u30ea\u30e5\u30a6",
+        "Korean": "\ubbf8\ub1fd",
+        "Spanish": "Dratini"
+    },
+    "stats": {
+        "stamina": 121,
+        "attack": 119,
+        "defense": 91
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_DRAGON",
+        "names": {
+            "English": "Dragon",
+            "German": "Drache",
+            "French": "Dragon",
+            "Italian": "Drago",
+            "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+            "Korean": "\ub4dc\ub798\uace4",
+            "Spanish": "Drag\u00f3n"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "DRAGON_BREATH_FAST": {
+            "id": "DRAGON_BREATH_FAST",
+            "power": 6,
+            "energy": 4,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_DRAGON",
+                "names": {
+                    "English": "Dragon",
+                    "German": "Drache",
+                    "French": "Dragon",
+                    "Italian": "Drago",
+                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                    "Korean": "\ub4dc\ub798\uace4",
+                    "Spanish": "Drag\u00f3n"
+                }
+            },
+            "names": {
+                "English": "Dragon Breath",
+                "German": "Feuerodem",
+                "French": "Draco-Souffle",
+                "Italian": "Dragospiro",
+                "Japanese": "\u308a\u3085\u3046\u306e\u3044\u3076\u304d",
+                "Korean": "\uc6a9\uc758\uc228\uacb0",
+                "Spanish": "Dragoaliento"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 4
+            }
+        },
+        "IRON_TAIL_FAST": {
+            "id": "IRON_TAIL_FAST",
+            "power": 15,
+            "energy": 7,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_STEEL",
+                "names": {
+                    "English": "Steel",
+                    "German": "Stahl",
+                    "French": "Acier",
+                    "Italian": "Acciaio",
+                    "Japanese": "\u306f\u304c\u306d",
+                    "Korean": "\uac15\ucca0",
+                    "Spanish": "Acero"
+                }
+            },
+            "names": {
+                "English": "Iron Tail",
+                "German": "Eisenschweif",
+                "French": "Queue de Fer",
+                "Italian": "Codacciaio",
+                "Japanese": "\u30a2\u30a4\u30a2\u30f3\u30c6\u30fc\u30eb",
+                "Korean": "\uc544\uc774\uc5b8\ud14c\uc77c",
+                "Spanish": "Cola F\u00e9rrea"
+            },
+            "combat": {
+                "energy": 6,
+                "power": 9
+            }
+        }
+    },
+    "cinematicMoves": {
+        "WRAP": {
+            "id": "WRAP",
+            "power": 60,
+            "energy": -33,
+            "durationMs": 2900,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Wrap",
+                "German": "Wickel",
+                "French": "Ligotage",
+                "Italian": "Avvolgibotta",
+                "Japanese": "\u307e\u304d\u3064\u304f",
+                "Korean": "\uae40\ubc25\ub9d0\uc774",
+                "Spanish": "Constricci\u00f3n"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 60
+            }
+        },
+        "TWISTER": {
+            "id": "TWISTER",
+            "power": 45,
+            "energy": -33,
+            "durationMs": 2800,
+            "type": {
+                "type": "POKEMON_TYPE_DRAGON",
+                "names": {
+                    "English": "Dragon",
+                    "German": "Drache",
+                    "French": "Dragon",
+                    "Italian": "Drago",
+                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                    "Korean": "\ub4dc\ub798\uace4",
+                    "Spanish": "Drag\u00f3n"
+                }
+            },
+            "names": {
+                "English": "Twister",
+                "German": "Windhose",
+                "French": "Ouragan",
+                "Italian": "Tornado",
+                "Japanese": "\u305f\u3064\u307e\u304d",
+                "Korean": "\ud68c\uc624\ub9ac",
+                "Spanish": "Cicl\u00f3n"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 45
+            }
+        },
+        "AQUA_TAIL": {
+            "id": "AQUA_TAIL",
+            "power": 50,
+            "energy": -33,
+            "durationMs": 1900,
+            "type": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "names": {
+                "English": "Aqua Tail",
+                "German": "Nassschweif",
+                "French": "Hydro-Queue",
+                "Italian": "Idrondata",
+                "Japanese": "\u30a2\u30af\u30a2\u30c6\u30fc\u30eb",
+                "Korean": "\uc544\ucfe0\uc544\ud14c\uc77c",
+                "Spanish": "Acua Cola"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 50
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_147_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_147_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

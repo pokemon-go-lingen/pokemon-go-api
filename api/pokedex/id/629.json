@@ -1,1 +1,212 @@
-{"id":"VULLABY","formId":"VULLABY","dexNr":629,"generation":5,"names":{"English":"Vullaby","German":"Skallyk","French":"Vostourno","Italian":"Vullaby","Japanese":"\u30d0\u30eb\u30c1\u30e3\u30a4","Korean":"\ubc8c\ucc28\uc774","Spanish":"Vullaby"},"stats":{"stamina":172,"attack":105,"defense":139},"primaryType":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"secondaryType":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"quickMoves":{"FEINT_ATTACK_FAST":{"id":"FEINT_ATTACK_FAST","power":10,"energy":9,"durationMs":900,"type":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"names":{"English":"Feint Attack","German":"Finte","French":"Feinte","Italian":"Finta","Japanese":"\u3060\u307e\u3057\u3046\u3061","Korean":"\uc18d\uc5ec\ub54c\ub9ac\uae30","Spanish":"Finta"},"combat":{"energy":6,"power":6}},"AIR_SLASH_FAST":{"id":"AIR_SLASH_FAST","power":14,"energy":10,"durationMs":1200,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Air Slash","German":"Luftschnitt","French":"Lame d\u2019Air","Italian":"Eterelama","Japanese":"\u30a8\u30a2\u30b9\u30e9\u30c3\u30b7\u30e5","Korean":"\uc5d0\uc5b4\uc2ac\ub798\uc2dc","Spanish":"Tajo A\u00e9reo"},"combat":{"energy":9,"power":9}}},"cinematicMoves":{"DARK_PULSE":{"id":"DARK_PULSE","power":80,"energy":-50,"durationMs":3000,"type":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"names":{"English":"Dark Pulse","German":"Finsteraura","French":"Vibrobscur","Italian":"Neropulsar","Japanese":"\u3042\u304f\u306e\u306f\u3069\u3046","Korean":"\uc545\uc758\ud30c\ub3d9","Spanish":"Pulso Umbr\u00edo"},"combat":{"energy":-50,"power":80}},"BRAVE_BIRD":{"id":"BRAVE_BIRD","power":130,"energy":-100,"durationMs":2000,"type":{"type":"POKEMON_TYPE_FLYING","names":{"English":"Flying","German":"Flug","French":"Vol","Italian":"Volante","Japanese":"\u3072\u3053\u3046","Korean":"\ube44\ud589","Spanish":"Volador"}},"names":{"English":"Brave Bird","German":"Sturzflug","French":"Rapace","Italian":"Baldeali","Japanese":"\u30d6\u30ec\u30a4\u30d6\u30d0\u30fc\u30c9","Korean":"\ube0c\ub808\uc774\ube0c\ubc84\ub4dc","Spanish":"P\u00e1jaro Osado"},"combat":{"energy":-55,"power":130}},"FOUL_PLAY":{"id":"FOUL_PLAY","power":70,"energy":-50,"durationMs":2000,"type":{"type":"POKEMON_TYPE_DARK","names":{"English":"Dark","German":"Unlicht","French":"T\u00e9n\u00e8bres","Italian":"Buio","Japanese":"\u3042\u304f","Korean":"\uc545","Spanish":"Siniestro"}},"names":{"English":"Foul Play","German":"Schmarotzer","French":"Tricherie","Italian":"Ripicca","Japanese":"\u30a4\u30ab\u30b5\u30de","Korean":"\uc18d\uc784\uc218","Spanish":"Juego Sucio"},"combat":{"energy":-45,"power":70}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_629_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_629_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "VULLABY",
+    "formId": "VULLABY",
+    "dexNr": 629,
+    "generation": 5,
+    "names": {
+        "English": "Vullaby",
+        "German": "Skallyk",
+        "French": "Vostourno",
+        "Italian": "Vullaby",
+        "Japanese": "\u30d0\u30eb\u30c1\u30e3\u30a4",
+        "Korean": "\ubc8c\ucc28\uc774",
+        "Spanish": "Vullaby"
+    },
+    "stats": {
+        "stamina": 172,
+        "attack": 105,
+        "defense": 139
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_DARK",
+        "names": {
+            "English": "Dark",
+            "German": "Unlicht",
+            "French": "T\u00e9n\u00e8bres",
+            "Italian": "Buio",
+            "Japanese": "\u3042\u304f",
+            "Korean": "\uc545",
+            "Spanish": "Siniestro"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_FLYING",
+        "names": {
+            "English": "Flying",
+            "German": "Flug",
+            "French": "Vol",
+            "Italian": "Volante",
+            "Japanese": "\u3072\u3053\u3046",
+            "Korean": "\ube44\ud589",
+            "Spanish": "Volador"
+        }
+    },
+    "quickMoves": {
+        "FEINT_ATTACK_FAST": {
+            "id": "FEINT_ATTACK_FAST",
+            "power": 10,
+            "energy": 9,
+            "durationMs": 900,
+            "type": {
+                "type": "POKEMON_TYPE_DARK",
+                "names": {
+                    "English": "Dark",
+                    "German": "Unlicht",
+                    "French": "T\u00e9n\u00e8bres",
+                    "Italian": "Buio",
+                    "Japanese": "\u3042\u304f",
+                    "Korean": "\uc545",
+                    "Spanish": "Siniestro"
+                }
+            },
+            "names": {
+                "English": "Feint Attack",
+                "German": "Finte",
+                "French": "Feinte",
+                "Italian": "Finta",
+                "Japanese": "\u3060\u307e\u3057\u3046\u3061",
+                "Korean": "\uc18d\uc5ec\ub54c\ub9ac\uae30",
+                "Spanish": "Finta"
+            },
+            "combat": {
+                "energy": 6,
+                "power": 6
+            }
+        },
+        "AIR_SLASH_FAST": {
+            "id": "AIR_SLASH_FAST",
+            "power": 14,
+            "energy": 10,
+            "durationMs": 1200,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Air Slash",
+                "German": "Luftschnitt",
+                "French": "Lame d\u2019Air",
+                "Italian": "Eterelama",
+                "Japanese": "\u30a8\u30a2\u30b9\u30e9\u30c3\u30b7\u30e5",
+                "Korean": "\uc5d0\uc5b4\uc2ac\ub798\uc2dc",
+                "Spanish": "Tajo A\u00e9reo"
+            },
+            "combat": {
+                "energy": 9,
+                "power": 9
+            }
+        }
+    },
+    "cinematicMoves": {
+        "DARK_PULSE": {
+            "id": "DARK_PULSE",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 3000,
+            "type": {
+                "type": "POKEMON_TYPE_DARK",
+                "names": {
+                    "English": "Dark",
+                    "German": "Unlicht",
+                    "French": "T\u00e9n\u00e8bres",
+                    "Italian": "Buio",
+                    "Japanese": "\u3042\u304f",
+                    "Korean": "\uc545",
+                    "Spanish": "Siniestro"
+                }
+            },
+            "names": {
+                "English": "Dark Pulse",
+                "German": "Finsteraura",
+                "French": "Vibrobscur",
+                "Italian": "Neropulsar",
+                "Japanese": "\u3042\u304f\u306e\u306f\u3069\u3046",
+                "Korean": "\uc545\uc758\ud30c\ub3d9",
+                "Spanish": "Pulso Umbr\u00edo"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 80
+            }
+        },
+        "BRAVE_BIRD": {
+            "id": "BRAVE_BIRD",
+            "power": 130,
+            "energy": -100,
+            "durationMs": 2000,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Brave Bird",
+                "German": "Sturzflug",
+                "French": "Rapace",
+                "Italian": "Baldeali",
+                "Japanese": "\u30d6\u30ec\u30a4\u30d6\u30d0\u30fc\u30c9",
+                "Korean": "\ube0c\ub808\uc774\ube0c\ubc84\ub4dc",
+                "Spanish": "P\u00e1jaro Osado"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 130
+            }
+        },
+        "FOUL_PLAY": {
+            "id": "FOUL_PLAY",
+            "power": 70,
+            "energy": -50,
+            "durationMs": 2000,
+            "type": {
+                "type": "POKEMON_TYPE_DARK",
+                "names": {
+                    "English": "Dark",
+                    "German": "Unlicht",
+                    "French": "T\u00e9n\u00e8bres",
+                    "Italian": "Buio",
+                    "Japanese": "\u3042\u304f",
+                    "Korean": "\uc545",
+                    "Spanish": "Siniestro"
+                }
+            },
+            "names": {
+                "English": "Foul Play",
+                "German": "Schmarotzer",
+                "French": "Tricherie",
+                "Italian": "Ripicca",
+                "Japanese": "\u30a4\u30ab\u30b5\u30de",
+                "Korean": "\uc18d\uc784\uc218",
+                "Spanish": "Juego Sucio"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 70
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_629_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_629_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

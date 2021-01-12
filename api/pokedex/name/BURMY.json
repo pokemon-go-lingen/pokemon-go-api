@@ -1,1 +1,557 @@
-{"id":"BURMY","formId":"BURMY","dexNr":412,"generation":4,"names":{"English":"Burmy","German":"Burmy","French":"Cheniti","Italian":"Burmy","Japanese":"\u30df\u30ce\u30e0\u30c3\u30c1","Korean":"\ub3c4\ub871\ucda9\uc774","Spanish":"Burmy"},"stats":{"stamina":120,"attack":53,"defense":83},"primaryType":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"secondaryType":null,"quickMoves":{"TACKLE_FAST":{"id":"TACKLE_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Tackle","German":"Tackle","French":"Charge","Italian":"Azione","Japanese":"\u305f\u3044\u3042\u305f\u308a","Korean":"\ubab8\ud1b5\ubc15\uce58\uae30","Spanish":"Placaje"},"combat":{"energy":2,"power":3}},"BUG_BITE_FAST":{"id":"BUG_BITE_FAST","power":5,"energy":6,"durationMs":500,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Bug Bite","German":"K\u00e4ferbiss","French":"Piq\u00fbre","Italian":"Coleomorso","Japanese":"\u3080\u3057\u304f\u3044","Korean":"\ubc8c\ub808\uba39\uc74c","Spanish":"Picadura"},"combat":{"energy":3,"power":3}}},"cinematicMoves":{"STRUGGLE":{"id":"STRUGGLE","power":35,"energy":0,"durationMs":2200,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Struggle","German":"Verzweifler","French":"Lutte","Italian":"Scontro","Japanese":"\u308f\u308b\u3042\u304c\u304d","Korean":"\ubc1c\ubc84\ub465","Spanish":"Combate"},"combat":{"energy":-100,"power":35}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_412_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_412_00_shiny.png"},"regionForms":[{"id":"BURMY","formId":"BURMY_PLANT","dexNr":412,"generation":4,"names":{"English":"Burmy","German":"Burmy","French":"Cheniti","Italian":"Burmy","Japanese":"\u30df\u30ce\u30e0\u30c3\u30c1","Korean":"\ub3c4\ub871\ucda9\uc774","Spanish":"Burmy"},"stats":{"stamina":120,"attack":53,"defense":83},"primaryType":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"secondaryType":null,"quickMoves":{"TACKLE_FAST":{"id":"TACKLE_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Tackle","German":"Tackle","French":"Charge","Italian":"Azione","Japanese":"\u305f\u3044\u3042\u305f\u308a","Korean":"\ubab8\ud1b5\ubc15\uce58\uae30","Spanish":"Placaje"},"combat":{"energy":2,"power":3}},"BUG_BITE_FAST":{"id":"BUG_BITE_FAST","power":5,"energy":6,"durationMs":500,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Bug Bite","German":"K\u00e4ferbiss","French":"Piq\u00fbre","Italian":"Coleomorso","Japanese":"\u3080\u3057\u304f\u3044","Korean":"\ubc8c\ub808\uba39\uc74c","Spanish":"Picadura"},"combat":{"energy":3,"power":3}}},"cinematicMoves":{"STRUGGLE":{"id":"STRUGGLE","power":35,"energy":0,"durationMs":2200,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Struggle","German":"Verzweifler","French":"Lutte","Italian":"Scontro","Japanese":"\u308f\u308b\u3042\u304c\u304d","Korean":"\ubc1c\ubc84\ub465","Spanish":"Combate"},"combat":{"energy":-100,"power":35}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_412_11.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_412_11_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]},{"id":"BURMY","formId":"BURMY_SANDY","dexNr":412,"generation":4,"names":{"English":"Burmy","German":"Burmy","French":"Cheniti","Italian":"Burmy","Japanese":"\u30df\u30ce\u30e0\u30c3\u30c1","Korean":"\ub3c4\ub871\ucda9\uc774","Spanish":"Burmy"},"stats":{"stamina":120,"attack":53,"defense":83},"primaryType":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"secondaryType":null,"quickMoves":{"TACKLE_FAST":{"id":"TACKLE_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Tackle","German":"Tackle","French":"Charge","Italian":"Azione","Japanese":"\u305f\u3044\u3042\u305f\u308a","Korean":"\ubab8\ud1b5\ubc15\uce58\uae30","Spanish":"Placaje"},"combat":{"energy":2,"power":3}},"BUG_BITE_FAST":{"id":"BUG_BITE_FAST","power":5,"energy":6,"durationMs":500,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Bug Bite","German":"K\u00e4ferbiss","French":"Piq\u00fbre","Italian":"Coleomorso","Japanese":"\u3080\u3057\u304f\u3044","Korean":"\ubc8c\ub808\uba39\uc74c","Spanish":"Picadura"},"combat":{"energy":3,"power":3}}},"cinematicMoves":{"STRUGGLE":{"id":"STRUGGLE","power":35,"energy":0,"durationMs":2200,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Struggle","German":"Verzweifler","French":"Lutte","Italian":"Scontro","Japanese":"\u308f\u308b\u3042\u304c\u304d","Korean":"\ubc1c\ubc84\ub465","Spanish":"Combate"},"combat":{"energy":-100,"power":35}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_412_12.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_412_12_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]},{"id":"BURMY","formId":"BURMY_TRASH","dexNr":412,"generation":4,"names":{"English":"Burmy","German":"Burmy","French":"Cheniti","Italian":"Burmy","Japanese":"\u30df\u30ce\u30e0\u30c3\u30c1","Korean":"\ub3c4\ub871\ucda9\uc774","Spanish":"Burmy"},"stats":{"stamina":120,"attack":53,"defense":83},"primaryType":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"secondaryType":null,"quickMoves":{"TACKLE_FAST":{"id":"TACKLE_FAST","power":5,"energy":5,"durationMs":500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Tackle","German":"Tackle","French":"Charge","Italian":"Azione","Japanese":"\u305f\u3044\u3042\u305f\u308a","Korean":"\ubab8\ud1b5\ubc15\uce58\uae30","Spanish":"Placaje"},"combat":{"energy":2,"power":3}},"BUG_BITE_FAST":{"id":"BUG_BITE_FAST","power":5,"energy":6,"durationMs":500,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Bug Bite","German":"K\u00e4ferbiss","French":"Piq\u00fbre","Italian":"Coleomorso","Japanese":"\u3080\u3057\u304f\u3044","Korean":"\ubc8c\ub808\uba39\uc74c","Spanish":"Picadura"},"combat":{"energy":3,"power":3}}},"cinematicMoves":{"STRUGGLE":{"id":"STRUGGLE","power":35,"energy":0,"durationMs":2200,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Struggle","German":"Verzweifler","French":"Lutte","Italian":"Scontro","Japanese":"\u308f\u308b\u3042\u304c\u304d","Korean":"\ubc1c\ubc84\ub465","Spanish":"Combate"},"combat":{"energy":-100,"power":35}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_412_13.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_412_13_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "BURMY",
+    "formId": "BURMY",
+    "dexNr": 412,
+    "generation": 4,
+    "names": {
+        "English": "Burmy",
+        "German": "Burmy",
+        "French": "Cheniti",
+        "Italian": "Burmy",
+        "Japanese": "\u30df\u30ce\u30e0\u30c3\u30c1",
+        "Korean": "\ub3c4\ub871\ucda9\uc774",
+        "Spanish": "Burmy"
+    },
+    "stats": {
+        "stamina": 120,
+        "attack": 53,
+        "defense": 83
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_BUG",
+        "names": {
+            "English": "Bug",
+            "German": "K\u00e4fer",
+            "French": "Insecte",
+            "Italian": "Coleottero",
+            "Japanese": "\u3080\u3057",
+            "Korean": "\ubc8c\ub808",
+            "Spanish": "Bicho"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "TACKLE_FAST": {
+            "id": "TACKLE_FAST",
+            "power": 5,
+            "energy": 5,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Tackle",
+                "German": "Tackle",
+                "French": "Charge",
+                "Italian": "Azione",
+                "Japanese": "\u305f\u3044\u3042\u305f\u308a",
+                "Korean": "\ubab8\ud1b5\ubc15\uce58\uae30",
+                "Spanish": "Placaje"
+            },
+            "combat": {
+                "energy": 2,
+                "power": 3
+            }
+        },
+        "BUG_BITE_FAST": {
+            "id": "BUG_BITE_FAST",
+            "power": 5,
+            "energy": 6,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "Bug Bite",
+                "German": "K\u00e4ferbiss",
+                "French": "Piq\u00fbre",
+                "Italian": "Coleomorso",
+                "Japanese": "\u3080\u3057\u304f\u3044",
+                "Korean": "\ubc8c\ub808\uba39\uc74c",
+                "Spanish": "Picadura"
+            },
+            "combat": {
+                "energy": 3,
+                "power": 3
+            }
+        }
+    },
+    "cinematicMoves": {
+        "STRUGGLE": {
+            "id": "STRUGGLE",
+            "power": 35,
+            "energy": 0,
+            "durationMs": 2200,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Struggle",
+                "German": "Verzweifler",
+                "French": "Lutte",
+                "Italian": "Scontro",
+                "Japanese": "\u308f\u308b\u3042\u304c\u304d",
+                "Korean": "\ubc1c\ubc84\ub465",
+                "Spanish": "Combate"
+            },
+            "combat": {
+                "energy": -100,
+                "power": 35
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_412_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_412_00_shiny.png"
+    },
+    "regionForms": [
+        {
+            "id": "BURMY",
+            "formId": "BURMY_PLANT",
+            "dexNr": 412,
+            "generation": 4,
+            "names": {
+                "English": "Burmy",
+                "German": "Burmy",
+                "French": "Cheniti",
+                "Italian": "Burmy",
+                "Japanese": "\u30df\u30ce\u30e0\u30c3\u30c1",
+                "Korean": "\ub3c4\ub871\ucda9\uc774",
+                "Spanish": "Burmy"
+            },
+            "stats": {
+                "stamina": 120,
+                "attack": 53,
+                "defense": 83
+            },
+            "primaryType": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "secondaryType": null,
+            "quickMoves": {
+                "TACKLE_FAST": {
+                    "id": "TACKLE_FAST",
+                    "power": 5,
+                    "energy": 5,
+                    "durationMs": 500,
+                    "type": {
+                        "type": "POKEMON_TYPE_NORMAL",
+                        "names": {
+                            "English": "Normal",
+                            "German": "Normal",
+                            "French": "Normal",
+                            "Italian": "Normale",
+                            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                            "Korean": "\ub178\ub9d0",
+                            "Spanish": "Normal"
+                        }
+                    },
+                    "names": {
+                        "English": "Tackle",
+                        "German": "Tackle",
+                        "French": "Charge",
+                        "Italian": "Azione",
+                        "Japanese": "\u305f\u3044\u3042\u305f\u308a",
+                        "Korean": "\ubab8\ud1b5\ubc15\uce58\uae30",
+                        "Spanish": "Placaje"
+                    },
+                    "combat": {
+                        "energy": 2,
+                        "power": 3
+                    }
+                },
+                "BUG_BITE_FAST": {
+                    "id": "BUG_BITE_FAST",
+                    "power": 5,
+                    "energy": 6,
+                    "durationMs": 500,
+                    "type": {
+                        "type": "POKEMON_TYPE_BUG",
+                        "names": {
+                            "English": "Bug",
+                            "German": "K\u00e4fer",
+                            "French": "Insecte",
+                            "Italian": "Coleottero",
+                            "Japanese": "\u3080\u3057",
+                            "Korean": "\ubc8c\ub808",
+                            "Spanish": "Bicho"
+                        }
+                    },
+                    "names": {
+                        "English": "Bug Bite",
+                        "German": "K\u00e4ferbiss",
+                        "French": "Piq\u00fbre",
+                        "Italian": "Coleomorso",
+                        "Japanese": "\u3080\u3057\u304f\u3044",
+                        "Korean": "\ubc8c\ub808\uba39\uc74c",
+                        "Spanish": "Picadura"
+                    },
+                    "combat": {
+                        "energy": 3,
+                        "power": 3
+                    }
+                }
+            },
+            "cinematicMoves": {
+                "STRUGGLE": {
+                    "id": "STRUGGLE",
+                    "power": 35,
+                    "energy": 0,
+                    "durationMs": 2200,
+                    "type": {
+                        "type": "POKEMON_TYPE_NORMAL",
+                        "names": {
+                            "English": "Normal",
+                            "German": "Normal",
+                            "French": "Normal",
+                            "Italian": "Normale",
+                            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                            "Korean": "\ub178\ub9d0",
+                            "Spanish": "Normal"
+                        }
+                    },
+                    "names": {
+                        "English": "Struggle",
+                        "German": "Verzweifler",
+                        "French": "Lutte",
+                        "Italian": "Scontro",
+                        "Japanese": "\u308f\u308b\u3042\u304c\u304d",
+                        "Korean": "\ubc1c\ubc84\ub465",
+                        "Spanish": "Combate"
+                    },
+                    "combat": {
+                        "energy": -100,
+                        "power": 35
+                    }
+                }
+            },
+            "eliteQuickMoves": [],
+            "eliteCinematicMoves": [],
+            "assets": {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_412_11.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_412_11_shiny.png"
+            },
+            "regionForms": [],
+            "hasMegaEvolution": false,
+            "megaEvolutions": []
+        },
+        {
+            "id": "BURMY",
+            "formId": "BURMY_SANDY",
+            "dexNr": 412,
+            "generation": 4,
+            "names": {
+                "English": "Burmy",
+                "German": "Burmy",
+                "French": "Cheniti",
+                "Italian": "Burmy",
+                "Japanese": "\u30df\u30ce\u30e0\u30c3\u30c1",
+                "Korean": "\ub3c4\ub871\ucda9\uc774",
+                "Spanish": "Burmy"
+            },
+            "stats": {
+                "stamina": 120,
+                "attack": 53,
+                "defense": 83
+            },
+            "primaryType": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "secondaryType": null,
+            "quickMoves": {
+                "TACKLE_FAST": {
+                    "id": "TACKLE_FAST",
+                    "power": 5,
+                    "energy": 5,
+                    "durationMs": 500,
+                    "type": {
+                        "type": "POKEMON_TYPE_NORMAL",
+                        "names": {
+                            "English": "Normal",
+                            "German": "Normal",
+                            "French": "Normal",
+                            "Italian": "Normale",
+                            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                            "Korean": "\ub178\ub9d0",
+                            "Spanish": "Normal"
+                        }
+                    },
+                    "names": {
+                        "English": "Tackle",
+                        "German": "Tackle",
+                        "French": "Charge",
+                        "Italian": "Azione",
+                        "Japanese": "\u305f\u3044\u3042\u305f\u308a",
+                        "Korean": "\ubab8\ud1b5\ubc15\uce58\uae30",
+                        "Spanish": "Placaje"
+                    },
+                    "combat": {
+                        "energy": 2,
+                        "power": 3
+                    }
+                },
+                "BUG_BITE_FAST": {
+                    "id": "BUG_BITE_FAST",
+                    "power": 5,
+                    "energy": 6,
+                    "durationMs": 500,
+                    "type": {
+                        "type": "POKEMON_TYPE_BUG",
+                        "names": {
+                            "English": "Bug",
+                            "German": "K\u00e4fer",
+                            "French": "Insecte",
+                            "Italian": "Coleottero",
+                            "Japanese": "\u3080\u3057",
+                            "Korean": "\ubc8c\ub808",
+                            "Spanish": "Bicho"
+                        }
+                    },
+                    "names": {
+                        "English": "Bug Bite",
+                        "German": "K\u00e4ferbiss",
+                        "French": "Piq\u00fbre",
+                        "Italian": "Coleomorso",
+                        "Japanese": "\u3080\u3057\u304f\u3044",
+                        "Korean": "\ubc8c\ub808\uba39\uc74c",
+                        "Spanish": "Picadura"
+                    },
+                    "combat": {
+                        "energy": 3,
+                        "power": 3
+                    }
+                }
+            },
+            "cinematicMoves": {
+                "STRUGGLE": {
+                    "id": "STRUGGLE",
+                    "power": 35,
+                    "energy": 0,
+                    "durationMs": 2200,
+                    "type": {
+                        "type": "POKEMON_TYPE_NORMAL",
+                        "names": {
+                            "English": "Normal",
+                            "German": "Normal",
+                            "French": "Normal",
+                            "Italian": "Normale",
+                            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                            "Korean": "\ub178\ub9d0",
+                            "Spanish": "Normal"
+                        }
+                    },
+                    "names": {
+                        "English": "Struggle",
+                        "German": "Verzweifler",
+                        "French": "Lutte",
+                        "Italian": "Scontro",
+                        "Japanese": "\u308f\u308b\u3042\u304c\u304d",
+                        "Korean": "\ubc1c\ubc84\ub465",
+                        "Spanish": "Combate"
+                    },
+                    "combat": {
+                        "energy": -100,
+                        "power": 35
+                    }
+                }
+            },
+            "eliteQuickMoves": [],
+            "eliteCinematicMoves": [],
+            "assets": {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_412_12.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_412_12_shiny.png"
+            },
+            "regionForms": [],
+            "hasMegaEvolution": false,
+            "megaEvolutions": []
+        },
+        {
+            "id": "BURMY",
+            "formId": "BURMY_TRASH",
+            "dexNr": 412,
+            "generation": 4,
+            "names": {
+                "English": "Burmy",
+                "German": "Burmy",
+                "French": "Cheniti",
+                "Italian": "Burmy",
+                "Japanese": "\u30df\u30ce\u30e0\u30c3\u30c1",
+                "Korean": "\ub3c4\ub871\ucda9\uc774",
+                "Spanish": "Burmy"
+            },
+            "stats": {
+                "stamina": 120,
+                "attack": 53,
+                "defense": 83
+            },
+            "primaryType": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "secondaryType": null,
+            "quickMoves": {
+                "TACKLE_FAST": {
+                    "id": "TACKLE_FAST",
+                    "power": 5,
+                    "energy": 5,
+                    "durationMs": 500,
+                    "type": {
+                        "type": "POKEMON_TYPE_NORMAL",
+                        "names": {
+                            "English": "Normal",
+                            "German": "Normal",
+                            "French": "Normal",
+                            "Italian": "Normale",
+                            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                            "Korean": "\ub178\ub9d0",
+                            "Spanish": "Normal"
+                        }
+                    },
+                    "names": {
+                        "English": "Tackle",
+                        "German": "Tackle",
+                        "French": "Charge",
+                        "Italian": "Azione",
+                        "Japanese": "\u305f\u3044\u3042\u305f\u308a",
+                        "Korean": "\ubab8\ud1b5\ubc15\uce58\uae30",
+                        "Spanish": "Placaje"
+                    },
+                    "combat": {
+                        "energy": 2,
+                        "power": 3
+                    }
+                },
+                "BUG_BITE_FAST": {
+                    "id": "BUG_BITE_FAST",
+                    "power": 5,
+                    "energy": 6,
+                    "durationMs": 500,
+                    "type": {
+                        "type": "POKEMON_TYPE_BUG",
+                        "names": {
+                            "English": "Bug",
+                            "German": "K\u00e4fer",
+                            "French": "Insecte",
+                            "Italian": "Coleottero",
+                            "Japanese": "\u3080\u3057",
+                            "Korean": "\ubc8c\ub808",
+                            "Spanish": "Bicho"
+                        }
+                    },
+                    "names": {
+                        "English": "Bug Bite",
+                        "German": "K\u00e4ferbiss",
+                        "French": "Piq\u00fbre",
+                        "Italian": "Coleomorso",
+                        "Japanese": "\u3080\u3057\u304f\u3044",
+                        "Korean": "\ubc8c\ub808\uba39\uc74c",
+                        "Spanish": "Picadura"
+                    },
+                    "combat": {
+                        "energy": 3,
+                        "power": 3
+                    }
+                }
+            },
+            "cinematicMoves": {
+                "STRUGGLE": {
+                    "id": "STRUGGLE",
+                    "power": 35,
+                    "energy": 0,
+                    "durationMs": 2200,
+                    "type": {
+                        "type": "POKEMON_TYPE_NORMAL",
+                        "names": {
+                            "English": "Normal",
+                            "German": "Normal",
+                            "French": "Normal",
+                            "Italian": "Normale",
+                            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                            "Korean": "\ub178\ub9d0",
+                            "Spanish": "Normal"
+                        }
+                    },
+                    "names": {
+                        "English": "Struggle",
+                        "German": "Verzweifler",
+                        "French": "Lutte",
+                        "Italian": "Scontro",
+                        "Japanese": "\u308f\u308b\u3042\u304c\u304d",
+                        "Korean": "\ubc1c\ubc84\ub465",
+                        "Spanish": "Combate"
+                    },
+                    "combat": {
+                        "energy": -100,
+                        "power": 35
+                    }
+                }
+            },
+            "eliteQuickMoves": [],
+            "eliteCinematicMoves": [],
+            "assets": {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_412_13.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_412_13_shiny.png"
+            },
+            "regionForms": [],
+            "hasMegaEvolution": false,
+            "megaEvolutions": []
+        }
+    ],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

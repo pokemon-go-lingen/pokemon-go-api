@@ -1,1 +1,201 @@
-{"id":"FENNEKIN","formId":"FENNEKIN","dexNr":653,"generation":6,"names":{"English":"Fennekin","German":"Fynx","French":"Feunnec","Italian":"Fennekin","Japanese":"\u30d5\u30a9\u30c3\u30b3","Korean":"\ud478\ud638\uaf2c","Spanish":"Fennekin"},"stats":{"stamina":120,"attack":116,"defense":102},"primaryType":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"secondaryType":null,"quickMoves":{"SCRATCH_FAST":{"id":"SCRATCH_FAST","power":6,"energy":4,"durationMs":500,"type":{"type":"POKEMON_TYPE_NORMAL","names":{"English":"Normal","German":"Normal","French":"Normal","Italian":"Normale","Japanese":"\u30ce\u30fc\u30de\u30eb","Korean":"\ub178\ub9d0","Spanish":"Normal"}},"names":{"English":"Scratch","German":"Kratzer","French":"Griffe","Italian":"Graffio","Japanese":"\u3072\u3063\u304b\u304f","Korean":"\ud560\ud034\uae30","Spanish":"Ara\u00f1azo"},"combat":{"energy":2,"power":4}},"EMBER_FAST":{"id":"EMBER_FAST","power":10,"energy":10,"durationMs":1000,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Ember","German":"Glut","French":"Flamm\u00e8che","Italian":"Braciere","Japanese":"\u3072\u306e\u3053","Korean":"\ubd88\uaf43\uc138\ub840","Spanish":"Ascuas"},"combat":{"energy":6,"power":6}}},"cinematicMoves":{"PSYSHOCK":{"id":"PSYSHOCK","power":65,"energy":-33,"durationMs":2700,"type":{"type":"POKEMON_TYPE_PSYCHIC","names":{"English":"Psychic","German":"Psycho","French":"Psy","Italian":"Psico","Japanese":"\u30a8\u30b9\u30d1\u30fc","Korean":"\uc5d0\uc2a4\ud37c","Spanish":"Ps\u00edquico"}},"names":{"English":"Psyshock","German":"Psychoschock","French":"Choc Psy","Italian":"Psicoshock","Japanese":"\u30b5\u30a4\u30b3\u30b7\u30e7\u30c3\u30af","Korean":"\uc0ac\uc774\ucf54\uc1fc\ud06c","Spanish":"Psicocarga"},"combat":{"energy":-45,"power":70}},"FLAMETHROWER":{"id":"FLAMETHROWER","power":70,"energy":-50,"durationMs":2200,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Flamethrower","German":"Flammenwurf","French":"Lance-Flammes","Italian":"Lanciafiamme","Japanese":"\u304b\u3048\u3093\u307b\u3046\u3057\u3083","Korean":"\ud654\uc5fc\ubc29\uc0ac","Spanish":"Lanzallamas"},"combat":{"energy":-55,"power":90}},"FLAME_CHARGE":{"id":"FLAME_CHARGE","power":70,"energy":-33,"durationMs":3800,"type":{"type":"POKEMON_TYPE_FIRE","names":{"English":"Fire","German":"Feuer","French":"Feu","Italian":"Fuoco","Japanese":"\u307b\u306e\u304a","Korean":"\ubd88\uaf43","Spanish":"Fuego"}},"names":{"English":"Flame Charge","German":"Nitroladung","French":"Nitrocharge","Italian":"Nitrocarica","Japanese":"\u30cb\u30c8\u30ed\u30c1\u30e3\u30fc\u30b8","Korean":"\ub2c8\ud2b8\ub85c\ucc28\uc9c0","Spanish":"Nitrocarga"},"combat":{"energy":-50,"power":65}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_653_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_653_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "FENNEKIN",
+    "formId": "FENNEKIN",
+    "dexNr": 653,
+    "generation": 6,
+    "names": {
+        "English": "Fennekin",
+        "German": "Fynx",
+        "French": "Feunnec",
+        "Italian": "Fennekin",
+        "Japanese": "\u30d5\u30a9\u30c3\u30b3",
+        "Korean": "\ud478\ud638\uaf2c",
+        "Spanish": "Fennekin"
+    },
+    "stats": {
+        "stamina": 120,
+        "attack": 116,
+        "defense": 102
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_FIRE",
+        "names": {
+            "English": "Fire",
+            "German": "Feuer",
+            "French": "Feu",
+            "Italian": "Fuoco",
+            "Japanese": "\u307b\u306e\u304a",
+            "Korean": "\ubd88\uaf43",
+            "Spanish": "Fuego"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "SCRATCH_FAST": {
+            "id": "SCRATCH_FAST",
+            "power": 6,
+            "energy": 4,
+            "durationMs": 500,
+            "type": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "names": {
+                "English": "Scratch",
+                "German": "Kratzer",
+                "French": "Griffe",
+                "Italian": "Graffio",
+                "Japanese": "\u3072\u3063\u304b\u304f",
+                "Korean": "\ud560\ud034\uae30",
+                "Spanish": "Ara\u00f1azo"
+            },
+            "combat": {
+                "energy": 2,
+                "power": 4
+            }
+        },
+        "EMBER_FAST": {
+            "id": "EMBER_FAST",
+            "power": 10,
+            "energy": 10,
+            "durationMs": 1000,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Ember",
+                "German": "Glut",
+                "French": "Flamm\u00e8che",
+                "Italian": "Braciere",
+                "Japanese": "\u3072\u306e\u3053",
+                "Korean": "\ubd88\uaf43\uc138\ub840",
+                "Spanish": "Ascuas"
+            },
+            "combat": {
+                "energy": 6,
+                "power": 6
+            }
+        }
+    },
+    "cinematicMoves": {
+        "PSYSHOCK": {
+            "id": "PSYSHOCK",
+            "power": 65,
+            "energy": -33,
+            "durationMs": 2700,
+            "type": {
+                "type": "POKEMON_TYPE_PSYCHIC",
+                "names": {
+                    "English": "Psychic",
+                    "German": "Psycho",
+                    "French": "Psy",
+                    "Italian": "Psico",
+                    "Japanese": "\u30a8\u30b9\u30d1\u30fc",
+                    "Korean": "\uc5d0\uc2a4\ud37c",
+                    "Spanish": "Ps\u00edquico"
+                }
+            },
+            "names": {
+                "English": "Psyshock",
+                "German": "Psychoschock",
+                "French": "Choc Psy",
+                "Italian": "Psicoshock",
+                "Japanese": "\u30b5\u30a4\u30b3\u30b7\u30e7\u30c3\u30af",
+                "Korean": "\uc0ac\uc774\ucf54\uc1fc\ud06c",
+                "Spanish": "Psicocarga"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 70
+            }
+        },
+        "FLAMETHROWER": {
+            "id": "FLAMETHROWER",
+            "power": 70,
+            "energy": -50,
+            "durationMs": 2200,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Flamethrower",
+                "German": "Flammenwurf",
+                "French": "Lance-Flammes",
+                "Italian": "Lanciafiamme",
+                "Japanese": "\u304b\u3048\u3093\u307b\u3046\u3057\u3083",
+                "Korean": "\ud654\uc5fc\ubc29\uc0ac",
+                "Spanish": "Lanzallamas"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        },
+        "FLAME_CHARGE": {
+            "id": "FLAME_CHARGE",
+            "power": 70,
+            "energy": -33,
+            "durationMs": 3800,
+            "type": {
+                "type": "POKEMON_TYPE_FIRE",
+                "names": {
+                    "English": "Fire",
+                    "German": "Feuer",
+                    "French": "Feu",
+                    "Italian": "Fuoco",
+                    "Japanese": "\u307b\u306e\u304a",
+                    "Korean": "\ubd88\uaf43",
+                    "Spanish": "Fuego"
+                }
+            },
+            "names": {
+                "English": "Flame Charge",
+                "German": "Nitroladung",
+                "French": "Nitrocharge",
+                "Italian": "Nitrocarica",
+                "Japanese": "\u30cb\u30c8\u30ed\u30c1\u30e3\u30fc\u30b8",
+                "Korean": "\ub2c8\ud2b8\ub85c\ucc28\uc9c0",
+                "Spanish": "Nitrocarga"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 65
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_653_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_653_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

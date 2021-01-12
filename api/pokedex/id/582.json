@@ -1,1 +1,201 @@
-{"id":"VANILLITE","formId":"VANILLITE","dexNr":582,"generation":5,"names":{"English":"Vanillite","German":"Gelatini","French":"Sorb\u00e9b\u00e9","Italian":"Vanillite","Japanese":"\u30d0\u30cb\u30d7\u30c3\u30c1","Korean":"\ubc14\ub2d0\ud504\ud2f0","Spanish":"Vanillite"},"stats":{"stamina":113,"attack":118,"defense":106},"primaryType":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"secondaryType":null,"quickMoves":{"POWDER_SNOW_FAST":{"id":"POWDER_SNOW_FAST","power":6,"energy":15,"durationMs":1000,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Powder Snow","German":"Pulverschnee","French":"Poudreuse","Italian":"Polneve","Japanese":"\u3053\u306a\u3086\u304d","Korean":"\ub208\uc2f8\ub77c\uae30","Spanish":"Nieve Polvo"},"combat":{"energy":8,"power":5}},"ASTONISH_FAST":{"id":"ASTONISH_FAST","power":8,"energy":14,"durationMs":1100,"type":{"type":"POKEMON_TYPE_GHOST","names":{"English":"Ghost","German":"Geist","French":"Spectre","Italian":"Spettro","Japanese":"\u30b4\u30fc\u30b9\u30c8","Korean":"\uace0\uc2a4\ud2b8","Spanish":"Fantasma"}},"names":{"English":"Astonish","German":"Erstauner","French":"\u00c9tonnement","Italian":"Sgomento","Japanese":"\u304a\u3069\u308d\u304b\u3059","Korean":"\ub180\ub798\ud0a4\uae30","Spanish":"Impresionar"},"combat":{"energy":9,"power":5}}},"cinematicMoves":{"ICY_WIND":{"id":"ICY_WIND","power":60,"energy":-33,"durationMs":3300,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Icy Wind","German":"Eissturm","French":"Vent Glace","Italian":"Ventogelato","Japanese":"\u3053\u3054\u3048\u308b\u304b\u305c","Korean":"\uc5bc\ub2e4\ubc14\ub78c","Spanish":"Viento Hielo"},"combat":{"energy":-45,"power":60}},"ICE_BEAM":{"id":"ICE_BEAM","power":90,"energy":-50,"durationMs":3300,"type":{"type":"POKEMON_TYPE_ICE","names":{"English":"Ice","German":"Eis","French":"Glace","Italian":"Ghiaccio","Japanese":"\u3053\u304a\u308a","Korean":"\uc5bc\uc74c","Spanish":"Hielo"}},"names":{"English":"Ice Beam","German":"Eisstrahl","French":"Laser Glace","Italian":"Geloraggio","Japanese":"\u308c\u3044\u3068\u3046\u30d3\u30fc\u30e0","Korean":"\ub0c9\ub3d9\ube54","Spanish":"Rayo Hielo"},"combat":{"energy":-55,"power":90}},"SIGNAL_BEAM":{"id":"SIGNAL_BEAM","power":75,"energy":-50,"durationMs":2900,"type":{"type":"POKEMON_TYPE_BUG","names":{"English":"Bug","German":"K\u00e4fer","French":"Insecte","Italian":"Coleottero","Japanese":"\u3080\u3057","Korean":"\ubc8c\ub808","Spanish":"Bicho"}},"names":{"English":"Signal Beam","German":"Ampelleuchte","French":"Rayon Signal","Italian":"Segnoraggio","Japanese":"\u30b7\u30b0\u30ca\u30eb\u30d3\u30fc\u30e0","Korean":"\uc2dc\uadf8\ub110\ube54","Spanish":"Doble Rayo"},"combat":{"energy":-55,"power":75}}},"eliteQuickMoves":[],"eliteCinematicMoves":[],"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_582_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_582_00_shiny.png"},"regionForms":[],"hasMegaEvolution":false,"megaEvolutions":[]}
+{
+    "id": "VANILLITE",
+    "formId": "VANILLITE",
+    "dexNr": 582,
+    "generation": 5,
+    "names": {
+        "English": "Vanillite",
+        "German": "Gelatini",
+        "French": "Sorb\u00e9b\u00e9",
+        "Italian": "Vanillite",
+        "Japanese": "\u30d0\u30cb\u30d7\u30c3\u30c1",
+        "Korean": "\ubc14\ub2d0\ud504\ud2f0",
+        "Spanish": "Vanillite"
+    },
+    "stats": {
+        "stamina": 113,
+        "attack": 118,
+        "defense": 106
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_ICE",
+        "names": {
+            "English": "Ice",
+            "German": "Eis",
+            "French": "Glace",
+            "Italian": "Ghiaccio",
+            "Japanese": "\u3053\u304a\u308a",
+            "Korean": "\uc5bc\uc74c",
+            "Spanish": "Hielo"
+        }
+    },
+    "secondaryType": null,
+    "quickMoves": {
+        "POWDER_SNOW_FAST": {
+            "id": "POWDER_SNOW_FAST",
+            "power": 6,
+            "energy": 15,
+            "durationMs": 1000,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Powder Snow",
+                "German": "Pulverschnee",
+                "French": "Poudreuse",
+                "Italian": "Polneve",
+                "Japanese": "\u3053\u306a\u3086\u304d",
+                "Korean": "\ub208\uc2f8\ub77c\uae30",
+                "Spanish": "Nieve Polvo"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 5
+            }
+        },
+        "ASTONISH_FAST": {
+            "id": "ASTONISH_FAST",
+            "power": 8,
+            "energy": 14,
+            "durationMs": 1100,
+            "type": {
+                "type": "POKEMON_TYPE_GHOST",
+                "names": {
+                    "English": "Ghost",
+                    "German": "Geist",
+                    "French": "Spectre",
+                    "Italian": "Spettro",
+                    "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                    "Korean": "\uace0\uc2a4\ud2b8",
+                    "Spanish": "Fantasma"
+                }
+            },
+            "names": {
+                "English": "Astonish",
+                "German": "Erstauner",
+                "French": "\u00c9tonnement",
+                "Italian": "Sgomento",
+                "Japanese": "\u304a\u3069\u308d\u304b\u3059",
+                "Korean": "\ub180\ub798\ud0a4\uae30",
+                "Spanish": "Impresionar"
+            },
+            "combat": {
+                "energy": 9,
+                "power": 5
+            }
+        }
+    },
+    "cinematicMoves": {
+        "ICY_WIND": {
+            "id": "ICY_WIND",
+            "power": 60,
+            "energy": -33,
+            "durationMs": 3300,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Icy Wind",
+                "German": "Eissturm",
+                "French": "Vent Glace",
+                "Italian": "Ventogelato",
+                "Japanese": "\u3053\u3054\u3048\u308b\u304b\u305c",
+                "Korean": "\uc5bc\ub2e4\ubc14\ub78c",
+                "Spanish": "Viento Hielo"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 60
+            }
+        },
+        "ICE_BEAM": {
+            "id": "ICE_BEAM",
+            "power": 90,
+            "energy": -50,
+            "durationMs": 3300,
+            "type": {
+                "type": "POKEMON_TYPE_ICE",
+                "names": {
+                    "English": "Ice",
+                    "German": "Eis",
+                    "French": "Glace",
+                    "Italian": "Ghiaccio",
+                    "Japanese": "\u3053\u304a\u308a",
+                    "Korean": "\uc5bc\uc74c",
+                    "Spanish": "Hielo"
+                }
+            },
+            "names": {
+                "English": "Ice Beam",
+                "German": "Eisstrahl",
+                "French": "Laser Glace",
+                "Italian": "Geloraggio",
+                "Japanese": "\u308c\u3044\u3068\u3046\u30d3\u30fc\u30e0",
+                "Korean": "\ub0c9\ub3d9\ube54",
+                "Spanish": "Rayo Hielo"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 90
+            }
+        },
+        "SIGNAL_BEAM": {
+            "id": "SIGNAL_BEAM",
+            "power": 75,
+            "energy": -50,
+            "durationMs": 2900,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "Signal Beam",
+                "German": "Ampelleuchte",
+                "French": "Rayon Signal",
+                "Italian": "Segnoraggio",
+                "Japanese": "\u30b7\u30b0\u30ca\u30eb\u30d3\u30fc\u30e0",
+                "Korean": "\uc2dc\uadf8\ub110\ube54",
+                "Spanish": "Doble Rayo"
+            },
+            "combat": {
+                "energy": -55,
+                "power": 75
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": [],
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_582_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_582_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": false,
+    "megaEvolutions": []
+}

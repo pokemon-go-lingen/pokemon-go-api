@@ -1,1 +1,290 @@
-{"id":"VENUSAUR","formId":"VENUSAUR","dexNr":3,"generation":1,"names":{"English":"Venusaur","German":"Bisaflor","French":"Florizarre","Italian":"Venusaur","Japanese":"\u30d5\u30b7\u30ae\u30d0\u30ca","Korean":"\uc774\uc0c1\ud574\uaf43","Spanish":"Venusaur"},"stats":{"stamina":190,"attack":198,"defense":189},"primaryType":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"secondaryType":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"quickMoves":{"RAZOR_LEAF_FAST":{"id":"RAZOR_LEAF_FAST","power":13,"energy":7,"durationMs":1000,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Razor Leaf","German":"Rasierblatt","French":"Tranch\u2019Herbe","Italian":"Foglielama","Japanese":"\u306f\u3063\u3071\u30ab\u30c3\u30bf\u30fc","Korean":"\uc78e\ub0a0\uac00\ub974\uae30","Spanish":"Hoja Afilada"},"combat":{"energy":4,"power":11}},"VINE_WHIP_FAST":{"id":"VINE_WHIP_FAST","power":7,"energy":6,"durationMs":600,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Vine Whip","German":"Rankenhieb","French":"Fouet Lianes","Italian":"Frustata","Japanese":"\u3064\u308b\u306e\u30e0\u30c1","Korean":"\ub369\uad74\ucc44\ucc0d","Spanish":"L\u00e1tigo Cepa"},"combat":{"energy":8,"power":5}}},"cinematicMoves":{"SLUDGE_BOMB":{"id":"SLUDGE_BOMB","power":80,"energy":-50,"durationMs":2300,"type":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"names":{"English":"Sludge Bomb","German":"Matschbombe","French":"Bombe Beurk","Italian":"Fangobomba","Japanese":"\u30d8\u30c9\u30ed\u3070\u304f\u3060\u3093","Korean":"\uc624\ubb3c\ud3ed\ud0c4","Spanish":"Bomba Lodo"},"combat":{"energy":-50,"power":80}},"PETAL_BLIZZARD":{"id":"PETAL_BLIZZARD","power":110,"energy":-100,"durationMs":2600,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Petal Blizzard","German":"Bl\u00fctenwirbel","French":"Temp\u00eate Florale","Italian":"Fiortempesta","Japanese":"\u306f\u306a\u3075\u3076\u304d","Korean":"\uaf43\ubcf4\ub77c","Spanish":"Tormenta Floral"},"combat":{"energy":-65,"power":110}},"SOLAR_BEAM":{"id":"SOLAR_BEAM","power":180,"energy":-100,"durationMs":4900,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Solar Beam","German":"Solarstrahl","French":"Lance-Soleil","Italian":"Solarraggio","Japanese":"\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0","Korean":"\uc194\ub77c\ube54","Spanish":"Rayo Solar"},"combat":{"energy":-80,"power":150}}},"eliteQuickMoves":[],"eliteCinematicMoves":{"FRENZY_PLANT":{"id":"FRENZY_PLANT","power":100,"energy":-50,"durationMs":2600,"type":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"names":{"English":"Frenzy Plant","German":"Flora-Statue","French":"V\u00e9g\u00e9-Attaque","Italian":"Radicalbero","Japanese":"\u30cf\u30fc\u30c9\u30d7\u30e9\u30f3\u30c8","Korean":"\ud558\ub4dc\ud50c\ub79c\ud2b8","Spanish":"Planta Feroz"},"combat":{"energy":-45,"power":100}}},"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_003_00.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_003_00_shiny.png"},"regionForms":[],"hasMegaEvolution":true,"megaEvolutions":{"VENUSAUR_MEGA":{"id":"VENUSAUR_MEGA","names":{"English":"Mega Venusaur","German":"Mega-Bisaflor","French":"M\u00e9ga-Florizarre","Italian":"MegaVenusaur","Japanese":"\u30e1\u30ac\u30d5\u30b7\u30ae\u30d0\u30ca","Korean":"\uba54\uac00\uc774\uc0c1\ud574\uaf43","Spanish":"Mega-Venusaur"},"stats":{"stamina":190,"attack":241,"defense":246},"primaryType":{"type":"POKEMON_TYPE_GRASS","names":{"English":"Grass","German":"Pflanze","French":"Plante","Italian":"Erba","Japanese":"\u304f\u3055","Korean":"\ud480","Spanish":"Planta"}},"secondaryType":{"type":"POKEMON_TYPE_POISON","names":{"English":"Poison","German":"Gift","French":"Poison","Italian":"Veleno","Japanese":"\u3069\u304f","Korean":"\ub3c5","Spanish":"Veneno"}},"assets":{"image":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_003_51.png","shinyImage":"https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_003_51_shiny.png"}}}}
+{
+    "id": "VENUSAUR",
+    "formId": "VENUSAUR",
+    "dexNr": 3,
+    "generation": 1,
+    "names": {
+        "English": "Venusaur",
+        "German": "Bisaflor",
+        "French": "Florizarre",
+        "Italian": "Venusaur",
+        "Japanese": "\u30d5\u30b7\u30ae\u30d0\u30ca",
+        "Korean": "\uc774\uc0c1\ud574\uaf43",
+        "Spanish": "Venusaur"
+    },
+    "stats": {
+        "stamina": 190,
+        "attack": 198,
+        "defense": 189
+    },
+    "primaryType": {
+        "type": "POKEMON_TYPE_GRASS",
+        "names": {
+            "English": "Grass",
+            "German": "Pflanze",
+            "French": "Plante",
+            "Italian": "Erba",
+            "Japanese": "\u304f\u3055",
+            "Korean": "\ud480",
+            "Spanish": "Planta"
+        }
+    },
+    "secondaryType": {
+        "type": "POKEMON_TYPE_POISON",
+        "names": {
+            "English": "Poison",
+            "German": "Gift",
+            "French": "Poison",
+            "Italian": "Veleno",
+            "Japanese": "\u3069\u304f",
+            "Korean": "\ub3c5",
+            "Spanish": "Veneno"
+        }
+    },
+    "quickMoves": {
+        "RAZOR_LEAF_FAST": {
+            "id": "RAZOR_LEAF_FAST",
+            "power": 13,
+            "energy": 7,
+            "durationMs": 1000,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Razor Leaf",
+                "German": "Rasierblatt",
+                "French": "Tranch\u2019Herbe",
+                "Italian": "Foglielama",
+                "Japanese": "\u306f\u3063\u3071\u30ab\u30c3\u30bf\u30fc",
+                "Korean": "\uc78e\ub0a0\uac00\ub974\uae30",
+                "Spanish": "Hoja Afilada"
+            },
+            "combat": {
+                "energy": 4,
+                "power": 11
+            }
+        },
+        "VINE_WHIP_FAST": {
+            "id": "VINE_WHIP_FAST",
+            "power": 7,
+            "energy": 6,
+            "durationMs": 600,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Vine Whip",
+                "German": "Rankenhieb",
+                "French": "Fouet Lianes",
+                "Italian": "Frustata",
+                "Japanese": "\u3064\u308b\u306e\u30e0\u30c1",
+                "Korean": "\ub369\uad74\ucc44\ucc0d",
+                "Spanish": "L\u00e1tigo Cepa"
+            },
+            "combat": {
+                "energy": 8,
+                "power": 5
+            }
+        }
+    },
+    "cinematicMoves": {
+        "SLUDGE_BOMB": {
+            "id": "SLUDGE_BOMB",
+            "power": 80,
+            "energy": -50,
+            "durationMs": 2300,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Sludge Bomb",
+                "German": "Matschbombe",
+                "French": "Bombe Beurk",
+                "Italian": "Fangobomba",
+                "Japanese": "\u30d8\u30c9\u30ed\u3070\u304f\u3060\u3093",
+                "Korean": "\uc624\ubb3c\ud3ed\ud0c4",
+                "Spanish": "Bomba Lodo"
+            },
+            "combat": {
+                "energy": -50,
+                "power": 80
+            }
+        },
+        "PETAL_BLIZZARD": {
+            "id": "PETAL_BLIZZARD",
+            "power": 110,
+            "energy": -100,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Petal Blizzard",
+                "German": "Bl\u00fctenwirbel",
+                "French": "Temp\u00eate Florale",
+                "Italian": "Fiortempesta",
+                "Japanese": "\u306f\u306a\u3075\u3076\u304d",
+                "Korean": "\uaf43\ubcf4\ub77c",
+                "Spanish": "Tormenta Floral"
+            },
+            "combat": {
+                "energy": -65,
+                "power": 110
+            }
+        },
+        "SOLAR_BEAM": {
+            "id": "SOLAR_BEAM",
+            "power": 180,
+            "energy": -100,
+            "durationMs": 4900,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Solar Beam",
+                "German": "Solarstrahl",
+                "French": "Lance-Soleil",
+                "Italian": "Solarraggio",
+                "Japanese": "\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0",
+                "Korean": "\uc194\ub77c\ube54",
+                "Spanish": "Rayo Solar"
+            },
+            "combat": {
+                "energy": -80,
+                "power": 150
+            }
+        }
+    },
+    "eliteQuickMoves": [],
+    "eliteCinematicMoves": {
+        "FRENZY_PLANT": {
+            "id": "FRENZY_PLANT",
+            "power": 100,
+            "energy": -50,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Frenzy Plant",
+                "German": "Flora-Statue",
+                "French": "V\u00e9g\u00e9-Attaque",
+                "Italian": "Radicalbero",
+                "Japanese": "\u30cf\u30fc\u30c9\u30d7\u30e9\u30f3\u30c8",
+                "Korean": "\ud558\ub4dc\ud50c\ub79c\ud2b8",
+                "Spanish": "Planta Feroz"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 100
+            }
+        }
+    },
+    "assets": {
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_003_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_003_00_shiny.png"
+    },
+    "regionForms": [],
+    "hasMegaEvolution": true,
+    "megaEvolutions": {
+        "VENUSAUR_MEGA": {
+            "id": "VENUSAUR_MEGA",
+            "names": {
+                "English": "Mega Venusaur",
+                "German": "Mega-Bisaflor",
+                "French": "M\u00e9ga-Florizarre",
+                "Italian": "MegaVenusaur",
+                "Japanese": "\u30e1\u30ac\u30d5\u30b7\u30ae\u30d0\u30ca",
+                "Korean": "\uba54\uac00\uc774\uc0c1\ud574\uaf43",
+                "Spanish": "Mega-Venusaur"
+            },
+            "stats": {
+                "stamina": 190,
+                "attack": 241,
+                "defense": 246
+            },
+            "primaryType": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "secondaryType": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "assets": {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_003_51.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_003_51_shiny.png"
+            }
+        }
+    }
+}
