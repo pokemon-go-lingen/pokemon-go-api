@@ -1,5 +1,5 @@
 <?xml version = "1.0" encoding = "UTF-8" standalone = "no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-     viewBox="0 0 650 785" width="975"
+     viewBox="0 0 650 735" width="975"
      preserveAspectRatio="none" version="1.1">
     <style>
         .boss-types rect,
@@ -116,10 +116,10 @@
     </g>
 
     <g class="graphic-footer">
-        <rect fill="#000" width="650" height="5" x="0" y="780"/>
+        <rect fill="#000" width="650" height="5" x="0" y="730"/>
     </g>
 
-            <svg id="raidbosswrapper-GIBLE" x="0" y="730" width="100%" height="60">
+            <svg id="raidbosswrapper-GIBLE" x="0" y="680" width="100%" height="60">
             <rect fill="url('#raidBossGradient_lvl1')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -196,7 +196,7 @@
                                 </g>
 
         </svg>
-            <svg id="raidbosswrapper-BUIZEL" x="0" y="680" width="100%" height="60">
+            <svg id="raidbosswrapper-BUIZEL" x="0" y="630" width="100%" height="60">
             <rect fill="url('#raidBossGradient_lvl1')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -259,7 +259,7 @@
                                 </g>
 
         </svg>
-            <svg id="raidbosswrapper-SHINX" x="0" y="630" width="100%" height="60">
+            <svg id="raidbosswrapper-SHINX" x="0" y="580" width="100%" height="60">
             <rect fill="url('#raidBossGradient_lvl1')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -318,7 +318,7 @@
                                 </g>
 
         </svg>
-            <svg id="raidbosswrapper-PIPLUP" x="0" y="580" width="100%" height="60">
+            <svg id="raidbosswrapper-PIPLUP" x="0" y="530" width="100%" height="60">
             <rect fill="url('#raidBossGradient_lvl1')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -381,7 +381,7 @@
                                 </g>
 
         </svg>
-            <svg id="raidbosswrapper-CHIMCHAR" x="0" y="530" width="100%" height="60">
+            <svg id="raidbosswrapper-CHIMCHAR" x="0" y="480" width="100%" height="60">
             <rect fill="url('#raidBossGradient_lvl1')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -448,7 +448,7 @@
                                 </g>
 
         </svg>
-            <svg id="raidbosswrapper-TURTWIG" x="0" y="480" width="100%" height="60">
+            <svg id="raidbosswrapper-TURTWIG" x="0" y="430" width="100%" height="60">
             <rect fill="url('#raidBossGradient_lvl1')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -523,7 +523,7 @@
                                 </g>
 
         </svg>
-            <svg id="raidbosswrapper-LUMINEON" x="0" y="430" width="100%" height="60">
+            <svg id="raidbosswrapper-LUMINEON" x="0" y="380" width="100%" height="60">
             <rect fill="url('#raidBossGradient_lvl3')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -584,7 +584,7 @@
                                 </g>
 
         </svg>
-            <svg id="raidbosswrapper-TOXICROAK" x="0" y="380" width="100%" height="60">
+            <svg id="raidbosswrapper-TOXICROAK" x="0" y="330" width="100%" height="60">
             <rect fill="url('#raidBossGradient_lvl3')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -655,7 +655,7 @@
                                 </g>
 
         </svg>
-            <svg id="raidbosswrapper-HIPPOWDON" x="0" y="330" width="100%" height="60">
+            <svg id="raidbosswrapper-HIPPOWDON" x="0" y="280" width="100%" height="60">
             <rect fill="url('#raidBossGradient_lvl3')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -720,7 +720,7 @@
                                 </g>
 
         </svg>
-            <svg id="raidbosswrapper-LOPUNNY" x="0" y="280" width="100%" height="60">
+            <svg id="raidbosswrapper-LOPUNNY" x="0" y="230" width="100%" height="60">
             <rect fill="url('#raidBossGradient_lvl3')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -774,73 +774,6 @@
                            href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_FIGHTING.png">
                         <title>Fighting 1.6</title>
                     </image>
-                                </g>
-
-        </svg>
-            <svg id="raidbosswrapper-GENESECT_BURN" x="0" y="230" width="100%" height="60">
-            <rect fill="url('#raidBossGradient_lvl5')" width="100%" height="50" x="0" y="0"/>
-
-            <g class="boss-level">
-                <rect width="35" height="50" x="0" y="0"/>
-                <text x="15" y="25">V</text>
-            </g>
-
-            <g class="boss-name">
-                <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">게노세크트</text>
-            </g>
-
-            <g class="boss-image">
-                <rect width="50" height="50" x="35" y="0"/>
-
-                <image width="55" height="55" x="25" y="0"
-                       href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_649_11.png"/>
-                            </g>
-
-            <g class="boss-types">
-                <rect width="70" height="50" x="300" y="0"/>
-                <svg width="70" height="50" x="300" y="0">
-                                    <image x="7" y="12" width="26" height="26" class="pokemon-type-icon"
-                           href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_BUG.png">
-                        <title>Bug</title>
-                    </image>
-                    <image x="38" y="12" width="26" height="26" class="pokemon-type-icon"
-                           href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_STEEL.png">
-                        <title>Bug</title>
-                    </image>
-                                </svg>
-            </g>
-
-            <g class="boss-weather">
-                <rect width="60" height="50" x="370" y="0"/>
-                <svg width="60" height="50" x="370" y="0">
-                                    <image x="5" y="12" width="25" height="25" class="pokemon-type-icon"
-                           href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_rain.png">
-                        <title>rain</title>
-                    </image>
-                    <image x="30" y="12" width="25" height="25" class="pokemon-type-icon"
-                           href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_snow.png">
-                        <title>snow</title>
-                    </image>
-                                </svg>
-            </g>
-
-            <g class="boss-cp-spectrum">
-                <rect width="60" height="50" x="430" y="0"/>
-                <svg width="60" height="50" x="430" y="0">
-                    <text class="normal" x="50%" y="20" dominant-baseline="middle" text-anchor="middle">1833–1916</text>
-                    <text class="boost"  x="50%" y="35" dominant-baseline="middle" text-anchor="middle">2292–2395</text>
-                </svg>
-            </g>
-
-            <g class="boss-counter">
-                <rect width="160" height="50" x="490" y="0"/>
-                                    <image class="image-counter-256" x="560" y="12" width="24" height="24"
-                           href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_FIRE.png">
-                        <title>Fire 2.56</title>
-                    </image>
-                                            <circle class="double-damage" r="8" cx="562" cy="36" />
-                        <text x="556" y="39">2x</text>
                                 </g>
 
         </svg>
