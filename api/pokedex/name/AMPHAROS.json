@@ -290,6 +290,52 @@
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_181_00_shiny.png"
     },
     "regionForms": [],
-    "hasMegaEvolution": false,
-    "megaEvolutions": []
+    "hasMegaEvolution": true,
+    "megaEvolutions": {
+        "AMPHAROS_MEGA": {
+            "id": "AMPHAROS_MEGA",
+            "names": {
+                "English": "Mega Ampharos",
+                "German": "Mega-Ampharos",
+                "French": "M\u00e9ga-Pharamp",
+                "Italian": "MegaAmpharos",
+                "Japanese": "\u30e1\u30ac\u30c7\u30f3\u30ea\u30e5\u30a6",
+                "Korean": "\uba54\uac00\uc804\ub8e1",
+                "Spanish": "Mega-Ampharos"
+            },
+            "stats": {
+                "stamina": 207,
+                "attack": 294,
+                "defense": 203
+            },
+            "primaryType": {
+                "type": "POKEMON_TYPE_ELECTRIC",
+                "names": {
+                    "English": "Electric",
+                    "German": "Elektro",
+                    "French": "\u00c9lectrik",
+                    "Italian": "Elettro",
+                    "Japanese": "\u3067\u3093\u304d",
+                    "Korean": "\uc804\uae30",
+                    "Spanish": "El\u00e9ctrico"
+                }
+            },
+            "secondaryType": {
+                "type": "POKEMON_TYPE_DRAGON",
+                "names": {
+                    "English": "Dragon",
+                    "German": "Drache",
+                    "French": "Dragon",
+                    "Italian": "Drago",
+                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                    "Korean": "\ub4dc\ub798\uace4",
+                    "Spanish": "Drag\u00f3n"
+                }
+            },
+            "assets": {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_181_51.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_181_51_shiny.png"
+            }
+        }
+    }
 }
