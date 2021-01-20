@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         },
         "SNARL_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 13,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         },
         "GUST_FAST": {
@@ -132,7 +134,8 @@
             },
             "combat": {
                 "energy": 12,
-                "power": 16
+                "power": 16,
+                "buffs": null
             }
         }
     },
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         },
         "HURRICANE": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "FOCUS_BLAST": {
@@ -227,7 +232,8 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 140
+                "power": 140,
+                "buffs": null
             }
         },
         "HYPER_BEAM": {
@@ -258,7 +264,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         },
         "PSYCHIC": {
@@ -289,7 +296,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         }
     },
@@ -368,7 +382,8 @@
                     },
                     "combat": {
                         "energy": 10,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "BITE_FAST": {
@@ -399,7 +414,8 @@
                     },
                     "combat": {
                         "energy": 2,
-                        "power": 4
+                        "power": 4,
+                        "buffs": null
                     }
                 },
                 "ZEN_HEADBUTT_FAST": {
@@ -430,7 +446,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 8
+                        "power": 8,
+                        "buffs": null
                     }
                 }
             },
@@ -463,7 +480,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 },
                 "EARTHQUAKE": {
@@ -494,7 +512,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 120
+                        "power": 120,
+                        "buffs": null
                     }
                 },
                 "CRUNCH": {
@@ -525,7 +544,8 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 70
+                        "power": 70,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -556,7 +576,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "BULLDOZE": {
@@ -587,7 +608,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 80
+                        "power": 80,
+                        "buffs": null
                     }
                 }
             },

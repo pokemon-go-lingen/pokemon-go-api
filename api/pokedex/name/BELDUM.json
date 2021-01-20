@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -103,7 +104,8 @@
             },
             "combat": {
                 "energy": -100,
-                "power": 35
+                "power": 35,
+                "buffs": null
             }
         }
     },

@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "DRAGON_TAIL_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 10,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "AERIAL_ACE": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         },
         "ANCIENT_POWER": {
@@ -196,7 +200,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 45
+                "power": 45,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": 2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },
@@ -230,7 +241,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         }
     },

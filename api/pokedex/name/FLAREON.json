@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 7
+                "power": 7,
+                "buffs": null
             }
         },
         "FIRE_SPIN_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 10,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 140
+                "power": 140,
+                "buffs": null
             }
         },
         "FLAMETHROWER": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         },
         "OVERHEAT": {
@@ -185,7 +189,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 130
+                "power": 130,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": -2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },
@@ -219,7 +230,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         },
         "HEAT_WAVE": {
@@ -250,7 +262,8 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 95
+                "power": 95,
+                "buffs": null
             }
         }
     },

@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 4,
-                "power": 10
+                "power": 10,
+                "buffs": null
             }
         },
         "ACID_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "SLUDGE_BOMB": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         },
         "SOLAR_BEAM": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         },
         "LEAF_TORNADO": {
@@ -227,7 +232,14 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 45
+                "power": 45,
+                "buffs": {
+                    "activationChance": 50,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": -2,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "ACID_SPRAY": {
@@ -258,7 +270,14 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 20
+                "power": 20,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -2
+                }
             }
         }
     },

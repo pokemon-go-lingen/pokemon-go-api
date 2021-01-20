@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         },
         "SNARL_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 13,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         },
         "BULLET_PUNCH_FAST": {
@@ -132,7 +134,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         }
     },
@@ -165,7 +168,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 100
+                "power": 100,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": -2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "NIGHT_SLASH": {
@@ -196,7 +206,14 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 50
+                "power": 50,
+                "buffs": {
+                    "activationChance": 12,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "IRON_HEAD": {
@@ -227,7 +244,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "ROCK_SLIDE": {
@@ -258,7 +276,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 75
+                "power": 75,
+                "buffs": null
             }
         }
     },

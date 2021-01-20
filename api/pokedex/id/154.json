@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 4,
-                "power": 10
+                "power": 10,
+                "buffs": null
             }
         },
         "VINE_WHIP_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "SOLAR_BEAM": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         },
         "EARTHQUAKE": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 120
+                "power": 120,
+                "buffs": null
             }
         }
     },
@@ -219,7 +224,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         }
     },

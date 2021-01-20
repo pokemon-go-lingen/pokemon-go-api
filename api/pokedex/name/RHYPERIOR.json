@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 11
+                "power": 11,
+                "buffs": null
             }
         },
         "SMACK_DOWN_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 12
+                "power": 12,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 65
+                "power": 65,
+                "buffs": null
             }
         },
         "EARTHQUAKE": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 120
+                "power": 120,
+                "buffs": null
             }
         },
         "STONE_EDGE": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         },
         "SKULL_BASH": {
@@ -227,7 +232,14 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 130
+                "power": 130,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": 1,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "SUPER_POWER": {
@@ -258,7 +270,14 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 85
+                "power": 85,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": -1,
+                    "attackerDefenseStatsChange": -1,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },
@@ -292,7 +311,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         }
     },

@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "DRAGON_BREATH_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 3,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,14 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 25
+                "power": 25,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         },
         "BULLDOZE": {
@@ -165,7 +174,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         },
         "BUG_BUZZ": {
@@ -196,7 +206,14 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 90
+                "power": 90,
+                "buffs": {
+                    "activationChance": 30,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         }
     },

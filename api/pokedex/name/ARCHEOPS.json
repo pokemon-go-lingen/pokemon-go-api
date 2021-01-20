@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 7
+                "power": 7,
+                "buffs": null
             }
         },
         "WING_ATTACK_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 50
+                "power": 50,
+                "buffs": null
             }
         },
         "ANCIENT_POWER": {
@@ -165,7 +168,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 45
+                "power": 45,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": 2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "CRUNCH": {
@@ -196,7 +206,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         }
     },

@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 16
+                "power": 16,
+                "buffs": null
             }
         },
         "HIDDEN_POWER_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "HYPER_BEAM": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         },
         "SOLAR_BEAM": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         }
     },

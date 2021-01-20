@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         },
         "ROCK_SMASH_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         },
         "CRUNCH": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "ANCIENT_POWER": {
@@ -196,7 +200,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 45
+                "power": 45,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": 2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },

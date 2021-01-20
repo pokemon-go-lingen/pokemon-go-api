@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "BUG_BITE_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 3,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -100,
-                "power": 35
+                "power": 35,
+                "buffs": null
             }
         }
     },
@@ -217,7 +220,8 @@
                     },
                     "combat": {
                         "energy": 12,
-                        "power": 16
+                        "power": 16,
+                        "buffs": null
                     }
                 },
                 "BUG_BITE_FAST": {
@@ -248,7 +252,8 @@
                     },
                     "combat": {
                         "energy": 3,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 }
             },
@@ -281,7 +286,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 70
+                        "power": 70,
+                        "buffs": null
                     }
                 },
                 "ENERGY_BALL": {
@@ -312,7 +318,14 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 90
+                        "power": 90,
+                        "buffs": {
+                            "activationChance": 10,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": -1
+                        }
                     }
                 },
                 "BUG_BUZZ": {
@@ -343,7 +356,14 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 90
+                        "power": 90,
+                        "buffs": {
+                            "activationChance": 30,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": -1
+                        }
                     }
                 }
             },
@@ -429,7 +449,8 @@
                     },
                     "combat": {
                         "energy": 12,
-                        "power": 16
+                        "power": 16,
+                        "buffs": null
                     }
                 },
                 "BUG_BITE_FAST": {
@@ -460,7 +481,8 @@
                     },
                     "combat": {
                         "energy": 3,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 }
             },
@@ -493,7 +515,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 70
+                        "power": 70,
+                        "buffs": null
                     }
                 },
                 "BULLDOZE": {
@@ -524,7 +547,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 80
+                        "power": 80,
+                        "buffs": null
                     }
                 },
                 "BUG_BUZZ": {
@@ -555,7 +579,14 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 90
+                        "power": 90,
+                        "buffs": {
+                            "activationChance": 30,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": -1
+                        }
                     }
                 }
             },
@@ -641,7 +672,8 @@
                     },
                     "combat": {
                         "energy": 12,
-                        "power": 16
+                        "power": 16,
+                        "buffs": null
                     }
                 },
                 "BUG_BITE_FAST": {
@@ -672,7 +704,8 @@
                     },
                     "combat": {
                         "energy": 3,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 }
             },
@@ -705,7 +738,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 70
+                        "power": 70,
+                        "buffs": null
                     }
                 },
                 "IRON_HEAD": {
@@ -736,7 +770,8 @@
                     },
                     "combat": {
                         "energy": -50,
-                        "power": 70
+                        "power": 70,
+                        "buffs": null
                     }
                 },
                 "BUG_BUZZ": {
@@ -767,7 +802,14 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 90
+                        "power": 90,
+                        "buffs": {
+                            "activationChance": 30,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": -1
+                        }
                     }
                 }
             },

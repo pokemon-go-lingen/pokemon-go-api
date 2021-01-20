@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         },
         "STEEL_WING_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 7
+                "power": 7,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         },
         "DRILL_RUN": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         },
         "SKY_ATTACK": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 75
+                "power": 75,
+                "buffs": null
             }
         }
     },
@@ -230,7 +235,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 45
+                "power": 45,
+                "buffs": null
             }
         }
     },

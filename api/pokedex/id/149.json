@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 10,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "STEEL_WING_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 7
+                "power": 7,
+                "buffs": null
             }
         },
         "DRAGON_BREATH_FAST": {
@@ -132,7 +134,8 @@
             },
             "combat": {
                 "energy": 3,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         }
     },
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "HYPER_BEAM": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         },
         "OUTRAGE": {
@@ -227,7 +232,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "DRAGON_CLAW": {
@@ -258,7 +264,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 50
+                "power": 50,
+                "buffs": null
             }
         }
     },
@@ -292,7 +299,14 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 150
+                "power": 150,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": -2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "DRAGON_PULSE": {
@@ -323,7 +337,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         }
     },

@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         },
         "BULLET_SEED_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 13,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "AERIAL_ACE": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         },
         "GRASS_KNOT": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         }
     },

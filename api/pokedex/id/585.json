@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "TAKE_DOWN_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         },
         "SEED_BOMB": {
@@ -165,7 +174,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         },
         "WILD_CHARGE": {
@@ -196,7 +206,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 100
+                "power": 100,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": -2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },
@@ -279,7 +296,8 @@
                     },
                     "combat": {
                         "energy": 2,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 },
                 "TAKE_DOWN_FAST": {
@@ -310,7 +328,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 }
             },
@@ -343,7 +362,14 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 90
+                        "power": 90,
+                        "buffs": {
+                            "activationChance": 10,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": -1
+                        }
                     }
                 },
                 "SEED_BOMB": {
@@ -374,7 +400,8 @@
                     },
                     "combat": {
                         "energy": -40,
-                        "power": 55
+                        "power": 55,
+                        "buffs": null
                     }
                 },
                 "WILD_CHARGE": {
@@ -405,7 +432,14 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 100
+                        "power": 100,
+                        "buffs": {
+                            "activationChance": 100,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": -2,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 }
             },
@@ -491,7 +525,8 @@
                     },
                     "combat": {
                         "energy": 2,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 },
                 "TAKE_DOWN_FAST": {
@@ -522,7 +557,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 }
             },
@@ -555,7 +591,14 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 90
+                        "power": 90,
+                        "buffs": {
+                            "activationChance": 10,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": -1
+                        }
                     }
                 },
                 "SEED_BOMB": {
@@ -586,7 +629,8 @@
                     },
                     "combat": {
                         "energy": -40,
-                        "power": 55
+                        "power": 55,
+                        "buffs": null
                     }
                 },
                 "WILD_CHARGE": {
@@ -617,7 +661,14 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 100
+                        "power": 100,
+                        "buffs": {
+                            "activationChance": 100,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": -2,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 }
             },
@@ -703,7 +754,8 @@
                     },
                     "combat": {
                         "energy": 2,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 },
                 "TAKE_DOWN_FAST": {
@@ -734,7 +786,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 }
             },
@@ -767,7 +820,14 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 90
+                        "power": 90,
+                        "buffs": {
+                            "activationChance": 10,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": -1
+                        }
                     }
                 },
                 "SEED_BOMB": {
@@ -798,7 +858,8 @@
                     },
                     "combat": {
                         "energy": -40,
-                        "power": 55
+                        "power": 55,
+                        "buffs": null
                     }
                 },
                 "WILD_CHARGE": {
@@ -829,7 +890,14 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 100
+                        "power": 100,
+                        "buffs": {
+                            "activationChance": 100,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": -2,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 }
             },
@@ -915,7 +983,8 @@
                     },
                     "combat": {
                         "energy": 2,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 },
                 "TAKE_DOWN_FAST": {
@@ -946,7 +1015,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 }
             },
@@ -979,7 +1049,14 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 90
+                        "power": 90,
+                        "buffs": {
+                            "activationChance": 10,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": -1
+                        }
                     }
                 },
                 "SEED_BOMB": {
@@ -1010,7 +1087,8 @@
                     },
                     "combat": {
                         "energy": -40,
-                        "power": 55
+                        "power": 55,
+                        "buffs": null
                     }
                 },
                 "WILD_CHARGE": {
@@ -1041,7 +1119,14 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 100
+                        "power": 100,
+                        "buffs": {
+                            "activationChance": 100,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": -2,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 }
             },

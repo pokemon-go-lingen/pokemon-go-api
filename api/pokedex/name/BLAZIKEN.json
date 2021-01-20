@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         },
         "FIRE_SPIN_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 10,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 140
+                "power": 140,
+                "buffs": null
             }
         },
         "OVERHEAT": {
@@ -165,7 +168,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 130
+                "power": 130,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": -2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "BRAVE_BIRD": {
@@ -196,7 +206,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 130
+                "power": 130,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": -3,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "BLAZE_KICK": {
@@ -227,7 +244,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         }
     },
@@ -261,7 +279,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "STONE_EDGE": {
@@ -292,7 +311,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         }
     },

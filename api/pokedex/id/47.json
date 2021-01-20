@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "FURY_CUTTER_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 4,
-                "power": 2
+                "power": 2,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 40
+                "power": 40,
+                "buffs": null
             }
         },
         "X_SCISSOR": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 45
+                "power": 45,
+                "buffs": null
             }
         },
         "SOLAR_BEAM": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         }
     },
@@ -229,7 +234,8 @@
             },
             "combat": {
                 "energy": 3,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         }
     },

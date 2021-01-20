@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         },
         "BITE_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         },
         "SUCKER_PUNCH_FAST": {
@@ -121,7 +123,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 65
+                "power": 65,
+                "buffs": null
             }
         },
         "DARK_PULSE": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         },
         "GRASS_KNOT": {
@@ -216,7 +221,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         }
     },

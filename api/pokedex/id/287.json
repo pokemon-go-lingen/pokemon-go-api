@@ -89,7 +89,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 60
+                "power": 60,
+                "buffs": null
             }
         },
         "NIGHT_SLASH": {
@@ -120,7 +121,14 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 50
+                "power": 50,
+                "buffs": {
+                    "activationChance": 12,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "BRICK_BREAK": {
@@ -151,7 +159,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 40
+                "power": 40,
+                "buffs": null
             }
         }
     },

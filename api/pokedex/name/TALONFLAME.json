@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         },
         "FIRE_SPIN_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 10,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "STEEL_WING_FAST": {
@@ -132,7 +134,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 7
+                "power": 7,
+                "buffs": null
             }
         }
     },
@@ -165,7 +168,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 130
+                "power": 130,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": -3,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "FIRE_BLAST": {
@@ -196,7 +206,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 140
+                "power": 140,
+                "buffs": null
             }
         },
         "FLAME_CHARGE": {
@@ -227,7 +238,14 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 65
+                "power": 65,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": 1,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "HURRICANE": {
@@ -258,7 +276,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         }
     },

@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "RAZOR_LEAF_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 4,
-                "power": 10
+                "power": 10,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         },
         "SEED_BOMB": {
@@ -154,7 +163,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         },
         "BODY_SLAM": {
@@ -185,7 +195,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 60
+                "power": 60,
+                "buffs": null
             }
         }
     },

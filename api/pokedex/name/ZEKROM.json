@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 3,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         },
         "CHARGE_BEAM_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 11,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "WILD_CHARGE": {
@@ -165,7 +168,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 100
+                "power": 100,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": -2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "FLASH_CANNON": {
@@ -196,7 +206,8 @@
             },
             "combat": {
                 "energy": -70,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "CRUNCH": {
@@ -227,7 +238,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         }
     },

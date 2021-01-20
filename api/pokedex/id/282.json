@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 12,
-                "power": 16
+                "power": 16,
+                "buffs": null
             }
         },
         "CHARGE_BEAM_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 11,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         },
         "CHARM_FAST": {
@@ -132,7 +134,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 16
+                "power": 16,
+                "buffs": null
             }
         }
     },
@@ -165,7 +168,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         },
         "DAZZLING_GLEAM": {
@@ -196,7 +206,8 @@
             },
             "combat": {
                 "energy": -70,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "SHADOW_BALL": {
@@ -227,7 +238,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         }
     },
@@ -261,7 +273,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         }
     },

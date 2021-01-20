@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "ROCK_THROW_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 50
+                "power": 50,
+                "buffs": null
             }
         },
         "STONE_EDGE": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         },
         "GYRO_BALL": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         }
     },

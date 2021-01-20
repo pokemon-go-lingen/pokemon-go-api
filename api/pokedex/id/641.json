@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         },
         "AIR_SLASH_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         },
         "DARK_PULSE": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         },
         "HYPER_BEAM": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         },
         "HURRICANE": {
@@ -216,7 +221,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         }
     },
@@ -288,7 +294,8 @@
                     },
                     "combat": {
                         "energy": 2,
-                        "power": 4
+                        "power": 4,
+                        "buffs": null
                     }
                 },
                 "AIR_SLASH_FAST": {
@@ -319,7 +326,8 @@
                     },
                     "combat": {
                         "energy": 9,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 }
             },
@@ -352,7 +360,8 @@
                     },
                     "combat": {
                         "energy": -50,
-                        "power": 90
+                        "power": 90,
+                        "buffs": null
                     }
                 },
                 "DARK_PULSE": {
@@ -383,7 +392,8 @@
                     },
                     "combat": {
                         "energy": -50,
-                        "power": 80
+                        "power": 80,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -414,7 +424,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "HURRICANE": {
@@ -445,7 +456,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },
@@ -520,7 +532,8 @@
                     },
                     "combat": {
                         "energy": 2,
-                        "power": 4
+                        "power": 4,
+                        "buffs": null
                     }
                 },
                 "AIR_SLASH_FAST": {
@@ -551,7 +564,8 @@
                     },
                     "combat": {
                         "energy": 9,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 }
             },
@@ -584,7 +598,8 @@
                     },
                     "combat": {
                         "energy": -50,
-                        "power": 90
+                        "power": 90,
+                        "buffs": null
                     }
                 },
                 "DARK_PULSE": {
@@ -615,7 +630,8 @@
                     },
                     "combat": {
                         "energy": -50,
-                        "power": 80
+                        "power": 80,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -646,7 +662,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "HURRICANE": {
@@ -677,7 +694,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },

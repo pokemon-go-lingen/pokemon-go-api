@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 10,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "FEINT_ATTACK_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         },
         "SNARL_FAST": {
@@ -132,7 +134,8 @@
             },
             "combat": {
                 "energy": 13,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         },
         "FOCUS_BLAST": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 140
+                "power": 140,
+                "buffs": null
             }
         },
         "FOUL_PLAY": {
@@ -227,7 +232,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         }
     },

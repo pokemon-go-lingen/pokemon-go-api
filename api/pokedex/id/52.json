@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         },
         "BITE_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,14 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 50
+                "power": 50,
+                "buffs": {
+                    "activationChance": 12,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "DARK_PULSE": {
@@ -154,7 +163,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         },
         "FOUL_PLAY": {
@@ -185,7 +195,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         }
     },
@@ -219,7 +230,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 60
+                "power": 60,
+                "buffs": null
             }
         }
     },
@@ -289,7 +301,8 @@
                     },
                     "combat": {
                         "energy": 2,
-                        "power": 4
+                        "power": 4,
+                        "buffs": null
                     }
                 },
                 "BITE_FAST": {
@@ -320,7 +333,8 @@
                     },
                     "combat": {
                         "energy": 2,
-                        "power": 4
+                        "power": 4,
+                        "buffs": null
                     }
                 }
             },
@@ -353,7 +367,14 @@
                     },
                     "combat": {
                         "energy": -35,
-                        "power": 50
+                        "power": 50,
+                        "buffs": {
+                            "activationChance": 12,
+                            "attackerAttackStatsChange": 2,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 },
                 "DARK_PULSE": {
@@ -384,7 +405,8 @@
                     },
                     "combat": {
                         "energy": -50,
-                        "power": 80
+                        "power": 80,
+                        "buffs": null
                     }
                 },
                 "FOUL_PLAY": {
@@ -415,7 +437,8 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 70
+                        "power": 70,
+                        "buffs": null
                     }
                 }
             },
@@ -490,7 +513,8 @@
                     },
                     "combat": {
                         "energy": 2,
-                        "power": 4
+                        "power": 4,
+                        "buffs": null
                     }
                 },
                 "METAL_CLAW_FAST": {
@@ -521,7 +545,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 }
             },
@@ -554,7 +579,14 @@
                     },
                     "combat": {
                         "energy": -35,
-                        "power": 50
+                        "power": 50,
+                        "buffs": {
+                            "activationChance": 12,
+                            "attackerAttackStatsChange": 2,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 },
                 "GYRO_BALL": {
@@ -585,7 +617,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 80
+                        "power": 80,
+                        "buffs": null
                     }
                 },
                 "DIG": {
@@ -616,7 +649,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 100
+                        "power": 100,
+                        "buffs": null
                     }
                 }
             },

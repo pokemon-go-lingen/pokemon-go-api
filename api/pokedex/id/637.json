@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 10,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "BUG_BITE_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 3,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 130
+                "power": 130,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": -2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "BUG_BUZZ": {
@@ -165,7 +174,14 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 90
+                "power": 90,
+                "buffs": {
+                    "activationChance": 30,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         },
         "SOLAR_BEAM": {
@@ -196,7 +212,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         },
         "HURRICANE": {
@@ -227,7 +244,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         }
     },

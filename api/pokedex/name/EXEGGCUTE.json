@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 12,
-                "power": 16
+                "power": 16,
+                "buffs": null
             }
         },
         "BULLET_SEED_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 13,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         },
         "PSYCHIC": {
@@ -165,7 +168,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         },
         "ANCIENT_POWER": {
@@ -196,7 +206,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 45
+                "power": 45,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": 2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },

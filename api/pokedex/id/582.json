@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         },
         "ASTONISH_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 60
+                "power": 60,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": -1,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "ICE_BEAM": {
@@ -154,7 +163,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         },
         "SIGNAL_BEAM": {
@@ -185,7 +195,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 75
+                "power": 75,
+                "buffs": {
+                    "activationChance": 20,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": -1,
+                    "targetDefenseStatsChange": -1
+                }
             }
         }
     },

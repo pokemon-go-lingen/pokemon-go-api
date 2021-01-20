@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 7
+                "power": 7,
+                "buffs": null
             }
         },
         "AIR_SLASH_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 95
+                "power": 95,
+                "buffs": null
             }
         },
         "BRAVE_BIRD": {
@@ -165,7 +168,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 130
+                "power": 130,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": -3,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "ROCK_SLIDE": {
@@ -196,7 +206,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 75
+                "power": 75,
+                "buffs": null
             }
         },
         "CLOSE_COMBAT": {
@@ -227,7 +238,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 100
+                "power": 100,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": -2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },

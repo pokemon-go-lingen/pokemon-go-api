@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 3,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "SPLASH_FAST": {
@@ -120,7 +121,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 60
+                "power": 60,
+                "buffs": null
             }
         },
         "WATER_PULSE": {
@@ -151,7 +153,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "AQUA_JET": {
@@ -182,7 +185,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 45
+                "power": 45,
+                "buffs": null
             }
         }
     },

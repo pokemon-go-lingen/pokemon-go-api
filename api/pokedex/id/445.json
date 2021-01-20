@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 10,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "MUD_SHOT_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "EARTHQUAKE": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 120
+                "power": 120,
+                "buffs": null
             }
         },
         "FIRE_BLAST": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 140
+                "power": 140,
+                "buffs": null
             }
         },
         "SAND_TOMB": {
@@ -227,7 +232,14 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 25
+                "power": 25,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         }
     },

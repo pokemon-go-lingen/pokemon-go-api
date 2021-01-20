@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 10,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         },
         "HIDDEN_POWER_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 45
+                "power": 45,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": 2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "DAZZLING_GLEAM": {
@@ -165,7 +174,8 @@
             },
             "combat": {
                 "energy": -70,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "AERIAL_ACE": {
@@ -196,7 +206,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         }
     },
@@ -229,7 +240,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 7
+                "power": 7,
+                "buffs": null
             }
         },
         "ZEN_HEADBUTT_FAST": {
@@ -260,7 +272,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         }
     },

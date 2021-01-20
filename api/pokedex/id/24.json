@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         },
         "ACID_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         },
         "DRAGON_TAIL_FAST": {
@@ -121,7 +123,8 @@
             },
             "combat": {
                 "energy": 10,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         }
     },
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         },
         "SLUDGE_WAVE": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "GUNK_SHOT": {
@@ -216,7 +221,8 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 130
+                "power": 130,
+                "buffs": null
             }
         },
         "ACID_SPRAY": {
@@ -247,7 +253,14 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 20
+                "power": 20,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -2
+                }
             }
         }
     },

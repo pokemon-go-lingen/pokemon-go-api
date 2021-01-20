@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 3,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "TAKE_DOWN_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         },
         "HYPER_BEAM": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         },
         "SURF": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 65
+                "power": 65,
+                "buffs": null
             }
         }
     },

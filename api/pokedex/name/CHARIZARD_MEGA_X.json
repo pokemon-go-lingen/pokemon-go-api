@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 10,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "AIR_SLASH_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 140
+                "power": 140,
+                "buffs": null
             }
         },
         "DRAGON_CLAW": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 50
+                "power": 50,
+                "buffs": null
             }
         },
         "OVERHEAT": {
@@ -196,7 +200,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 130
+                "power": 130,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": -2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },
@@ -229,7 +240,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 7
+                "power": 7,
+                "buffs": null
             }
         },
         "WING_ATTACK_FAST": {
@@ -260,7 +272,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         },
         "DRAGON_BREATH_FAST": {
@@ -291,7 +304,8 @@
             },
             "combat": {
                 "energy": 3,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         }
     },
@@ -324,7 +338,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "FLAMETHROWER": {
@@ -355,7 +370,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         }
     },

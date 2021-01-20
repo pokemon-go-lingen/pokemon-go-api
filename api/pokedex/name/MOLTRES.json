@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 10,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "WING_ATTACK_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 140
+                "power": 140,
+                "buffs": null
             }
         },
         "HEAT_WAVE": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 95
+                "power": 95,
+                "buffs": null
             }
         },
         "OVERHEAT": {
@@ -196,7 +200,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 130
+                "power": 130,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": -2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "ANCIENT_POWER": {
@@ -227,7 +238,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 45
+                "power": 45,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": 2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },
@@ -261,7 +279,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 75
+                "power": 75,
+                "buffs": null
             }
         }
     },

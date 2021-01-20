@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 7
+                "power": 7,
+                "buffs": null
             }
         },
         "SHADOW_CLAW_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         },
         "INCINERATE_FAST": {
@@ -121,7 +123,8 @@
             },
             "combat": {
                 "energy": 20,
-                "power": 15
+                "power": 15,
+                "buffs": null
             }
         }
     },
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 140
+                "power": 140,
+                "buffs": null
             }
         },
         "OVERHEAT": {
@@ -185,7 +189,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 130
+                "power": 130,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": -2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "SOLAR_BEAM": {
@@ -216,7 +227,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         }
     },
@@ -250,7 +262,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         }
     },

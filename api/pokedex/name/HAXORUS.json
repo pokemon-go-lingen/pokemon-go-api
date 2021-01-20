@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 10,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "COUNTER_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 50
+                "power": 50,
+                "buffs": null
             }
         },
         "SURF": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 65
+                "power": 65,
+                "buffs": null
             }
         },
         "NIGHT_SLASH": {
@@ -185,7 +189,14 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 50
+                "power": 50,
+                "buffs": {
+                    "activationChance": 12,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "EARTHQUAKE": {
@@ -216,7 +227,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 120
+                "power": 120,
+                "buffs": null
             }
         }
     },

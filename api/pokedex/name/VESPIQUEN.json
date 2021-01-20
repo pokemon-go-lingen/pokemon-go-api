@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 3,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "POISON_STING_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "FURY_CUTTER_FAST": {
@@ -132,7 +134,8 @@
             },
             "combat": {
                 "energy": 4,
-                "power": 2
+                "power": 2,
+                "buffs": null
             }
         },
         "AIR_SLASH_FAST": {
@@ -163,7 +166,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         }
     },
@@ -196,7 +200,14 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 90
+                "power": 90,
+                "buffs": {
+                    "activationChance": 30,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         },
         "POWER_GEM": {
@@ -227,7 +238,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         },
         "X_SCISSOR": {
@@ -258,7 +270,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 45
+                "power": 45,
+                "buffs": null
             }
         },
         "FELL_STINGER": {
@@ -289,7 +302,14 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 20
+                "power": 20,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": 1,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "SIGNAL_BEAM": {
@@ -320,7 +340,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 75
+                "power": 75,
+                "buffs": {
+                    "activationChance": 20,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": -1,
+                    "targetDefenseStatsChange": -1
+                }
             }
         }
     },

@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "DRAGON_TAIL_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 10,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 120
+                "power": 120,
+                "buffs": null
             }
         },
         "DRAGON_CLAW": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 50
+                "power": 50,
+                "buffs": null
             }
         },
         "STONE_EDGE": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         }
     },
@@ -230,7 +235,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         }
     },

@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "ZEN_HEADBUTT_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         },
         "GRASS_KNOT": {
@@ -154,7 +163,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         },
         "SOLAR_BEAM": {
@@ -185,7 +195,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         }
     },
@@ -257,7 +268,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "ZEN_HEADBUTT_FAST": {
@@ -288,7 +300,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 8
+                        "power": 8,
+                        "buffs": null
                     }
                 }
             },
@@ -321,7 +334,14 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 90
+                        "power": 90,
+                        "buffs": {
+                            "activationChance": 10,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": -1
+                        }
                     }
                 },
                 "GRASS_KNOT": {
@@ -352,7 +372,8 @@
                     },
                     "combat": {
                         "energy": -50,
-                        "power": 90
+                        "power": 90,
+                        "buffs": null
                     }
                 },
                 "SOLAR_BEAM": {
@@ -383,7 +404,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 }
             },
@@ -469,7 +491,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "ZEN_HEADBUTT_FAST": {
@@ -500,7 +523,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 8
+                        "power": 8,
+                        "buffs": null
                     }
                 }
             },
@@ -533,7 +557,14 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 90
+                        "power": 90,
+                        "buffs": {
+                            "activationChance": 10,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": -1
+                        }
                     }
                 },
                 "GRASS_KNOT": {
@@ -564,7 +595,8 @@
                     },
                     "combat": {
                         "energy": -50,
-                        "power": 90
+                        "power": 90,
+                        "buffs": null
                     }
                 },
                 "SOLAR_BEAM": {
@@ -595,7 +627,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 }
             },

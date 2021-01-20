@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 3,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         },
         "STEEL_WING_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 7
+                "power": 7,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 50
+                "power": 50,
+                "buffs": null
             }
         },
         "BLIZZARD": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 140
+                "power": 140,
+                "buffs": null
             }
         },
         "DRACO_METEOR": {
@@ -196,7 +200,14 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 150
+                "power": 150,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": -2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },
@@ -279,7 +290,8 @@
                     },
                     "combat": {
                         "energy": 10,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -310,7 +322,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -343,7 +356,8 @@
                     },
                     "combat": {
                         "energy": -50,
-                        "power": 70
+                        "power": 70,
+                        "buffs": null
                     }
                 },
                 "BLIZZARD": {
@@ -374,7 +388,8 @@
                     },
                     "combat": {
                         "energy": -75,
-                        "power": 140
+                        "power": 140,
+                        "buffs": null
                     }
                 },
                 "STONE_EDGE": {
@@ -405,7 +420,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 100
+                        "power": 100,
+                        "buffs": null
                     }
                 },
                 "OUTRAGE": {
@@ -436,7 +452,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },
@@ -522,7 +539,8 @@
                     },
                     "combat": {
                         "energy": 3,
-                        "power": 4
+                        "power": 4,
+                        "buffs": null
                     }
                 },
                 "STEEL_WING_FAST": {
@@ -553,7 +571,8 @@
                     },
                     "combat": {
                         "energy": 5,
-                        "power": 7
+                        "power": 7,
+                        "buffs": null
                     }
                 }
             },
@@ -586,7 +605,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 90
+                        "power": 90,
+                        "buffs": null
                     }
                 },
                 "BLIZZARD": {
@@ -617,7 +637,8 @@
                     },
                     "combat": {
                         "energy": -75,
-                        "power": 140
+                        "power": 140,
+                        "buffs": null
                     }
                 },
                 "ANCIENT_POWER": {
@@ -648,7 +669,14 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 45
+                        "power": 45,
+                        "buffs": {
+                            "activationChance": 10,
+                            "attackerAttackStatsChange": 2,
+                            "attackerDefenseStatsChange": 2,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 },
                 "FOCUS_BLAST": {
@@ -679,7 +707,8 @@
                     },
                     "combat": {
                         "energy": -75,
-                        "power": 140
+                        "power": 140,
+                        "buffs": null
                     }
                 }
             },

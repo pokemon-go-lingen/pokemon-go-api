@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 11
+                "power": 11,
+                "buffs": null
             }
         },
         "QUICK_ATTACK_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         },
         "BULLDOZE": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         },
         "EARTHQUAKE": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 120
+                "power": 120,
+                "buffs": null
             }
         }
     },

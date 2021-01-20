@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         },
         "POISON_JAB_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 130
+                "power": 130,
+                "buffs": null
             }
         },
         "SLUDGE_WAVE": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "BLIZZARD": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 140
+                "power": 140,
+                "buffs": null
             }
         },
         "ACID_SPRAY": {
@@ -227,7 +232,14 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 20
+                "power": 20,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -2
+                }
             }
         }
     },

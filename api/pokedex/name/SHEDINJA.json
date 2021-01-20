@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 3,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "SHADOW_CLAW_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 50
+                "power": 50,
+                "buffs": null
             }
         },
         "AERIAL_ACE": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         },
         "DIG": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         }
     },
@@ -229,7 +234,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         }
     },

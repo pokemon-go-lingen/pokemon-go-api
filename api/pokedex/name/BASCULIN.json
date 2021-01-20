@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "WATER_GUN_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 3,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 45
+                "power": 45,
+                "buffs": null
             }
         },
         "AQUA_TAIL": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 50
+                "power": 50,
+                "buffs": null
             }
         },
         "MUDDY_WATER": {
@@ -185,7 +189,14 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 35
+                "power": 35,
+                "buffs": {
+                    "activationChance": 30,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": -1,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },
@@ -257,7 +268,8 @@
                     },
                     "combat": {
                         "energy": 2,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 },
                 "WATER_GUN_FAST": {
@@ -288,7 +300,8 @@
                     },
                     "combat": {
                         "energy": 3,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 }
             },
@@ -321,7 +334,8 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 45
+                        "power": 45,
+                        "buffs": null
                     }
                 },
                 "AQUA_TAIL": {
@@ -352,7 +366,8 @@
                     },
                     "combat": {
                         "energy": -35,
-                        "power": 50
+                        "power": 50,
+                        "buffs": null
                     }
                 },
                 "MUDDY_WATER": {
@@ -383,7 +398,14 @@
                     },
                     "combat": {
                         "energy": -35,
-                        "power": 35
+                        "power": 35,
+                        "buffs": {
+                            "activationChance": 30,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": -1,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 }
             },
@@ -458,7 +480,8 @@
                     },
                     "combat": {
                         "energy": 2,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 },
                 "WATER_GUN_FAST": {
@@ -489,7 +512,8 @@
                     },
                     "combat": {
                         "energy": 3,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 }
             },
@@ -522,7 +546,8 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 45
+                        "power": 45,
+                        "buffs": null
                     }
                 },
                 "AQUA_TAIL": {
@@ -553,7 +578,8 @@
                     },
                     "combat": {
                         "energy": -35,
-                        "power": 50
+                        "power": 50,
+                        "buffs": null
                     }
                 },
                 "MUDDY_WATER": {
@@ -584,7 +610,14 @@
                     },
                     "combat": {
                         "energy": -35,
-                        "power": 35
+                        "power": 35,
+                        "buffs": {
+                            "activationChance": 30,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": -1,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 }
             },

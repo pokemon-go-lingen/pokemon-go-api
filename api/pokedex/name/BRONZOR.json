@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "CONFUSION_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 12,
-                "power": 16
+                "power": 16,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         },
         "PSYSHOCK": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "HEAVY_SLAM": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         }
     },

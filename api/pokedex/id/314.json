@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "TACKLE_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 45
+                "power": 45,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": 2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "BUG_BUZZ": {
@@ -154,7 +163,14 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 90
+                "power": 90,
+                "buffs": {
+                    "activationChance": 30,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         },
         "DAZZLING_GLEAM": {
@@ -185,7 +201,8 @@
             },
             "combat": {
                 "energy": -70,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         }
     },

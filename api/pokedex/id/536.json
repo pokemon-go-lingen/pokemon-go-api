@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "BUBBLE_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 11,
-                "power": 7
+                "power": 7,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "EARTH_POWER": {
@@ -165,7 +168,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         },
         "SLUDGE_WAVE": {
@@ -196,7 +206,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         }
     },

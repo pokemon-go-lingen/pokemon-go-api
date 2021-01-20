@@ -89,7 +89,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         },
         "PLAY_ROUGH": {
@@ -120,7 +121,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         },
         "EARTHQUAKE": {
@@ -151,7 +153,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 120
+                "power": 120,
+                "buffs": null
             }
         }
     },
@@ -185,7 +188,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 60
+                "power": 60,
+                "buffs": null
             }
         }
     },

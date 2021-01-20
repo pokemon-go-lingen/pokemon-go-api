@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 7
+                "power": 7,
+                "buffs": null
             }
         },
         "ROCK_THROW_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 95
+                "power": 95,
+                "buffs": null
             }
         },
         "OVERHEAT": {
@@ -165,7 +168,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 130
+                "power": 130,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": -2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "STONE_EDGE": {
@@ -196,7 +206,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         }
     },

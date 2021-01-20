@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 11,
-                "power": 7
+                "power": 7,
+                "buffs": null
             }
         },
         "ROCK_SMASH_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "MUD_SHOT_FAST": {
@@ -132,7 +134,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         }
     },
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 130
+                "power": 130,
+                "buffs": null
             }
         },
         "DYNAMIC_PUNCH": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         },
         "ICE_PUNCH": {
@@ -227,7 +232,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         },
         "POWER_UP_PUNCH": {
@@ -258,7 +264,14 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 20
+                "power": 20,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": 1,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },
@@ -292,7 +305,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 60
+                "power": 60,
+                "buffs": null
             }
         }
     },

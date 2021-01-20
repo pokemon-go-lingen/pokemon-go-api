@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 7
+                "power": 7,
+                "buffs": null
             }
         },
         "BITE_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         },
         "ROCK_THROW_FAST": {
@@ -132,7 +134,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         }
     },
@@ -165,7 +168,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 45
+                "power": 45,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": 2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "IRON_HEAD": {
@@ -196,7 +206,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "HYPER_BEAM": {
@@ -227,7 +238,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         },
         "ROCK_SLIDE": {
@@ -258,7 +270,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 75
+                "power": 75,
+                "buffs": null
             }
         },
         "EARTH_POWER": {
@@ -289,7 +302,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         }
     },

@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 11
+                "power": 11,
+                "buffs": null
             }
         },
         "ROCK_SMASH_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 40
+                "power": 40,
+                "buffs": null
             }
         },
         "DIG": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         },
         "EARTHQUAKE": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 120
+                "power": 120,
+                "buffs": null
             }
         }
     },
@@ -268,7 +273,8 @@
                     },
                     "combat": {
                         "energy": 12,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 },
                 "ROCK_SMASH_FAST": {
@@ -299,7 +305,8 @@
                     },
                     "combat": {
                         "energy": 7,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "FIRE_SPIN_FAST": {
@@ -330,7 +337,8 @@
                     },
                     "combat": {
                         "energy": 10,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 }
             },
@@ -363,7 +371,8 @@
                     },
                     "combat": {
                         "energy": -35,
-                        "power": 40
+                        "power": 40,
+                        "buffs": null
                     }
                 },
                 "SHADOW_BALL": {
@@ -394,7 +403,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 100
+                        "power": 100,
+                        "buffs": null
                     }
                 },
                 "FIRE_BLAST": {
@@ -425,7 +435,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 140
+                        "power": 140,
+                        "buffs": null
                     }
                 },
                 "FLAME_WHEEL": {
@@ -456,7 +467,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 60
+                        "power": 60,
+                        "buffs": null
                     }
                 }
             },
@@ -490,7 +502,14 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 75
+                        "power": 75,
+                        "buffs": {
+                            "activationChance": 20,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": -1
+                        }
                     }
                 }
             },

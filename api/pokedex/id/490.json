@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 12
+                "power": 12,
+                "buffs": null
             }
         },
         "BUBBLE_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 11,
-                "power": 7
+                "power": 7,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,14 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 25
+                "power": 25,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": -1,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "PSYCHIC": {
@@ -154,7 +163,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         },
         "SURF": {
@@ -185,7 +201,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 65
+                "power": 65,
+                "buffs": null
             }
         }
     },

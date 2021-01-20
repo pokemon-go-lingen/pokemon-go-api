@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         },
         "RAZOR_LEAF_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 4,
-                "power": 10
+                "power": 10,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         },
         "SOLAR_BEAM": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         },
         "EARTHQUAKE": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 120
+                "power": 120,
+                "buffs": null
             }
         },
         "SAND_TOMB": {
@@ -227,7 +232,14 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 25
+                "power": 25,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         }
     },
@@ -261,7 +273,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         }
     },

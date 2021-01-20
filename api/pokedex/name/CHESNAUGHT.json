@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         },
         "VINE_WHIP_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         },
         "SMACK_DOWN_FAST": {
@@ -132,7 +134,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 12
+                "power": 12,
+                "buffs": null
             }
         }
     },
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         },
         "ENERGY_BALL": {
@@ -196,7 +200,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         },
         "SUPER_POWER": {
@@ -227,7 +238,14 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 85
+                "power": 85,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": -1,
+                    "attackerDefenseStatsChange": -1,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "SOLAR_BEAM": {
@@ -258,7 +276,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         }
     },

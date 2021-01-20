@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "LOW_KICK_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         },
         "WILD_CHARGE": {
@@ -154,7 +157,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 100
+                "power": 100,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": -2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "THUNDER": {
@@ -185,7 +195,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         },
         "ICE_PUNCH": {
@@ -216,7 +227,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         }
     },
@@ -250,7 +262,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         }
     },

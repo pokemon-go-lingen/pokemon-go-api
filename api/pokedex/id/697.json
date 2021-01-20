@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 10,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "CHARM_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 16
+                "power": 16,
+                "buffs": null
             }
         },
         "ROCK_THROW_FAST": {
@@ -132,7 +134,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         }
     },
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "STONE_EDGE": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         },
         "OUTRAGE": {
@@ -227,7 +232,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "EARTHQUAKE": {
@@ -258,7 +264,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 120
+                "power": 120,
+                "buffs": null
             }
         }
     },

@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "INFESTATION_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 12,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         },
         "BITE_FAST": {
@@ -132,7 +134,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         },
         "ICE_FANG_FAST": {
@@ -163,7 +166,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         }
     },
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "AQUA_TAIL": {
@@ -227,7 +232,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 50
+                "power": 50,
+                "buffs": null
             }
         },
         "SLUDGE_BOMB": {
@@ -258,7 +264,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         },
         "FELL_STINGER": {
@@ -289,7 +296,14 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 20
+                "power": 20,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": 1,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },

@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 13,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         },
         "FEINT_ATTACK_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 140
+                "power": 140,
+                "buffs": null
             }
         },
         "SHADOW_BALL": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         },
         "DARK_PULSE": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         }
     },

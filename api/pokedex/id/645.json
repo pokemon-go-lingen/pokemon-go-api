@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "ROCK_THROW_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         },
         "OUTRAGE": {
@@ -165,7 +174,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "ROCK_SLIDE": {
@@ -196,7 +206,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 75
+                "power": 75,
+                "buffs": null
             }
         },
         "FOCUS_BLAST": {
@@ -227,7 +238,8 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 140
+                "power": 140,
+                "buffs": null
             }
         }
     },
@@ -310,7 +322,8 @@
                     },
                     "combat": {
                         "energy": 9,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 },
                 "ROCK_THROW_FAST": {
@@ -341,7 +354,8 @@
                     },
                     "combat": {
                         "energy": 5,
-                        "power": 8
+                        "power": 8,
+                        "buffs": null
                     }
                 }
             },
@@ -374,7 +388,14 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 90
+                        "power": 90,
+                        "buffs": {
+                            "activationChance": 10,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": -1
+                        }
                     }
                 },
                 "OUTRAGE": {
@@ -405,7 +426,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 },
                 "ROCK_SLIDE": {
@@ -436,7 +458,8 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 75
+                        "power": 75,
+                        "buffs": null
                     }
                 },
                 "FOCUS_BLAST": {
@@ -467,7 +490,8 @@
                     },
                     "combat": {
                         "energy": -75,
-                        "power": 140
+                        "power": 140,
+                        "buffs": null
                     }
                 }
             },
@@ -553,7 +577,8 @@
                     },
                     "combat": {
                         "energy": 9,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 },
                 "ROCK_THROW_FAST": {
@@ -584,7 +609,8 @@
                     },
                     "combat": {
                         "energy": 5,
-                        "power": 8
+                        "power": 8,
+                        "buffs": null
                     }
                 }
             },
@@ -617,7 +643,14 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 90
+                        "power": 90,
+                        "buffs": {
+                            "activationChance": 10,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": -1
+                        }
                     }
                 },
                 "OUTRAGE": {
@@ -648,7 +681,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 },
                 "ROCK_SLIDE": {
@@ -679,7 +713,8 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 75
+                        "power": 75,
+                        "buffs": null
                     }
                 },
                 "FOCUS_BLAST": {
@@ -710,7 +745,8 @@
                     },
                     "combat": {
                         "energy": -75,
-                        "power": 140
+                        "power": 140,
+                        "buffs": null
                     }
                 }
             },

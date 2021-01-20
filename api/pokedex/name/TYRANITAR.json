@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         },
         "IRON_TAIL_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 140
+                "power": 140,
+                "buffs": null
             }
         },
         "CRUNCH": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "STONE_EDGE": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         }
     },
@@ -229,7 +234,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 12
+                "power": 12,
+                "buffs": null
             }
         }
     },

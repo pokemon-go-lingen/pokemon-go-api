@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "BUG_BITE_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 3,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,14 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 50
+                "power": 50,
+                "buffs": {
+                    "activationChance": 12,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "SIGNAL_BEAM": {
@@ -165,7 +174,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 75
+                "power": 75,
+                "buffs": {
+                    "activationChance": 20,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": -1,
+                    "targetDefenseStatsChange": -1
+                }
             }
         },
         "CROSS_POISON": {
@@ -196,7 +212,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 40
+                "power": 40,
+                "buffs": null
             }
         }
     },

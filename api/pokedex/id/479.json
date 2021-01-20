@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         },
         "THUNDER_SHOCK_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 45
+                "power": 45,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": 2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "THUNDERBOLT": {
@@ -165,7 +174,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         },
         "THUNDER": {
@@ -196,7 +206,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         }
     },
@@ -279,7 +290,8 @@
                     },
                     "combat": {
                         "energy": 9,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 },
                 "AIR_SLASH_FAST": {
@@ -310,7 +322,8 @@
                     },
                     "combat": {
                         "energy": 9,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 }
             },
@@ -343,7 +356,14 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 45
+                        "power": 45,
+                        "buffs": {
+                            "activationChance": 10,
+                            "attackerAttackStatsChange": 2,
+                            "attackerDefenseStatsChange": 2,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 },
                 "THUNDERBOLT": {
@@ -374,7 +394,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 90
+                        "power": 90,
+                        "buffs": null
                     }
                 },
                 "THUNDER": {
@@ -405,7 +426,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 100
+                        "power": 100,
+                        "buffs": null
                     }
                 }
             },
@@ -491,7 +513,8 @@
                     },
                     "combat": {
                         "energy": 9,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 },
                 "THUNDER_SHOCK_FAST": {
@@ -522,7 +545,8 @@
                     },
                     "combat": {
                         "energy": 9,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 }
             },
@@ -555,7 +579,8 @@
                     },
                     "combat": {
                         "energy": -75,
-                        "power": 140
+                        "power": 140,
+                        "buffs": null
                     }
                 },
                 "THUNDERBOLT": {
@@ -586,7 +611,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 90
+                        "power": 90,
+                        "buffs": null
                     }
                 },
                 "THUNDER": {
@@ -617,7 +643,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 100
+                        "power": 100,
+                        "buffs": null
                     }
                 }
             },
@@ -703,7 +730,8 @@
                     },
                     "combat": {
                         "energy": 9,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 },
                 "THUNDER_SHOCK_FAST": {
@@ -734,7 +762,8 @@
                     },
                     "combat": {
                         "energy": 9,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 }
             },
@@ -767,7 +796,14 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 130
+                        "power": 130,
+                        "buffs": {
+                            "activationChance": 100,
+                            "attackerAttackStatsChange": -2,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 },
                 "THUNDERBOLT": {
@@ -798,7 +834,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 90
+                        "power": 90,
+                        "buffs": null
                     }
                 },
                 "THUNDER": {
@@ -829,7 +866,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 100
+                        "power": 100,
+                        "buffs": null
                     }
                 }
             },
@@ -915,7 +953,8 @@
                     },
                     "combat": {
                         "energy": 9,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 },
                 "THUNDER_SHOCK_FAST": {
@@ -946,7 +985,8 @@
                     },
                     "combat": {
                         "energy": 9,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 }
             },
@@ -979,7 +1019,14 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 45
+                        "power": 45,
+                        "buffs": {
+                            "activationChance": 10,
+                            "attackerAttackStatsChange": 2,
+                            "attackerDefenseStatsChange": 2,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 },
                 "THUNDERBOLT": {
@@ -1010,7 +1057,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 90
+                        "power": 90,
+                        "buffs": null
                     }
                 },
                 "THUNDER": {
@@ -1041,7 +1089,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 100
+                        "power": 100,
+                        "buffs": null
                     }
                 }
             },
@@ -1127,7 +1176,8 @@
                     },
                     "combat": {
                         "energy": 9,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 },
                 "THUNDER_SHOCK_FAST": {
@@ -1158,7 +1208,8 @@
                     },
                     "combat": {
                         "energy": 9,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 }
             },
@@ -1191,7 +1242,8 @@
                     },
                     "combat": {
                         "energy": -75,
-                        "power": 130
+                        "power": 130,
+                        "buffs": null
                     }
                 },
                 "THUNDERBOLT": {
@@ -1222,7 +1274,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 90
+                        "power": 90,
+                        "buffs": null
                     }
                 },
                 "THUNDER": {
@@ -1253,7 +1306,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 100
+                        "power": 100,
+                        "buffs": null
                     }
                 }
             },

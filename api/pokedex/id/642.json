@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         },
         "THUNDER_SHOCK_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "THUNDER": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         },
         "BRICK_BREAK": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 40
+                "power": 40,
+                "buffs": null
             }
         },
         "THUNDER_PUNCH": {
@@ -227,7 +232,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         }
     },
@@ -310,7 +316,8 @@
                     },
                     "combat": {
                         "energy": 9,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 },
                 "THUNDER_SHOCK_FAST": {
@@ -341,7 +348,8 @@
                     },
                     "combat": {
                         "energy": 9,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 }
             },
@@ -374,7 +382,8 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 70
+                        "power": 70,
+                        "buffs": null
                     }
                 },
                 "THUNDER": {
@@ -405,7 +414,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 100
+                        "power": 100,
+                        "buffs": null
                     }
                 },
                 "BRICK_BREAK": {
@@ -436,7 +446,8 @@
                     },
                     "combat": {
                         "energy": -35,
-                        "power": 40
+                        "power": 40,
+                        "buffs": null
                     }
                 },
                 "THUNDER_PUNCH": {
@@ -467,7 +478,8 @@
                     },
                     "combat": {
                         "energy": -40,
-                        "power": 55
+                        "power": 55,
+                        "buffs": null
                     }
                 }
             },
@@ -553,7 +565,8 @@
                     },
                     "combat": {
                         "energy": 9,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 },
                 "THUNDER_SHOCK_FAST": {
@@ -584,7 +597,8 @@
                     },
                     "combat": {
                         "energy": 9,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 }
             },
@@ -617,7 +631,8 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 70
+                        "power": 70,
+                        "buffs": null
                     }
                 },
                 "THUNDER": {
@@ -648,7 +663,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 100
+                        "power": 100,
+                        "buffs": null
                     }
                 },
                 "BRICK_BREAK": {
@@ -679,7 +695,8 @@
                     },
                     "combat": {
                         "energy": -35,
-                        "power": 40
+                        "power": 40,
+                        "buffs": null
                     }
                 },
                 "THUNDER_PUNCH": {
@@ -710,7 +727,8 @@
                     },
                     "combat": {
                         "energy": -40,
-                        "power": 55
+                        "power": 55,
+                        "buffs": null
                     }
                 }
             },

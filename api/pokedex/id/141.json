@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "ROCK_SMASH_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "WATERFALL_FAST": {
@@ -132,7 +134,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 12
+                "power": 12,
+                "buffs": null
             }
         }
     },
@@ -165,7 +168,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 45
+                "power": 45,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": 2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "WATER_PULSE": {
@@ -196,7 +206,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "STONE_EDGE": {
@@ -227,7 +238,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         }
     },
@@ -260,7 +272,8 @@
             },
             "combat": {
                 "energy": 4,
-                "power": 2
+                "power": 2,
+                "buffs": null
             }
         }
     },

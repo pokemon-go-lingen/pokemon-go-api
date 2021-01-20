@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 11,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         },
         "VOLT_SWITCH_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 16,
-                "power": 12
+                "power": 12,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         },
         "FOCUS_BLAST": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 140
+                "power": 140,
+                "buffs": null
             }
         },
         "THUNDER": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         },
         "POWER_GEM": {
@@ -216,7 +221,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         },
         "THUNDER_PUNCH": {
@@ -247,7 +253,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         }
     },
@@ -281,7 +288,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         }
     },

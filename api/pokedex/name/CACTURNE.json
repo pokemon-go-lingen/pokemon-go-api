@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         },
         "SUCKER_PUNCH_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         },
         "DYNAMIC_PUNCH": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         },
         "GRASS_KNOT": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         }
     },

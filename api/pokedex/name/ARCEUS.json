@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "SHADOW_CLAW_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 120
+                "power": 120,
+                "buffs": null
             }
         },
         "HYPER_BEAM": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         },
         "OUTRAGE": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         }
     },
@@ -257,7 +262,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -288,7 +294,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -321,7 +328,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 120
+                        "power": 120,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -352,7 +360,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "OUTRAGE": {
@@ -383,7 +392,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },
@@ -458,7 +468,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -489,7 +500,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -522,7 +534,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 120
+                        "power": 120,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -553,7 +566,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "OUTRAGE": {
@@ -584,7 +598,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },
@@ -659,7 +674,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -690,7 +706,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -723,7 +740,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 120
+                        "power": 120,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -754,7 +772,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "OUTRAGE": {
@@ -785,7 +804,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },
@@ -860,7 +880,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -891,7 +912,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -924,7 +946,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 120
+                        "power": 120,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -955,7 +978,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "OUTRAGE": {
@@ -986,7 +1010,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },
@@ -1061,7 +1086,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -1092,7 +1118,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -1125,7 +1152,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 120
+                        "power": 120,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -1156,7 +1184,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "OUTRAGE": {
@@ -1187,7 +1216,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },
@@ -1262,7 +1292,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -1293,7 +1324,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -1326,7 +1358,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 120
+                        "power": 120,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -1357,7 +1390,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "OUTRAGE": {
@@ -1388,7 +1422,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },
@@ -1463,7 +1498,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -1494,7 +1530,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -1527,7 +1564,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 120
+                        "power": 120,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -1558,7 +1596,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "OUTRAGE": {
@@ -1589,7 +1628,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },
@@ -1664,7 +1704,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -1695,7 +1736,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -1728,7 +1770,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 120
+                        "power": 120,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -1759,7 +1802,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "OUTRAGE": {
@@ -1790,7 +1834,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },
@@ -1865,7 +1910,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -1896,7 +1942,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -1929,7 +1976,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 120
+                        "power": 120,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -1960,7 +2008,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "OUTRAGE": {
@@ -1991,7 +2040,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },
@@ -2066,7 +2116,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -2097,7 +2148,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -2130,7 +2182,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 120
+                        "power": 120,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -2161,7 +2214,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "OUTRAGE": {
@@ -2192,7 +2246,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },
@@ -2267,7 +2322,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -2298,7 +2354,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -2331,7 +2388,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 120
+                        "power": 120,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -2362,7 +2420,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "OUTRAGE": {
@@ -2393,7 +2452,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },
@@ -2468,7 +2528,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -2499,7 +2560,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -2532,7 +2594,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 120
+                        "power": 120,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -2563,7 +2626,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "OUTRAGE": {
@@ -2594,7 +2658,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },
@@ -2669,7 +2734,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -2700,7 +2766,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -2733,7 +2800,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 120
+                        "power": 120,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -2764,7 +2832,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "OUTRAGE": {
@@ -2795,7 +2864,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },
@@ -2870,7 +2940,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -2901,7 +2972,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -2934,7 +3006,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 120
+                        "power": 120,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -2965,7 +3038,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "OUTRAGE": {
@@ -2996,7 +3070,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },
@@ -3071,7 +3146,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -3102,7 +3178,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -3135,7 +3212,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 120
+                        "power": 120,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -3166,7 +3244,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "OUTRAGE": {
@@ -3197,7 +3276,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },
@@ -3272,7 +3352,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -3303,7 +3384,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -3336,7 +3418,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 120
+                        "power": 120,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -3367,7 +3450,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "OUTRAGE": {
@@ -3398,7 +3482,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },
@@ -3473,7 +3558,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -3504,7 +3590,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -3537,7 +3624,8 @@
                     },
                     "combat": {
                         "energy": -65,
-                        "power": 120
+                        "power": 120,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -3568,7 +3656,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "OUTRAGE": {
@@ -3599,7 +3688,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 }
             },

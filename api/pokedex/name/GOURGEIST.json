@@ -66,7 +66,8 @@
             },
             "combat": {
                 "energy": 12,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         },
         "RAZOR_LEAF_FAST": {
@@ -97,7 +98,8 @@
             },
             "combat": {
                 "energy": 4,
-                "power": 10
+                "power": 10,
+                "buffs": null
             }
         }
     },
@@ -130,7 +132,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         },
         "SHADOW_BALL": {
@@ -161,7 +164,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         },
         "FOUL_PLAY": {
@@ -192,7 +196,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "FIRE_BLAST": {
@@ -223,7 +228,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 140
+                "power": 140,
+                "buffs": null
             }
         }
     },

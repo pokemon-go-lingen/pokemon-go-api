@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         },
         "FURY_CUTTER_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 4,
-                "power": 2
+                "power": 2,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 75
+                "power": 75,
+                "buffs": {
+                    "activationChance": 20,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": -1,
+                    "targetDefenseStatsChange": -1
+                }
             }
         },
         "X_SCISSOR": {
@@ -154,7 +163,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 45
+                "power": 45,
+                "buffs": null
             }
         },
         "DRILL_RUN": {
@@ -185,7 +195,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         },
         "AERIAL_ACE": {
@@ -216,7 +227,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         }
     },

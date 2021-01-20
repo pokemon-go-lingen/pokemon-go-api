@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 16
+                "power": 16,
+                "buffs": null
             }
         },
         "HIDDEN_POWER_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         },
         "SEED_BOMB": {
@@ -154,7 +163,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         }
     },

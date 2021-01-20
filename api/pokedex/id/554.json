@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "FIRE_FANG_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         },
         "FLAME_CHARGE": {
@@ -154,7 +157,14 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 65
+                "power": 65,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": 1,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },
@@ -226,7 +236,8 @@
                     },
                     "combat": {
                         "energy": 2,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 },
                 "ICE_FANG_FAST": {
@@ -257,7 +268,8 @@
                     },
                     "combat": {
                         "energy": 5,
-                        "power": 8
+                        "power": 8,
+                        "buffs": null
                     }
                 }
             },
@@ -290,7 +302,8 @@
                     },
                     "combat": {
                         "energy": -40,
-                        "power": 55
+                        "power": 55,
+                        "buffs": null
                     }
                 },
                 "ICE_BEAM": {
@@ -321,7 +334,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 90
+                        "power": 90,
+                        "buffs": null
                     }
                 }
             },

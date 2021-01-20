@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 11,
-                "power": 7
+                "power": 7,
+                "buffs": null
             }
         },
         "RAZOR_LEAF_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 4,
-                "power": 10
+                "power": 10,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,14 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 25
+                "power": 25,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": -1,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "ICE_BEAM": {
@@ -165,7 +174,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         },
         "GRASS_KNOT": {
@@ -196,7 +206,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         }
     },

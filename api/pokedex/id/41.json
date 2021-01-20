@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         },
         "BITE_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 40
+                "power": 40,
+                "buffs": null
             }
         },
         "AIR_CUTTER": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 60
+                "power": 60,
+                "buffs": null
             }
         },
         "SWIFT": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 60
+                "power": 60,
+                "buffs": null
             }
         }
     },
@@ -230,7 +235,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         }
     },

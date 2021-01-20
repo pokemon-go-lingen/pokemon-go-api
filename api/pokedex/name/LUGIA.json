@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 10,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         },
         "DRAGON_TAIL_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 10,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 75
+                "power": 75,
+                "buffs": null
             }
         },
         "HYDRO_PUMP": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 130
+                "power": 130,
+                "buffs": null
             }
         },
         "FUTURESIGHT": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 120
+                "power": 120,
+                "buffs": null
             }
         }
     },
@@ -230,7 +235,14 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 170
+                "power": 170,
+                "buffs": {
+                    "activationChance": 12,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },

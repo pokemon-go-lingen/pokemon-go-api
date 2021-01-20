@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 13,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         },
         "METAL_CLAW_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         },
         "FLASH_CANNON": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -70,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "ACID_SPRAY": {
@@ -196,7 +200,14 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 20
+                "power": 20,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -2
+                }
             }
         },
         "THUNDER": {
@@ -227,7 +238,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         },
         "MIRROR_SHOT": {
@@ -258,7 +270,14 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 35
+                "power": 35,
+                "buffs": {
+                    "activationChance": 30,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": -1,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },

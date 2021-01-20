@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         }
     },
@@ -92,7 +93,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 60
+                "power": 60,
+                "buffs": null
             }
         },
         "ENERGY_BALL": {
@@ -123,7 +125,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         }
     },

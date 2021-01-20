@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 4,
-                "power": 2
+                "power": 2,
+                "buffs": null
             }
         },
         "BULLET_SEED_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 13,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "AERIAL_ACE": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         },
         "EARTHQUAKE": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 120
+                "power": 120,
+                "buffs": null
             }
         },
         "DRAGON_CLAW": {
@@ -216,7 +221,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 50
+                "power": 50,
+                "buffs": null
             }
         }
     },
@@ -250,7 +256,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         }
     },

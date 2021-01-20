@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         },
         "SNARL_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 13,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         },
         "CHARM_FAST": {
@@ -121,7 +123,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 16
+                "power": 16,
+                "buffs": null
             }
         }
     },
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "PLAY_ROUGH": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         },
         "CLOSE_COMBAT": {
@@ -216,7 +221,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 100
+                "power": 100,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": -2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },

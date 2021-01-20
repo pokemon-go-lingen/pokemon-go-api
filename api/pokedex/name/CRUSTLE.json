@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 4,
-                "power": 2
+                "power": 2,
+                "buffs": null
             }
         },
         "SMACK_DOWN_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 12
+                "power": 12,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 50
+                "power": 50,
+                "buffs": null
             }
         },
         "X_SCISSOR": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 45
+                "power": 45,
+                "buffs": null
             }
         },
         "ROCK_SLIDE": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 75
+                "power": 75,
+                "buffs": null
             }
         }
     },

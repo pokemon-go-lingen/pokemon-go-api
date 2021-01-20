@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         },
         "SUCKER_PUNCH_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 50
+                "power": 50,
+                "buffs": null
             }
         },
         "OMINOUS_WIND": {
@@ -165,7 +168,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 45
+                "power": 45,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": 2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "SHADOW_BALL": {
@@ -196,7 +206,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         }
     },

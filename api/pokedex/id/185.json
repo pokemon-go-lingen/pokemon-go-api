@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         },
         "COUNTER_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         },
         "EARTHQUAKE": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 120
+                "power": 120,
+                "buffs": null
             }
         },
         "ROCK_SLIDE": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 75
+                "power": 75,
+                "buffs": null
             }
         }
     },

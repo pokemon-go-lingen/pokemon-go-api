@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 7
+                "power": 7,
+                "buffs": null
             }
         },
         "ASTONISH_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 140
+                "power": 140,
+                "buffs": null
             }
         },
         "FLASH_CANNON": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -70,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "SIGNAL_BEAM": {
@@ -185,7 +189,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 75
+                "power": 75,
+                "buffs": {
+                    "activationChance": 20,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": -1,
+                    "targetDefenseStatsChange": -1
+                }
             }
         }
     },

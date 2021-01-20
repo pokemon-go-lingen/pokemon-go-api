@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         },
         "FURY_CUTTER_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 4,
-                "power": 2
+                "power": 2,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 45
+                "power": 45,
+                "buffs": null
             }
         },
         "MAGNET_BOMB": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "HYPER_BEAM": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         }
     },
@@ -279,7 +284,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 },
                 "FURY_CUTTER_FAST": {
@@ -310,7 +316,8 @@
                     },
                     "combat": {
                         "energy": 4,
-                        "power": 2
+                        "power": 2,
+                        "buffs": null
                     }
                 }
             },
@@ -343,7 +350,8 @@
                     },
                     "combat": {
                         "energy": -35,
-                        "power": 45
+                        "power": 45,
+                        "buffs": null
                     }
                 },
                 "MAGNET_BOMB": {
@@ -374,7 +382,8 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 70
+                        "power": 70,
+                        "buffs": null
                     }
                 },
                 "FLAMETHROWER": {
@@ -405,7 +414,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 90
+                        "power": 90,
+                        "buffs": null
                     }
                 }
             },
@@ -491,7 +501,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 },
                 "FURY_CUTTER_FAST": {
@@ -522,7 +533,8 @@
                     },
                     "combat": {
                         "energy": 4,
-                        "power": 2
+                        "power": 2,
+                        "buffs": null
                     }
                 }
             },
@@ -555,7 +567,8 @@
                     },
                     "combat": {
                         "energy": -35,
-                        "power": 45
+                        "power": 45,
+                        "buffs": null
                     }
                 },
                 "MAGNET_BOMB": {
@@ -586,7 +599,8 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 70
+                        "power": 70,
+                        "buffs": null
                     }
                 },
                 "ICE_BEAM": {
@@ -617,7 +631,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 90
+                        "power": 90,
+                        "buffs": null
                     }
                 }
             },
@@ -703,7 +718,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 },
                 "FURY_CUTTER_FAST": {
@@ -734,7 +750,8 @@
                     },
                     "combat": {
                         "energy": 4,
-                        "power": 2
+                        "power": 2,
+                        "buffs": null
                     }
                 }
             },
@@ -767,7 +784,8 @@
                     },
                     "combat": {
                         "energy": -35,
-                        "power": 45
+                        "power": 45,
+                        "buffs": null
                     }
                 },
                 "MAGNET_BOMB": {
@@ -798,7 +816,8 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 70
+                        "power": 70,
+                        "buffs": null
                     }
                 },
                 "GUNK_SHOT": {
@@ -829,7 +848,8 @@
                     },
                     "combat": {
                         "energy": -75,
-                        "power": 130
+                        "power": 130,
+                        "buffs": null
                     }
                 }
             },
@@ -915,7 +935,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 },
                 "FURY_CUTTER_FAST": {
@@ -946,7 +967,8 @@
                     },
                     "combat": {
                         "energy": 4,
-                        "power": 2
+                        "power": 2,
+                        "buffs": null
                     }
                 }
             },
@@ -979,7 +1001,8 @@
                     },
                     "combat": {
                         "energy": -35,
-                        "power": 45
+                        "power": 45,
+                        "buffs": null
                     }
                 },
                 "MAGNET_BOMB": {
@@ -1010,7 +1033,8 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 70
+                        "power": 70,
+                        "buffs": null
                     }
                 },
                 "ZAP_CANNON": {
@@ -1041,7 +1065,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 }
             },

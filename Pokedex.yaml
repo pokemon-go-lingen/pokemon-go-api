@@ -454,11 +454,30 @@ components:
           required:
             - energy
             - power
+            - buffs
           properties:
             energy:
               type: number
             power:
               type: number
+            buffs:
+              type: object
+              nullable: true
+              properties:
+                activationChance:
+                  type: integer
+                attackerAttackStatsChange:
+                  type: integer
+                  nullable: true
+                attackerDefenseStatsChange:
+                  type: integer
+                  nullable: true
+                targetAttackStatsChange:
+                  type: integer
+                  nullable: true
+                targetDefenseStatsChange:
+                  type: integer
+                  nullable: true
       required:
         - id
         - power

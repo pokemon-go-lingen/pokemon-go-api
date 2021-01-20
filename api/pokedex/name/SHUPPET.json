@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         },
         "ASTONISH_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 45
+                "power": 45,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": 2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "NIGHT_SHADE": {
@@ -154,7 +163,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 60
+                "power": 60,
+                "buffs": null
             }
         },
         "SHADOW_SNEAK": {
@@ -185,7 +195,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 50
+                "power": 50,
+                "buffs": null
             }
         }
     },

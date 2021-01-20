@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 10,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         },
         "STEEL_WING_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 7
+                "power": 7,
+                "buffs": null
             }
         },
         "HIDDEN_POWER_FAST": {
@@ -132,7 +134,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "INCINERATE_FAST": {
@@ -163,7 +166,8 @@
             },
             "combat": {
                 "energy": 20,
-                "power": 15
+                "power": 15,
+                "buffs": null
             }
         }
     },
@@ -196,7 +200,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 130
+                "power": 130,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": -3,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "FIRE_BLAST": {
@@ -227,7 +238,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 140
+                "power": 140,
+                "buffs": null
             }
         },
         "SOLAR_BEAM": {
@@ -258,7 +270,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         }
     },
@@ -292,7 +305,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 120
+                "power": 120,
+                "buffs": null
             }
         }
     },

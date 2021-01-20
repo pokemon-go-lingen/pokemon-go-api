@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 4,
-                "power": 10
+                "power": 10,
+                "buffs": null
             }
         },
         "BULLET_SEED_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 13,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -70,
-                "power": 110
+                "power": 110,
+                "buffs": null
             }
         },
         "HYPER_BEAM": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         },
         "SOLAR_BEAM": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         }
     },
@@ -257,7 +262,8 @@
                     },
                     "combat": {
                         "energy": 4,
-                        "power": 10
+                        "power": 10,
+                        "buffs": null
                     }
                 },
                 "BULLET_SEED_FAST": {
@@ -288,7 +294,8 @@
                     },
                     "combat": {
                         "energy": 13,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 }
             },
@@ -321,7 +328,8 @@
                     },
                     "combat": {
                         "energy": -70,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -352,7 +360,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "SOLAR_BEAM": {
@@ -383,7 +392,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 }
             },
@@ -458,7 +468,8 @@
                     },
                     "combat": {
                         "energy": 4,
-                        "power": 10
+                        "power": 10,
+                        "buffs": null
                     }
                 },
                 "BULLET_SEED_FAST": {
@@ -489,7 +500,8 @@
                     },
                     "combat": {
                         "energy": 13,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 }
             },
@@ -522,7 +534,8 @@
                     },
                     "combat": {
                         "energy": -70,
-                        "power": 110
+                        "power": 110,
+                        "buffs": null
                     }
                 },
                 "HYPER_BEAM": {
@@ -553,7 +566,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "SOLAR_BEAM": {
@@ -584,7 +598,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "WEATHER_BALL_FIRE": {
@@ -615,7 +630,8 @@
                     },
                     "combat": {
                         "energy": -35,
-                        "power": 60
+                        "power": 60,
+                        "buffs": null
                     }
                 }
             },

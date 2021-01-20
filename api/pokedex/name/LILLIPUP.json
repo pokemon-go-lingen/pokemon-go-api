@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "TAKE_DOWN_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         },
         "ROCK_TOMB": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "DIG": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         }
     },

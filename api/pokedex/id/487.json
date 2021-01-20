@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 3,
-                "power": 4
+                "power": 4,
+                "buffs": null
             }
         },
         "SHADOW_CLAW_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 50
+                "power": 50,
+                "buffs": null
             }
         },
         "ANCIENT_POWER": {
@@ -165,7 +168,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 45
+                "power": 45,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": 2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "SHADOW_SNEAK": {
@@ -196,7 +206,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 50
+                "power": 50,
+                "buffs": null
             }
         }
     },
@@ -279,7 +290,8 @@
                     },
                     "combat": {
                         "energy": 3,
-                        "power": 4
+                        "power": 4,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -310,7 +322,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -343,7 +356,8 @@
                     },
                     "combat": {
                         "energy": -35,
-                        "power": 50
+                        "power": 50,
+                        "buffs": null
                     }
                 },
                 "ANCIENT_POWER": {
@@ -374,7 +388,14 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 45
+                        "power": 45,
+                        "buffs": {
+                            "activationChance": 10,
+                            "attackerAttackStatsChange": 2,
+                            "attackerDefenseStatsChange": 2,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 },
                 "SHADOW_SNEAK": {
@@ -405,7 +426,8 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 50
+                        "power": 50,
+                        "buffs": null
                     }
                 }
             },
@@ -491,7 +513,8 @@
                     },
                     "combat": {
                         "energy": 10,
-                        "power": 9
+                        "power": 9,
+                        "buffs": null
                     }
                 },
                 "SHADOW_CLAW_FAST": {
@@ -522,7 +545,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -555,7 +579,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 90
+                        "power": 90,
+                        "buffs": null
                     }
                 },
                 "OMINOUS_WIND": {
@@ -586,7 +611,14 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 45
+                        "power": 45,
+                        "buffs": {
+                            "activationChance": 10,
+                            "attackerAttackStatsChange": 2,
+                            "attackerDefenseStatsChange": 2,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 },
                 "SHADOW_BALL": {
@@ -617,7 +649,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 100
+                        "power": 100,
+                        "buffs": null
                     }
                 }
             },

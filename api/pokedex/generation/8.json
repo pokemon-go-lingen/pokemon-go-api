@@ -71,7 +71,8 @@
                 },
                 "combat": {
                     "energy": 7,
-                    "power": 8
+                    "power": 8,
+                    "buffs": null
                 }
             },
             "LICK_FAST": {
@@ -102,7 +103,8 @@
                 },
                 "combat": {
                     "energy": 3,
-                    "power": 3
+                    "power": 3,
+                    "buffs": null
                 }
             }
         },
@@ -135,7 +137,8 @@
                 },
                 "combat": {
                     "energy": -35,
-                    "power": 50
+                    "power": 50,
+                    "buffs": null
                 }
             },
             "NIGHT_SLASH": {
@@ -166,7 +169,14 @@
                 },
                 "combat": {
                     "energy": -35,
-                    "power": 50
+                    "power": 50,
+                    "buffs": {
+                        "activationChance": 12,
+                        "attackerAttackStatsChange": 2,
+                        "attackerDefenseStatsChange": null,
+                        "targetAttackStatsChange": null,
+                        "targetDefenseStatsChange": null
+                    }
                 }
             },
             "HYPER_BEAM": {
@@ -197,7 +207,8 @@
                 },
                 "combat": {
                     "energy": -80,
-                    "power": 150
+                    "power": 150,
+                    "buffs": null
                 }
             },
             "GUNK_SHOT": {
@@ -228,7 +239,8 @@
                 },
                 "combat": {
                     "energy": -75,
-                    "power": 130
+                    "power": 130,
+                    "buffs": null
                 }
             }
         },
@@ -303,7 +315,8 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 5
+                    "power": 5,
+                    "buffs": null
                 }
             },
             "SHADOW_CLAW_FAST": {
@@ -334,7 +347,8 @@
                 },
                 "combat": {
                     "energy": 8,
-                    "power": 6
+                    "power": 6,
+                    "buffs": null
                 }
             }
         },
@@ -367,7 +381,8 @@
                 },
                 "combat": {
                     "energy": -50,
-                    "power": 70
+                    "power": 70,
+                    "buffs": null
                 }
             },
             "CLOSE_COMBAT": {
@@ -398,7 +413,14 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 100
+                    "power": 100,
+                    "buffs": {
+                        "activationChance": 100,
+                        "attackerAttackStatsChange": null,
+                        "attackerDefenseStatsChange": -2,
+                        "targetAttackStatsChange": null,
+                        "targetDefenseStatsChange": null
+                    }
                 }
             },
             "PLAY_ROUGH": {
@@ -429,7 +451,8 @@
                 },
                 "combat": {
                     "energy": -60,
-                    "power": 90
+                    "power": 90,
+                    "buffs": null
                 }
             },
             "FOUL_PLAY": {
@@ -460,7 +483,8 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 70
+                    "power": 70,
+                    "buffs": null
                 }
             }
         },
@@ -535,7 +559,8 @@
                 },
                 "combat": {
                     "energy": 7,
-                    "power": 8
+                    "power": 8,
+                    "buffs": null
                 }
             },
             "FURY_CUTTER_FAST": {
@@ -566,7 +591,8 @@
                 },
                 "combat": {
                     "energy": 4,
-                    "power": 2
+                    "power": 2,
+                    "buffs": null
                 }
             }
         },
@@ -599,7 +625,14 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 100
+                    "power": 100,
+                    "buffs": {
+                        "activationChance": 100,
+                        "attackerAttackStatsChange": null,
+                        "attackerDefenseStatsChange": -2,
+                        "targetAttackStatsChange": null,
+                        "targetDefenseStatsChange": null
+                    }
                 }
             },
             "BRAVE_BIRD": {
@@ -630,7 +663,14 @@
                 },
                 "combat": {
                     "energy": -55,
-                    "power": 130
+                    "power": 130,
+                    "buffs": {
+                        "activationChance": 100,
+                        "attackerAttackStatsChange": null,
+                        "attackerDefenseStatsChange": -3,
+                        "targetAttackStatsChange": null,
+                        "targetDefenseStatsChange": null
+                    }
                 }
             },
             "LEAF_BLADE": {
@@ -661,7 +701,8 @@
                 },
                 "combat": {
                     "energy": -35,
-                    "power": 70
+                    "power": 70,
+                    "buffs": null
                 }
             },
             "NIGHT_SLASH": {
@@ -692,7 +733,14 @@
                 },
                 "combat": {
                     "energy": -35,
-                    "power": 50
+                    "power": 50,
+                    "buffs": {
+                        "activationChance": 12,
+                        "attackerAttackStatsChange": 2,
+                        "attackerDefenseStatsChange": null,
+                        "targetAttackStatsChange": null,
+                        "targetDefenseStatsChange": null
+                    }
                 }
             }
         },
@@ -778,7 +826,8 @@
                 },
                 "combat": {
                     "energy": 12,
-                    "power": 16
+                    "power": 16,
+                    "buffs": null
                 }
             },
             "ZEN_HEADBUTT_FAST": {
@@ -809,7 +858,8 @@
                 },
                 "combat": {
                     "energy": 6,
-                    "power": 8
+                    "power": 8,
+                    "buffs": null
                 }
             },
             "ICE_SHARD_FAST": {
@@ -840,7 +890,8 @@
                 },
                 "combat": {
                     "energy": 10,
-                    "power": 9
+                    "power": 9,
+                    "buffs": null
                 }
             }
         },
@@ -873,7 +924,8 @@
                 },
                 "combat": {
                     "energy": -60,
-                    "power": 70
+                    "power": 70,
+                    "buffs": null
                 }
             },
             "PSYCHIC": {
@@ -904,7 +956,14 @@
                 },
                 "combat": {
                     "energy": -55,
-                    "power": 90
+                    "power": 90,
+                    "buffs": {
+                        "activationChance": 10,
+                        "attackerAttackStatsChange": null,
+                        "attackerDefenseStatsChange": null,
+                        "targetAttackStatsChange": null,
+                        "targetDefenseStatsChange": -1
+                    }
                 }
             },
             "ICE_PUNCH": {
@@ -935,7 +994,8 @@
                 },
                 "combat": {
                     "energy": -40,
-                    "power": 55
+                    "power": 55,
+                    "buffs": null
                 }
             },
             "ICY_WIND": {
@@ -966,7 +1026,14 @@
                 },
                 "combat": {
                     "energy": -45,
-                    "power": 60
+                    "power": 60,
+                    "buffs": {
+                        "activationChance": 100,
+                        "attackerAttackStatsChange": null,
+                        "attackerDefenseStatsChange": null,
+                        "targetAttackStatsChange": -1,
+                        "targetDefenseStatsChange": null
+                    }
                 }
             }
         },
@@ -1052,7 +1119,8 @@
                 },
                 "combat": {
                     "energy": 9,
-                    "power": 5
+                    "power": 5,
+                    "buffs": null
                 }
             }
         },
@@ -1085,7 +1153,8 @@
                 },
                 "combat": {
                     "energy": -55,
-                    "power": 100
+                    "power": 100,
+                    "buffs": null
                 }
             },
             "SAND_TOMB": {
@@ -1116,7 +1185,14 @@
                 },
                 "combat": {
                     "energy": -40,
-                    "power": 25
+                    "power": 25,
+                    "buffs": {
+                        "activationChance": 100,
+                        "attackerAttackStatsChange": null,
+                        "attackerDefenseStatsChange": null,
+                        "targetAttackStatsChange": null,
+                        "targetDefenseStatsChange": -1
+                    }
                 }
             },
             "ROCK_TOMB": {
@@ -1147,7 +1223,8 @@
                 },
                 "combat": {
                     "energy": -60,
-                    "power": 70
+                    "power": 70,
+                    "buffs": null
                 }
             }
         },

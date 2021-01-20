@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "DRAGON_TAIL_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 10,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "THUNDER_FANG_FAST": {
@@ -132,7 +134,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         }
     },
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 120
+                "power": 120,
+                "buffs": null
             }
         },
         "HEAVY_SLAM": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "CRUNCH": {
@@ -227,7 +232,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         }
     },

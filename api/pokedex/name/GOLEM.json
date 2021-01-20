@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         },
         "MUD_SLAP_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 11
+                "power": 11,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         },
         "ROCK_BLAST": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 50
+                "power": 50,
+                "buffs": null
             }
         },
         "EARTHQUAKE": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 120
+                "power": 120,
+                "buffs": null
             }
         },
         "ANCIENT_POWER": {
@@ -227,7 +232,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 45
+                "power": 45,
+                "buffs": {
+                    "activationChance": 10,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": 2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },
@@ -310,7 +322,8 @@
                     },
                     "combat": {
                         "energy": 5,
-                        "power": 8
+                        "power": 8,
+                        "buffs": null
                     }
                 },
                 "VOLT_SWITCH_FAST": {
@@ -341,7 +354,8 @@
                     },
                     "combat": {
                         "energy": 16,
-                        "power": 12
+                        "power": 12,
+                        "buffs": null
                     }
                 }
             },
@@ -374,7 +388,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 100
+                        "power": 100,
+                        "buffs": null
                     }
                 },
                 "ROCK_BLAST": {
@@ -405,7 +420,8 @@
                     },
                     "combat": {
                         "energy": -40,
-                        "power": 50
+                        "power": 50,
+                        "buffs": null
                     }
                 },
                 "WILD_CHARGE": {
@@ -436,7 +452,14 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 100
+                        "power": 100,
+                        "buffs": {
+                            "activationChance": 100,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": -2,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 }
             },

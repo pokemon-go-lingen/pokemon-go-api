@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         },
         "TAKE_DOWN_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         },
         "SOLAR_BEAM": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         },
         "WILD_CHARGE": {
@@ -196,7 +200,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 100
+                "power": 100,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": -2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "HYPER_BEAM": {
@@ -227,7 +238,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         }
     },
@@ -310,7 +322,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 },
                 "TAKE_DOWN_FAST": {
@@ -341,7 +354,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 }
             },
@@ -374,7 +388,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 100
+                        "power": 100,
+                        "buffs": null
                     }
                 },
                 "SOLAR_BEAM": {
@@ -405,7 +420,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "WILD_CHARGE": {
@@ -436,7 +452,14 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 100
+                        "power": 100,
+                        "buffs": {
+                            "activationChance": 100,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": -2,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 },
                 "HYPER_BEAM": {
@@ -467,7 +490,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 }
             },
@@ -553,7 +577,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 },
                 "TAKE_DOWN_FAST": {
@@ -584,7 +609,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 }
             },
@@ -617,7 +643,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 100
+                        "power": 100,
+                        "buffs": null
                     }
                 },
                 "SOLAR_BEAM": {
@@ -648,7 +675,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "WILD_CHARGE": {
@@ -679,7 +707,14 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 100
+                        "power": 100,
+                        "buffs": {
+                            "activationChance": 100,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": -2,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 },
                 "HYPER_BEAM": {
@@ -710,7 +745,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 }
             },
@@ -796,7 +832,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 },
                 "TAKE_DOWN_FAST": {
@@ -827,7 +864,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 }
             },
@@ -860,7 +898,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 100
+                        "power": 100,
+                        "buffs": null
                     }
                 },
                 "SOLAR_BEAM": {
@@ -891,7 +930,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "WILD_CHARGE": {
@@ -922,7 +962,14 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 100
+                        "power": 100,
+                        "buffs": {
+                            "activationChance": 100,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": -2,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 },
                 "HYPER_BEAM": {
@@ -953,7 +1000,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 }
             },
@@ -1039,7 +1087,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 },
                 "TAKE_DOWN_FAST": {
@@ -1070,7 +1119,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 }
             },
@@ -1103,7 +1153,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 100
+                        "power": 100,
+                        "buffs": null
                     }
                 },
                 "SOLAR_BEAM": {
@@ -1134,7 +1185,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "WILD_CHARGE": {
@@ -1165,7 +1217,14 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 100
+                        "power": 100,
+                        "buffs": {
+                            "activationChance": 100,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": -2,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 },
                 "HYPER_BEAM": {
@@ -1196,7 +1255,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 }
             },

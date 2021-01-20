@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 2,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "ROCK_SMASH_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         },
         "GRASS_KNOT": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         },
         "THUNDERBOLT": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 90
+                "power": 90,
+                "buffs": null
             }
         }
     },
@@ -268,7 +273,8 @@
                     },
                     "combat": {
                         "energy": 2,
-                        "power": 3
+                        "power": 3,
+                        "buffs": null
                     }
                 },
                 "TAKE_DOWN_FAST": {
@@ -299,7 +305,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 }
             },
@@ -332,7 +339,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 100
+                        "power": 100,
+                        "buffs": null
                     }
                 },
                 "BODY_SLAM": {
@@ -363,7 +371,8 @@
                     },
                     "combat": {
                         "energy": -35,
-                        "power": 60
+                        "power": 60,
+                        "buffs": null
                     }
                 },
                 "SWIFT": {
@@ -394,7 +403,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 60
+                        "power": 60,
+                        "buffs": null
                     }
                 }
             },

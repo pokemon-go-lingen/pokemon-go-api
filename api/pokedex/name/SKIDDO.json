@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         },
         "ROCK_SMASH_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 40
+                "power": 40,
+                "buffs": null
             }
         },
         "ROCK_SLIDE": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 75
+                "power": 75,
+                "buffs": null
             }
         },
         "SEED_BOMB": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 55
+                "power": 55,
+                "buffs": null
             }
         }
     },

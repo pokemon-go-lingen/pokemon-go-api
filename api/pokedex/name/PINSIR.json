@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 9
+                "power": 9,
+                "buffs": null
             }
         },
         "BUG_BITE_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 3,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "FURY_CUTTER_FAST": {
@@ -121,7 +123,8 @@
             },
             "combat": {
                 "energy": 4,
-                "power": 2
+                "power": 2,
+                "buffs": null
             }
         }
     },
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 40
+                "power": 40,
+                "buffs": null
             }
         },
         "X_SCISSOR": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 45
+                "power": 45,
+                "buffs": null
             }
         },
         "CLOSE_COMBAT": {
@@ -216,7 +221,14 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 100
+                "power": 100,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": -2,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "SUPER_POWER": {
@@ -247,7 +259,14 @@
             },
             "combat": {
                 "energy": -40,
-                "power": 85
+                "power": 85,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": -1,
+                    "attackerDefenseStatsChange": -1,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },
@@ -281,7 +300,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 60
+                "power": 60,
+                "buffs": null
             }
         }
     },

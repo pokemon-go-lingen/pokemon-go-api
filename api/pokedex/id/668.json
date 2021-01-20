@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 5,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         },
         "TAKE_DOWN_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         },
         "EMBER_FAST": {
@@ -132,7 +134,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 7
+                "power": 7,
+                "buffs": null
             }
         }
     },
@@ -165,7 +168,14 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 65
+                "power": 65,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": 1,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "SOLAR_BEAM": {
@@ -196,7 +206,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         },
         "DARK_PULSE": {
@@ -227,7 +238,8 @@
             },
             "combat": {
                 "energy": -50,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         },
         "OVERHEAT": {
@@ -258,7 +270,14 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 130
+                "power": 130,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": -2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },
@@ -341,7 +360,8 @@
                     },
                     "combat": {
                         "energy": 5,
-                        "power": 8
+                        "power": 8,
+                        "buffs": null
                     }
                 },
                 "TAKE_DOWN_FAST": {
@@ -372,7 +392,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 }
             },
@@ -405,7 +426,14 @@
                     },
                     "combat": {
                         "energy": -50,
-                        "power": 65
+                        "power": 65,
+                        "buffs": {
+                            "activationChance": 100,
+                            "attackerAttackStatsChange": 1,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 },
                 "SOLAR_BEAM": {
@@ -436,7 +464,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "DARK_PULSE": {
@@ -467,7 +496,8 @@
                     },
                     "combat": {
                         "energy": -50,
-                        "power": 80
+                        "power": 80,
+                        "buffs": null
                     }
                 },
                 "OVERHEAT": {
@@ -498,7 +528,14 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 130
+                        "power": 130,
+                        "buffs": {
+                            "activationChance": 100,
+                            "attackerAttackStatsChange": -2,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 }
             },

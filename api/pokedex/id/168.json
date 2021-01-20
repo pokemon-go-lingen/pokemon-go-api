@@ -70,7 +70,8 @@
             },
             "combat": {
                 "energy": 8,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         },
         "INFESTATION_FAST": {
@@ -101,7 +102,8 @@
             },
             "combat": {
                 "energy": 12,
-                "power": 6
+                "power": 6,
+                "buffs": null
             }
         }
     },
@@ -134,7 +136,8 @@
             },
             "combat": {
                 "energy": -45,
-                "power": 50
+                "power": 50,
+                "buffs": null
             }
         },
         "MEGAHORN": {
@@ -165,7 +168,8 @@
             },
             "combat": {
                 "energy": -55,
-                "power": 100
+                "power": 100,
+                "buffs": null
             }
         },
         "CROSS_POISON": {
@@ -196,7 +200,8 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 40
+                "power": 40,
+                "buffs": null
             }
         }
     },

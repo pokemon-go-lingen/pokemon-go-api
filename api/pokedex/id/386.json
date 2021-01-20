@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 8
+                "power": 8,
+                "buffs": null
             }
         },
         "CHARGE_BEAM_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 11,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,14 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 70
+                "power": 70,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": -2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "ZAP_CANNON": {
@@ -154,7 +163,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         },
         "HYPER_BEAM": {
@@ -185,7 +195,8 @@
             },
             "combat": {
                 "energy": -80,
-                "power": 150
+                "power": 150,
+                "buffs": null
             }
         }
     },
@@ -257,7 +268,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 8
+                        "power": 8,
+                        "buffs": null
                     }
                 },
                 "POISON_JAB_FAST": {
@@ -288,7 +300,8 @@
                     },
                     "combat": {
                         "energy": 7,
-                        "power": 6
+                        "power": 6,
+                        "buffs": null
                     }
                 }
             },
@@ -321,7 +334,14 @@
                     },
                     "combat": {
                         "energy": -35,
-                        "power": 70
+                        "power": 70,
+                        "buffs": {
+                            "activationChance": 100,
+                            "attackerAttackStatsChange": -2,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 },
                 "ZAP_CANNON": {
@@ -352,7 +372,8 @@
                     },
                     "combat": {
                         "energy": -80,
-                        "power": 150
+                        "power": 150,
+                        "buffs": null
                     }
                 },
                 "DARK_PULSE": {
@@ -383,7 +404,8 @@
                     },
                     "combat": {
                         "energy": -50,
-                        "power": 80
+                        "power": 80,
+                        "buffs": null
                     }
                 }
             },
@@ -458,7 +480,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 8
+                        "power": 8,
+                        "buffs": null
                     }
                 },
                 "COUNTER_FAST": {
@@ -489,7 +512,8 @@
                     },
                     "combat": {
                         "energy": 7,
-                        "power": 8
+                        "power": 8,
+                        "buffs": null
                     }
                 }
             },
@@ -522,7 +546,14 @@
                     },
                     "combat": {
                         "energy": -35,
-                        "power": 70
+                        "power": 70,
+                        "buffs": {
+                            "activationChance": 100,
+                            "attackerAttackStatsChange": -2,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 },
                 "THUNDERBOLT": {
@@ -553,7 +584,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 90
+                        "power": 90,
+                        "buffs": null
                     }
                 },
                 "ROCK_SLIDE": {
@@ -584,7 +616,8 @@
                     },
                     "combat": {
                         "energy": -45,
-                        "power": 75
+                        "power": 75,
+                        "buffs": null
                     }
                 }
             },
@@ -659,7 +692,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 8
+                        "power": 8,
+                        "buffs": null
                     }
                 },
                 "CHARGE_BEAM_FAST": {
@@ -690,7 +724,8 @@
                     },
                     "combat": {
                         "energy": 11,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 }
             },
@@ -723,7 +758,14 @@
                     },
                     "combat": {
                         "energy": -35,
-                        "power": 70
+                        "power": 70,
+                        "buffs": {
+                            "activationChance": 100,
+                            "attackerAttackStatsChange": -2,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
                     }
                 },
                 "THUNDERBOLT": {
@@ -754,7 +796,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 90
+                        "power": 90,
+                        "buffs": null
                     }
                 },
                 "SWIFT": {
@@ -785,7 +828,8 @@
                     },
                     "combat": {
                         "energy": -55,
-                        "power": 60
+                        "power": 60,
+                        "buffs": null
                     }
                 }
             },

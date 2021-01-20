@@ -59,7 +59,8 @@
             },
             "combat": {
                 "energy": 6,
-                "power": 5
+                "power": 5,
+                "buffs": null
             }
         },
         "MUD_SHOT_FAST": {
@@ -90,7 +91,8 @@
             },
             "combat": {
                 "energy": 9,
-                "power": 3
+                "power": 3,
+                "buffs": null
             }
         }
     },
@@ -123,7 +125,8 @@
             },
             "combat": {
                 "energy": -65,
-                "power": 120
+                "power": 120,
+                "buffs": null
             }
         },
         "ROCK_TOMB": {
@@ -154,7 +157,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 70
+                "power": 70,
+                "buffs": null
             }
         },
         "BULLDOZE": {
@@ -185,7 +189,8 @@
             },
             "combat": {
                 "energy": -60,
-                "power": 80
+                "power": 80,
+                "buffs": null
             }
         }
     },
@@ -268,7 +273,8 @@
                     },
                     "combat": {
                         "energy": 6,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 },
                 "POWDER_SNOW_FAST": {
@@ -299,7 +305,8 @@
                     },
                     "combat": {
                         "energy": 8,
-                        "power": 5
+                        "power": 5,
+                        "buffs": null
                     }
                 }
             },
@@ -332,7 +339,8 @@
                     },
                     "combat": {
                         "energy": -75,
-                        "power": 140
+                        "power": 140,
+                        "buffs": null
                     }
                 },
                 "GYRO_BALL": {
@@ -363,7 +371,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 80
+                        "power": 80,
+                        "buffs": null
                     }
                 },
                 "BULLDOZE": {
@@ -394,7 +403,8 @@
                     },
                     "combat": {
                         "energy": -60,
-                        "power": 80
+                        "power": 80,
+                        "buffs": null
                     }
                 },
                 "ICE_PUNCH": {
@@ -425,7 +435,8 @@
                     },
                     "combat": {
                         "energy": -40,
-                        "power": 55
+                        "power": 55,
+                        "buffs": null
                     }
                 }
             },
