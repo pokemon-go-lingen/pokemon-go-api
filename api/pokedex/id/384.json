@@ -201,7 +201,39 @@
         }
     },
     "eliteQuickMoves": [],
-    "eliteCinematicMoves": [],
+    "eliteCinematicMoves": {
+        "HURRICANE": {
+            "id": "HURRICANE",
+            "power": 110,
+            "energy": -100,
+            "durationMs": 2700,
+            "type": {
+                "type": "POKEMON_TYPE_FLYING",
+                "names": {
+                    "English": "Flying",
+                    "German": "Flug",
+                    "French": "Vol",
+                    "Italian": "Volante",
+                    "Japanese": "\u3072\u3053\u3046",
+                    "Korean": "\ube44\ud589",
+                    "Spanish": "Volador"
+                }
+            },
+            "names": {
+                "English": "Hurricane",
+                "German": "Orkan",
+                "French": "Vent Violent",
+                "Italian": "Tifone",
+                "Japanese": "\u307c\u3046\u3075\u3046",
+                "Korean": "\ud3ed\ud48d",
+                "Spanish": "Vendaval"
+            },
+            "combat": {
+                "energy": -65,
+                "power": 110
+            }
+        }
+    },
     "assets": {
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_384_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_384_00_shiny.png"
