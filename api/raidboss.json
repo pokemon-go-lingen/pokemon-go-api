@@ -65,8 +65,8 @@
                     "Dragon"
                 ],
                 "counter": {
-                    "Fairy": 1.6,
                     "Dragon": 1.6,
+                    "Fairy": 1.6,
                     "Ground": 1.6,
                     "Ice": 1.6
                 },
@@ -126,44 +126,6 @@
             }
         ],
         "lvl5": [
-            {
-                "id": "ENTEI",
-                "form": "ENTEI",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_244_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_244_00_shiny.png"
-                },
-                "level": "lvl5",
-                "names": {
-                    "English": "Entei",
-                    "German": "Entei",
-                    "French": "Entei",
-                    "Italian": "Entei",
-                    "Japanese": "\u30a8\u30f3\u30c6\u30a4",
-                    "Korean": "\uc564\ud14c\uc774",
-                    "Spanish": "Entei"
-                },
-                "shiny": true,
-                "types": [
-                    "Fire"
-                ],
-                "counter": {
-                    "Ground": 1.6,
-                    "Rock": 1.6,
-                    "Water": 1.6
-                },
-                "weather": [
-                    "sunny"
-                ],
-                "cpRange": [
-                    1900,
-                    1984
-                ],
-                "cpRangeBoost": [
-                    2375,
-                    2480
-                ]
-            },
             {
                 "id": "RAIKOU",
                 "form": "RAIKOU",
@@ -225,11 +187,11 @@
                     "Flying"
                 ],
                 "counter": {
-                    "Steel": 1.6,
+                    "Electric": 1.6,
                     "Ice": 1.6,
                     "Poison": 1.6,
                     "Rock": 1.6,
-                    "Electric": 1.6
+                    "Steel": 1.6
                 },
                 "weather": [
                     "cloudy",
@@ -304,9 +266,9 @@
                     "Dark"
                 ],
                 "counter": {
+                    "Bug": 1.6,
                     "Fairy": 1.6,
-                    "Fighting": 1.6,
-                    "Bug": 1.6
+                    "Fighting": 1.6
                 },
                 "weather": [
                     "fog"
@@ -419,11 +381,11 @@
                     "Grass"
                 ],
                 "counter": {
+                    "Bug": 1.6,
                     "Fire": 1.6,
                     "Flying": 1.6,
-                    "Poison": 1.6,
-                    "Bug": 1.6,
-                    "Ice": 1.6
+                    "Ice": 1.6,
+                    "Poison": 1.6
                 },
                 "weather": [
                     "sunny"
@@ -497,8 +459,8 @@
                     "Water"
                 ],
                 "counter": {
-                    "Grass": 1.6,
-                    "Electric": 1.6
+                    "Electric": 1.6,
+                    "Grass": 1.6
                 },
                 "weather": [
                     "rain"
@@ -571,9 +533,9 @@
                     "Fairy"
                 ],
                 "counter": {
-                    "Poison": 1.6,
                     "Electric": 1.6,
-                    "Grass": 1.6
+                    "Grass": 1.6,
+                    "Poison": 1.6
                 },
                 "weather": [
                     "rain",
@@ -611,12 +573,12 @@
                     "Ground"
                 ],
                 "counter": {
-                    "Water": 2.56,
                     "Grass": 2.56,
+                    "Water": 2.56,
+                    "Fighting": 1.6,
                     "Ground": 1.6,
                     "Ice": 1.6,
-                    "Steel": 1.6,
-                    "Fighting": 1.6
+                    "Steel": 1.6
                 },
                 "weather": [
                     "sunny",
@@ -637,12 +599,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "847d43414933f1bcdfbf8f7e8515f4cc50aa38c4efef5016978ce5a5ccfa77e3109aac5ef66c5880ce6fd9bd438837401deabb2d449762f92fe738608f7aafe7"
+            "sha512": "0d8c1d7c413ac59b75bd76e2e13ac17ac8071d1e9389dc8a25992590538cf4c864d7e530adb434a2f4361637e3e0f5ba4fd8c2268ca5316b49d5b724d318b2f9"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "af78a8ded30b05874a92f03ffd9e87c2bf0d4594326f5aba0f607e9e04144d3a46c4fe899de6be4bdf2e829ccc476d6e81155c1485cdcea4cfe170c22db04a71"
+            "sha512": "4bf17cc183f0c1f2f0234db0b839a621c5b83f4f6812ef598dc4e55abb8a24c24b442bb614c11aa70fdd3a261b868d4123f9faaaaced86c33d7e30458be2a0a6"
         }
     }
 }
