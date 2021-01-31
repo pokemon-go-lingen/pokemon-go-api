@@ -163,6 +163,42 @@
                     2375,
                     2480
                 ]
+            },
+            {
+                "id": "RAIKOU",
+                "form": "RAIKOU",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_243_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_243_00_shiny.png"
+                },
+                "level": "lvl5",
+                "names": {
+                    "English": "Raikou",
+                    "German": "Raikou",
+                    "French": "Raikou",
+                    "Italian": "Raikou",
+                    "Japanese": "\u30e9\u30a4\u30b3\u30a6",
+                    "Korean": "\ub77c\uc774\ucf54",
+                    "Spanish": "Raikou"
+                },
+                "shiny": true,
+                "types": [
+                    "Electric"
+                ],
+                "counter": {
+                    "Ground": 1.6
+                },
+                "weather": [
+                    "rain"
+                ],
+                "cpRange": [
+                    1889,
+                    1972
+                ],
+                "cpRangeBoost": [
+                    2361,
+                    2466
+                ]
             }
         ],
         "lvl3": [
@@ -601,12 +637,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "d596e4f4aa43e46a50532da3c7ae5e625da7d359a3e448f6b1ee58f7f1eb872a1b0d3153280ec8fc6949405963f2d86e7a2713a16b45921bdbbe377a3d8e06b4"
+            "sha512": "847d43414933f1bcdfbf8f7e8515f4cc50aa38c4efef5016978ce5a5ccfa77e3109aac5ef66c5880ce6fd9bd438837401deabb2d449762f92fe738608f7aafe7"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "cb688fd941e4282dfbccd71403c5798fac2122e8f1f13e33fd8225450acf051e4e7e9b8a25852c0919515f3b1a8f857949211717fa2a19de3c0b44544ed32652"
+            "sha512": "af78a8ded30b05874a92f03ffd9e87c2bf0d4594326f5aba0f607e9e04144d3a46c4fe899de6be4bdf2e829ccc476d6e81155c1485cdcea4cfe170c22db04a71"
         }
     }
 }
