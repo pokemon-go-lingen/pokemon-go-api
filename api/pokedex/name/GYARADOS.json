@@ -374,6 +374,52 @@
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_130_00_shiny.png"
     },
     "regionForms": [],
-    "hasMegaEvolution": false,
-    "megaEvolutions": []
+    "hasMegaEvolution": true,
+    "megaEvolutions": {
+        "GYARADOS_MEGA": {
+            "id": "GYARADOS_MEGA",
+            "names": {
+                "English": "Mega Gyarados",
+                "German": "Mega-Garados",
+                "French": "M\u00e9ga-L\u00e9viator",
+                "Italian": "MegaGyarados",
+                "Japanese": "\u30e1\u30ac\u30ae\u30e3\u30e9\u30c9\u30b9",
+                "Korean": "\uba54\uac00\uac38\ub77c\ub3c4\uc2a4",
+                "Spanish": "Mega-Gyarados"
+            },
+            "stats": {
+                "stamina": 216,
+                "attack": 292,
+                "defense": 247
+            },
+            "primaryType": {
+                "type": "POKEMON_TYPE_WATER",
+                "names": {
+                    "English": "Water",
+                    "German": "Wasser",
+                    "French": "Eau",
+                    "Italian": "Acqua",
+                    "Japanese": "\u307f\u305a",
+                    "Korean": "\ubb3c",
+                    "Spanish": "Agua"
+                }
+            },
+            "secondaryType": {
+                "type": "POKEMON_TYPE_DARK",
+                "names": {
+                    "English": "Dark",
+                    "German": "Unlicht",
+                    "French": "T\u00e9n\u00e8bres",
+                    "Italian": "Buio",
+                    "Japanese": "\u3042\u304f",
+                    "Korean": "\uc545",
+                    "Spanish": "Siniestro"
+                }
+            },
+            "assets": {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_130_51.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_130_51_shiny.png"
+            }
+        }
+    }
 }
