@@ -161,6 +161,43 @@
                     2361,
                     2466
                 ]
+            },
+            {
+                "id": "SUICUNE",
+                "form": "SUICUNE",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_245_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_245_00_shiny.png"
+                },
+                "level": "lvl5",
+                "names": {
+                    "English": "Suicune",
+                    "German": "Suicune",
+                    "French": "Suicune",
+                    "Italian": "Suicune",
+                    "Japanese": "\u30b9\u30a4\u30af\u30f3",
+                    "Korean": "\uc2a4\uc774\ucfe4",
+                    "Spanish": "Suicune"
+                },
+                "shiny": true,
+                "types": [
+                    "Water"
+                ],
+                "counter": {
+                    "Electric": 1.6,
+                    "Grass": 1.6
+                },
+                "weather": [
+                    "rain"
+                ],
+                "cpRange": [
+                    1627,
+                    1704
+                ],
+                "cpRangeBoost": [
+                    2033,
+                    2130
+                ]
             }
         ],
         "lvl3": [
@@ -606,12 +643,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "ba9a70bc54ac29b20eef0652ffd2a2b852960705e58be80d0a928c626df0455e183eea9b0f4612da2773f3a418a6f1812e8161e6549bb3c417d3958a82058363"
+            "sha512": "4069d0f013d9dc8d193e9eb7d0f13180012ca82dbbd1cc8bb4ca1af2022dd29d28c171d3fd139d98ebcb27871f2cef986d0af528b5848710b8a4faa40cf53f95"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "38bdf6dbef8e17c4a7f9292ec03bdae5920c77d29cf57d427100b5d3077f789b4f0da785ef1e9c705140b35aa94a3ee7b551dc084d64bdd885c362da40e550bb"
+            "sha512": "81b4d1abec8b0e646bb7f0b0d9feceffc26309af10a8bc4cc2e94bee4d756976f4e8a920d5329728194a052e5cecdbfeff7880255868f93dde0a24272dd38c50"
         }
     }
 }
