@@ -4626,8 +4626,74 @@
                 }
             }
         },
-        "eliteQuickMoves": [],
-        "eliteCinematicMoves": [],
+        "eliteQuickMoves": {
+            "BULLET_SEED_FAST": {
+                "id": "BULLET_SEED_FAST",
+                "power": 8,
+                "energy": 14,
+                "durationMs": 1100,
+                "type": {
+                    "type": "POKEMON_TYPE_GRASS",
+                    "names": {
+                        "English": "Grass",
+                        "German": "Pflanze",
+                        "French": "Plante",
+                        "Italian": "Erba",
+                        "Japanese": "\u304f\u3055",
+                        "Korean": "\ud480",
+                        "Spanish": "Planta"
+                    }
+                },
+                "names": {
+                    "English": "Bullet Seed",
+                    "German": "Kugelsaat",
+                    "French": "Balle Graine",
+                    "Italian": "Semitraglia",
+                    "Japanese": "\u30bf\u30cd\u30de\u30b7\u30f3\u30ac\u30f3",
+                    "Korean": "\uae30\uad00\ucd1d",
+                    "Spanish": "Semilladora"
+                },
+                "combat": {
+                    "energy": 13,
+                    "power": 5,
+                    "buffs": null
+                }
+            }
+        },
+        "eliteCinematicMoves": {
+            "WEATHER_BALL_FIRE": {
+                "id": "WEATHER_BALL_FIRE",
+                "power": 60,
+                "energy": -33,
+                "durationMs": 1600,
+                "type": {
+                    "type": "POKEMON_TYPE_FIRE",
+                    "names": {
+                        "English": "Fire",
+                        "German": "Feuer",
+                        "French": "Feu",
+                        "Italian": "Fuoco",
+                        "Japanese": "\u307b\u306e\u304a",
+                        "Korean": "\ubd88\uaf43",
+                        "Spanish": "Fuego"
+                    }
+                },
+                "names": {
+                    "English": "Weather Ball",
+                    "German": "Meteorologe",
+                    "French": "Ball\u2019M\u00e9t\u00e9o",
+                    "Italian": "Palla Clima",
+                    "Japanese": "\u30a6\u30a7\u30b6\u30fc\u30dc\u30fc\u30eb",
+                    "Korean": "\uc6e8\ub354\ubcfc",
+                    "Spanish": "Meteorobola"
+                },
+                "combat": {
+                    "energy": -35,
+                    "power": 60,
+                    "buffs": null
+                }
+            }
+        },
         "assets": {
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_407_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_407_00_shiny.png"
