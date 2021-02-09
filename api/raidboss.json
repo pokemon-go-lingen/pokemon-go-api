@@ -2,44 +2,85 @@
     "currentList": {
         "mega": [
             {
-                "id": "VENUSAUR",
-                "form": "VENUSAUR_MEGA",
+                "id": "PIDGEOT",
+                "form": "PIDGEOT_MEGA",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_003_51.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_003_51_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_018_51.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_018_51_shiny.png"
                 },
                 "level": "mega",
                 "names": {
-                    "English": "Mega Venusaur",
-                    "German": "Mega-Bisaflor",
-                    "French": "M\u00e9ga-Florizarre",
-                    "Italian": "MegaVenusaur",
-                    "Japanese": "\u30e1\u30ac\u30d5\u30b7\u30ae\u30d0\u30ca",
-                    "Korean": "\uba54\uac00\uc774\uc0c1\ud574\uaf43",
-                    "Spanish": "Mega-Venusaur"
+                    "English": "Mega Pidgeot",
+                    "German": "Mega-Tauboss",
+                    "French": "M\u00e9ga-Roucarnage",
+                    "Italian": "MegaPidgeot",
+                    "Japanese": "\u30e1\u30ac\u30d4\u30b8\u30e7\u30c3\u30c8",
+                    "Korean": "\uba54\uac00\ud53c\uc8e4\ud22c",
+                    "Spanish": "Mega-Pidgeot"
                 },
                 "shiny": true,
                 "types": [
-                    "Grass",
-                    "Poison"
+                    "Normal",
+                    "Flying"
                 ],
                 "counter": {
-                    "Fire": 1.6,
-                    "Flying": 1.6,
+                    "Electric": 1.6,
                     "Ice": 1.6,
-                    "Psychic": 1.6
+                    "Rock": 1.6
                 },
                 "weather": [
-                    "sunny",
-                    "cloudy"
+                    "partlycloudy_day",
+                    "windy"
                 ],
                 "cpRange": [
-                    1480,
-                    1554
+                    1151,
+                    1216
                 ],
                 "cpRangeBoost": [
-                    1851,
-                    1943
+                    1439,
+                    1521
+                ]
+            },
+            {
+                "id": "GYARADOS",
+                "form": "GYARADOS_MEGA",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_130_51.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_130_51_shiny.png"
+                },
+                "level": "mega",
+                "names": {
+                    "English": "Mega Gyarados",
+                    "German": "Mega-Garados",
+                    "French": "M\u00e9ga-L\u00e9viator",
+                    "Italian": "MegaGyarados",
+                    "Japanese": "\u30e1\u30ac\u30ae\u30e3\u30e9\u30c9\u30b9",
+                    "Korean": "\uba54\uac00\uac38\ub77c\ub3c4\uc2a4",
+                    "Spanish": "Mega-Gyarados"
+                },
+                "shiny": true,
+                "types": [
+                    "Water",
+                    "Dark"
+                ],
+                "counter": {
+                    "Bug": 1.6,
+                    "Electric": 1.6,
+                    "Fairy": 1.6,
+                    "Fighting": 1.6,
+                    "Grass": 1.6
+                },
+                "weather": [
+                    "rain",
+                    "fog"
+                ],
+                "cpRange": [
+                    1855,
+                    1937
+                ],
+                "cpRangeBoost": [
+                    2319,
+                    2422
                 ]
             },
             {
@@ -82,47 +123,6 @@
                     1943,
                     2037
                 ]
-            },
-            {
-                "id": "HOUNDOOM",
-                "form": "HOUNDOOM_MEGA",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_229_51.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_229_51_shiny.png"
-                },
-                "level": "mega",
-                "names": {
-                    "English": "Mega Houndoom",
-                    "German": "Mega-Hundemon",
-                    "French": "M\u00e9ga-D\u00e9molosse",
-                    "Italian": "MegaHoundoom",
-                    "Japanese": "\u30e1\u30ac\u30d8\u30eb\u30ac\u30fc",
-                    "Korean": "\uba54\uac00\ud5ec\uac00",
-                    "Spanish": "Mega-Houndoom"
-                },
-                "shiny": true,
-                "types": [
-                    "Dark",
-                    "Fire"
-                ],
-                "counter": {
-                    "Fighting": 1.6,
-                    "Ground": 1.6,
-                    "Rock": 1.6,
-                    "Water": 1.6
-                },
-                "weather": [
-                    "sunny",
-                    "fog"
-                ],
-                "cpRange": [
-                    1432,
-                    1505
-                ],
-                "cpRangeBoost": [
-                    1790,
-                    1882
-                ]
             }
         ],
         "lvl5": [
@@ -162,164 +162,128 @@
                     2033,
                     2130
                 ]
-            }
-        ],
-        "lvl3": [
-            {
-                "id": "TOGETIC",
-                "form": "TOGETIC",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_176_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_176_00_shiny.png"
-                },
-                "level": "lvl3",
-                "names": {
-                    "English": "Togetic",
-                    "German": "Togetic",
-                    "French": "Togetic",
-                    "Italian": "Togetic",
-                    "Japanese": "\u30c8\u30b2\u30c1\u30c3\u30af",
-                    "Korean": "\ud1a0\uac8c\ud2f1",
-                    "Spanish": "Togetic"
-                },
-                "shiny": false,
-                "types": [
-                    "Fairy",
-                    "Flying"
-                ],
-                "counter": {
-                    "Electric": 1.6,
-                    "Ice": 1.6,
-                    "Poison": 1.6,
-                    "Rock": 1.6,
-                    "Steel": 1.6
-                },
-                "weather": [
-                    "cloudy",
-                    "windy"
-                ],
-                "cpRange": [
-                    917,
-                    976
-                ],
-                "cpRangeBoost": [
-                    1147,
-                    1220
-                ]
             },
             {
-                "id": "ESPEON",
-                "form": "ESPEON",
+                "id": "LATIAS",
+                "form": "LATIAS",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_196_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_196_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_380_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_380_00_shiny.png"
                 },
-                "level": "lvl3",
+                "level": "lvl5",
                 "names": {
-                    "English": "Espeon",
-                    "German": "Psiana",
-                    "French": "Mentali",
-                    "Italian": "Espeon",
-                    "Japanese": "\u30a8\u30fc\u30d5\u30a3",
-                    "Korean": "\uc5d0\ube0c\uc774",
-                    "Spanish": "Espeon"
+                    "English": "Latias",
+                    "German": "Latias",
+                    "French": "Latias",
+                    "Italian": "Latias",
+                    "Japanese": "\u30e9\u30c6\u30a3\u30a2\u30b9",
+                    "Korean": "\ub77c\ud2f0\uc544\uc2a4",
+                    "Spanish": "Latias"
                 },
-                "shiny": false,
+                "shiny": true,
                 "types": [
+                    "Dragon",
                     "Psychic"
                 ],
                 "counter": {
                     "Bug": 1.6,
                     "Dark": 1.6,
-                    "Ghost": 1.6
+                    "Dragon": 1.6,
+                    "Fairy": 1.6,
+                    "Ghost": 1.6,
+                    "Ice": 1.6
                 },
                 "weather": [
                     "windy"
                 ],
                 "cpRange": [
-                    1730,
-                    1811
+                    1921,
+                    2006
                 ],
                 "cpRangeBoost": [
-                    2162,
-                    2264
+                    2402,
+                    2507
                 ]
             },
             {
-                "id": "UMBREON",
-                "form": "UMBREON",
+                "id": "LATIOS",
+                "form": "LATIOS",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_197_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_197_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_381_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_381_00_shiny.png"
                 },
-                "level": "lvl3",
+                "level": "lvl5",
                 "names": {
-                    "English": "Umbreon",
-                    "German": "Nachtara",
-                    "French": "Noctali",
-                    "Italian": "Umbreon",
-                    "Japanese": "\u30d6\u30e9\u30c3\u30ad\u30fc",
-                    "Korean": "\ube14\ub798\ud0a4",
-                    "Spanish": "Umbreon"
-                },
-                "shiny": false,
-                "types": [
-                    "Dark"
-                ],
-                "counter": {
-                    "Bug": 1.6,
-                    "Fairy": 1.6,
-                    "Fighting": 1.6
-                },
-                "weather": [
-                    "fog"
-                ],
-                "cpRange": [
-                    1153,
-                    1221
-                ],
-                "cpRangeBoost": [
-                    1442,
-                    1526
-                ]
-            },
-            {
-                "id": "SKARMORY",
-                "form": "SKARMORY",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_227_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_227_00_shiny.png"
-                },
-                "level": "lvl3",
-                "names": {
-                    "English": "Skarmory",
-                    "German": "Panzaeron",
-                    "French": "Airmure",
-                    "Italian": "Skarmory",
-                    "Japanese": "\u30a8\u30a2\u30fc\u30e0\u30c9",
-                    "Korean": "\ubb34\uc7a5\uc870",
-                    "Spanish": "Skarmory"
+                    "English": "Latios",
+                    "German": "Latios",
+                    "French": "Latios",
+                    "Italian": "Latios",
+                    "Japanese": "\u30e9\u30c6\u30a3\u30aa\u30b9",
+                    "Korean": "\ub77c\ud2f0\uc624\uc2a4",
+                    "Spanish": "Latios"
                 },
                 "shiny": true,
                 "types": [
-                    "Steel",
-                    "Flying"
+                    "Dragon",
+                    "Psychic"
+                ],
+                "counter": {
+                    "Bug": 1.6,
+                    "Dark": 1.6,
+                    "Dragon": 1.6,
+                    "Fairy": 1.6,
+                    "Ghost": 1.6,
+                    "Ice": 1.6
+                },
+                "weather": [
+                    "windy"
+                ],
+                "cpRange": [
+                    2090,
+                    2178
+                ],
+                "cpRangeBoost": [
+                    2613,
+                    2723
+                ]
+            }
+        ],
+        "lvl3": [
+            {
+                "id": "OCTILLERY",
+                "form": "OCTILLERY",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_224_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_224_00_shiny.png"
+                },
+                "level": "lvl3",
+                "names": {
+                    "English": "Octillery",
+                    "German": "Octillery",
+                    "French": "Octillery",
+                    "Italian": "Octillery",
+                    "Japanese": "\u30aa\u30af\u30bf\u30f3",
+                    "Korean": "\ub300\ud3ec\ubb34\ub178",
+                    "Spanish": "Octillery"
+                },
+                "shiny": false,
+                "types": [
+                    "Water"
                 ],
                 "counter": {
                     "Electric": 1.6,
-                    "Fire": 1.6
+                    "Grass": 1.6
                 },
                 "weather": [
-                    "windy",
-                    "snow"
+                    "rain"
                 ],
                 "cpRange": [
-                    1139,
-                    1204
+                    1254,
+                    1322
                 ],
                 "cpRangeBoost": [
-                    1424,
-                    1506
+                    1568,
+                    1653
                 ]
             },
             {
@@ -357,67 +321,304 @@
                     1595,
                     1682
                 ]
-            }
-        ],
-        "lvl1": [
+            },
             {
-                "id": "CHIKORITA",
-                "form": "CHIKORITA",
+                "id": "BLAZIKEN",
+                "form": "BLAZIKEN",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_152_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_152_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_257_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_257_00_shiny.png"
                 },
-                "level": "lvl1",
+                "level": "lvl3",
                 "names": {
-                    "English": "Chikorita",
-                    "German": "Endivie",
-                    "French": "Germignon",
-                    "Italian": "Chikorita",
-                    "Japanese": "\u30c1\u30b3\u30ea\u30fc\u30bf",
-                    "Korean": "\uce58\ucf54\ub9ac\ud0c0",
-                    "Spanish": "Chikorita"
+                    "English": "Blaziken",
+                    "German": "Lohgock",
+                    "French": "Bras\u00e9gali",
+                    "Italian": "Blaziken",
+                    "Japanese": "\u30d0\u30b7\u30e3\u30fc\u30e2",
+                    "Korean": "\ubc88\uce58\ucf54",
+                    "Spanish": "Blaziken"
                 },
-                "shiny": true,
+                "shiny": false,
                 "types": [
-                    "Grass"
+                    "Fire",
+                    "Fighting"
                 ],
                 "counter": {
-                    "Bug": 1.6,
-                    "Fire": 1.6,
                     "Flying": 1.6,
-                    "Ice": 1.6,
-                    "Poison": 1.6
+                    "Ground": 1.6,
+                    "Psychic": 1.6,
+                    "Water": 1.6
+                },
+                "weather": [
+                    "sunny",
+                    "cloudy"
+                ],
+                "cpRange": [
+                    1550,
+                    1627
+                ],
+                "cpRangeBoost": [
+                    1938,
+                    2034
+                ]
+            },
+            {
+                "id": "CAMERUPT",
+                "form": "CAMERUPT",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_323_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_323_00_shiny.png"
+                },
+                "level": "lvl3",
+                "names": {
+                    "English": "Camerupt",
+                    "German": "Camerupt",
+                    "French": "Cam\u00e9rupt",
+                    "Italian": "Camerupt",
+                    "Japanese": "\u30d0\u30af\u30fc\u30c0",
+                    "Korean": "\ud3ed\ud0c0",
+                    "Spanish": "Camerupt"
+                },
+                "shiny": false,
+                "types": [
+                    "Fire",
+                    "Ground"
+                ],
+                "counter": {
+                    "Water": 2.56,
+                    "Ground": 1.6
                 },
                 "weather": [
                     "sunny"
                 ],
                 "cpRange": [
-                    491,
-                    534
+                    1186,
+                    1253
                 ],
                 "cpRangeBoost": [
-                    614,
-                    668
+                    1483,
+                    1566
                 ]
             },
             {
-                "id": "CYNDAQUIL",
-                "form": "CYNDAQUIL",
+                "id": "ABSOL",
+                "form": "ABSOL",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_155_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_155_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_359_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_359_00_shiny.png"
+                },
+                "level": "lvl3",
+                "names": {
+                    "English": "Absol",
+                    "German": "Absol",
+                    "French": "Absol",
+                    "Italian": "Absol",
+                    "Japanese": "\u30a2\u30d6\u30bd\u30eb",
+                    "Korean": "\uc571\uc194",
+                    "Spanish": "Absol"
+                },
+                "shiny": true,
+                "types": [
+                    "Dark"
+                ],
+                "counter": {
+                    "Bug": 1.6,
+                    "Fairy": 1.6,
+                    "Fighting": 1.6
+                },
+                "weather": [
+                    "fog"
+                ],
+                "cpRange": [
+                    1370,
+                    1443
+                ],
+                "cpRangeBoost": [
+                    1712,
+                    1805
+                ]
+            }
+        ],
+        "lvl1": [
+            {
+                "id": "MEDITITE",
+                "form": "MEDITITE",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_307_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_307_00_shiny.png"
                 },
                 "level": "lvl1",
                 "names": {
-                    "English": "Cyndaquil",
-                    "German": "Feurigel",
-                    "French": "H\u00e9ricendre",
-                    "Italian": "Cyndaquil",
-                    "Japanese": "\u30d2\u30ce\u30a2\u30e9\u30b7",
-                    "Korean": "\ube0c\ucf00\uc778",
-                    "Spanish": "Cyndaquil"
+                    "English": "Meditite",
+                    "German": "Meditie",
+                    "French": "M\u00e9ditikka",
+                    "Italian": "Meditite",
+                    "Japanese": "\u30a2\u30b5\u30ca\u30f3",
+                    "Korean": "\uc694\uac00\ub791",
+                    "Spanish": "Meditite"
                 },
                 "shiny": true,
+                "types": [
+                    "Fighting",
+                    "Psychic"
+                ],
+                "counter": {
+                    "Fairy": 1.6,
+                    "Flying": 1.6,
+                    "Ghost": 1.6
+                },
+                "weather": [
+                    "cloudy",
+                    "windy"
+                ],
+                "cpRange": [
+                    359,
+                    396
+                ],
+                "cpRangeBoost": [
+                    449,
+                    495
+                ]
+            },
+            {
+                "id": "CARVANHA",
+                "form": "CARVANHA",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_318_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_318_00_shiny.png"
+                },
+                "level": "lvl1",
+                "names": {
+                    "English": "Carvanha",
+                    "German": "Kanivanha",
+                    "French": "Carvanha",
+                    "Italian": "Carvanha",
+                    "Japanese": "\u30ad\u30d0\u30cb\u30a2",
+                    "Korean": "\uc0e4\ud504\ub2c8\uc544",
+                    "Spanish": "Carvanha"
+                },
+                "shiny": true,
+                "types": [
+                    "Water",
+                    "Dark"
+                ],
+                "counter": {
+                    "Bug": 1.6,
+                    "Electric": 1.6,
+                    "Fairy": 1.6,
+                    "Fighting": 1.6,
+                    "Grass": 1.6
+                },
+                "weather": [
+                    "rain",
+                    "fog"
+                ],
+                "cpRange": [
+                    531,
+                    583
+                ],
+                "cpRangeBoost": [
+                    664,
+                    729
+                ]
+            },
+            {
+                "id": "DUSKULL",
+                "form": "DUSKULL",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_355_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_355_00_shiny.png"
+                },
+                "level": "lvl1",
+                "names": {
+                    "English": "Duskull",
+                    "German": "Zwirrlicht",
+                    "French": "Skel\u00e9nox",
+                    "Italian": "Duskull",
+                    "Japanese": "\u30e8\u30de\u30ef\u30eb",
+                    "Korean": "\ud574\uace8\ubabd",
+                    "Spanish": "Duskull"
+                },
+                "shiny": true,
+                "types": [
+                    "Ghost"
+                ],
+                "counter": {
+                    "Dark": 1.6,
+                    "Ghost": 1.6
+                },
+                "weather": [
+                    "fog"
+                ],
+                "cpRange": [
+                    364,
+                    403
+                ],
+                "cpRangeBoost": [
+                    456,
+                    504
+                ]
+            },
+            {
+                "id": "SKORUPI",
+                "form": "SKORUPI",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_451_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_451_00_shiny.png"
+                },
+                "level": "lvl1",
+                "names": {
+                    "English": "Skorupi",
+                    "German": "Pionskora",
+                    "French": "Rapion",
+                    "Italian": "Skorupi",
+                    "Japanese": "\u30b9\u30b3\u30eb\u30d4",
+                    "Korean": "\uc2a4\ucf5c\ud53c",
+                    "Spanish": "Skorupi"
+                },
+                "shiny": true,
+                "types": [
+                    "Poison",
+                    "Bug"
+                ],
+                "counter": {
+                    "Fire": 1.6,
+                    "Flying": 1.6,
+                    "Psychic": 1.6,
+                    "Rock": 1.6
+                },
+                "weather": [
+                    "rain",
+                    "cloudy"
+                ],
+                "cpRange": [
+                    531,
+                    576
+                ],
+                "cpRangeBoost": [
+                    664,
+                    721
+                ]
+            },
+            {
+                "id": "DARUMAKA",
+                "form": "DARUMAKA",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_554_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_554_00_shiny.png"
+                },
+                "level": "lvl1",
+                "names": {
+                    "English": "Darumaka",
+                    "German": "Flampion",
+                    "French": "Darumarond",
+                    "Italian": "Darumaka",
+                    "Japanese": "\u30c0\u30eb\u30de\u30c3\u30ab",
+                    "Korean": "\ub2ec\ub9c9\ud654",
+                    "Spanish": "Darumaka"
+                },
+                "shiny": false,
                 "types": [
                     "Fire"
                 ],
@@ -430,168 +631,12 @@
                     "sunny"
                 ],
                 "cpRange": [
-                    516,
-                    560
+                    768,
+                    823
                 ],
                 "cpRangeBoost": [
-                    645,
-                    700
-                ]
-            },
-            {
-                "id": "TOTODILE",
-                "form": "TOTODILE",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_158_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_158_00_shiny.png"
-                },
-                "level": "lvl1",
-                "names": {
-                    "English": "Totodile",
-                    "German": "Karnimani",
-                    "French": "Kaiminus",
-                    "Italian": "Totodile",
-                    "Japanese": "\u30ef\u30cb\u30ce\u30b3",
-                    "Korean": "\ub9ac\uc544\ucf54",
-                    "Spanish": "Totodile"
-                },
-                "shiny": true,
-                "types": [
-                    "Water"
-                ],
-                "counter": {
-                    "Electric": 1.6,
-                    "Grass": 1.6
-                },
-                "weather": [
-                    "rain"
-                ],
-                "cpRange": [
-                    599,
-                    646
-                ],
-                "cpRangeBoost": [
-                    749,
-                    808
-                ]
-            },
-            {
-                "id": "MAREEP",
-                "form": "MAREEP",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_179_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_179_00_shiny.png"
-                },
-                "level": "lvl1",
-                "names": {
-                    "English": "Mareep",
-                    "German": "Voltilamm",
-                    "French": "Wattouat",
-                    "Italian": "Mareep",
-                    "Japanese": "\u30e1\u30ea\u30fc\u30d7",
-                    "Korean": "\uba54\ub9ac\ud504",
-                    "Spanish": "Mareep"
-                },
-                "shiny": true,
-                "types": [
-                    "Electric"
-                ],
-                "counter": {
-                    "Ground": 1.6
-                },
-                "weather": [
-                    "rain"
-                ],
-                "cpRange": [
-                    521,
-                    566
-                ],
-                "cpRangeBoost": [
-                    651,
-                    708
-                ]
-            },
-            {
-                "id": "MARILL",
-                "form": "MARILL",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_183_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_183_00_shiny.png"
-                },
-                "level": "lvl1",
-                "names": {
-                    "English": "Marill",
-                    "German": "Marill",
-                    "French": "Marill",
-                    "Italian": "Marill",
-                    "Japanese": "\u30de\u30ea\u30eb",
-                    "Korean": "\ub9c8\ub9b4",
-                    "Spanish": "Marill"
-                },
-                "shiny": true,
-                "types": [
-                    "Water",
-                    "Fairy"
-                ],
-                "counter": {
-                    "Electric": 1.6,
-                    "Grass": 1.6,
-                    "Poison": 1.6
-                },
-                "weather": [
-                    "rain",
-                    "cloudy"
-                ],
-                "cpRange": [
-                    229,
-                    263
-                ],
-                "cpRangeBoost": [
-                    287,
-                    329
-                ]
-            },
-            {
-                "id": "LARVITAR",
-                "form": "LARVITAR",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_246_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_246_00_shiny.png"
-                },
-                "level": "lvl1",
-                "names": {
-                    "English": "Larvitar",
-                    "German": "Larvitar",
-                    "French": "Embrylex",
-                    "Italian": "Larvitar",
-                    "Japanese": "\u30e8\u30fc\u30ae\u30e9\u30b9",
-                    "Korean": "\uc560\ubc84\ub77c\uc2a4",
-                    "Spanish": "Larvitar"
-                },
-                "shiny": true,
-                "types": [
-                    "Rock",
-                    "Ground"
-                ],
-                "counter": {
-                    "Grass": 2.56,
-                    "Water": 2.56,
-                    "Fighting": 1.6,
-                    "Ground": 1.6,
-                    "Ice": 1.6,
-                    "Steel": 1.6
-                },
-                "weather": [
-                    "sunny",
-                    "partlycloudy_day"
-                ],
-                "cpRange": [
-                    548,
-                    594
-                ],
-                "cpRangeBoost": [
-                    686,
-                    743
+                    961,
+                    1030
                 ]
             }
         ]
@@ -600,12 +645,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "bcc18100b2700de093177d13a3b6bbc6421b4c34bcf4ed04278ab24893f2ce7d599385b57865d1c33dee0b2eedb4aedd9c9c4efda13c261efdd7892e124919b1"
+            "sha512": "0d8967d0b1514b1204c3f8da05348e6bc8651e663541cdfc6752e443b193d4b7c23ab18d0e1faa48fefcff372aa6ceee478a163867b200d3e27844b5f53078b3"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "7be95441ca0044f662060e10e7fab886ee95ef290b956cd9014d8459b09e0b9ad62553bf004b0543529774dc76eb935f0453ab86be37902f66fad4c6e19582ef"
+            "sha512": "fab75097c9dbe3f1f9c3701b2a85c992c4f6600c07bdead63044ad8227f493ffa784b173b2f026513c080ecf67230a057a8b9454ec297e70e8e2c64157e5928c"
         }
     }
 }
