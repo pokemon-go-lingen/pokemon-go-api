@@ -603,6 +603,43 @@
                 ]
             },
             {
+                "id": "LUVDISC",
+                "form": "LUVDISC",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_370_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_370_00_shiny.png"
+                },
+                "level": "lvl1",
+                "names": {
+                    "English": "Luvdisc",
+                    "German": "Liebiskus",
+                    "French": "Lovdisc",
+                    "Italian": "Luvdisc",
+                    "Japanese": "\u30e9\u30d6\u30ab\u30b9",
+                    "Korean": "\uc0ac\ub791\ub3d9\uc774",
+                    "Spanish": "Luvdisc"
+                },
+                "shiny": true,
+                "types": [
+                    "Water"
+                ],
+                "counter": {
+                    "Electric": 1.6,
+                    "Grass": 1.6
+                },
+                "weather": [
+                    "rain"
+                ],
+                "cpRange": [
+                    443,
+                    484
+                ],
+                "cpRangeBoost": [
+                    554,
+                    605
+                ]
+            },
+            {
                 "id": "MUNNA",
                 "form": "MUNNA",
                 "assets": {
@@ -684,12 +721,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "cd130cd7a50da0ff016f3a37793c51f19b0c0ce36fef90b6bfcdada2cf70ededf1e1e41254795033467eafb2a4f0f0d1662685910a6d9dba63156fbcf2a8d690"
+            "sha512": "fee727b6845d6769ffe1142bf1667c93e3b4b05383405cee23709858ac701c4237fa48bf368f10b1424d4818f75bec88c0966cf063cde82055573442fc752064"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "c8d623c663648b44d5d2e0ed0611806c767aae5f685ec17aa78c6753d9a4481db509dfb5709750b2a1ed1aacd6a5b755a2849c547edae1d419e30b5a9b8357e7"
+            "sha512": "a4a87b42f50591d4b64a08fc3363d04d87c6d0ce9bd8d5392ce50ee9fe8288519298d1429394a38c3416e468068f19f715b7bcb8d6fad8fdc1581b41b02f9fec"
         }
     }
 }
