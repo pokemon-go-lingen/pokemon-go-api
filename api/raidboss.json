@@ -127,6 +127,164 @@
         ],
         "lvl5": [
             {
+                "id": "ARTICUNO",
+                "form": "ARTICUNO",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_144_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_144_00_shiny.png"
+                },
+                "level": "lvl5",
+                "names": {
+                    "English": "Articuno",
+                    "German": "Arktos",
+                    "French": "Artikodin",
+                    "Italian": "Articuno",
+                    "Japanese": "\u30d5\u30ea\u30fc\u30b6\u30fc",
+                    "Korean": "\ud504\ub9ac\uc838",
+                    "Spanish": "Articuno"
+                },
+                "shiny": true,
+                "types": [
+                    "Ice",
+                    "Flying"
+                ],
+                "counter": {
+                    "Rock": 2.56,
+                    "Electric": 1.6,
+                    "Fire": 1.6,
+                    "Steel": 1.6
+                },
+                "weather": [
+                    "windy",
+                    "snow"
+                ],
+                "cpRange": [
+                    1665,
+                    1743
+                ],
+                "cpRangeBoost": [
+                    2082,
+                    2179
+                ]
+            },
+            {
+                "id": "ZAPDOS",
+                "form": "ZAPDOS",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_145_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_145_00_shiny.png"
+                },
+                "level": "lvl5",
+                "names": {
+                    "English": "Zapdos",
+                    "German": "Zapdos",
+                    "French": "\u00c9lecthor",
+                    "Italian": "Zapdos",
+                    "Japanese": "\u30b5\u30f3\u30c0\u30fc",
+                    "Korean": "\uc36c\ub354",
+                    "Spanish": "Zapdos"
+                },
+                "shiny": true,
+                "types": [
+                    "Electric",
+                    "Flying"
+                ],
+                "counter": {
+                    "Ice": 1.6,
+                    "Rock": 1.6
+                },
+                "weather": [
+                    "rain",
+                    "windy"
+                ],
+                "cpRange": [
+                    1930,
+                    2015
+                ],
+                "cpRangeBoost": [
+                    2413,
+                    2519
+                ]
+            },
+            {
+                "id": "MOLTRES",
+                "form": "MOLTRES",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_146_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_146_00_shiny.png"
+                },
+                "level": "lvl5",
+                "names": {
+                    "English": "Moltres",
+                    "German": "Lavados",
+                    "French": "Sulfura",
+                    "Italian": "Moltres",
+                    "Japanese": "\u30d5\u30a1\u30a4\u30e4\u30fc",
+                    "Korean": "\ud30c\uc774\uc5b4",
+                    "Spanish": "Moltres"
+                },
+                "shiny": true,
+                "types": [
+                    "Fire",
+                    "Flying"
+                ],
+                "counter": {
+                    "Rock": 2.56,
+                    "Electric": 1.6,
+                    "Water": 1.6
+                },
+                "weather": [
+                    "sunny",
+                    "windy"
+                ],
+                "cpRange": [
+                    1896,
+                    1980
+                ],
+                "cpRangeBoost": [
+                    2370,
+                    2475
+                ]
+            },
+            {
+                "id": "MEWTWO",
+                "form": "MEWTWO",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_150_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_150_00_shiny.png"
+                },
+                "level": "lvl5",
+                "names": {
+                    "English": "Mewtwo",
+                    "German": "Mewtu",
+                    "French": "Mewtwo",
+                    "Italian": "Mewtwo",
+                    "Japanese": "\u30df\u30e5\u30a6\u30c4\u30fc",
+                    "Korean": "\ubba4\uce20",
+                    "Spanish": "Mewtwo"
+                },
+                "shiny": true,
+                "types": [
+                    "Psychic"
+                ],
+                "counter": {
+                    "Bug": 1.6,
+                    "Dark": 1.6,
+                    "Ghost": 1.6
+                },
+                "weather": [
+                    "windy"
+                ],
+                "cpRange": [
+                    2294,
+                    2387
+                ],
+                "cpRangeBoost": [
+                    2868,
+                    2984
+                ]
+            },
+            {
                 "id": "LATIAS",
                 "form": "LATIAS",
                 "assets": {
@@ -721,12 +879,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "fee727b6845d6769ffe1142bf1667c93e3b4b05383405cee23709858ac701c4237fa48bf368f10b1424d4818f75bec88c0966cf063cde82055573442fc752064"
+            "sha512": "146e04f70055ca25a20a0169ba47dd0c7e5c89a31ba2e0c95da6aaba49be692d6556c5d7d7997a5754ebbebfd9cfcd17f02241032d7cd650d1287a74da3498d0"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "a4a87b42f50591d4b64a08fc3363d04d87c6d0ce9bd8d5392ce50ee9fe8288519298d1429394a38c3416e468068f19f715b7bcb8d6fad8fdc1581b41b02f9fec"
+            "sha512": "5f08b8370c2a338339aca1068276ded75ea74fc695c5d0671eb384c2ea6f3c75d29d83f24e07c762c4c73b79f28d08858333318affacc5ef5689c1cfdd264339"
         }
     }
 }
