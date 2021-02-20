@@ -283,90 +283,6 @@
                     2868,
                     2984
                 ]
-            },
-            {
-                "id": "LATIAS",
-                "form": "LATIAS",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_380_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_380_00_shiny.png"
-                },
-                "level": "lvl5",
-                "names": {
-                    "English": "Latias",
-                    "German": "Latias",
-                    "French": "Latias",
-                    "Italian": "Latias",
-                    "Japanese": "\u30e9\u30c6\u30a3\u30a2\u30b9",
-                    "Korean": "\ub77c\ud2f0\uc544\uc2a4",
-                    "Spanish": "Latias"
-                },
-                "shiny": true,
-                "types": [
-                    "Dragon",
-                    "Psychic"
-                ],
-                "counter": {
-                    "Bug": 1.6,
-                    "Dark": 1.6,
-                    "Dragon": 1.6,
-                    "Fairy": 1.6,
-                    "Ghost": 1.6,
-                    "Ice": 1.6
-                },
-                "weather": [
-                    "windy"
-                ],
-                "cpRange": [
-                    1921,
-                    2006
-                ],
-                "cpRangeBoost": [
-                    2402,
-                    2507
-                ]
-            },
-            {
-                "id": "LATIOS",
-                "form": "LATIOS",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_381_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_381_00_shiny.png"
-                },
-                "level": "lvl5",
-                "names": {
-                    "English": "Latios",
-                    "German": "Latios",
-                    "French": "Latios",
-                    "Italian": "Latios",
-                    "Japanese": "\u30e9\u30c6\u30a3\u30aa\u30b9",
-                    "Korean": "\ub77c\ud2f0\uc624\uc2a4",
-                    "Spanish": "Latios"
-                },
-                "shiny": true,
-                "types": [
-                    "Dragon",
-                    "Psychic"
-                ],
-                "counter": {
-                    "Bug": 1.6,
-                    "Dark": 1.6,
-                    "Dragon": 1.6,
-                    "Fairy": 1.6,
-                    "Ghost": 1.6,
-                    "Ice": 1.6
-                },
-                "weather": [
-                    "windy"
-                ],
-                "cpRange": [
-                    2090,
-                    2178
-                ],
-                "cpRangeBoost": [
-                    2613,
-                    2723
-                ]
             }
         ],
         "lvl3": [
@@ -879,12 +795,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "146e04f70055ca25a20a0169ba47dd0c7e5c89a31ba2e0c95da6aaba49be692d6556c5d7d7997a5754ebbebfd9cfcd17f02241032d7cd650d1287a74da3498d0"
+            "sha512": "677e42f802ae018c859afa44002adb0af1c6ae707cf37cfb3674ac688120180f02c03483ea0db9ea6b3498b661602d08c63820a98b24b42330effaf3af29e044"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "5f08b8370c2a338339aca1068276ded75ea74fc695c5d0671eb384c2ea6f3c75d29d83f24e07c762c4c73b79f28d08858333318affacc5ef5689c1cfdd264339"
+            "sha512": "9386608c7848bdb17ff2e943f6c43942b7f8cdffee71c3fcc99383013ac6e6b480e3c704cd912baafece6a41f53b213fecbb301edb693fcdecad3524cbe46c1d"
         }
     }
 }
