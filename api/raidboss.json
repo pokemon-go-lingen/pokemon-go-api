@@ -312,6 +312,42 @@
                     1781,
                     1872
                 ]
+            },
+            {
+                "id": "SNORLAX",
+                "form": "SNORLAX",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_143_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_143_00_shiny.png"
+                },
+                "level": "lvl3",
+                "names": {
+                    "English": "Snorlax",
+                    "German": "Relaxo",
+                    "French": "Ronflex",
+                    "Italian": "Snorlax",
+                    "Japanese": "\u30ab\u30d3\u30b4\u30f3",
+                    "Korean": "\uc7a0\ub9cc\ubcf4",
+                    "Spanish": "Snorlax"
+                },
+                "shiny": true,
+                "types": [
+                    "Normal"
+                ],
+                "counter": {
+                    "Fighting": 1.6
+                },
+                "weather": [
+                    "partlycloudy_day"
+                ],
+                "cpRange": [
+                    1760,
+                    1843
+                ],
+                "cpRangeBoost": [
+                    2201,
+                    2304
+                ]
             }
         ]
     },
@@ -319,12 +355,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "778a83d99a9e7cda33bd8c064bec21dd8d4ada620e0774fa302b12f291fe2c312ae2665a14a2454e236dbd6c817c03e4016bac004293ff5834921346f2fd7fe6"
+            "sha512": "ffd30fe746695a5a3fbbf85c7172ebf7b302427216b7a4e03ab1f880b5e18c974587b0c9e8c99b7537d5a9910a84ba820fb21cd6446f90934833defdc7a9f8f5"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "671a80a3e2e03c14171db7c7f5a5fcf8b4e886aebf25c174dc7c6c6dff05e47b36a408c25248667a249fdf4f360c4e34c52744cd8d9fd49ad5cb8baef8edfe12"
+            "sha512": "844d3d48cc06207b2993d81f48f3e51296d2e1576176015e1413f7ad3d669cd8319f851559d797b5bd139f339a1b8884feaf48f17becc1c639ab27297aa3228f"
         }
     }
 }
