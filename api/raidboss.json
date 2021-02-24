@@ -398,6 +398,46 @@
                 ]
             },
             {
+                "id": "FARFETCHD",
+                "form": "FARFETCHD",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_083_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_083_00_shiny.png"
+                },
+                "level": "lvl3",
+                "names": {
+                    "English": "Farfetch'd",
+                    "German": "Porenta",
+                    "French": "Canarticho",
+                    "Italian": "Farfetch\u2019d",
+                    "Japanese": "\u30ab\u30e2\u30cd\u30ae",
+                    "Korean": "\ud30c\uc624\ub9ac",
+                    "Spanish": "Farfetch'd"
+                },
+                "shiny": true,
+                "types": [
+                    "Normal",
+                    "Flying"
+                ],
+                "counter": {
+                    "Electric": 1.6,
+                    "Ice": 1.6,
+                    "Rock": 1.6
+                },
+                "weather": [
+                    "partlycloudy_day",
+                    "windy"
+                ],
+                "cpRange": [
+                    657,
+                    706
+                ],
+                "cpRangeBoost": [
+                    821,
+                    883
+                ]
+            },
+            {
                 "id": "HAUNTER",
                 "form": "HAUNTER",
                 "assets": {
@@ -436,6 +476,82 @@
                 "cpRangeBoost": [
                     1320,
                     1402
+                ]
+            },
+            {
+                "id": "KANGASKHAN",
+                "form": "KANGASKHAN",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_115_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_115_00_shiny.png"
+                },
+                "level": "lvl3",
+                "names": {
+                    "English": "Kangaskhan",
+                    "German": "Kangama",
+                    "French": "Kangourex",
+                    "Italian": "Kangaskhan",
+                    "Japanese": "\u30ac\u30eb\u30fc\u30e9",
+                    "Korean": "\ucea5\uce74",
+                    "Spanish": "Kangaskhan"
+                },
+                "shiny": true,
+                "types": [
+                    "Normal"
+                ],
+                "counter": {
+                    "Fighting": 1.6
+                },
+                "weather": [
+                    "partlycloudy_day"
+                ],
+                "cpRange": [
+                    1405,
+                    1477
+                ],
+                "cpRangeBoost": [
+                    1757,
+                    1847
+                ]
+            },
+            {
+                "id": "MR_MIME",
+                "form": "MR_MIME",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_122_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_122_00_shiny.png"
+                },
+                "level": "lvl3",
+                "names": {
+                    "English": "Mr. Mime",
+                    "German": "Pantimos",
+                    "French": "M. Mime",
+                    "Italian": "Mr. Mime",
+                    "Japanese": "\u30d0\u30ea\u30e4\u30fc\u30c9",
+                    "Korean": "\ub9c8\uc784\ub9e8",
+                    "Spanish": "Mr. Mime"
+                },
+                "shiny": true,
+                "types": [
+                    "Psychic",
+                    "Fairy"
+                ],
+                "counter": {
+                    "Ghost": 1.6,
+                    "Poison": 1.6,
+                    "Steel": 1.6
+                },
+                "weather": [
+                    "cloudy",
+                    "windy"
+                ],
+                "cpRange": [
+                    1205,
+                    1273
+                ],
+                "cpRangeBoost": [
+                    1506,
+                    1591
                 ]
             },
             {
@@ -516,6 +632,42 @@
                 "cpRangeBoost": [
                     2016,
                     2113
+                ]
+            },
+            {
+                "id": "TAUROS",
+                "form": "TAUROS",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_128_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_128_00_shiny.png"
+                },
+                "level": "lvl3",
+                "names": {
+                    "English": "Tauros",
+                    "German": "Tauros",
+                    "French": "Tauros",
+                    "Italian": "Tauros",
+                    "Japanese": "\u30b1\u30f3\u30bf\u30ed\u30b9",
+                    "Korean": "\ucf04\ud0c0\ub85c\uc2a4",
+                    "Spanish": "Tauros"
+                },
+                "shiny": true,
+                "types": [
+                    "Normal"
+                ],
+                "counter": {
+                    "Fighting": 1.6
+                },
+                "weather": [
+                    "partlycloudy_day"
+                ],
+                "cpRange": [
+                    1425,
+                    1497
+                ],
+                "cpRangeBoost": [
+                    1781,
+                    1872
                 ]
             },
             {
@@ -794,12 +946,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "c531a4fe1103ec3e86b9f976effb0f3290d409c3a69059c6dc9a4f3f715d0dca56f5994783c51a41c4a8b8018f4c2e1b62800b3fa033a8ac8d4d276d695a7f3a"
+            "sha512": "76d257d5ab83dbe3af3c90df188d9b0922e1a7fb2125769744bdec11dd272bf730f01298ca6da7ca5c76d022247a4acfd7e94fa05b83401a02dc24011bc72d60"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "a2eb9640e3eabe770590baec6fec4b487e2bb431a52a3584a0a5b1de1ec0b129bbfdbdcd2fa9e0c46233382869f782bb32c82d8a6badf24193b5f0fb973d3f4d"
+            "sha512": "19adf509326e3483b004a4152ed942d214cc71c4c7e78076397d5c8df5f1f06f1775956b0fcf34ad7c9ca9101d7ed490970fcd6352a694b64d84bb484e444cb2"
         }
     }
 }
