@@ -60,6 +60,7 @@
             "combat": {
                 "energy": 2,
                 "power": 4,
+                "turns": 1,
                 "buffs": null
             }
         },
@@ -92,6 +93,7 @@
             "combat": {
                 "energy": 9,
                 "power": 9,
+                "turns": 3,
                 "buffs": null
             }
         }
@@ -126,6 +128,7 @@
             "combat": {
                 "energy": -50,
                 "power": 90,
+                "turns": 1,
                 "buffs": null
             }
         },
@@ -158,6 +161,7 @@
             "combat": {
                 "energy": -50,
                 "power": 80,
+                "turns": 1,
                 "buffs": null
             }
         },
@@ -190,6 +194,7 @@
             "combat": {
                 "energy": -80,
                 "power": 150,
+                "turns": 1,
                 "buffs": null
             }
         },
@@ -222,6 +227,7 @@
             "combat": {
                 "energy": -65,
                 "power": 110,
+                "turns": 1,
                 "buffs": null
             }
         }
@@ -295,6 +301,7 @@
                     "combat": {
                         "energy": 2,
                         "power": 4,
+                        "turns": 1,
                         "buffs": null
                     }
                 },
@@ -327,6 +334,7 @@
                     "combat": {
                         "energy": 9,
                         "power": 9,
+                        "turns": 3,
                         "buffs": null
                     }
                 }
@@ -361,6 +369,7 @@
                     "combat": {
                         "energy": -50,
                         "power": 90,
+                        "turns": 1,
                         "buffs": null
                     }
                 },
@@ -393,6 +402,7 @@
                     "combat": {
                         "energy": -50,
                         "power": 80,
+                        "turns": 1,
                         "buffs": null
                     }
                 },
@@ -425,6 +435,7 @@
                     "combat": {
                         "energy": -80,
                         "power": 150,
+                        "turns": 1,
                         "buffs": null
                     }
                 },
@@ -457,6 +468,7 @@
                     "combat": {
                         "energy": -65,
                         "power": 110,
+                        "turns": 1,
                         "buffs": null
                     }
                 }
@@ -533,6 +545,7 @@
                     "combat": {
                         "energy": 2,
                         "power": 4,
+                        "turns": 1,
                         "buffs": null
                     }
                 },
@@ -565,6 +578,7 @@
                     "combat": {
                         "energy": 9,
                         "power": 9,
+                        "turns": 3,
                         "buffs": null
                     }
                 }
@@ -599,6 +613,7 @@
                     "combat": {
                         "energy": -50,
                         "power": 90,
+                        "turns": 1,
                         "buffs": null
                     }
                 },
@@ -631,6 +646,7 @@
                     "combat": {
                         "energy": -50,
                         "power": 80,
+                        "turns": 1,
                         "buffs": null
                     }
                 },
@@ -663,6 +679,7 @@
                     "combat": {
                         "energy": -80,
                         "power": 150,
+                        "turns": 1,
                         "buffs": null
                     }
                 },
@@ -695,6 +712,7 @@
                     "combat": {
                         "energy": -65,
                         "power": 110,
+                        "turns": 1,
                         "buffs": null
                     }
                 }

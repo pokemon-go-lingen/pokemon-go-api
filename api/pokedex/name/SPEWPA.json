@@ -60,6 +60,7 @@
             "combat": {
                 "energy": 3,
                 "power": 3,
+                "turns": 1,
                 "buffs": null
             }
         },
@@ -92,6 +93,7 @@
             "combat": {
                 "energy": 2,
                 "power": 3,
+                "turns": 1,
                 "buffs": null
             }
         }
@@ -126,6 +128,7 @@
             "combat": {
                 "energy": -100,
                 "power": 35,
+                "turns": 1,
                 "buffs": null
             }
         }

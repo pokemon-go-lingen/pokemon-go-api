@@ -454,11 +454,14 @@ components:
           required:
             - energy
             - power
+            - turns
             - buffs
           properties:
             energy:
               type: number
             power:
+              type: number
+            turns:
               type: number
             buffs:
               type: object

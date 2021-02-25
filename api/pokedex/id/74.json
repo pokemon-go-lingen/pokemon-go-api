@@ -71,6 +71,7 @@
             "combat": {
                 "energy": 5,
                 "power": 8,
+                "turns": 2,
                 "buffs": null
             }
         },
@@ -103,6 +104,7 @@
             "combat": {
                 "energy": 2,
                 "power": 3,
+                "turns": 1,
                 "buffs": null
             }
         }
@@ -137,6 +139,7 @@
             "combat": {
                 "energy": -45,
                 "power": 75,
+                "turns": 1,
                 "buffs": null
             }
         },
@@ -169,6 +172,7 @@
             "combat": {
                 "energy": -60,
                 "power": 70,
+                "turns": 1,
                 "buffs": null
             }
         },
@@ -201,6 +205,7 @@
             "combat": {
                 "energy": -80,
                 "power": 100,
+                "turns": 1,
                 "buffs": null
             }
         }
@@ -285,6 +290,7 @@
                     "combat": {
                         "energy": 5,
                         "power": 8,
+                        "turns": 2,
                         "buffs": null
                     }
                 },
@@ -317,6 +323,7 @@
                     "combat": {
                         "energy": 16,
                         "power": 12,
+                        "turns": 4,
                         "buffs": null
                     }
                 }
@@ -351,6 +358,7 @@
                     "combat": {
                         "energy": -45,
                         "power": 75,
+                        "turns": 1,
                         "buffs": null
                     }
                 },
@@ -383,6 +391,7 @@
                     "combat": {
                         "energy": -60,
                         "power": 70,
+                        "turns": 1,
                         "buffs": null
                     }
                 },
@@ -415,6 +424,7 @@
                     "combat": {
                         "energy": -55,
                         "power": 90,
+                        "turns": 1,
                         "buffs": null
                     }
                 }

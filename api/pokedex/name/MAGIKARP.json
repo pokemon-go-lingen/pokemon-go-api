@@ -90,6 +90,7 @@
             "combat": {
                 "energy": -100,
                 "power": 35,
+                "turns": 1,
                 "buffs": null
             }
         }

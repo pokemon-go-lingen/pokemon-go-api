@@ -90,6 +90,7 @@
             "combat": {
                 "energy": -35,
                 "power": 60,
+                "turns": 1,
                 "buffs": null
             }
         },
@@ -122,6 +123,7 @@
             "combat": {
                 "energy": -35,
                 "power": 50,
+                "turns": 1,
                 "buffs": {
                     "activationChance": 12,
                     "attackerAttackStatsChange": 2,
@@ -160,6 +162,7 @@
             "combat": {
                 "energy": -35,
                 "power": 40,
+                "turns": 1,
                 "buffs": null
             }
         }

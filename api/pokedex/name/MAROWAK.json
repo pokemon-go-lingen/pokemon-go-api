@@ -60,6 +60,7 @@
             "combat": {
                 "energy": 8,
                 "power": 11,
+                "turns": 3,
                 "buffs": null
             }
         },
@@ -92,6 +93,7 @@
             "combat": {
                 "energy": 7,
                 "power": 9,
+                "turns": 3,
                 "buffs": null
             }
         }
@@ -126,6 +128,7 @@
             "combat": {
                 "energy": -35,
                 "power": 40,
+                "turns": 1,
                 "buffs": null
             }
         },
@@ -158,6 +161,7 @@
             "combat": {
                 "energy": -80,
                 "power": 100,
+                "turns": 1,
                 "buffs": null
             }
         },
@@ -190,6 +194,7 @@
             "combat": {
                 "energy": -65,
                 "power": 120,
+                "turns": 1,
                 "buffs": null
             }
         }
@@ -274,6 +279,7 @@
                     "combat": {
                         "energy": 12,
                         "power": 6,
+                        "turns": 3,
                         "buffs": null
                     }
                 },
@@ -306,6 +312,7 @@
                     "combat": {
                         "energy": 7,
                         "power": 9,
+                        "turns": 3,
                         "buffs": null
                     }
                 },
@@ -338,6 +345,7 @@
                     "combat": {
                         "energy": 10,
                         "power": 9,
+                        "turns": 3,
                         "buffs": null
                     }
                 }
@@ -372,6 +380,7 @@
                     "combat": {
                         "energy": -35,
                         "power": 40,
+                        "turns": 1,
                         "buffs": null
                     }
                 },
@@ -404,6 +413,7 @@
                     "combat": {
                         "energy": -55,
                         "power": 100,
+                        "turns": 1,
                         "buffs": null
                     }
                 },
@@ -436,6 +446,7 @@
                     "combat": {
                         "energy": -80,
                         "power": 140,
+                        "turns": 1,
                         "buffs": null
                     }
                 },
@@ -468,6 +479,7 @@
                     "combat": {
                         "energy": -55,
                         "power": 60,
+                        "turns": 1,
                         "buffs": null
                     }
                 }
@@ -503,6 +515,7 @@
                     "combat": {
                         "energy": -45,
                         "power": 75,
+                        "turns": 1,
                         "buffs": {
                             "activationChance": 20,
                             "attackerAttackStatsChange": null,
