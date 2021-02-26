@@ -57,7 +57,12 @@
                 "Korean": "\ud558\ud488",
                 "Spanish": "Bostezo"
             },
-            "combat": null
+            "combat": {
+                "energy": 12,
+                "power": 0,
+                "turns": 4,
+                "buffs": null
+            }
         }
     },
     "cinematicMoves": {

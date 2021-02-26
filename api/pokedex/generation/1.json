@@ -39241,7 +39241,12 @@
                     "Korean": "\ud280\uc5b4\uc624\ub974\uae30",
                     "Spanish": "Salpicadura"
                 },
-                "combat": null
+                "combat": {
+                    "energy": 12,
+                    "power": 0,
+                    "turns": 4,
+                    "buffs": null
+                }
             }
         },
         "cinematicMoves": {
@@ -40145,7 +40150,12 @@
                     "Korean": "\ubcc0\uc2e0",
                     "Spanish": "Transformaci\u00f3n"
                 },
-                "combat": null
+                "combat": {
+                    "energy": 0,
+                    "power": 0,
+                    "turns": 3,
+                    "buffs": null
+                }
             }
         },
         "cinematicMoves": {
@@ -43388,7 +43398,12 @@
                     "Korean": "\ud558\ud488",
                     "Spanish": "Bostezo"
                 },
-                "combat": null
+                "combat": {
+                    "energy": 12,
+                    "power": 0,
+                    "turns": 4,
+                    "buffs": null
+                }
             }
         },
         "eliteCinematicMoves": [],

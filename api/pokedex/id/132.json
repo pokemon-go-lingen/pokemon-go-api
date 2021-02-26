@@ -57,7 +57,12 @@
                 "Korean": "\ubcc0\uc2e0",
                 "Spanish": "Transformaci\u00f3n"
             },
-            "combat": null
+            "combat": {
+                "energy": 0,
+                "power": 0,
+                "turns": 3,
+                "buffs": null
+            }
         }
     },
     "cinematicMoves": {

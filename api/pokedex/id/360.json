@@ -57,7 +57,12 @@
                 "Korean": "\ud280\uc5b4\uc624\ub974\uae30",
                 "Spanish": "Salpicadura"
             },
-            "combat": null
+            "combat": {
+                "energy": 12,
+                "power": 0,
+                "turns": 4,
+                "buffs": null
+            }
         },
         "COUNTER_FAST": {
             "id": "COUNTER_FAST",

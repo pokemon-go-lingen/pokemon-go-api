@@ -8645,7 +8645,12 @@
                     "Korean": "\ud558\ud488",
                     "Spanish": "Bostezo"
                 },
-                "combat": null
+                "combat": {
+                    "energy": 12,
+                    "power": 0,
+                    "turns": 4,
+                    "buffs": null
+                }
             }
         },
         "cinematicMoves": {
@@ -9035,7 +9040,12 @@
                     "Korean": "\ud558\ud488",
                     "Spanish": "Bostezo"
                 },
-                "combat": null
+                "combat": {
+                    "energy": 12,
+                    "power": 0,
+                    "turns": 4,
+                    "buffs": null
+                }
             }
         },
         "cinematicMoves": {
@@ -11071,7 +11081,12 @@
                     "Korean": "\ud280\uc5b4\uc624\ub974\uae30",
                     "Spanish": "Salpicadura"
                 },
-                "combat": null
+                "combat": {
+                    "energy": 12,
+                    "power": 0,
+                    "turns": 4,
+                    "buffs": null
+                }
             },
             "BUBBLE_FAST": {
                 "id": "BUBBLE_FAST",
@@ -16187,7 +16202,12 @@
                     "Korean": "\ud280\uc5b4\uc624\ub974\uae30",
                     "Spanish": "Salpicadura"
                 },
-                "combat": null
+                "combat": {
+                    "energy": 12,
+                    "power": 0,
+                    "turns": 4,
+                    "buffs": null
+                }
             },
             "WATER_GUN_FAST": {
                 "id": "WATER_GUN_FAST",
@@ -17310,7 +17330,12 @@
                     "Korean": "\ud280\uc5b4\uc624\ub974\uae30",
                     "Spanish": "Salpicadura"
                 },
-                "combat": null
+                "combat": {
+                    "energy": 12,
+                    "power": 0,
+                    "turns": 4,
+                    "buffs": null
+                }
             },
             "ZEN_HEADBUTT_FAST": {
                 "id": "ZEN_HEADBUTT_FAST",
@@ -22891,7 +22916,12 @@
                     "Korean": "\ud280\uc5b4\uc624\ub974\uae30",
                     "Spanish": "Salpicadura"
                 },
-                "combat": null
+                "combat": {
+                    "energy": 12,
+                    "power": 0,
+                    "turns": 4,
+                    "buffs": null
+                }
             },
             "TACKLE_FAST": {
                 "id": "TACKLE_FAST",
@@ -25876,7 +25906,12 @@
                     "Korean": "\ud280\uc5b4\uc624\ub974\uae30",
                     "Spanish": "Salpicadura"
                 },
-                "combat": null
+                "combat": {
+                    "energy": 12,
+                    "power": 0,
+                    "turns": 4,
+                    "buffs": null
+                }
             },
             "COUNTER_FAST": {
                 "id": "COUNTER_FAST",
@@ -27977,7 +28012,12 @@
                     "Korean": "\ud280\uc5b4\uc624\ub974\uae30",
                     "Spanish": "Salpicadura"
                 },
-                "combat": null
+                "combat": {
+                    "energy": 12,
+                    "power": 0,
+                    "turns": 4,
+                    "buffs": null
+                }
             }
         },
         "cinematicMoves": {
