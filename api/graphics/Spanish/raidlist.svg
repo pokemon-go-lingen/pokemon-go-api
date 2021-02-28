@@ -1,5 +1,5 @@
 <?xml version = "1.0" encoding = "UTF-8" standalone = "no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-     viewBox="0 0 670 440" width="985"
+     viewBox="0 0 685 440" width="985"
      preserveAspectRatio="none" version="1.1">
     <style>
         .boss-types rect,
@@ -112,8 +112,8 @@
     </defs>
 
     <g class="graphic-header">
-        <rect fill="url('#header')" width="670" height="30" x="0" y="0"/>
-        <line x1="0" x2="670" y1="30" y2="30"/>
+        <rect fill="url('#header')" width="685" height="30" x="0" y="0"/>
+        <line x1="0" x2="685" y1="30" y2="30"/>
         <text x="3" y="20">Level</text>
         <text x="170" y="20">Raidboss</text>
         <text x="315" y="20">Typen</text>
@@ -123,7 +123,7 @@
     </g>
 
     <g class="graphic-footer">
-        <rect fill="#000" width="670" height="10" x="0" y="430"/>
+        <rect fill="#000" width="685" height="10" x="0" y="430"/>
         <text class="source-url" x="2" y="438">Raidboss source from serebii.net | generated for pokemon-go-lingen.github.io/pokemon-go-api/ | Image Source by The Pokemon Company and Niantic</text>
     </g>
 
