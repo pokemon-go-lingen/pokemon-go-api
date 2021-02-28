@@ -283,8 +283,8 @@
                 "id": "LANDORUS",
                 "form": "LANDORUS",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_645_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_645_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_645_11.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_645_11_shiny.png"
                 },
                 "level": "lvl5",
                 "names": {
@@ -324,12 +324,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "c17af373a8f8d983addd3c7c35324b5007ee212d817b58d2aca892a2c4a8b4b75e6ad2ec93a1317a1e17123987c1265b1f182ade5fa3e41cfb6aab4bc596509a"
+            "sha512": "8ffad6d3ae5819fcc9ede64d55ec1199fcd556ad4bb11428b05e50c9906ed240776b5a3d893b2d3bf0eed4e8b989a2d2f3653560df6e4e0112b507c47dd7c4eb"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "e1c28e26996f682b218014bd82045c880b94c51e7e9090b73742b628d0fa445718928acdd8f216d0356ab7f0f5a376d5f07ffebc48715c4c4405370961af69de"
+            "sha512": "719286e3bdae0f378ad46bde8724886da5f1ccb4c4aba5b78d44752b582ff2ecbf89d2ba26e521383858e5f44bdb1e312763d0ac39e6d32e86b7c1d2ff30d410"
         }
     }
 }
