@@ -34,7 +34,6 @@
             font-size: 30px;
             line-height: 1.25;
             font-family: sans-serif;
-            direction: rtl;
             fill: #ffffff;
             filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.6));
             text-transform: uppercase;
@@ -140,7 +139,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Psystigri</text>            </g>
+                <text text-anchor="end" x="295" y="35">Psystigri</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -204,7 +203,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Couaneton</text>            </g>
+                <text text-anchor="end" x="295" y="35">Couaneton</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -272,7 +271,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Rototaupe</text>            </g>
+                <text text-anchor="end" x="295" y="35">Rototaupe</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -336,7 +335,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Marcacrin</text>            </g>
+                <text text-anchor="end" x="295" y="35">Marcacrin</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -416,7 +415,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Farfuret</text>            </g>
+                <text text-anchor="end" x="295" y="35">Farfuret</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -502,7 +501,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Torterra</text>            </g>
+                <text text-anchor="end" x="295" y="35">Torterra</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -576,7 +575,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Oniglali</text>            </g>
+                <text text-anchor="end" x="295" y="35">Oniglali</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -644,7 +643,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Barbicha</text>            </g>
+                <text text-anchor="end" x="295" y="35">Barbicha</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -708,7 +707,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Donphan</text>            </g>
+                <text text-anchor="end" x="295" y="35">Donphan</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -772,7 +771,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Scorplane</text>            </g>
+                <text text-anchor="end" x="295" y="35">Scorplane</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -842,9 +841,8 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35" class="double-line">
-    <tspan x="295" y="22">Démétéros</tspan>
-    <tspan x="295" y="42">(Forme Avatar)</tspan>
+                <text text-anchor="end" x="295" y="35" class="double-line">
+    <tspan x="295" y="22">Démétéros</tspan><tspan x="295" y="42">(Forme Avatar)</tspan>
 </text>            </g>
 
             <g class="boss-image">
@@ -915,7 +913,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Méga-Pharamp</text>            </g>
+                <text text-anchor="end" x="295" y="35">Méga-Pharamp</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -991,7 +989,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Méga-Roucarnage</text>            </g>
+                <text text-anchor="end" x="295" y="35">Méga-Roucarnage</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -1063,7 +1061,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Méga-Tortank</text>            </g>
+                <text text-anchor="end" x="295" y="35">Méga-Tortank</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
