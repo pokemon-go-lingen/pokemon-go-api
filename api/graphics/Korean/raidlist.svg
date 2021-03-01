@@ -39,6 +39,9 @@
             filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.6));
             text-transform: uppercase;
         }
+        .boss-name text.double-line {
+            font-size: 20px;
+        }
 
         .boss-cp-spectrum text {
             font-size: 13px;
@@ -137,8 +140,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">냐스퍼</text>
-            </g>
+                <text x="295" y="35">냐스퍼</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -202,8 +204,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">꼬지보리</text>
-            </g>
+                <text x="295" y="35">꼬지보리</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -271,8 +272,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">두더류</text>
-            </g>
+                <text x="295" y="35">두더류</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -336,8 +336,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">꾸꾸리</text>
-            </g>
+                <text x="295" y="35">꾸꾸리</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -417,8 +416,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">포푸니</text>
-            </g>
+                <text x="295" y="35">포푸니</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -504,8 +502,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">토대부기</text>
-            </g>
+                <text x="295" y="35">토대부기</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -579,8 +576,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">얼음귀신</text>
-            </g>
+                <text x="295" y="35">얼음귀신</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -648,8 +644,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">메깅</text>
-            </g>
+                <text x="295" y="35">메깅</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -713,8 +708,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">코리갑</text>
-            </g>
+                <text x="295" y="35">코리갑</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -778,8 +772,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">글라이거</text>
-            </g>
+                <text x="295" y="35">글라이거</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -849,8 +842,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">랜드로스 (화신폼)</text>
-            </g>
+                <text x="295" y="35">랜드로스 (화신폼)</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -920,8 +912,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">메가전룡</text>
-            </g>
+                <text x="295" y="35">메가전룡</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -997,8 +988,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">메가피죤투</text>
-            </g>
+                <text x="295" y="35">메가피죤투</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -1070,8 +1060,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">메가거북왕</text>
-            </g>
+                <text x="295" y="35">메가거북왕</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>

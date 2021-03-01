@@ -39,6 +39,9 @@
             filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.6));
             text-transform: uppercase;
         }
+        .boss-name text.double-line {
+            font-size: 20px;
+        }
 
         .boss-cp-spectrum text {
             font-size: 13px;
@@ -137,8 +140,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Psiau</text>
-            </g>
+                <text x="295" y="35">Psiau</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -202,8 +204,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Piccolente</text>
-            </g>
+                <text x="295" y="35">Piccolente</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -271,8 +272,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Rotomurf</text>
-            </g>
+                <text x="295" y="35">Rotomurf</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -336,8 +336,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Quiekel</text>
-            </g>
+                <text x="295" y="35">Quiekel</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -417,8 +416,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Sniebel</text>
-            </g>
+                <text x="295" y="35">Sniebel</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -504,8 +502,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Chelterrar</text>
-            </g>
+                <text x="295" y="35">Chelterrar</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -579,8 +576,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Firnontor</text>
-            </g>
+                <text x="295" y="35">Firnontor</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -648,8 +644,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Welsar</text>
-            </g>
+                <text x="295" y="35">Welsar</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -713,8 +708,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Donphan</text>
-            </g>
+                <text x="295" y="35">Donphan</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -778,8 +772,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Skorgla</text>
-            </g>
+                <text x="295" y="35">Skorgla</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -849,8 +842,10 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Demeteros (Inkarnationsform)</text>
-            </g>
+                <text x="295" y="35" class="double-line">
+    <tspan x="295" y="22">Demeteros</tspan>
+    <tspan x="295" y="42">(Inkarnationsform)</tspan>
+</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -920,8 +915,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">M-Ampharos</text>
-            </g>
+                <text x="295" y="35">M-Ampharos</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -997,8 +991,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">M-Tauboss</text>
-            </g>
+                <text x="295" y="35">M-Tauboss</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -1070,8 +1063,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">M-Turtok</text>
-            </g>
+                <text x="295" y="35">M-Turtok</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
