@@ -839,7 +839,7 @@
             </g>
 
         </svg>
-            <svg id="raidbosswrapper-LANDORUS" x="0" y="180" width="100%" height="60">
+            <svg id="raidbosswrapper-LANDORUS_INCARNATE" x="0" y="180" width="100%" height="60">
             <rect fill="url('#raidBossGradient_lvl5')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -849,7 +849,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text x="295" y="35">Landorus</text>
+                <text x="295" y="35">Landorus (Incarnate Forme)</text>
             </g>
 
             <g class="boss-image">

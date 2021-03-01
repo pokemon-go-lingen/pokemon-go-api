@@ -205,8 +205,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_493_11.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_493_11_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "ARCEUS_BUG": {
             "id": "ARCEUS",
             "formId": "ARCEUS_BUG",
             "dexNr": 493,
@@ -417,7 +417,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ARCEUS_DARK": {
             "id": "ARCEUS",
             "formId": "ARCEUS_DARK",
             "dexNr": 493,
@@ -628,7 +628,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ARCEUS_DRAGON": {
             "id": "ARCEUS",
             "formId": "ARCEUS_DRAGON",
             "dexNr": 493,
@@ -839,7 +839,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ARCEUS_ELECTRIC": {
             "id": "ARCEUS",
             "formId": "ARCEUS_ELECTRIC",
             "dexNr": 493,
@@ -1050,7 +1050,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ARCEUS_FAIRY": {
             "id": "ARCEUS",
             "formId": "ARCEUS_FAIRY",
             "dexNr": 493,
@@ -1261,7 +1261,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ARCEUS_FIGHTING": {
             "id": "ARCEUS",
             "formId": "ARCEUS_FIGHTING",
             "dexNr": 493,
@@ -1472,7 +1472,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ARCEUS_FIRE": {
             "id": "ARCEUS",
             "formId": "ARCEUS_FIRE",
             "dexNr": 493,
@@ -1683,7 +1683,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ARCEUS_FLYING": {
             "id": "ARCEUS",
             "formId": "ARCEUS_FLYING",
             "dexNr": 493,
@@ -1894,7 +1894,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ARCEUS_GHOST": {
             "id": "ARCEUS",
             "formId": "ARCEUS_GHOST",
             "dexNr": 493,
@@ -2105,7 +2105,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ARCEUS_GRASS": {
             "id": "ARCEUS",
             "formId": "ARCEUS_GRASS",
             "dexNr": 493,
@@ -2316,7 +2316,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ARCEUS_GROUND": {
             "id": "ARCEUS",
             "formId": "ARCEUS_GROUND",
             "dexNr": 493,
@@ -2527,7 +2527,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ARCEUS_ICE": {
             "id": "ARCEUS",
             "formId": "ARCEUS_ICE",
             "dexNr": 493,
@@ -2738,7 +2738,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ARCEUS_POISON": {
             "id": "ARCEUS",
             "formId": "ARCEUS_POISON",
             "dexNr": 493,
@@ -2949,7 +2949,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ARCEUS_PSYCHIC": {
             "id": "ARCEUS",
             "formId": "ARCEUS_PSYCHIC",
             "dexNr": 493,
@@ -3160,7 +3160,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ARCEUS_ROCK": {
             "id": "ARCEUS",
             "formId": "ARCEUS_ROCK",
             "dexNr": 493,
@@ -3371,7 +3371,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ARCEUS_STEEL": {
             "id": "ARCEUS",
             "formId": "ARCEUS_STEEL",
             "dexNr": 493,
@@ -3582,7 +3582,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ARCEUS_WATER": {
             "id": "ARCEUS",
             "formId": "ARCEUS_WATER",
             "dexNr": 493,
@@ -3793,7 +3793,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

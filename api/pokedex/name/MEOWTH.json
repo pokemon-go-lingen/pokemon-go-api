@@ -245,8 +245,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_052_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_052_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "MEOWTH_ALOLA": {
             "id": "MEOWTH",
             "formId": "MEOWTH_ALOLA",
             "dexNr": 52,
@@ -463,7 +463,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "MEOWTH_GALARIAN": {
             "id": "MEOWTH",
             "formId": "MEOWTH_GALARIAN",
             "dexNr": 52,
@@ -680,7 +680,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

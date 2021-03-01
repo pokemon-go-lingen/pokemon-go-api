@@ -238,8 +238,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_110_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_110_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "WEEZING_GALARIAN": {
             "id": "WEEZING",
             "formId": "WEEZING_GALARIAN",
             "dexNr": 110,
@@ -467,7 +467,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

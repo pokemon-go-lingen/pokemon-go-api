@@ -291,11 +291,11 @@
     "eliteQuickMoves": [],
     "eliteCinematicMoves": [],
     "assets": {
-        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_668_01.png",
-        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_668_01_shiny.png"
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_668_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_668_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "PYROAR_FEMALE": {
             "id": "PYROAR",
             "formId": "PYROAR_FEMALE",
             "dexNr": 668,
@@ -562,7 +562,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

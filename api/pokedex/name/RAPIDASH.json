@@ -311,8 +311,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_078_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_078_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "RAPIDASH_GALARIAN": {
             "id": "RAPIDASH",
             "formId": "RAPIDASH_GALARIAN",
             "dexNr": 78,
@@ -573,7 +573,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

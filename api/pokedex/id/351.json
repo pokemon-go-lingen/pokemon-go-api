@@ -178,8 +178,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_351_11.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_351_11_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "CASTFORM_RAINY": {
             "id": "CASTFORM",
             "formId": "CASTFORM_RAINY",
             "dexNr": 351,
@@ -390,7 +390,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "CASTFORM_SNOWY": {
             "id": "CASTFORM",
             "formId": "CASTFORM_SNOWY",
             "dexNr": 351,
@@ -601,7 +601,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "CASTFORM_SUNNY": {
             "id": "CASTFORM",
             "formId": "CASTFORM_SUNNY",
             "dexNr": 351,
@@ -812,7 +812,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

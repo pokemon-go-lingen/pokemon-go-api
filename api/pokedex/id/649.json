@@ -216,8 +216,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_649_11.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_649_11_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "GENESECT_BURN": {
             "id": "GENESECT",
             "formId": "GENESECT_BURN",
             "dexNr": 649,
@@ -439,7 +439,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "GENESECT_CHILL": {
             "id": "GENESECT",
             "formId": "GENESECT_CHILL",
             "dexNr": 649,
@@ -661,7 +661,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "GENESECT_DOUSE": {
             "id": "GENESECT",
             "formId": "GENESECT_DOUSE",
             "dexNr": 649,
@@ -883,7 +883,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "GENESECT_SHOCK": {
             "id": "GENESECT",
             "formId": "GENESECT_SHOCK",
             "dexNr": 649,
@@ -1105,7 +1105,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

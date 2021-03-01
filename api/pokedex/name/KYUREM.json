@@ -222,8 +222,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_646_11.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_646_11_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "KYUREM_BLACK": {
             "id": "KYUREM",
             "formId": "KYUREM_BLACK",
             "dexNr": 646,
@@ -478,7 +478,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "KYUREM_WHITE": {
             "id": "KYUREM",
             "formId": "KYUREM_WHITE",
             "dexNr": 646,
@@ -739,7 +739,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

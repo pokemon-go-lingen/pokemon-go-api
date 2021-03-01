@@ -219,11 +219,11 @@
     "eliteQuickMoves": [],
     "eliteCinematicMoves": [],
     "assets": {
-        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_593_01.png",
-        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_593_01_shiny.png"
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_593_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_593_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "JELLICENT_FEMALE": {
             "id": "JELLICENT",
             "formId": "JELLICENT_FEMALE",
             "dexNr": 593,
@@ -451,7 +451,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

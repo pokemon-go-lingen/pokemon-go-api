@@ -378,8 +378,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_038_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_038_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "NINETALES_ALOLA": {
             "id": "NINETALES",
             "formId": "NINETALES_ALOLA",
             "dexNr": 38,
@@ -700,7 +700,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

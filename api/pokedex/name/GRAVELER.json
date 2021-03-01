@@ -250,8 +250,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_075_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_075_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "GRAVELER_ALOLA": {
             "id": "GRAVELER",
             "formId": "GRAVELER_ALOLA",
             "dexNr": 75,
@@ -473,7 +473,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

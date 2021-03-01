@@ -250,8 +250,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_083_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_083_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "FARFETCHD_GALARIAN": {
             "id": "FARFETCHD",
             "formId": "FARFETCHD_GALARIAN",
             "dexNr": 83,
@@ -468,7 +468,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

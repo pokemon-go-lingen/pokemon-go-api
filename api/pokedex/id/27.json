@@ -245,8 +245,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_027_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_027_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "SANDSHREW_ALOLA": {
             "id": "SANDSHREW",
             "formId": "SANDSHREW_ALOLA",
             "dexNr": 27,
@@ -474,7 +474,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

@@ -205,8 +205,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_051_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_051_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "DUGTRIO_ALOLA": {
             "id": "DUGTRIO",
             "formId": "DUGTRIO_ALOLA",
             "dexNr": 51,
@@ -428,7 +428,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

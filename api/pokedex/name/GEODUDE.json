@@ -216,8 +216,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_074_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_074_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "GEODUDE_ALOLA": {
             "id": "GEODUDE",
             "formId": "GEODUDE_ALOLA",
             "dexNr": 74,
@@ -439,7 +439,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

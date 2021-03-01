@@ -211,8 +211,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_386_11.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_386_11_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "DEOXYS_ATTACK": {
             "id": "DEOXYS",
             "formId": "DEOXYS_ATTACK",
             "dexNr": 386,
@@ -429,7 +429,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "DEOXYS_DEFENSE": {
             "id": "DEOXYS",
             "formId": "DEOXYS_DEFENSE",
             "dexNr": 386,
@@ -646,7 +646,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "DEOXYS_SPEED": {
             "id": "DEOXYS",
             "formId": "DEOXYS_SPEED",
             "dexNr": 386,
@@ -863,7 +863,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

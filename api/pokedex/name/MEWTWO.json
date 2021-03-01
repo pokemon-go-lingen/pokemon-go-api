@@ -377,8 +377,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_150_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_150_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "MEWTWO_A": {
             "id": "MEWTWO",
             "formId": "MEWTWO_A",
             "dexNr": 150,
@@ -656,7 +656,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

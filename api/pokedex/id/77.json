@@ -245,8 +245,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_077_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_077_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "PONYTA_GALARIAN": {
             "id": "PONYTA",
             "formId": "PONYTA_GALARIAN",
             "dexNr": 77,
@@ -457,7 +457,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

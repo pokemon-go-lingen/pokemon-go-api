@@ -205,8 +205,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_019_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_019_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "RATTATA_ALOLA": {
             "id": "RATTATA",
             "formId": "RATTATA_ALOLA",
             "dexNr": 19,
@@ -428,7 +428,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

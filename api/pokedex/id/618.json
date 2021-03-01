@@ -222,8 +222,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_618_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_618_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "STUNFISK_GALARIAN": {
             "id": "STUNFISK",
             "formId": "STUNFISK_GALARIAN",
             "dexNr": 618,
@@ -484,7 +484,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

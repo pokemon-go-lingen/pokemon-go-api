@@ -2907,8 +2907,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_263_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_263_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "ZIGZAGOON_GALARIAN": {
                 "id": "ZIGZAGOON",
                 "formId": "ZIGZAGOON_GALARIAN",
                 "dexNr": 263,
@@ -3130,7 +3130,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -3341,8 +3341,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_264_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_264_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "LINOONE_GALARIAN": {
                 "id": "LINOONE",
                 "formId": "LINOONE_GALARIAN",
                 "dexNr": 264,
@@ -3564,7 +3564,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -23393,8 +23393,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_351_11.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_351_11_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "CASTFORM_RAINY": {
                 "id": "CASTFORM",
                 "formId": "CASTFORM_RAINY",
                 "dexNr": 351,
@@ -23605,7 +23605,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             },
-            {
+            "CASTFORM_SNOWY": {
                 "id": "CASTFORM",
                 "formId": "CASTFORM_SNOWY",
                 "dexNr": 351,
@@ -23816,7 +23816,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             },
-            {
+            "CASTFORM_SUNNY": {
                 "id": "CASTFORM",
                 "formId": "CASTFORM_SUNNY",
                 "dexNr": 351,
@@ -24027,7 +24027,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -31841,8 +31841,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_386_11.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_386_11_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "DEOXYS_ATTACK": {
                 "id": "DEOXYS",
                 "formId": "DEOXYS_ATTACK",
                 "dexNr": 386,
@@ -32059,7 +32059,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             },
-            {
+            "DEOXYS_DEFENSE": {
                 "id": "DEOXYS",
                 "formId": "DEOXYS_DEFENSE",
                 "dexNr": 386,
@@ -32276,7 +32276,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             },
-            {
+            "DEOXYS_SPEED": {
                 "id": "DEOXYS",
                 "formId": "DEOXYS_SPEED",
                 "dexNr": 386,
@@ -32493,7 +32493,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     }

@@ -205,8 +205,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_105_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_105_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "MAROWAK_ALOLA": {
             "id": "MAROWAK",
             "formId": "MAROWAK_ALOLA",
             "dexNr": 105,
@@ -534,7 +534,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

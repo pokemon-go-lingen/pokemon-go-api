@@ -1,6 +1,6 @@
 {
     "id": "DARMANITAN",
-    "formId": "DARMANITAN",
+    "formId": "DARMANITAN_STANDARD",
     "dexNr": 555,
     "generation": 5,
     "names": {
@@ -283,8 +283,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_555_11.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_555_11_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "DARMANITAN_GALARIAN_STANDARD": {
             "id": "DARMANITAN",
             "formId": "DARMANITAN_GALARIAN_STANDARD",
             "dexNr": 555,
@@ -540,7 +540,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "DARMANITAN_GALARIAN_ZEN": {
             "id": "DARMANITAN",
             "formId": "DARMANITAN_GALARIAN_ZEN",
             "dexNr": 555,
@@ -807,296 +807,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
-            "id": "DARMANITAN",
-            "formId": "DARMANITAN_STANDARD",
-            "dexNr": 555,
-            "generation": 5,
-            "names": {
-                "English": "Darmanitan",
-                "German": "Flampivian",
-                "French": "Darumacho",
-                "Italian": "Darmanitan",
-                "Japanese": "\u30d2\u30d2\u30c0\u30eb\u30de",
-                "Korean": "\ubd88\ube44\ub2ec\ub9c8",
-                "Spanish": "Darmanitan"
-            },
-            "stats": {
-                "stamina": 233,
-                "attack": 263,
-                "defense": 114
-            },
-            "primaryType": {
-                "type": "POKEMON_TYPE_FIRE",
-                "names": {
-                    "English": "Fire",
-                    "German": "Feuer",
-                    "French": "Feu",
-                    "Italian": "Fuoco",
-                    "Japanese": "\u307b\u306e\u304a",
-                    "Korean": "\ubd88\uaf43",
-                    "Spanish": "Fuego"
-                }
-            },
-            "secondaryType": null,
-            "quickMoves": {
-                "TACKLE_FAST": {
-                    "id": "TACKLE_FAST",
-                    "power": 5,
-                    "energy": 5,
-                    "durationMs": 500,
-                    "type": {
-                        "type": "POKEMON_TYPE_NORMAL",
-                        "names": {
-                            "English": "Normal",
-                            "German": "Normal",
-                            "French": "Normal",
-                            "Italian": "Normale",
-                            "Japanese": "\u30ce\u30fc\u30de\u30eb",
-                            "Korean": "\ub178\ub9d0",
-                            "Spanish": "Normal"
-                        }
-                    },
-                    "names": {
-                        "English": "Tackle",
-                        "German": "Tackle",
-                        "French": "Charge",
-                        "Italian": "Azione",
-                        "Japanese": "\u305f\u3044\u3042\u305f\u308a",
-                        "Korean": "\ubab8\ud1b5\ubc15\uce58\uae30",
-                        "Spanish": "Placaje"
-                    },
-                    "combat": {
-                        "energy": 2,
-                        "power": 3,
-                        "turns": 1,
-                        "buffs": null
-                    }
-                },
-                "FIRE_FANG_FAST": {
-                    "id": "FIRE_FANG_FAST",
-                    "power": 12,
-                    "energy": 8,
-                    "durationMs": 900,
-                    "type": {
-                        "type": "POKEMON_TYPE_FIRE",
-                        "names": {
-                            "English": "Fire",
-                            "German": "Feuer",
-                            "French": "Feu",
-                            "Italian": "Fuoco",
-                            "Japanese": "\u307b\u306e\u304a",
-                            "Korean": "\ubd88\uaf43",
-                            "Spanish": "Fuego"
-                        }
-                    },
-                    "names": {
-                        "English": "Fire Fang",
-                        "German": "Feuerzahn",
-                        "French": "Crocs Feu",
-                        "Italian": "Rogodenti",
-                        "Japanese": "\u307b\u306e\u304a\u306e\u30ad\u30d0",
-                        "Korean": "\ubd88\uaf43\uc5c4\ub2c8",
-                        "Spanish": "Colmillo \u00cdgneo"
-                    },
-                    "combat": {
-                        "energy": 5,
-                        "power": 8,
-                        "turns": 2,
-                        "buffs": null
-                    }
-                },
-                "INCINERATE_FAST": {
-                    "id": "INCINERATE_FAST",
-                    "power": 29,
-                    "energy": 20,
-                    "durationMs": 2300,
-                    "type": {
-                        "type": "POKEMON_TYPE_FIRE",
-                        "names": {
-                            "English": "Fire",
-                            "German": "Feuer",
-                            "French": "Feu",
-                            "Italian": "Fuoco",
-                            "Japanese": "\u307b\u306e\u304a",
-                            "Korean": "\ubd88\uaf43",
-                            "Spanish": "Fuego"
-                        }
-                    },
-                    "names": {
-                        "English": "Incinerate",
-                        "German": "Ein\u00e4schern",
-                        "French": "Calcination",
-                        "Italian": "Bruciatutto",
-                        "Japanese": "\u3084\u304d\u3064\u304f\u3059",
-                        "Korean": "\ubd88\ud0dc\uc6b0\uae30",
-                        "Spanish": "Calcinaci\u00f3n"
-                    },
-                    "combat": {
-                        "energy": 20,
-                        "power": 15,
-                        "turns": 5,
-                        "buffs": null
-                    }
-                }
-            },
-            "cinematicMoves": {
-                "OVERHEAT": {
-                    "id": "OVERHEAT",
-                    "power": 160,
-                    "energy": -100,
-                    "durationMs": 4000,
-                    "type": {
-                        "type": "POKEMON_TYPE_FIRE",
-                        "names": {
-                            "English": "Fire",
-                            "German": "Feuer",
-                            "French": "Feu",
-                            "Italian": "Fuoco",
-                            "Japanese": "\u307b\u306e\u304a",
-                            "Korean": "\ubd88\uaf43",
-                            "Spanish": "Fuego"
-                        }
-                    },
-                    "names": {
-                        "English": "Overheat",
-                        "German": "Hitzekoller",
-                        "French": "Surchauffe",
-                        "Italian": "Vampata",
-                        "Japanese": "\u30aa\u30fc\u30d0\u30fc\u30d2\u30fc\u30c8",
-                        "Korean": "\uc624\ubc84\ud788\ud2b8",
-                        "Spanish": "Sofoco"
-                    },
-                    "combat": {
-                        "energy": -55,
-                        "power": 130,
-                        "turns": 1,
-                        "buffs": {
-                            "activationChance": 100,
-                            "attackerAttackStatsChange": -2,
-                            "attackerDefenseStatsChange": null,
-                            "targetAttackStatsChange": null,
-                            "targetDefenseStatsChange": null
-                        }
-                    }
-                },
-                "FOCUS_BLAST": {
-                    "id": "FOCUS_BLAST",
-                    "power": 140,
-                    "energy": -100,
-                    "durationMs": 3500,
-                    "type": {
-                        "type": "POKEMON_TYPE_FIGHTING",
-                        "names": {
-                            "English": "Fighting",
-                            "German": "Kampf",
-                            "French": "Combat",
-                            "Italian": "Lotta",
-                            "Japanese": "\u304b\u304f\u3068\u3046",
-                            "Korean": "\uaca9\ud22c",
-                            "Spanish": "Lucha"
-                        }
-                    },
-                    "names": {
-                        "English": "Focus Blast",
-                        "German": "Fokussto\u00df",
-                        "French": "Exploforce",
-                        "Italian": "Focalcolpo",
-                        "Japanese": "\u304d\u3042\u3044\u3060\u307e",
-                        "Korean": "\uae30\ud569\uad6c\uc2ac",
-                        "Spanish": "Onda Certera"
-                    },
-                    "combat": {
-                        "energy": -75,
-                        "power": 140,
-                        "turns": 1,
-                        "buffs": null
-                    }
-                },
-                "PSYCHIC": {
-                    "id": "PSYCHIC",
-                    "power": 90,
-                    "energy": -50,
-                    "durationMs": 2800,
-                    "type": {
-                        "type": "POKEMON_TYPE_PSYCHIC",
-                        "names": {
-                            "English": "Psychic",
-                            "German": "Psycho",
-                            "French": "Psy",
-                            "Italian": "Psico",
-                            "Japanese": "\u30a8\u30b9\u30d1\u30fc",
-                            "Korean": "\uc5d0\uc2a4\ud37c",
-                            "Spanish": "Ps\u00edquico"
-                        }
-                    },
-                    "names": {
-                        "English": "Psychic",
-                        "German": "Psychokinese",
-                        "French": "Psyko",
-                        "Italian": "Psichico",
-                        "Japanese": "\u30b5\u30a4\u30b3\u30ad\u30cd\u30b7\u30b9",
-                        "Korean": "\uc0ac\uc774\ucf54\ud0a4\ub124\uc2dc\uc2a4",
-                        "Spanish": "Ps\u00edquico"
-                    },
-                    "combat": {
-                        "energy": -55,
-                        "power": 90,
-                        "turns": 1,
-                        "buffs": {
-                            "activationChance": 10,
-                            "attackerAttackStatsChange": null,
-                            "attackerDefenseStatsChange": null,
-                            "targetAttackStatsChange": null,
-                            "targetDefenseStatsChange": -1
-                        }
-                    }
-                },
-                "ROCK_SLIDE": {
-                    "id": "ROCK_SLIDE",
-                    "power": 80,
-                    "energy": -50,
-                    "durationMs": 2700,
-                    "type": {
-                        "type": "POKEMON_TYPE_ROCK",
-                        "names": {
-                            "English": "Rock",
-                            "German": "Gestein",
-                            "French": "Roche",
-                            "Italian": "Roccia",
-                            "Japanese": "\u3044\u308f",
-                            "Korean": "\ubc14\uc704",
-                            "Spanish": "Roca"
-                        }
-                    },
-                    "names": {
-                        "English": "Rock Slide",
-                        "German": "Steinhagel",
-                        "French": "\u00c9boulement",
-                        "Italian": "Frana",
-                        "Japanese": "\u3044\u308f\u306a\u3060\u308c",
-                        "Korean": "\uc2a4\ud1a4\uc0e4\uc6cc",
-                        "Spanish": "Avalancha"
-                    },
-                    "combat": {
-                        "energy": -45,
-                        "power": 75,
-                        "turns": 1,
-                        "buffs": null
-                    }
-                }
-            },
-            "eliteQuickMoves": [],
-            "eliteCinematicMoves": [],
-            "assets": {
-                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_555_11.png",
-                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_555_11_shiny.png"
-            },
-            "regionForms": [],
-            "hasMegaEvolution": false,
-            "megaEvolutions": []
-        },
-        {
+        "DARMANITAN_ZEN": {
             "id": "DARMANITAN",
             "formId": "DARMANITAN_ZEN",
             "dexNr": 555,
@@ -1396,7 +1107,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

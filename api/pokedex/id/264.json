@@ -205,8 +205,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_264_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_264_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "LINOONE_GALARIAN": {
             "id": "LINOONE",
             "formId": "LINOONE_GALARIAN",
             "dexNr": 264,
@@ -428,7 +428,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

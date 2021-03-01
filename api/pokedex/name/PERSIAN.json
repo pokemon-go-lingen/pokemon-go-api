@@ -245,8 +245,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_053_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_053_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "PERSIAN_ALOLA": {
             "id": "PERSIAN",
             "formId": "PERSIAN_ALOLA",
             "dexNr": 53,
@@ -457,7 +457,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

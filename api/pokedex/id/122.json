@@ -222,8 +222,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_122_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_122_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "MR_MIME_GALARIAN": {
             "id": "MR_MIME",
             "formId": "MR_MIME_GALARIAN",
             "dexNr": 122,
@@ -451,7 +451,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

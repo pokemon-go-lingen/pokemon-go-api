@@ -289,8 +289,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_103_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_103_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "EXEGGUTOR_ALOLA": {
             "id": "EXEGGUTOR",
             "formId": "EXEGGUTOR_ALOLA",
             "dexNr": 103,
@@ -512,7 +512,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

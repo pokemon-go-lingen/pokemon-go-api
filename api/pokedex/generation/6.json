@@ -4537,11 +4537,11 @@
         "eliteQuickMoves": [],
         "eliteCinematicMoves": [],
         "assets": {
-            "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_668_01.png",
-            "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_668_01_shiny.png"
+            "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_668_00.png",
+            "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_668_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "PYROAR_FEMALE": {
                 "id": "PYROAR",
                 "formId": "PYROAR_FEMALE",
                 "dexNr": 668,
@@ -4808,7 +4808,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -7217,11 +7217,11 @@
         "eliteQuickMoves": [],
         "eliteCinematicMoves": [],
         "assets": {
-            "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_678_01.png",
-            "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_678_01_shiny.png"
+            "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_678_00.png",
+            "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_678_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "MEOWSTIC_FEMALE": {
                 "id": "MEOWSTIC",
                 "formId": "MEOWSTIC_FEMALE",
                 "dexNr": 678,
@@ -7444,7 +7444,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -16987,8 +16987,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_717_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_717_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "ZYGARDE": {
                 "id": "YVELTAL",
                 "formId": "ZYGARDE",
                 "dexNr": 718,
@@ -17305,7 +17305,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     }

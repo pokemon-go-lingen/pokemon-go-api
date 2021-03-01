@@ -311,8 +311,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_089_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_089_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "MUK_ALOLA": {
             "id": "MUK",
             "formId": "MUK_ALOLA",
             "dexNr": 89,
@@ -606,7 +606,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

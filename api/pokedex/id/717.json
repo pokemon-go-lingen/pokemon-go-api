@@ -321,8 +321,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_717_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_717_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "ZYGARDE": {
             "id": "YVELTAL",
             "formId": "ZYGARDE",
             "dexNr": 718,
@@ -639,7 +639,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

@@ -123,20 +123,20 @@
         "lvl5": [
             {
                 "id": "LANDORUS",
-                "form": "LANDORUS",
+                "form": "LANDORUS_INCARNATE",
                 "assets": {
                     "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_645_11.png",
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_645_11_shiny.png"
                 },
                 "level": "lvl5",
                 "names": {
-                    "English": "Landorus",
-                    "German": "Demeteros",
-                    "French": "D\u00e9m\u00e9t\u00e9ros",
-                    "Italian": "Landorus",
-                    "Japanese": "\u30e9\u30f3\u30c9\u30ed\u30b9",
-                    "Korean": "\ub79c\ub4dc\ub85c\uc2a4",
-                    "Spanish": "Landorus"
+                    "English": "Landorus (Incarnate Forme)",
+                    "German": "Demeteros (Inkarnationsform)",
+                    "French": "D\u00e9m\u00e9t\u00e9ros (Forme Avatar)",
+                    "Italian": "Landorus (Forma Incarnazione)",
+                    "Japanese": "\u30e9\u30f3\u30c9\u30ed\u30b9 (\u3051\u3057\u3093\u30d5\u30a9\u30eb\u30e0)",
+                    "Korean": "\ub79c\ub4dc\ub85c\uc2a4 (\ud654\uc2e0\ud3fc)",
+                    "Spanish": "Landorus (Forma Avatar)"
                 },
                 "shiny": true,
                 "types": [
@@ -564,12 +564,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "dc1125c001b706bd3b5cf62625d864e95c64d12531387d23bca927dbeb1ba85e026b7a8c1f04926d0d73a23ac8c197e4ce84165034288e932a65c08b5e0cb8a5"
+            "sha512": "5083dcaf37d1d98724b84992052cc007aa4683c2b028986d17a26ada014e58a051753d760ce796805fa8b0e65ba3d7b4bedb8d876682e89265a777c1ca3aafe6"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "c382dc07e81f7c0818391e6ff626698e767f540d39fd40492b8f7992062b9831db902d0d59b86fdb3fd335ebf5cc6e58ffba1517a2e73f0d6da689fd922c5d99"
+            "sha512": "cf468a886d2653db281bb8442547ce744b0d5e85a8b526ec0b0a1ca3e898a6cde8779bcbcc1a760afcbe83c3532896133d8485c588a4fdda6745aec51ad65b85"
         }
     }
 }

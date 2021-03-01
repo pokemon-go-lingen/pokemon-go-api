@@ -205,8 +205,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_050_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_050_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "DIGLETT_ALOLA": {
             "id": "DIGLETT",
             "formId": "DIGLETT_ALOLA",
             "dexNr": 50,
@@ -428,7 +428,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

@@ -205,8 +205,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_028_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_028_00_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "SANDSLASH_ALOLA": {
             "id": "SANDSLASH",
             "formId": "SANDSLASH_ALOLA",
             "dexNr": 28,
@@ -461,7 +461,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

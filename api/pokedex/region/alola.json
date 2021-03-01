@@ -206,8 +206,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_019_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_019_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "RATTATA_ALOLA": {
                 "id": "RATTATA",
                 "formId": "RATTATA_ALOLA",
                 "dexNr": 19,
@@ -429,7 +429,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -640,8 +640,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_020_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_020_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "RATICATE_ALOLA": {
                 "id": "RATICATE",
                 "formId": "RATICATE_ALOLA",
                 "dexNr": 20,
@@ -863,7 +863,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -1219,8 +1219,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_026_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_026_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "RAICHU_ALOLA": {
                 "id": "RAICHU",
                 "formId": "RAICHU_ALOLA",
                 "dexNr": 26,
@@ -1520,7 +1520,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -1771,8 +1771,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_027_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_027_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "SANDSHREW_ALOLA": {
                 "id": "SANDSHREW",
                 "formId": "SANDSHREW_ALOLA",
                 "dexNr": 27,
@@ -2000,7 +2000,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -2211,8 +2211,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_028_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_028_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "SANDSLASH_ALOLA": {
                 "id": "SANDSLASH",
                 "formId": "SANDSLASH_ALOLA",
                 "dexNr": 28,
@@ -2467,7 +2467,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -2717,8 +2717,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_037_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_037_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "VULPIX_ALOLA": {
                 "id": "VULPIX",
                 "formId": "VULPIX_ALOLA",
                 "dexNr": 37,
@@ -2962,7 +2962,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -3346,8 +3346,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_038_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_038_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "NINETALES_ALOLA": {
                 "id": "NINETALES",
                 "formId": "NINETALES_ALOLA",
                 "dexNr": 38,
@@ -3668,7 +3668,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -3879,8 +3879,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_050_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_050_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "DIGLETT_ALOLA": {
                 "id": "DIGLETT",
                 "formId": "DIGLETT_ALOLA",
                 "dexNr": 50,
@@ -4102,7 +4102,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -4313,8 +4313,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_051_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_051_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "DUGTRIO_ALOLA": {
                 "id": "DUGTRIO",
                 "formId": "DUGTRIO_ALOLA",
                 "dexNr": 51,
@@ -4536,7 +4536,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -4787,8 +4787,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_052_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_052_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "MEOWTH_ALOLA": {
                 "id": "MEOWTH",
                 "formId": "MEOWTH_ALOLA",
                 "dexNr": 52,
@@ -5005,7 +5005,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             },
-            {
+            "MEOWTH_GALARIAN": {
                 "id": "MEOWTH",
                 "formId": "MEOWTH_GALARIAN",
                 "dexNr": 52,
@@ -5222,7 +5222,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -5473,8 +5473,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_053_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_053_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "PERSIAN_ALOLA": {
                 "id": "PERSIAN",
                 "formId": "PERSIAN_ALOLA",
                 "dexNr": 53,
@@ -5685,7 +5685,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -5907,8 +5907,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_074_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_074_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "GEODUDE_ALOLA": {
                 "id": "GEODUDE",
                 "formId": "GEODUDE_ALOLA",
                 "dexNr": 74,
@@ -6130,7 +6130,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -6386,8 +6386,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_075_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_075_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "GRAVELER_ALOLA": {
                 "id": "GRAVELER",
                 "formId": "GRAVELER_ALOLA",
                 "dexNr": 75,
@@ -6609,7 +6609,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -6870,8 +6870,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_076_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_076_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "GOLEM_ALOLA": {
                 "id": "GOLEM",
                 "formId": "GOLEM_ALOLA",
                 "dexNr": 76,
@@ -7099,7 +7099,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -7310,8 +7310,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_088_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_088_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "GRIMER_ALOLA": {
                 "id": "GRIMER",
                 "formId": "GRIMER_ALOLA",
                 "dexNr": 88,
@@ -7533,7 +7533,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -7850,8 +7850,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_089_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_089_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "MUK_ALOLA": {
                 "id": "MUK",
                 "formId": "MUK_ALOLA",
                 "dexNr": 89,
@@ -8145,7 +8145,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -8440,8 +8440,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_103_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_103_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "EXEGGUTOR_ALOLA": {
                 "id": "EXEGGUTOR",
                 "formId": "EXEGGUTOR_ALOLA",
                 "dexNr": 103,
@@ -8663,7 +8663,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -8874,8 +8874,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_105_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_105_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "MAROWAK_ALOLA": {
                 "id": "MAROWAK",
                 "formId": "MAROWAK_ALOLA",
                 "dexNr": 105,
@@ -9203,7 +9203,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     }

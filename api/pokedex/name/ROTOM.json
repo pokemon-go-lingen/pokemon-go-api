@@ -222,8 +222,8 @@
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_479_11.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_479_11_shiny.png"
     },
-    "regionForms": [
-        {
+    "regionForms": {
+        "ROTOM_FAN": {
             "id": "ROTOM",
             "formId": "ROTOM_FAN",
             "dexNr": 479,
@@ -451,7 +451,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ROTOM_FROST": {
             "id": "ROTOM",
             "formId": "ROTOM_FROST",
             "dexNr": 479,
@@ -673,7 +673,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ROTOM_HEAT": {
             "id": "ROTOM",
             "formId": "ROTOM_HEAT",
             "dexNr": 479,
@@ -901,7 +901,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ROTOM_MOW": {
             "id": "ROTOM",
             "formId": "ROTOM_MOW",
             "dexNr": 479,
@@ -1129,7 +1129,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         },
-        {
+        "ROTOM_WASH": {
             "id": "ROTOM",
             "formId": "ROTOM_WASH",
             "dexNr": 479,
@@ -1351,7 +1351,7 @@
             "hasMegaEvolution": false,
             "megaEvolutions": []
         }
-    ],
+    },
     "hasMegaEvolution": false,
     "megaEvolutions": []
 }

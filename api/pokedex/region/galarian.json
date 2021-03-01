@@ -246,8 +246,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_052_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_052_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "MEOWTH_ALOLA": {
                 "id": "MEOWTH",
                 "formId": "MEOWTH_ALOLA",
                 "dexNr": 52,
@@ -464,7 +464,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             },
-            {
+            "MEOWTH_GALARIAN": {
                 "id": "MEOWTH",
                 "formId": "MEOWTH_GALARIAN",
                 "dexNr": 52,
@@ -681,7 +681,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -932,8 +932,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_077_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_077_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "PONYTA_GALARIAN": {
                 "id": "PONYTA",
                 "formId": "PONYTA_GALARIAN",
                 "dexNr": 77,
@@ -1144,7 +1144,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -1461,8 +1461,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_078_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_078_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "RAPIDASH_GALARIAN": {
                 "id": "RAPIDASH",
                 "formId": "RAPIDASH_GALARIAN",
                 "dexNr": 78,
@@ -1723,7 +1723,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -1979,8 +1979,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_083_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_083_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "FARFETCHD_GALARIAN": {
                 "id": "FARFETCHD",
                 "formId": "FARFETCHD_GALARIAN",
                 "dexNr": 83,
@@ -2197,7 +2197,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -2441,8 +2441,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_110_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_110_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "WEEZING_GALARIAN": {
                 "id": "WEEZING",
                 "formId": "WEEZING_GALARIAN",
                 "dexNr": 110,
@@ -2670,7 +2670,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -2898,8 +2898,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_122_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_122_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "MR_MIME_GALARIAN": {
                 "id": "MR_MIME",
                 "formId": "MR_MIME_GALARIAN",
                 "dexNr": 122,
@@ -3127,7 +3127,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -3338,8 +3338,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_263_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_263_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "ZIGZAGOON_GALARIAN": {
                 "id": "ZIGZAGOON",
                 "formId": "ZIGZAGOON_GALARIAN",
                 "dexNr": 263,
@@ -3561,7 +3561,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -3772,8 +3772,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_264_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_264_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "LINOONE_GALARIAN": {
                 "id": "LINOONE",
                 "formId": "LINOONE_GALARIAN",
                 "dexNr": 264,
@@ -3995,7 +3995,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -4179,8 +4179,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_554_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_554_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "DARUMAKA_GALARIAN": {
                 "id": "DARUMAKA",
                 "formId": "DARUMAKA_GALARIAN",
                 "dexNr": 554,
@@ -4358,7 +4358,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -4575,8 +4575,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_562_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_562_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "YAMASK_GALARIAN": {
                 "id": "YAMASK",
                 "formId": "YAMASK_GALARIAN",
                 "dexNr": 562,
@@ -4732,7 +4732,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     },
@@ -4960,8 +4960,8 @@
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_618_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_618_00_shiny.png"
         },
-        "regionForms": [
-            {
+        "regionForms": {
+            "STUNFISK_GALARIAN": {
                 "id": "STUNFISK",
                 "formId": "STUNFISK_GALARIAN",
                 "dexNr": 618,
@@ -5222,7 +5222,7 @@
                 "hasMegaEvolution": false,
                 "megaEvolutions": []
             }
-        ],
+        },
         "hasMegaEvolution": false,
         "megaEvolutions": []
     }
