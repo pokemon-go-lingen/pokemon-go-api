@@ -3383,7 +3383,41 @@
                 }
             }
         },
-        "eliteQuickMoves": [],
+        "eliteQuickMoves": {
+            "INCINERATE_FAST": {
+                "id": "INCINERATE_FAST",
+                "power": 29,
+                "energy": 20,
+                "durationMs": 2300,
+                "type": {
+                    "type": "POKEMON_TYPE_FIRE",
+                    "names": {
+                        "English": "Fire",
+                        "German": "Feuer",
+                        "French": "Feu",
+                        "Italian": "Fuoco",
+                        "Japanese": "\u307b\u306e\u304a",
+                        "Korean": "\ubd88\uaf43",
+                        "Spanish": "Fuego"
+                    }
+                },
+                "names": {
+                    "English": "Incinerate",
+                    "German": "Ein\u00e4schern",
+                    "French": "Calcination",
+                    "Italian": "Bruciatutto",
+                    "Japanese": "\u3084\u304d\u3064\u304f\u3059",
+                    "Korean": "\ubd88\ud0dc\uc6b0\uae30",
+                    "Spanish": "Calcinaci\u00f3n"
+                },
+                "combat": {
+                    "energy": 20,
+                    "power": 15,
+                    "turns": 5,
+                    "buffs": null
+                }
+            }
+        },
         "eliteCinematicMoves": [],
         "assets": {
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_663_00.png",
