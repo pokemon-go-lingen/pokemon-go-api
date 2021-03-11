@@ -477,7 +477,7 @@
             </g>
 
         </svg>
-            <svg id="raidbosswrapper-DIGLETT" x="0" y="430" width="100%" height="60">
+            <svg id="raidbosswrapper-DIGLETT_ALOLA" x="0" y="430" width="100%" height="60">
             <rect fill="url('#raidBossGradient_lvl1')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -487,13 +487,15 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text text-anchor="end" x="295" y="35">Diglett</text>            </g>
+                <text text-anchor="end" x="295" y="35" class="double-line">
+    <tspan x="295" y="22">Diglett</tspan><tspan x="295" y="42">di Alola</tspan>
+</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
 
                 <image width="55" height="55" x="25" y="0"
-                       href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_050_00_shiny.png"/>
+                       href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_050_61_shiny.png"/>
                                     <image class="boss-shiny-image" width="15" height="15" x="22" y="0"
                            href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Filters/ic_shiny_white.png"/>
                             </g>
@@ -501,9 +503,13 @@
             <g class="boss-types">
                 <rect width="70" height="50" x="300" y="0"/>
                 <svg width="70" height="50" x="300" y="0">
-                                    <image x="22" y="12" width="26" height="26" class="pokemon-type-icon"
+                                    <image x="7" y="12" width="26" height="26" class="pokemon-type-icon"
                            href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_GROUND.png">
                         <title>Ground</title>
+                    </image>
+                    <image x="38" y="12" width="26" height="26" class="pokemon-type-icon"
+                           href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_STEEL.png">
+                        <title>Steel</title>
                     </image>
                                 </svg>
             </g>
@@ -511,33 +517,39 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="15" y="12" width="25" height="25" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_sunny.png">
+                <image x="5" y="12" width="25" height="25" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_sunny.png">
     <title>sunny</title>
+</image>  <image x="30" y="12" width="25" height="25" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_snow.png">
+    <title>snow</title>
 </image>                  </svg>
             </g>
 
             <g class="boss-cp-spectrum">
                 <rect width="80" height="50" x="430" y="0"/>
                 <svg width="80" height="50" x="430" y="0">
-                    <text class="normal" x="50%" y="18" dominant-baseline="middle" text-anchor="middle">349–386</text>
-                    <text class="boost"  x="50%" y="35" dominant-baseline="middle" text-anchor="middle">437–483</text>
+                    <text class="normal" x="50%" y="18" dominant-baseline="middle" text-anchor="middle">352–389</text>
+                    <text class="boost"  x="50%" y="35" dominant-baseline="middle" text-anchor="middle">440–486</text>
                 </svg>
             </g>
 
             <g class="boss-counter">
                 <rect width="160" height="50" x="510" y="0"/>
                 <svg width="160" height="50" x="510" y="0" >
-                                            <image class="image-counter-16" x="90" y="12" width="24" height="24"
+                                            <image class="image-counter-16" x="100" y="12" width="24" height="24"
                                href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_WATER.png">
                             <title>Water 1.6</title>
                         </image>
-                                                <image class="image-counter-16" x="70" y="12" width="24" height="24"
-                               href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_ICE.png">
-                            <title>Ice 1.6</title>
+                                                <image class="image-counter-16" x="80" y="12" width="24" height="24"
+                               href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_GROUND.png">
+                            <title>Ground 1.6</title>
                         </image>
-                                                <image class="image-counter-16" x="50" y="12" width="24" height="24"
-                               href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_GRASS.png">
-                            <title>Grass 1.6</title>
+                                                <image class="image-counter-16" x="60" y="12" width="24" height="24"
+                               href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_FIRE.png">
+                            <title>Fire 1.6</title>
+                        </image>
+                                                <image class="image-counter-16" x="40" y="12" width="24" height="24"
+                               href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_FIGHTING.png">
+                            <title>Fighting 1.6</title>
                         </image>
                                         </svg>
             </g>
@@ -757,7 +769,7 @@
             </g>
 
         </svg>
-            <svg id="raidbosswrapper-GRAVELER" x="0" y="230" width="100%" height="60">
+            <svg id="raidbosswrapper-GRAVELER_ALOLA" x="0" y="230" width="100%" height="60">
             <rect fill="url('#raidBossGradient_lvl3')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -767,13 +779,15 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text text-anchor="end" x="295" y="35">Graveler</text>            </g>
+                <text text-anchor="end" x="295" y="35" class="double-line">
+    <tspan x="295" y="22">Graveler</tspan><tspan x="295" y="42">di Alola</tspan>
+</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
 
                 <image width="55" height="55" x="25" y="0"
-                       href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_075_00.png"/>
+                       href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_075_61.png"/>
                             </g>
 
             <g class="boss-types">
@@ -784,8 +798,8 @@
                         <title>Rock</title>
                     </image>
                     <image x="38" y="12" width="26" height="26" class="pokemon-type-icon"
-                           href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_GROUND.png">
-                        <title>Ground</title>
+                           href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_ELECTRIC.png">
+                        <title>Electric</title>
                     </image>
                                 </svg>
             </g>
@@ -793,8 +807,8 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="5" y="12" width="25" height="25" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_sunny.png">
-    <title>sunny</title>
+                <image x="0" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_rain.png">
+    <title>rain</title>
 </image>  <image x="25" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_partlycloudy_day.png">
     <title>partlycloudy_day</title>
 </image>                  </svg>
@@ -811,34 +825,24 @@
             <g class="boss-counter">
                 <rect width="160" height="50" x="510" y="0"/>
                 <svg width="160" height="50" x="510" y="0" >
-                                            <image class="image-counter-16" x="120" y="12" width="24" height="24"
-                               href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_STEEL.png">
-                            <title>Steel 1.6</title>
-                        </image>
-                                                <image class="image-counter-16" x="100" y="12" width="24" height="24"
-                               href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_ICE.png">
-                            <title>Ice 1.6</title>
+                                            <image class="image-counter-16" x="100" y="12" width="24" height="24"
+                               href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_WATER.png">
+                            <title>Water 1.6</title>
                         </image>
                                                 <image class="image-counter-16" x="80" y="12" width="24" height="24"
-                               href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_GROUND.png">
-                            <title>Ground 1.6</title>
+                               href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_GRASS.png">
+                            <title>Grass 1.6</title>
                         </image>
                                                 <image class="image-counter-16" x="60" y="12" width="24" height="24"
                                href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_FIGHTING.png">
                             <title>Fighting 1.6</title>
                         </image>
                                                 <image class="image-counter-256" x="40" y="12" width="24" height="24"
-                               href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_WATER.png">
-                            <title>Water 2.56</title>
+                               href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_GROUND.png">
+                            <title>Ground 2.56</title>
                         </image>
                                                     <circle class="double-damage" r="8" cx="42" cy="36" />
                             <text x="36" y="39">2x</text>
-                                                <image class="image-counter-256" x="20" y="12" width="24" height="24"
-                               href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_GRASS.png">
-                            <title>Grass 2.56</title>
-                        </image>
-                                                    <circle class="double-damage" r="8" cx="22" cy="36" />
-                            <text x="16" y="39">2x</text>
                                         </svg>
             </g>
 
@@ -913,7 +917,7 @@
             </g>
 
         </svg>
-            <svg id="raidbosswrapper-AMPHAROS" x="0" y="130" width="100%" height="60">
+            <svg id="raidbosswrapper-AMPHAROS_MEGA" x="0" y="130" width="100%" height="60">
             <rect fill="url('#raidBossGradient_mega')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -923,13 +927,13 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text text-anchor="end" x="295" y="35">Ampharos</text>            </g>
+                <text text-anchor="end" x="295" y="35">MegaAmpharos</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
 
                 <image width="55" height="55" x="25" y="0"
-                       href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_181_00_shiny.png"/>
+                       href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_181_51_shiny.png"/>
                                     <image class="boss-shiny-image" width="15" height="15" x="22" y="0"
                            href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Filters/ic_shiny_white.png"/>
                             </g>
@@ -937,9 +941,13 @@
             <g class="boss-types">
                 <rect width="70" height="50" x="300" y="0"/>
                 <svg width="70" height="50" x="300" y="0">
-                                    <image x="22" y="12" width="26" height="26" class="pokemon-type-icon"
+                                    <image x="7" y="12" width="26" height="26" class="pokemon-type-icon"
                            href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_ELECTRIC.png">
                         <title>Electric</title>
+                    </image>
+                    <image x="38" y="12" width="26" height="26" class="pokemon-type-icon"
+                           href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_DRAGON.png">
+                        <title>Dragon</title>
                     </image>
                                 </svg>
             </g>
@@ -947,8 +955,10 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="10" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_rain.png">
+                <image x="0" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_rain.png">
     <title>rain</title>
+</image>  <image x="30" y="12" width="25" height="25" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_windy.png">
+    <title>windy</title>
 </image>                  </svg>
             </g>
 
@@ -963,15 +973,27 @@
             <g class="boss-counter">
                 <rect width="160" height="50" x="510" y="0"/>
                 <svg width="160" height="50" x="510" y="0" >
-                                            <image class="image-counter-16" x="70" y="12" width="24" height="24"
+                                            <image class="image-counter-16" x="100" y="12" width="24" height="24"
+                               href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_ICE.png">
+                            <title>Ice 1.6</title>
+                        </image>
+                                                <image class="image-counter-16" x="80" y="12" width="24" height="24"
                                href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_GROUND.png">
                             <title>Ground 1.6</title>
+                        </image>
+                                                <image class="image-counter-16" x="60" y="12" width="24" height="24"
+                               href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_FAIRY.png">
+                            <title>Fairy 1.6</title>
+                        </image>
+                                                <image class="image-counter-16" x="40" y="12" width="24" height="24"
+                               href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_DRAGON.png">
+                            <title>Dragon 1.6</title>
                         </image>
                                         </svg>
             </g>
 
         </svg>
-            <svg id="raidbosswrapper-PIDGEOT" x="0" y="80" width="100%" height="60">
+            <svg id="raidbosswrapper-PIDGEOT_MEGA" x="0" y="80" width="100%" height="60">
             <rect fill="url('#raidBossGradient_mega')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -981,13 +1003,13 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text text-anchor="end" x="295" y="35">Pidgeot</text>            </g>
+                <text text-anchor="end" x="295" y="35">MegaPidgeot</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
 
                 <image width="55" height="55" x="25" y="0"
-                       href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_018_00_shiny.png"/>
+                       href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_018_51_shiny.png"/>
                                     <image class="boss-shiny-image" width="15" height="15" x="22" y="0"
                            href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Filters/ic_shiny_white.png"/>
                             </g>
@@ -1043,7 +1065,7 @@
             </g>
 
         </svg>
-            <svg id="raidbosswrapper-BLASTOISE" x="0" y="30" width="100%" height="60">
+            <svg id="raidbosswrapper-BLASTOISE_MEGA" x="0" y="30" width="100%" height="60">
             <rect fill="url('#raidBossGradient_mega')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -1053,13 +1075,13 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text text-anchor="end" x="295" y="35">Blastoise</text>            </g>
+                <text text-anchor="end" x="295" y="35">MegaBlastoise</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
 
                 <image width="55" height="55" x="25" y="0"
-                       href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_009_00_shiny.png"/>
+                       href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_009_51_shiny.png"/>
                                     <image class="boss-shiny-image" width="15" height="15" x="22" y="0"
                            href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Filters/ic_shiny_white.png"/>
                             </g>

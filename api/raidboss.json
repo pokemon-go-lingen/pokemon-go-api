@@ -3,20 +3,20 @@
         "mega": [
             {
                 "id": "BLASTOISE",
-                "form": "BLASTOISE",
+                "form": "BLASTOISE_MEGA",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_009_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_009_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_009_51.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_009_51_shiny.png"
                 },
                 "level": "mega",
                 "names": {
-                    "English": "Blastoise",
-                    "German": "Turtok",
-                    "French": "Tortank",
-                    "Italian": "Blastoise",
-                    "Japanese": "\u30ab\u30e1\u30c3\u30af\u30b9",
-                    "Korean": "\uac70\ubd81\uc655",
-                    "Spanish": "Blastoise"
+                    "English": "Mega Blastoise",
+                    "German": "Mega-Turtok",
+                    "French": "M\u00e9ga-Tortank",
+                    "Italian": "MegaBlastoise",
+                    "Japanese": "\u30e1\u30ac\u30ab\u30e1\u30c3\u30af\u30b9",
+                    "Korean": "\uba54\uac00\uac70\ubd81\uc655",
+                    "Spanish": "Mega-Blastoise"
                 },
                 "shiny": true,
                 "types": [
@@ -40,20 +40,20 @@
             },
             {
                 "id": "PIDGEOT",
-                "form": "PIDGEOT",
+                "form": "PIDGEOT_MEGA",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_018_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_018_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_018_51.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_018_51_shiny.png"
                 },
                 "level": "mega",
                 "names": {
-                    "English": "Pidgeot",
-                    "German": "Tauboss",
-                    "French": "Roucarnage",
-                    "Italian": "Pidgeot",
-                    "Japanese": "\u30d4\u30b8\u30e7\u30c3\u30c8",
-                    "Korean": "\ud53c\uc8e4\ud22c",
-                    "Spanish": "Pidgeot"
+                    "English": "Mega Pidgeot",
+                    "German": "Mega-Tauboss",
+                    "French": "M\u00e9ga-Roucarnage",
+                    "Italian": "MegaPidgeot",
+                    "Japanese": "\u30e1\u30ac\u30d4\u30b8\u30e7\u30c3\u30c8",
+                    "Korean": "\uba54\uac00\ud53c\uc8e4\ud22c",
+                    "Spanish": "Mega-Pidgeot"
                 },
                 "shiny": true,
                 "types": [
@@ -80,30 +80,35 @@
             },
             {
                 "id": "AMPHAROS",
-                "form": "AMPHAROS",
+                "form": "AMPHAROS_MEGA",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_181_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_181_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_181_51.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_181_51_shiny.png"
                 },
                 "level": "mega",
                 "names": {
-                    "English": "Ampharos",
-                    "German": "Ampharos",
-                    "French": "Pharamp",
-                    "Italian": "Ampharos",
-                    "Japanese": "\u30c7\u30f3\u30ea\u30e5\u30a6",
-                    "Korean": "\uc804\ub8e1",
-                    "Spanish": "Ampharos"
+                    "English": "Mega Ampharos",
+                    "German": "Mega-Ampharos",
+                    "French": "M\u00e9ga-Pharamp",
+                    "Italian": "MegaAmpharos",
+                    "Japanese": "\u30e1\u30ac\u30c7\u30f3\u30ea\u30e5\u30a6",
+                    "Korean": "\uba54\uac00\uc804\ub8e1",
+                    "Spanish": "Mega-Ampharos"
                 },
                 "shiny": true,
                 "types": [
-                    "Electric"
+                    "Electric",
+                    "Dragon"
                 ],
                 "counter": {
-                    "Ground": 1.6
+                    "Dragon": 1.6,
+                    "Fairy": 1.6,
+                    "Ground": 1.6,
+                    "Ice": 1.6
                 },
                 "weather": [
-                    "rain"
+                    "rain",
+                    "windy"
                 ],
                 "cpRange": [
                     1554,
@@ -159,36 +164,34 @@
         "lvl3": [
             {
                 "id": "GRAVELER",
-                "form": "GRAVELER",
+                "form": "GRAVELER_ALOLA",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_075_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_075_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_075_61.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_075_61_shiny.png"
                 },
                 "level": "lvl3",
                 "names": {
-                    "English": "Graveler",
-                    "German": "Georok",
-                    "French": "Gravalanch",
-                    "Italian": "Graveler",
-                    "Japanese": "\u30b4\u30ed\u30fc\u30f3",
-                    "Korean": "\ub370\uad6c\ub9ac",
-                    "Spanish": "Graveler"
+                    "English": "Alolan Graveler",
+                    "German": "Alola-Georok",
+                    "French": "Gravalanch d'Alola",
+                    "Italian": "Graveler di Alola",
+                    "Japanese": "\u30a2\u30ed\u30fc\u30e9 \u30b4\u30ed\u30fc\u30f3",
+                    "Korean": "\uc54c\ub85c\ub77c \ub370\uad6c\ub9ac",
+                    "Spanish": "Graveler de Alola"
                 },
                 "shiny": false,
                 "types": [
                     "Rock",
-                    "Ground"
+                    "Electric"
                 ],
                 "counter": {
-                    "Grass": 2.56,
-                    "Water": 2.56,
+                    "Ground": 2.56,
                     "Fighting": 1.6,
-                    "Ground": 1.6,
-                    "Ice": 1.6,
-                    "Steel": 1.6
+                    "Grass": 1.6,
+                    "Water": 1.6
                 },
                 "weather": [
-                    "sunny",
+                    "rain",
                     "partlycloudy_day"
                 ],
                 "cpRange": [
@@ -324,40 +327,43 @@
         "lvl1": [
             {
                 "id": "DIGLETT",
-                "form": "DIGLETT",
+                "form": "DIGLETT_ALOLA",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_050_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_050_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_050_61.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_050_61_shiny.png"
                 },
                 "level": "lvl1",
                 "names": {
-                    "English": "Diglett",
-                    "German": "Digda",
-                    "French": "Taupiqueur",
-                    "Italian": "Diglett",
-                    "Japanese": "\u30c7\u30a3\u30b0\u30c0",
-                    "Korean": "\ub514\uadf8\ub2e4",
-                    "Spanish": "Diglett"
+                    "English": "Alolan Diglett",
+                    "German": "Alola-Digda",
+                    "French": "Taupiqueur d'Alola",
+                    "Italian": "Diglett di Alola",
+                    "Japanese": "\u30a2\u30ed\u30fc\u30e9 \u30c7\u30a3\u30b0\u30c0",
+                    "Korean": "\uc54c\ub85c\ub77c \ub514\uadf8\ub2e4",
+                    "Spanish": "Diglett de Alola"
                 },
                 "shiny": true,
                 "types": [
-                    "Ground"
+                    "Ground",
+                    "Steel"
                 ],
                 "counter": {
-                    "Grass": 1.6,
-                    "Ice": 1.6,
+                    "Fighting": 1.6,
+                    "Fire": 1.6,
+                    "Ground": 1.6,
                     "Water": 1.6
                 },
                 "weather": [
-                    "sunny"
+                    "sunny",
+                    "snow"
                 ],
                 "cpRange": [
-                    349,
-                    386
+                    352,
+                    389
                 ],
                 "cpRangeBoost": [
-                    437,
-                    483
+                    440,
+                    486
                 ]
             },
             {
@@ -561,12 +567,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "f6f1b13570437adece6b3d7efff408aca69cfa7a84a163a7b079fcbe46cb0ca001dbdcdcb2c089b5360ce5eff7eb2cc05772e53e18c2f51038f03702273b43ab"
+            "sha512": "9422824d070d7c63a652b8af2d651dfa01a398d0d2058750ecc8dc77b3a0723aa613d566a64004d9e6baaba2c6265dc80e84fd34c680563c0b674591bafc29dc"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "4d85087dc605da13a8df07cf6e15dbecd70abf411d0b78b8fb029e5c18b02dc9162ed09fcdac7bbc92b7effe6e6c1b452d9d41714b20182687f73ed61b0859bc"
+            "sha512": "8d896199b4a40ac9c0c2eb10d319b76fac29ba64466ed4240a1e57fd03001e676ca581903ab50466ba28401c6a8d05c3c4e4f81eeec3c9f12e5dbe82ca6652c6"
         }
     }
 }
