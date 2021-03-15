@@ -37631,79 +37631,11 @@
                     }
                 },
                 "quickMoves": {
-                    "ASTONISH_FAST": {
-                        "id": "ASTONISH_FAST",
-                        "power": 8,
-                        "energy": 14,
-                        "durationMs": 1100,
-                        "type": {
-                            "type": "POKEMON_TYPE_GHOST",
-                            "names": {
-                                "English": "Ghost",
-                                "German": "Geist",
-                                "French": "Spectre",
-                                "Italian": "Spettro",
-                                "Japanese": "\u30b4\u30fc\u30b9\u30c8",
-                                "Korean": "\uace0\uc2a4\ud2b8",
-                                "Spanish": "Fantasma"
-                            }
-                        },
-                        "names": {
-                            "English": "Astonish",
-                            "German": "Erstauner",
-                            "French": "\u00c9tonnement",
-                            "Italian": "Sgomento",
-                            "Japanese": "\u304a\u3069\u308d\u304b\u3059",
-                            "Korean": "\ub180\ub798\ud0a4\uae30",
-                            "Spanish": "Impresionar"
-                        },
-                        "combat": {
-                            "energy": 9,
-                            "power": 5,
-                            "turns": 3,
-                            "buffs": null
-                        }
-                    },
-                    "THUNDER_SHOCK_FAST": {
-                        "id": "THUNDER_SHOCK_FAST",
-                        "power": 5,
-                        "energy": 8,
-                        "durationMs": 600,
-                        "type": {
-                            "type": "POKEMON_TYPE_ELECTRIC",
-                            "names": {
-                                "English": "Electric",
-                                "German": "Elektro",
-                                "French": "\u00c9lectrik",
-                                "Italian": "Elettro",
-                                "Japanese": "\u3067\u3093\u304d",
-                                "Korean": "\uc804\uae30",
-                                "Spanish": "El\u00e9ctrico"
-                            }
-                        },
-                        "names": {
-                            "English": "Thunder Shock",
-                            "German": "Donnerschock",
-                            "French": "\u00c9clair",
-                            "Italian": "Tuonoshock",
-                            "Japanese": "\u3067\u3093\u304d\u30b7\u30e7\u30c3\u30af",
-                            "Korean": "\uc804\uae30\uc1fc\ud06c",
-                            "Spanish": "Impactrueno"
-                        },
-                        "combat": {
-                            "energy": 9,
-                            "power": 3,
-                            "turns": 2,
-                            "buffs": null
-                        }
-                    }
-                },
-                "cinematicMoves": {
-                    "CRUNCH": {
-                        "id": "CRUNCH",
-                        "power": 70,
-                        "energy": -33,
-                        "durationMs": 3200,
+                    "BITE_FAST": {
+                        "id": "BITE_FAST",
+                        "power": 6,
+                        "energy": 4,
+                        "durationMs": 500,
                         "type": {
                             "type": "POKEMON_TYPE_DARK",
                             "names": {
@@ -37717,17 +37649,85 @@
                             }
                         },
                         "names": {
-                            "English": "Crunch",
-                            "German": "Knirscher",
-                            "French": "M\u00e2chouille",
-                            "Italian": "Sgranocchio",
-                            "Japanese": "\u304b\u307f\u304f\u3060\u304f",
-                            "Korean": "\uae68\ubb3c\uc5b4\ubd80\uc218\uae30",
-                            "Spanish": "Triturar"
+                            "English": "Bite",
+                            "German": "Biss",
+                            "French": "Morsure",
+                            "Italian": "Morso",
+                            "Japanese": "\u304b\u307f\u3064\u304f",
+                            "Korean": "\ubb3c\uae30",
+                            "Spanish": "Mordisco"
                         },
                         "combat": {
-                            "energy": -45,
-                            "power": 70,
+                            "energy": 2,
+                            "power": 4,
+                            "turns": 1,
+                            "buffs": null
+                        }
+                    },
+                    "VOLT_SWITCH_FAST": {
+                        "id": "VOLT_SWITCH_FAST",
+                        "power": 14,
+                        "energy": 21,
+                        "durationMs": 1600,
+                        "type": {
+                            "type": "POKEMON_TYPE_ELECTRIC",
+                            "names": {
+                                "English": "Electric",
+                                "German": "Elektro",
+                                "French": "\u00c9lectrik",
+                                "Italian": "Elettro",
+                                "Japanese": "\u3067\u3093\u304d",
+                                "Korean": "\uc804\uae30",
+                                "Spanish": "El\u00e9ctrico"
+                            }
+                        },
+                        "names": {
+                            "English": "Volt Switch",
+                            "German": "Voltwechsel",
+                            "French": "Change \u00c9clair",
+                            "Italian": "Invertivolt",
+                            "Japanese": "\u30dc\u30eb\u30c8\u30c1\u30a7\u30f3\u30b8",
+                            "Korean": "\ubcfc\ud2b8\uccb4\uc778\uc9c0",
+                            "Spanish": "Voltiocambio"
+                        },
+                        "combat": {
+                            "energy": 16,
+                            "power": 12,
+                            "turns": 4,
+                            "buffs": null
+                        }
+                    }
+                },
+                "cinematicMoves": {
+                    "SLUDGE_WAVE": {
+                        "id": "SLUDGE_WAVE",
+                        "power": 110,
+                        "energy": -100,
+                        "durationMs": 3200,
+                        "type": {
+                            "type": "POKEMON_TYPE_POISON",
+                            "names": {
+                                "English": "Poison",
+                                "German": "Gift",
+                                "French": "Poison",
+                                "Italian": "Veleno",
+                                "Japanese": "\u3069\u304f",
+                                "Korean": "\ub3c5",
+                                "Spanish": "Veneno"
+                            }
+                        },
+                        "names": {
+                            "English": "Sludge Wave",
+                            "German": "Schlammwoge",
+                            "French": "Cradovague",
+                            "Italian": "Fangonda",
+                            "Japanese": "\u30d8\u30c9\u30ed\u30a6\u30a7\u30fc\u30d6",
+                            "Korean": "\uc624\ubb3c\uc6e8\uc774\ube0c",
+                            "Spanish": "Onda T\u00f3xica"
+                        },
+                        "combat": {
+                            "energy": -65,
+                            "power": 110,
                             "turns": 1,
                             "buffs": null
                         }
@@ -37765,11 +37765,11 @@
                             "buffs": null
                         }
                     },
-                    "BRICK_BREAK": {
-                        "id": "BRICK_BREAK",
-                        "power": 40,
-                        "energy": -33,
-                        "durationMs": 1600,
+                    "FOCUS_BLAST": {
+                        "id": "FOCUS_BLAST",
+                        "power": 140,
+                        "energy": -100,
+                        "durationMs": 3500,
                         "type": {
                             "type": "POKEMON_TYPE_FIGHTING",
                             "names": {
@@ -37783,26 +37783,26 @@
                             }
                         },
                         "names": {
-                            "English": "Brick Break",
-                            "German": "Durchbruch",
-                            "French": "Casse-Brique",
-                            "Italian": "Breccia",
-                            "Japanese": "\u304b\u308f\u3089\u308f\u308a",
-                            "Korean": "\uae68\ud2b8\ub9ac\ub2e4",
-                            "Spanish": "Demolici\u00f3n"
+                            "English": "Focus Blast",
+                            "German": "Fokussto\u00df",
+                            "French": "Exploforce",
+                            "Italian": "Focalcolpo",
+                            "Japanese": "\u304d\u3042\u3044\u3060\u307e",
+                            "Korean": "\uae30\ud569\uad6c\uc2ac",
+                            "Spanish": "Onda Certera"
                         },
                         "combat": {
-                            "energy": -35,
-                            "power": 40,
+                            "energy": -75,
+                            "power": 140,
                             "turns": 1,
                             "buffs": null
                         }
                     },
-                    "THUNDER_PUNCH": {
-                        "id": "THUNDER_PUNCH",
-                        "power": 45,
-                        "energy": -33,
-                        "durationMs": 1800,
+                    "THUNDERBOLT": {
+                        "id": "THUNDERBOLT",
+                        "power": 80,
+                        "energy": -50,
+                        "durationMs": 2500,
                         "type": {
                             "type": "POKEMON_TYPE_ELECTRIC",
                             "names": {
@@ -37816,17 +37816,17 @@
                             }
                         },
                         "names": {
-                            "English": "Thunder Punch",
-                            "German": "Donnerschlag",
-                            "French": "Poing \u00c9clair",
-                            "Italian": "Tuonopugno",
-                            "Japanese": "\u304b\u307f\u306a\u308a\u30d1\u30f3\u30c1",
-                            "Korean": "\ubc88\uac1c\ud380\uce58",
-                            "Spanish": "Pu\u00f1o Trueno"
+                            "English": "Thunderbolt",
+                            "German": "Donnerblitz",
+                            "French": "Tonnerre",
+                            "Italian": "Fulmine",
+                            "Japanese": "\uff11\uff10\u307e\u3093\u30dc\u30eb\u30c8",
+                            "Korean": "10\ub9cc\ubcfc\ud2b8",
+                            "Spanish": "Rayo"
                         },
                         "combat": {
-                            "energy": -40,
-                            "power": 55,
+                            "energy": -55,
+                            "power": 90,
                             "turns": 1,
                             "buffs": null
                         }
