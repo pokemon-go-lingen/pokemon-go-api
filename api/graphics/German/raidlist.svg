@@ -31,7 +31,7 @@
         }
 
         .boss-name text {
-            font-size: 30px;
+            font-size: 24px;
             line-height: 1.25;
             font-family: sans-serif;
             fill: #ffffff;
@@ -563,7 +563,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text text-anchor="end" x="295" y="35">A-Georok</text>            </g>
+                <text text-anchor="end" x="295" y="35">Alola-Georok</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -639,7 +639,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text text-anchor="end" x="295" y="35">A-Raichu</text>            </g>
+                <text text-anchor="end" x="295" y="35">Alola-Raichu</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -783,7 +783,9 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text text-anchor="end" x="295" y="35">M-Rexblisar</text>            </g>
+                <text text-anchor="end" x="295" y="35" class="double-line">
+    <tspan x="295" y="22">Mega</tspan><tspan x="295" y="42">Rexblisar</tspan>
+</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -873,7 +875,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text text-anchor="end" x="295" y="35">M-Voltenso</text>            </g>
+                <text text-anchor="end" x="295" y="35">Mega-Voltenso</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -931,7 +933,7 @@
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text text-anchor="end" x="295" y="35">M-Hundemon</text>            </g>
+                <text text-anchor="end" x="295" y="35">Mega-Hundemon</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
