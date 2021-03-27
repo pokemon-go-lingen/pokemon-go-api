@@ -125,6 +125,46 @@
         ],
         "lvl5": [
             {
+                "id": "RAYQUAZA",
+                "form": "RAYQUAZA",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_384_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_384_00_shiny.png"
+                },
+                "level": "lvl5",
+                "names": {
+                    "English": "Rayquaza",
+                    "German": "Rayquaza",
+                    "French": "Rayquaza",
+                    "Italian": "Rayquaza",
+                    "Japanese": "\u30ec\u30c3\u30af\u30a6\u30b6",
+                    "Korean": "\ub808\ucfe0\uc7c8",
+                    "Spanish": "Rayquaza"
+                },
+                "shiny": true,
+                "types": [
+                    "Dragon",
+                    "Flying"
+                ],
+                "counter": {
+                    "Ice": 2.56,
+                    "Dragon": 1.6,
+                    "Fairy": 1.6,
+                    "Rock": 1.6
+                },
+                "weather": [
+                    "windy"
+                ],
+                "cpRange": [
+                    2102,
+                    2191
+                ],
+                "cpRangeBoost": [
+                    2627,
+                    2739
+                ]
+            },
+            {
                 "id": "THUNDURUS",
                 "form": "THUNDURUS_THERIAN",
                 "assets": {
@@ -485,12 +525,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "8c91545e99768b065566161c705728c40c009d6accb2820eba555dca2a0eeac7c27a18ba20f361d154d440cac2287ffe5aab3875d719b5dce35884598bf6f16b"
+            "sha512": "74db6e993a7a0829dcd5cf3eed5e540920e6e09442a8e8b72469603c4245c53a247fc7b40b31cbbd7d7cb969ba9d0481678fc03e883629619c922a054849d48c"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "7ec07dc23c712f8691a1665baca2748c594e2598a13cc0484ca36ffba1bacb20fc9c1d7fff9a446f5c57549f6f5b44bedb4effc8fa184cebd43e430a4a48d931"
+            "sha512": "33aac753fffb5ba8a3e506d49f70fd699f59c33988b330f116ad5fbc92c460d3397fbb83a3f744f480548cc9b00ecaca1d788562585d3f2bba39e6d590fc6c77"
         }
     }
 }
