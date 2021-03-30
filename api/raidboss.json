@@ -161,45 +161,6 @@
                     2196,
                     2296
                 ]
-            },
-            {
-                "id": "THUNDURUS",
-                "form": "THUNDURUS_THERIAN",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_642_12.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_642_12_shiny.png"
-                },
-                "level": "lvl5",
-                "names": {
-                    "English": "Thundurus (Therian Forme)",
-                    "German": "Voltolos (Tiergeistform)",
-                    "French": "Fulguris (Forme Tot\u00e9mique)",
-                    "Italian": "Thundurus (Forma Totem)",
-                    "Japanese": "\u30dc\u30eb\u30c8\u30ed\u30b9 (\u308c\u3044\u3058\u3085\u3046\u30d5\u30a9\u30eb\u30e0)",
-                    "Korean": "\ubcfc\ud2b8\ub85c\uc2a4 (\uc601\ubb3c\ud3fc)",
-                    "Spanish": "Thundurus (Forma T\u00f3tem)"
-                },
-                "shiny": false,
-                "types": [
-                    "Electric",
-                    "Flying"
-                ],
-                "counter": {
-                    "Ice": 1.6,
-                    "Rock": 1.6
-                },
-                "weather": [
-                    "rain",
-                    "windy"
-                ],
-                "cpRange": [
-                    2002,
-                    2091
-                ],
-                "cpRangeBoost": [
-                    2503,
-                    2614
-                ]
             }
         ],
         "lvl3": [
@@ -523,12 +484,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "1f695b3c0db08e42967068f433cc780516b213a2214f79e2a168ce43ec2ac4641d42efb90a959f3aae001030ac9ae44fd8b8dee0ba78751b7502bbe5836c2ebc"
+            "sha512": "fdd4a57394a737b5b087b13616bd1a79e8772003344ad33c602a262a86050deb006dba827f9aa96495593482a7a15ac70540e34a7adb0612d8f4ec4668162735"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "1b2f056f94288badd9dca74f4f758fca00db7d47af7491cc05c352ca7400104312829fc69b63ea3f1dee81a8a1d620a98817061f74b562c3283b6682cb46ec2a"
+            "sha512": "c272dff3f4d2d05ff29e6df0d27c170ba87c658943903c0e2214d42d06f6df70a659a80a30da9576422c6b4c89a02808004c425f9f01b92eab8e7a6f5fd61035"
         }
     }
 }
