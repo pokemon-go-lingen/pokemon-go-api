@@ -752,14 +752,14 @@
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
                 <text text-anchor="end" x="295" y="35" class="double-line">
-    <tspan x="295" y="22">Tornadus</tspan><tspan x="295" y="42">(Forma Incarnazione)</tspan>
+    <tspan x="295" y="22">Tornadus</tspan><tspan x="295" y="42">(Forma Totem)</tspan>
 </text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
 
                 <image width="55" height="55" x="25" y="0"
-                       href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_641_11.png"/>
+                       href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_641_12.png"/>
                             </g>
 
             <g class="boss-types">
@@ -783,8 +783,8 @@
             <g class="boss-cp-spectrum">
                 <rect width="80" height="50" x="430" y="0"/>
                 <svg width="80" height="50" x="430" y="0">
-                    <text class="normal" x="50%" y="18" dominant-baseline="middle" text-anchor="middle">1828–1911</text>
-                    <text class="boost"  x="50%" y="35" dominant-baseline="middle" text-anchor="middle">2285–2389</text>
+                    <text class="normal" x="50%" y="18" dominant-baseline="middle" text-anchor="middle">1756–1837</text>
+                    <text class="boost"  x="50%" y="35" dominant-baseline="middle" text-anchor="middle">2196–2296</text>
                 </svg>
             </g>
 

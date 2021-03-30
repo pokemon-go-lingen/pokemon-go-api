@@ -128,18 +128,18 @@
                 "id": "TORNADUS",
                 "form": "TORNADUS_THERIAN",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_641_11.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_641_11_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_641_12.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_641_12_shiny.png"
                 },
                 "level": "lvl5",
                 "names": {
-                    "English": "Tornadus (Incarnate Forme)",
-                    "German": "Boreos (Inkarnationsform)",
-                    "French": "Bor\u00e9as (Forme Avatar)",
-                    "Italian": "Tornadus (Forma Incarnazione)",
-                    "Japanese": "\u30c8\u30eb\u30cd\u30ed\u30b9 (\u3051\u3057\u3093\u30d5\u30a9\u30eb\u30e0)",
-                    "Korean": "\ud1a0\ub124\ub85c\uc2a4 (\ud654\uc2e0\ud3fc)",
-                    "Spanish": "Tornadus (Forma Avatar)"
+                    "English": "Tornadus (Therian Forme)",
+                    "German": "Boreos (Tiergeistform)",
+                    "French": "Bor\u00e9as (Forme Tot\u00e9mique)",
+                    "Italian": "Tornadus (Forma Totem)",
+                    "Japanese": "\u30c8\u30eb\u30cd\u30ed\u30b9 (\u308c\u3044\u3058\u3085\u3046\u30d5\u30a9\u30eb\u30e0)",
+                    "Korean": "\ud1a0\ub124\ub85c\uc2a4 (\uc601\ubb3c\ud3fc)",
+                    "Spanish": "Tornadus (Forma T\u00f3tem)"
                 },
                 "shiny": false,
                 "types": [
@@ -154,12 +154,12 @@
                     "windy"
                 ],
                 "cpRange": [
-                    1828,
-                    1911
+                    1756,
+                    1837
                 ],
                 "cpRangeBoost": [
-                    2285,
-                    2389
+                    2196,
+                    2296
                 ]
             },
             {
@@ -523,12 +523,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "0bedc21c3b308dd30b352ba8212c7d94f05670147c669ffad513b9b8ce9ce6ed4908c62f8518ec20dc12b66970fa7dfdcaea69e7f543ee3f7e31f2e9cb962217"
+            "sha512": "1f695b3c0db08e42967068f433cc780516b213a2214f79e2a168ce43ec2ac4641d42efb90a959f3aae001030ac9ae44fd8b8dee0ba78751b7502bbe5836c2ebc"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "347103631dc36a84c384755ef5010ad378d24bd1bd6fc6c594ebeefc5f8123e08544ee345084e6c39cf957a7f38d83c0793da50b42e4a5a7d48244cab7eeffe7"
+            "sha512": "1b2f056f94288badd9dca74f4f758fca00db7d47af7491cc05c352ca7400104312829fc69b63ea3f1dee81a8a1d620a98817061f74b562c3283b6682cb46ec2a"
         }
     }
 }
