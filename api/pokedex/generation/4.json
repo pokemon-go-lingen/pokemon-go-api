@@ -10713,8 +10713,54 @@
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_428_00_shiny.png"
         },
         "regionForms": [],
-        "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "hasMegaEvolution": true,
+        "megaEvolutions": {
+            "LOPUNNY_MEGA": {
+                "id": "LOPUNNY_MEGA",
+                "names": {
+                    "English": "Mega Lopunny",
+                    "German": "Mega-Schlapor",
+                    "French": "M\u00e9ga-Lockpin",
+                    "Italian": "MegaLopunny",
+                    "Japanese": "\u30e1\u30ac\u30df\u30df\u30ed\u30c3\u30d7",
+                    "Korean": "\uba54\uac00\uc774\uc5b4\ub86d",
+                    "Spanish": "Mega-Lopunny"
+                },
+                "stats": {
+                    "stamina": 163,
+                    "attack": 282,
+                    "defense": 214
+                },
+                "primaryType": {
+                    "type": "POKEMON_TYPE_NORMAL",
+                    "names": {
+                        "English": "Normal",
+                        "German": "Normal",
+                        "French": "Normal",
+                        "Italian": "Normale",
+                        "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                        "Korean": "\ub178\ub9d0",
+                        "Spanish": "Normal"
+                    }
+                },
+                "secondaryType": {
+                    "type": "POKEMON_TYPE_FIGHTING",
+                    "names": {
+                        "English": "Fighting",
+                        "German": "Kampf",
+                        "French": "Combat",
+                        "Italian": "Lotta",
+                        "Japanese": "\u304b\u304f\u3068\u3046",
+                        "Korean": "\uaca9\ud22c",
+                        "Spanish": "Lucha"
+                    }
+                },
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_428_51.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_428_51_shiny.png"
+                }
+            }
+        }
     },
     {
         "id": "MISMAGIUS",
