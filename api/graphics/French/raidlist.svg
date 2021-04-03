@@ -118,10 +118,10 @@
         <line x1="0" x2="685" y1="30" y2="30"/>
         <text x="3" y="20">Level</text>
         <text x="170" y="20">Raidboss</text>
-        <text x="315" y="20">Typen</text>
-        <text x="375" y="20">Wetter</text>
-        <text x="435" y="20">WP-Spektrum</text>
-        <text x="545" y="20">Konter Typen</text>
+        <text x="315" y="20">Types</text>
+        <text x="375" y="20">Weather</text>
+        <text x="435" y="20">CP-Range</text>
+        <text x="545" y="20">Counters</text>
     </g>
 
     <g class="graphic-footer">
