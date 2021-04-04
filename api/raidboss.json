@@ -123,44 +123,6 @@
         "lvl5": [
             {
                 "id": "TORNADUS",
-                "form": "TORNADUS_INCARNATE",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_641_11.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_641_11_shiny.png"
-                },
-                "level": "lvl5",
-                "names": {
-                    "English": "Tornadus (Incarnate Forme)",
-                    "German": "Boreos (Inkarnationsform)",
-                    "French": "Bor\u00e9as (Forme Avatar)",
-                    "Italian": "Tornadus (Forma Incarnazione)",
-                    "Japanese": "\u30c8\u30eb\u30cd\u30ed\u30b9 (\u3051\u3057\u3093\u30d5\u30a9\u30eb\u30e0)",
-                    "Korean": "\ud1a0\ub124\ub85c\uc2a4 (\ud654\uc2e0\ud3fc)",
-                    "Spanish": "Tornadus (Forma Avatar)"
-                },
-                "shiny": false,
-                "types": [
-                    "Flying"
-                ],
-                "counter": {
-                    "Electric": 1.6,
-                    "Ice": 1.6,
-                    "Rock": 1.6
-                },
-                "weather": [
-                    "windy"
-                ],
-                "cpRange": [
-                    1828,
-                    1911
-                ],
-                "cpRangeBoost": [
-                    2285,
-                    2389
-                ]
-            },
-            {
-                "id": "TORNADUS",
                 "form": "TORNADUS_THERIAN",
                 "assets": {
                     "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_641_12.png",
@@ -554,12 +516,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "bb2b16329de318aaf838b056a62bb95b6c96b0a3141185ddacddc603b7f9e6fd3934d41ac47af83d7916597f8b8250dbf7ebfadea9ff68171c914480c1d276ee"
+            "sha512": "0027625f89932c556e521bcf23da1175d89356fdfc22fdaa68f3aff79bce9f6534474eb521b4d5ece841fb9a79624f95217d0a8d47a994965d19a7e80e0bc486"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "2ee835fa74abc6cc2a41bf1e125f28fcb133b2edae21f9ee6da0143f6df3638db21747c0fb6d353e6b7f368af8f273da84353e09cd100fb4b3ff364d0fafe9f4"
+            "sha512": "533cb12af9f75e32a0d3ca549ea8edf4d7e517338b3ba9ca886ed8b6dbdb5519e36bffdbe2e01b509e4251512d2b578d066c899fc775f003e01be98d4dcba6e2"
         }
     }
 }
