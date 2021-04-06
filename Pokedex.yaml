@@ -26,8 +26,6 @@ paths:
                 type: array
                 items:
                   $ref: '#/components/schemas/Pokemon'
-                required:
-                  - items
                 additionalProperties: false
   /api/pokedex/mega.json:
     get:
@@ -288,7 +286,9 @@ components:
         names:
           $ref: '#/components/schemas/Names'
         stats:
-          $ref: '#/components/schemas/PokemonStats'
+          oneOf:
+            - $ref: '#/components/schemas/PokemonStats'
+          nullable: true
         primaryType:
           $ref: '#/components/schemas/Type'
         secondaryType:
@@ -314,8 +314,8 @@ components:
         assets:
           $ref: '#/components/schemas/Assets'
         regionForms:
-          type: array
-          items:
+          type: object
+          additionalProperties:
             $ref: '#/components/schemas/RegionPokemon'
         hasMegaEvolution:
           type: boolean
@@ -332,10 +332,12 @@ components:
         - stats
         - primaryType
         - secondaryType
+        - quickMoves
         - cinematicMoves
         - eliteQuickMoves
         - eliteCinematicMoves
         - assets
+        - regionForms
         - hasMegaEvolution
         - megaEvolutions
     RegionPokemon:
@@ -355,7 +357,9 @@ components:
         names:
           $ref: '#/components/schemas/Names'
         stats:
-          $ref: '#/components/schemas/PokemonStats'
+          oneOf:
+            - $ref: '#/components/schemas/PokemonStats'
+          nullable: true
         primaryType:
           $ref: '#/components/schemas/Type'
         secondaryType:
@@ -380,22 +384,16 @@ components:
             $ref: '#/components/schemas/PokemonMove'
         assets:
           $ref: '#/components/schemas/Assets'
-        forms:
-          type: array
-          items:
-            type: object
-            additionalProperties: false
-            properties:
-              id:
-                type: string
-              name:
-                $ref: '#/components/schemas/Names'
-              assets:
-                $ref: '#/components/schemas/Assets'
-            required:
-              - id
-              - name
-              - assets
+        regionForms:
+          type: object
+          additionalProperties:
+            $ref: '#/components/schemas/RegionPokemon'
+        hasMegaEvolution:
+          type: boolean
+        megaEvolutions:
+          type: object
+          additionalProperties:
+            $ref: '#/components/schemas/MegaEvolution'
       required:
         - id
         - formId
@@ -405,11 +403,14 @@ components:
         - stats
         - primaryType
         - secondaryType
+        - quickMoves
         - cinematicMoves
         - eliteQuickMoves
         - eliteCinematicMoves
         - assets
-        - forms
+        - regionForms
+        - hasMegaEvolution
+        - megaEvolutions
     Names:
       description: ''
       type: object
@@ -534,11 +535,11 @@ components:
       properties:
         image:
           type: string
-        shiny_image:
+        shinyImage:
           type: string
       required:
         - image
-        - shiny_image
+        - shinyImage
     MegaEvolution:
       title: MegaEvolution
       type: object
@@ -585,39 +586,6 @@ components:
             - lvl5
             - lvl3
             - lvl1
-        names:
-          type: object
-          required:
-            - English
-            - German
-            - French
-            - Italian
-            - Japanese
-            - Korean
-            - Spanish
-          additionalProperties: false
-          properties:
-            English:
-              type: string
-              minLength: 1
-            German:
-              type: string
-              minLength: 1
-            French:
-              type: string
-              minLength: 1
-            Italian:
-              type: string
-              minLength: 1
-            Japanese:
-              type: string
-              minLength: 1
-            Korean:
-              type: string
-              minLength: 1
-            Spanish:
-              type: string
-              minLength: 1
         shiny:
           type: boolean
         types:
@@ -630,7 +598,7 @@ components:
         counter:
           type: object
           additionalProperties:
-            type: string
+            type: number
         weather:
           type: array
           minItems: 1
@@ -649,15 +617,17 @@ components:
           maxItems: 2
           items:
             type: integer
+        names:
+          $ref: '#/components/schemas/Names'
       required:
         - id
         - form
         - assets
         - level
-        - names
         - shiny
         - types
         - counter
         - weather
         - cpRange
         - cpRangeBoost
+        - names

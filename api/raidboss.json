@@ -516,12 +516,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "0027625f89932c556e521bcf23da1175d89356fdfc22fdaa68f3aff79bce9f6534474eb521b4d5ece841fb9a79624f95217d0a8d47a994965d19a7e80e0bc486"
+            "sha512": "2397fdf83ea3b10bf3c105bc110aede2b202032bcbfc16ee1b81d6dadba10cc149db03a3d1462b95abc7f5dd53881ae5a15056951de8aa3e611aff425ff03dfb"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "533cb12af9f75e32a0d3ca549ea8edf4d7e517338b3ba9ca886ed8b6dbdb5519e36bffdbe2e01b509e4251512d2b578d066c899fc775f003e01be98d4dcba6e2"
+            "sha512": "b386ffb16b28f77cb2da8789aecfc28f79d1702c8cf250ea7a9fa5f8088f2e7ef434b876763dd3591f0e4c9a04cea193b8a06549eddd89938dda66cb49a81811"
         }
     }
 }

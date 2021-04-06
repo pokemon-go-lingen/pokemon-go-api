@@ -38,8 +38,9 @@
             filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.6));
             text-transform: uppercase;
         }
-        .boss-name text.double-line {
-            font-size: 20px;
+
+        .boss-name text tspan.small {
+            font-size: 14px;
         }
 
         .boss-cp-spectrum text {
@@ -73,6 +74,7 @@
             fill: #ffffff;
             filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.6));
             text-transform: uppercase;
+            text-anchor: middle;
         }
 
         .graphic-header line {
@@ -84,6 +86,7 @@
             fill: #fff;
             font-size: 8px;
             font-family: sans-serif;
+            text-anchor: middle;
         }
     </style>
     <defs>
@@ -116,17 +119,17 @@
     <g class="graphic-header">
         <rect fill="url('#header')" width="685" height="30" x="0" y="0"/>
         <line x1="0" x2="685" y1="30" y2="30"/>
-        <text x="3" y="20">Level</text>
-        <text x="170" y="20">Raidboss</text>
-        <text x="315" y="20">Types</text>
-        <text x="375" y="20">Weather</text>
-        <text x="435" y="20">CP-Range</text>
-        <text x="545" y="20">Counters</text>
+        <text x="18" y="20">Level</text>
+        <text x="185" y="20">Raidboss</text>
+        <text x="335" y="20">Types</text>
+        <text x="400" y="20">Weather</text>
+        <text x="470" y="20">CP-Range</text>
+        <text x="590" y="20">Counters</text>
     </g>
 
     <g class="graphic-footer">
         <rect fill="#000" width="685" height="10" x="0" y="680"/>
-        <text class="source-url" x="2" y="688">Raidboss source from leekduck.com | generated for pokemon-go-lingen.github.io/pokemon-go-api/ | Image Source by The Pokemon Company and Niantic</text>
+        <text class="source-url" x="343" y="688">Raidboss source from leekduck.com | generated for pokemon-go-lingen.github.io/pokemon-go-api/ | Image Source by The Pokemon Company and Niantic</text>
     </g>
 
             <svg id="raidbosswrapper-BUNNELBY" x="0" y="630" width="100%" height="60">
@@ -134,7 +137,7 @@
 
             <g class="boss-level">
                 <rect width="35" height="50" x="0" y="0"/>
-                <text x="15" y="25">I</text>
+                <image height="36" width="36" x="0" y="12" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Raids/raid_egg_0_icon_notification.png" />
             </g>
 
             <g class="boss-name">
@@ -163,7 +166,7 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="10" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_partlycloudy_day.png">
+                <image x="12" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_partlycloudy_day.png">
     <title>partlycloudy_day</title>
 </image>                  </svg>
             </g>
@@ -192,7 +195,7 @@
 
             <g class="boss-level">
                 <rect width="35" height="50" x="0" y="0"/>
-                <text x="15" y="25">I</text>
+                <image height="36" width="36" x="0" y="12" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Raids/raid_egg_0_icon_notification.png" />
             </g>
 
             <g class="boss-name">
@@ -264,7 +267,7 @@
 
             <g class="boss-level">
                 <rect width="35" height="50" x="0" y="0"/>
-                <text x="15" y="25">I</text>
+                <image height="36" width="36" x="0" y="12" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Raids/raid_egg_0_icon_notification.png" />
             </g>
 
             <g class="boss-name">
@@ -293,7 +296,7 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="10" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
+                <image x="12" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
     <title>cloudy</title>
 </image>                  </svg>
             </g>
@@ -330,7 +333,7 @@
 
             <g class="boss-level">
                 <rect width="35" height="50" x="0" y="0"/>
-                <text x="15" y="25">I</text>
+                <image height="36" width="36" x="0" y="12" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Raids/raid_egg_0_icon_notification.png" />
             </g>
 
             <g class="boss-name">
@@ -359,7 +362,7 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="10" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_partlycloudy_day.png">
+                <image x="12" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_partlycloudy_day.png">
     <title>partlycloudy_day</title>
 </image>                  </svg>
             </g>
@@ -388,7 +391,7 @@
 
             <g class="boss-level">
                 <rect width="35" height="50" x="0" y="0"/>
-                <text x="15" y="25">I</text>
+                <image height="36" width="36" x="0" y="12" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Raids/raid_egg_0_icon_notification.png" />
             </g>
 
             <g class="boss-name">
@@ -417,7 +420,7 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="10" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_rain.png">
+                <image x="12" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_rain.png">
     <title>rain</title>
 </image>                  </svg>
             </g>
@@ -446,7 +449,7 @@
 
             <g class="boss-level">
                 <rect width="35" height="50" x="0" y="0"/>
-                <text x="15" y="25">III</text>
+                <image height="36" width="36" x="0" y="12" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Raids/raid_egg_1_icon_notification.png" />
             </g>
 
             <g class="boss-name">
@@ -516,7 +519,7 @@
 
             <g class="boss-level">
                 <rect width="35" height="50" x="0" y="0"/>
-                <text x="15" y="25">III</text>
+                <image height="36" width="36" x="0" y="12" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Raids/raid_egg_1_icon_notification.png" />
             </g>
 
             <g class="boss-name">
@@ -594,7 +597,7 @@
 
             <g class="boss-level">
                 <rect width="35" height="50" x="0" y="0"/>
-                <text x="15" y="25">III</text>
+                <image height="36" width="36" x="0" y="12" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Raids/raid_egg_1_icon_notification.png" />
             </g>
 
             <g class="boss-name">
@@ -623,7 +626,7 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="10" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_partlycloudy_day.png">
+                <image x="12" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_partlycloudy_day.png">
     <title>partlycloudy_day</title>
 </image>                  </svg>
             </g>
@@ -652,12 +655,14 @@
 
             <g class="boss-level">
                 <rect width="35" height="50" x="0" y="0"/>
-                <text x="15" y="25">III</text>
+                <image height="36" width="36" x="0" y="12" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Raids/raid_egg_1_icon_notification.png" />
             </g>
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
-                <text text-anchor="end" x="295" y="35">アローラ ナッシー</text>            </g>
+                <text text-anchor="end" x="295" y="35" class="double-line">
+    <tspan class="small" x="295" y="22">アローラ</tspan><tspan class="" x="295" y="44">ナッシー</tspan>
+</text>            </g>
 
             <g class="boss-image">
                 <rect width="50" height="50" x="35" y="0"/>
@@ -738,13 +743,13 @@
 
             <g class="boss-level">
                 <rect width="35" height="50" x="0" y="0"/>
-                <text x="15" y="25">V</text>
+                <image height="36" width="36" x="0" y="12" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Raids/raid_egg_2_icon_notification.png" />
             </g>
 
             <g class="boss-name">
                 <rect width="215" height="50" x="85" y="0"/>
                 <text text-anchor="end" x="295" y="35" class="double-line">
-    <tspan x="295" y="22">トルネロス</tspan><tspan x="295" y="42">(れいじゅうフォルム)</tspan>
+    <tspan class="" x="295" y="22">トルネロス</tspan><tspan class="small" x="295" y="44">(れいじゅうフォルム)</tspan>
 </text>            </g>
 
             <g class="boss-image">
@@ -767,7 +772,7 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="15" y="12" width="25" height="25" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_windy.png">
+                <image x="17" y="12" width="25" height="25" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_windy.png">
     <title>windy</title>
 </image>                  </svg>
             </g>
@@ -804,7 +809,7 @@
 
             <g class="boss-level">
                 <rect width="35" height="50" x="0" y="0"/>
-                <text x="15" y="25">M</text>
+                <image height="36" width="36" x="0" y="12" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Raids/raid_egg_3_icon_notification.png" />
             </g>
 
             <g class="boss-name">
@@ -880,7 +885,7 @@
 
             <g class="boss-level">
                 <rect width="35" height="50" x="0" y="0"/>
-                <text x="15" y="25">M</text>
+                <image height="36" width="36" x="0" y="12" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Raids/raid_egg_3_icon_notification.png" />
             </g>
 
             <g class="boss-name">
@@ -909,7 +914,7 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="10" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_rain.png">
+                <image x="12" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_rain.png">
     <title>rain</title>
 </image>                  </svg>
             </g>
@@ -938,7 +943,7 @@
 
             <g class="boss-level">
                 <rect width="35" height="50" x="0" y="0"/>
-                <text x="15" y="25">M</text>
+                <image height="36" width="36" x="0" y="12" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Raids/raid_egg_3_icon_notification.png" />
             </g>
 
             <g class="boss-name">
