@@ -208,8 +208,8 @@
                 "id": "CHANSEY",
                 "form": "CHANSEY",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_113_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_113_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_113_00_07.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_113_00_07_shiny.png"
                 },
                 "level": "lvl3",
                 "names": {
@@ -328,8 +328,8 @@
                 "id": "PIKACHU",
                 "form": "PIKACHU",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_025_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_025_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_025_00_07.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_025_00_07_shiny.png"
                 },
                 "level": "lvl1",
                 "names": {
@@ -364,8 +364,8 @@
                 "id": "EEVEE",
                 "form": "EEVEE",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_133_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_133_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_133_00_07.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_133_00_07_shiny.png"
                 },
                 "level": "lvl1",
                 "names": {
@@ -516,12 +516,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "2397fdf83ea3b10bf3c105bc110aede2b202032bcbfc16ee1b81d6dadba10cc149db03a3d1462b95abc7f5dd53881ae5a15056951de8aa3e611aff425ff03dfb"
+            "sha512": "f11c34bed8040abaeb4f9dc5d154246cda8171f18fd0d16e1ba1034432ac9b7bfd558c89cd60af309f825923b4c444ea566daed7ad370dff30231b1373ff37f9"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "b386ffb16b28f77cb2da8789aecfc28f79d1702c8cf250ea7a9fa5f8088f2e7ef434b876763dd3591f0e4c9a04cea193b8a06549eddd89938dda66cb49a81811"
+            "sha512": "c52f258402ea16c2ae088248293a559886e36b2d78c384722fe59301816efd532b77ab085ab311b62aa4cde8648a4886b6e5d9e5a6e2c14c3db4cb0747f61b67"
         }
     }
 }
