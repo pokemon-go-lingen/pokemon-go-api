@@ -224,5 +224,11 @@
     },
     "regionForms": [],
     "hasMegaEvolution": false,
-    "megaEvolutions": []
+    "megaEvolutions": [],
+    "assetForms": [
+        {
+            "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_pm0080_00_pgo_2021.png",
+            "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_pm0080_00_pgo_2021_shiny_shiny.png"
+        }
+    ]
 }

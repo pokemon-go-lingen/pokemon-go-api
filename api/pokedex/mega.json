@@ -299,7 +299,21 @@
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_003_51_shiny.png"
                 }
             }
-        }
+        },
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_003_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_003_01_shiny.png"
+            },
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_pm0003_00_pgo_copy2019.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_pm0003_00_pgo_copy2019_shiny_shiny.png"
+            },
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_pm0003_01_pgo_copy2019.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_pm0003_01_pgo_copy2019_shiny_shiny.png"
+            }
+        ]
     },
     {
         "id": "CHARIZARD",
@@ -785,7 +799,13 @@
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_006_52_shiny.png"
                 }
             }
-        }
+        },
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_pm0006_00_pgo_copy2019.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_pm0006_00_pgo_copy2019_shiny_shiny.png"
+            }
+        ]
     },
     {
         "id": "CHARIZARD",
@@ -1271,7 +1291,13 @@
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_006_52_shiny.png"
                 }
             }
-        }
+        },
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_pm0006_00_pgo_copy2019.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_pm0006_00_pgo_copy2019_shiny_shiny.png"
+            }
+        ]
     },
     {
         "id": "BLASTOISE",
@@ -1590,7 +1616,17 @@
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_009_51_shiny.png"
                 }
             }
-        }
+        },
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_009_00_05.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_009_00_05_shiny.png"
+            },
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_pm0009_00_pgo_copy2019.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_pm0009_00_pgo_copy2019_shiny_shiny.png"
+            }
+        ]
     },
     {
         "id": "BEEDRILL",
@@ -1965,7 +2001,8 @@
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_015_51_shiny.png"
                 }
             }
-        }
+        },
+        "assetForms": []
     },
     {
         "id": "PIDGEOT",
@@ -2340,7 +2377,8 @@
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_018_51_shiny.png"
                 }
             }
-        }
+        },
+        "assetForms": []
     },
     {
         "id": "GENGAR",
@@ -2814,7 +2852,17 @@
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_094_51_shiny.png"
                 }
             }
-        }
+        },
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_094_00_11.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_094_00_11_shiny.png"
+            },
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_094_26.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_094_26_shiny.png"
+            }
+        ]
     },
     {
         "id": "GYARADOS",
@@ -3249,7 +3297,13 @@
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_130_51_shiny.png"
                 }
             }
-        }
+        },
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_130_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_130_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "AMPHAROS",
@@ -3606,7 +3660,8 @@
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_181_51_shiny.png"
                 }
             }
-        }
+        },
+        "assetForms": []
     },
     {
         "id": "HOUNDOOM",
@@ -3907,7 +3962,13 @@
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_229_51_shiny.png"
                 }
             }
-        }
+        },
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_229_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_229_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "MANECTRIC",
@@ -4159,7 +4220,8 @@
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_310_51_shiny.png"
                 }
             }
-        }
+        },
+        "assetForms": []
     },
     {
         "id": "LOPUNNY",
@@ -4416,7 +4478,8 @@
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_428_51_shiny.png"
                 }
             }
-        }
+        },
+        "assetForms": []
     },
     {
         "id": "ABOMASNOW",
@@ -4723,6 +4786,12 @@
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_460_51_shiny.png"
                 }
             }
-        }
+        },
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_460_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_460_01_shiny.png"
+            }
+        ]
     }
 ]

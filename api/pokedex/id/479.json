@@ -1353,5 +1353,11 @@
         }
     },
     "hasMegaEvolution": false,
-    "megaEvolutions": []
+    "megaEvolutions": [],
+    "assetForms": [
+        {
+            "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_479_11.png",
+            "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_479_11_shiny.png"
+        }
+    ]
 }

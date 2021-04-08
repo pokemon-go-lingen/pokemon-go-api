@@ -208,7 +208,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "QUILLADIN",
@@ -425,7 +426,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "CHESNAUGHT",
@@ -725,7 +727,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "FENNEKIN",
@@ -942,7 +945,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "BRAIXEN",
@@ -1159,7 +1163,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "DELPHOX",
@@ -1459,7 +1464,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "FROAKIE",
@@ -1670,7 +1676,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "FROGADIER",
@@ -1881,7 +1888,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "GRENINJA",
@@ -2142,7 +2150,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "BUNNELBY",
@@ -2353,7 +2362,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "DIGGERSBY",
@@ -2608,7 +2618,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "FLETCHLING",
@@ -2830,7 +2841,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "FLETCHINDER",
@@ -3091,7 +3103,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "TALONFLAME",
@@ -3425,7 +3438,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "SCATTERBUG",
@@ -3570,7 +3584,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "SPEWPA",
@@ -3715,7 +3730,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "VIVILLON",
@@ -4015,7 +4031,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "LITLEO",
@@ -4276,7 +4293,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "PYROAR",
@@ -4844,7 +4862,8 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "FLABEBE",
@@ -5061,7 +5080,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "FLOETTE",
@@ -5278,7 +5298,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "FLORGES",
@@ -5567,7 +5588,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "SKIDDO",
@@ -5778,7 +5800,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "GOGOAT",
@@ -6055,7 +6078,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "PANCHAM",
@@ -6266,7 +6290,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "PANGORO",
@@ -6566,7 +6591,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "FURFROU",
@@ -6810,7 +6836,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "ESPURR",
@@ -7033,7 +7060,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "MEOWSTIC",
@@ -7480,7 +7508,8 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "HONEDGE",
@@ -7665,7 +7694,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "DOUBLADE",
@@ -7850,7 +7880,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "AEGISLASH",
@@ -8068,7 +8099,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "SPRITZEE",
@@ -8246,7 +8278,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "AROMATISSE",
@@ -8502,7 +8535,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "SWIRLIX",
@@ -8653,7 +8687,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "SLURPUFF",
@@ -8903,7 +8938,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "INKAY",
@@ -9098,7 +9134,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "MALAMAR",
@@ -9359,7 +9396,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "BINACLE",
@@ -9587,7 +9625,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "BARBARACLE",
@@ -9881,7 +9920,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "SKRELP",
@@ -10136,7 +10176,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "DRAGALGE",
@@ -10424,7 +10465,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "CLAUNCHER",
@@ -10641,7 +10683,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "CLAWITZER",
@@ -10891,7 +10934,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "HELIOPTILE",
@@ -11113,7 +11157,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "HELIOLISK",
@@ -11401,7 +11446,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "TYRUNT",
@@ -11629,7 +11675,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "TYRANTRUM",
@@ -11917,7 +11964,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "AMAURA",
@@ -12178,7 +12226,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "AURORUS",
@@ -12505,7 +12554,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "SYLVEON",
@@ -12756,7 +12806,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "HAWLUCHA",
@@ -13050,7 +13101,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "DEDENNE",
@@ -13272,7 +13324,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "CARBINK",
@@ -13500,7 +13553,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "GOOMY",
@@ -13717,7 +13771,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "SLIGGOO",
@@ -13967,7 +14022,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "GOODRA",
@@ -14223,7 +14279,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "KLEFKI",
@@ -14478,7 +14535,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "PHANTUMP",
@@ -14700,7 +14758,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "TREVENANT",
@@ -14922,7 +14981,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "PUMPKABOO",
@@ -15173,7 +15233,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "GOURGEIST",
@@ -15424,7 +15485,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "BERGMITE",
@@ -15641,7 +15703,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "AVALUGG",
@@ -15918,7 +15981,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "NOIBAT",
@@ -16140,7 +16204,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "NOIVERN",
@@ -16407,7 +16472,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "XERNEAS",
@@ -16696,7 +16762,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "YVELTAL",
@@ -17341,6 +17408,7 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     }
 ]

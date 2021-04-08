@@ -214,7 +214,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "GROTLE",
@@ -431,7 +432,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "TORTERRA",
@@ -726,7 +728,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "CHIMCHAR",
@@ -943,7 +946,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "MONFERNO",
@@ -1165,7 +1169,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "INFERNAPE",
@@ -1427,7 +1432,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "PIPLUP",
@@ -1650,7 +1656,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "PRINPLUP",
@@ -1873,7 +1880,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "EMPOLEON",
@@ -2162,7 +2170,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "STARLY",
@@ -2357,7 +2366,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_396_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_396_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "STARAVIA",
@@ -2585,7 +2600,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_397_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_397_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "STARAPTOR",
@@ -2819,7 +2840,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_398_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_398_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "BIDOOF",
@@ -3030,7 +3057,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_399_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_399_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "BIBAREL",
@@ -3252,7 +3285,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_400_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_400_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "KRICKETOT",
@@ -3397,7 +3436,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_401_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_401_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "KRICKETUNE",
@@ -3614,7 +3659,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_402_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_402_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "SHINX",
@@ -3825,7 +3876,21 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_403_00_16.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_403_00_16_shiny.png"
+            },
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_403_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_403_01_shiny.png"
+            },
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_403_01_16.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_403_01_16_shiny.png"
+            }
+        ]
     },
     {
         "id": "LUXIO",
@@ -4042,7 +4107,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_404_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_404_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "LUXRAY",
@@ -4292,7 +4363,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_405_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_405_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "BUDEW",
@@ -4487,7 +4564,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "ROSERADE",
@@ -4810,7 +4888,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_407_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_407_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "CRANIDOS",
@@ -5027,7 +5111,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "RAMPARDOS",
@@ -5238,7 +5323,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "SHIELDON",
@@ -5466,7 +5552,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "BASTIODON",
@@ -5688,7 +5775,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "BURMY",
@@ -6124,7 +6212,13 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_412_11.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_412_11_shiny.png"
+            }
+        ]
     },
     {
         "id": "WORMADAM",
@@ -6737,7 +6831,13 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_413_11.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_413_11_shiny.png"
+            }
+        ]
     },
     {
         "id": "MOTHIM",
@@ -6965,7 +7065,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "COMBEE",
@@ -7094,7 +7195,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_415_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_415_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "VESPIQUEN",
@@ -7466,7 +7573,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "PACHIRISU",
@@ -7677,7 +7785,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_417_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_417_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "BUIZEL",
@@ -7888,7 +8002,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_418_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_418_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "FLOATZEL",
@@ -8099,7 +8219,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_419_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_419_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "CHERUBI",
@@ -8310,7 +8436,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "CHERRIM",
@@ -8766,7 +8893,13 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_421_11.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_421_11_shiny.png"
+            }
+        ]
     },
     {
         "id": "SHELLOS",
@@ -9189,7 +9322,13 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_422_11.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_422_11_shiny.png"
+            }
+        ]
     },
     {
         "id": "GASTRODON",
@@ -9646,7 +9785,13 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_423_11.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_423_11_shiny.png"
+            }
+        ]
     },
     {
         "id": "AMBIPOM",
@@ -9857,7 +10002,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_424_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_424_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "DRIFLOON",
@@ -10091,7 +10242,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "DRIFBLIM",
@@ -10325,7 +10477,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "BUNEARY",
@@ -10503,7 +10656,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_427_00_12.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_427_00_12_shiny.png"
+            }
+        ]
     },
     {
         "id": "LOPUNNY",
@@ -10760,7 +10919,8 @@
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_428_51_shiny.png"
                 }
             }
-        }
+        },
+        "assetForms": []
     },
     {
         "id": "MISMAGIUS",
@@ -10971,7 +11131,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "HONCHKROW",
@@ -11238,7 +11399,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "GLAMEOW",
@@ -11449,7 +11611,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "PURUGLY",
@@ -11660,7 +11823,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "CHINGLING",
@@ -11871,7 +12035,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "STUNKY",
@@ -12093,7 +12258,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "SKUNTANK",
@@ -12315,7 +12481,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "BRONZOR",
@@ -12537,7 +12704,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "BRONZONG",
@@ -12831,7 +12999,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "BONSLY",
@@ -13042,7 +13211,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "MIME_JR",
@@ -13270,7 +13440,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "HAPPINY",
@@ -13421,7 +13592,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_440_00_07.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_440_00_07_shiny.png"
+            }
+        ]
     },
     {
         "id": "CHATOT",
@@ -13643,7 +13820,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "SPIRITOMB",
@@ -13871,7 +14049,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "GIBLE",
@@ -14093,7 +14272,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_443_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_443_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "GABITE",
@@ -14315,7 +14500,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_444_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_444_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "GARCHOMP",
@@ -14576,7 +14767,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_445_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_445_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "MUNCHLAX",
@@ -14787,7 +14984,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "RIOLU",
@@ -14998,7 +15196,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "LUCARIO",
@@ -15298,7 +15497,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "HIPPOPOTAS",
@@ -15509,7 +15709,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_449_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_449_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "HIPPOWDON",
@@ -15825,7 +16031,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_450_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_450_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "SKORUPI",
@@ -16047,7 +16259,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "DRAPION",
@@ -16374,7 +16587,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "CROAGUNK",
@@ -16596,7 +16810,21 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_453_00_16.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_453_00_16_shiny.png"
+            },
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_453_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_453_01_shiny.png"
+            },
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_453_01_16.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_453_01_16_shiny.png"
+            }
+        ]
     },
     {
         "id": "TOXICROAK",
@@ -16818,7 +17046,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_454_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_454_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "CARNIVINE",
@@ -17035,7 +17269,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "FINNEON",
@@ -17252,7 +17487,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_456_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_456_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "LUMINEON",
@@ -17469,7 +17710,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_457_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_457_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "MANTYKE",
@@ -17691,7 +17938,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "SNOVER",
@@ -17919,7 +18167,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_459_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_459_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "ABOMASNOW",
@@ -18226,7 +18480,13 @@
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_460_51_shiny.png"
                 }
             }
-        }
+        },
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_460_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_460_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "WEAVILE",
@@ -18481,7 +18741,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_461_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_461_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "MAGNEZONE",
@@ -18748,7 +19014,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "LICKILICKY",
@@ -19026,7 +19293,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "RHYPERIOR",
@@ -19360,7 +19628,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_464_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_464_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "TANGROWTH",
@@ -19643,7 +19917,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_465_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_465_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "ELECTIVIRE",
@@ -19927,7 +20207,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "MAGMORTAR",
@@ -20211,7 +20492,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "TOGEKISS",
@@ -20505,7 +20787,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "YANMEGA",
@@ -20739,7 +21022,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "LEAFEON",
@@ -20990,7 +21274,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_470_00_07.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_470_00_07_shiny.png"
+            }
+        ]
     },
     {
         "id": "GLACEON",
@@ -21241,7 +21531,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_471_00_07.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_471_00_07_shiny.png"
+            }
+        ]
     },
     {
         "id": "GLISCOR",
@@ -21508,7 +21804,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "MAMOSWINE",
@@ -21770,7 +22067,13 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_473_01.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_473_01_shiny.png"
+            }
+        ]
     },
     {
         "id": "PORYGON_Z",
@@ -22087,7 +22390,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "GALLADE",
@@ -22388,7 +22692,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "PROBOPASS",
@@ -22610,7 +22915,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "DUSKNOIR",
@@ -22833,7 +23139,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "FROSLASS",
@@ -23055,7 +23362,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "ROTOM",
@@ -24412,7 +24720,13 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_479_11.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_479_11_shiny.png"
+            }
+        ]
     },
     {
         "id": "UXIE",
@@ -24623,7 +24937,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "MESPRIT",
@@ -24834,7 +25149,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "AZELF",
@@ -25045,7 +25361,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "DIALGA",
@@ -25273,7 +25590,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "PALKIA",
@@ -25534,7 +25852,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "HEATRAN",
@@ -25789,7 +26108,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "REGIGIGAS",
@@ -26000,7 +26320,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "GIRATINA",
@@ -26457,7 +26778,13 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_487_11.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_487_11_shiny.png"
+            }
+        ]
     },
     {
         "id": "CRESSELIA",
@@ -26708,7 +27035,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "PHIONE",
@@ -26925,7 +27253,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "MANAPHY",
@@ -27148,7 +27477,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "DARKRAI",
@@ -27359,7 +27689,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "SHAYMIN",
@@ -27805,7 +28136,13 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_492_11.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_492_11_shiny.png"
+            }
+        ]
     },
     {
         "id": "ARCEUS",
@@ -31604,6 +31941,7 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     }
 ]

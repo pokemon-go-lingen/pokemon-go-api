@@ -683,7 +683,8 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "PONYTA",
@@ -1146,7 +1147,8 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "RAPIDASH",
@@ -1725,7 +1727,8 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "FARFETCHD",
@@ -2199,7 +2202,8 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "WEEZING",
@@ -2672,7 +2676,8 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "MR_MIME",
@@ -3129,7 +3134,8 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "ZIGZAGOON",
@@ -3563,7 +3569,8 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "LINOONE",
@@ -3997,7 +4004,8 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "DARUMAKA",
@@ -4360,7 +4368,8 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "YAMASK",
@@ -4734,7 +4743,8 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "STUNFISK",
@@ -5224,6 +5234,7 @@
             }
         },
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     }
 ]

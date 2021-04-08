@@ -142,7 +142,8 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     },
     {
         "id": "MELMETAL",
@@ -392,6 +393,7 @@
         },
         "regionForms": [],
         "hasMegaEvolution": false,
-        "megaEvolutions": []
+        "megaEvolutions": [],
+        "assetForms": []
     }
 ]

@@ -313,6 +313,10 @@ components:
             $ref: '#/components/schemas/PokemonMove'
         assets:
           $ref: '#/components/schemas/Assets'
+        assetForms:
+          type: array
+          items:
+            $ref: '#/components/schemas/Assets'
         regionForms:
           type: object
           additionalProperties:
@@ -337,6 +341,7 @@ components:
         - eliteQuickMoves
         - eliteCinematicMoves
         - assets
+        - assetForms
         - regionForms
         - hasMegaEvolution
         - megaEvolutions

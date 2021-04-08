@@ -470,5 +470,6 @@
         }
     },
     "hasMegaEvolution": false,
-    "megaEvolutions": []
+    "megaEvolutions": [],
+    "assetForms": []
 }
