@@ -20011,6 +20011,10 @@
             {
                 "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_065_01.png",
                 "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_065_01_shiny.png"
+            },
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_065_51.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_065_51_shiny.png"
             }
         ]
     },
@@ -36201,7 +36205,12 @@
         "regionForms": [],
         "hasMegaEvolution": false,
         "megaEvolutions": [],
-        "assetForms": []
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_115_51.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_115_51_shiny.png"
+            }
+        ]
     },
     {
         "id": "HORSEA",
@@ -39591,7 +39600,12 @@
         "regionForms": [],
         "hasMegaEvolution": false,
         "megaEvolutions": [],
-        "assetForms": []
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_127_51.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_127_51_shiny.png"
+            }
+        ]
     },
     {
         "id": "TAUROS",
@@ -43695,7 +43709,12 @@
         "regionForms": [],
         "hasMegaEvolution": false,
         "megaEvolutions": [],
-        "assetForms": []
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_142_51.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_142_51_shiny.png"
+            }
+        ]
     },
     {
         "id": "SNORLAX",
@@ -46434,7 +46453,16 @@
         },
         "hasMegaEvolution": false,
         "megaEvolutions": [],
-        "assetForms": []
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_150_51.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_150_51_shiny.png"
+            },
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_150_52.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_150_52_shiny.png"
+            }
+        ]
     },
     {
         "id": "MEW",

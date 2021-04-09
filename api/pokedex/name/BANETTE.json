@@ -208,5 +208,10 @@
     "regionForms": [],
     "hasMegaEvolution": false,
     "megaEvolutions": [],
-    "assetForms": []
+    "assetForms": [
+        {
+            "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_354_51.png",
+            "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_354_51_shiny.png"
+        }
+    ]
 }

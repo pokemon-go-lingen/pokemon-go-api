@@ -12240,6 +12240,10 @@
         "megaEvolutions": [],
         "assetForms": [
             {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_302_51.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_302_51_shiny.png"
+            },
+            {
                 "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_pm0302_00_pgo_fall2020.png",
                 "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_pm0302_00_pgo_fall2020_shiny_shiny.png"
             }
@@ -12571,7 +12575,12 @@
         "regionForms": [],
         "hasMegaEvolution": false,
         "megaEvolutions": [],
-        "assetForms": []
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_303_51.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_303_51_shiny.png"
+            }
+        ]
     },
     {
         "id": "ARON",
@@ -16324,7 +16333,12 @@
         "regionForms": [],
         "hasMegaEvolution": false,
         "megaEvolutions": [],
-        "assetForms": []
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_319_51.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_319_51_shiny.png"
+            }
+        ]
     },
     {
         "id": "WAILMER",
@@ -25047,7 +25061,12 @@
         "regionForms": [],
         "hasMegaEvolution": false,
         "megaEvolutions": [],
-        "assetForms": []
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_354_51.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_354_51_shiny.png"
+            }
+        ]
     },
     {
         "id": "DUSKULL",
@@ -31713,7 +31732,12 @@
         "regionForms": [],
         "hasMegaEvolution": false,
         "megaEvolutions": [],
-        "assetForms": []
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_384_51.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_384_51_shiny.png"
+            }
+        ]
     },
     {
         "id": "JIRACHI",
