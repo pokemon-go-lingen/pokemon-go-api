@@ -312,12 +312,12 @@
             "id": "AMPHAROS_MEGA",
             "names": {
                 "English": "Mega Ampharos",
-                "German": "Mega-Ampharos",
+                "German": "Mega Ampharos",
                 "French": "M\u00e9ga-Pharamp",
                 "Italian": "MegaAmpharos",
                 "Japanese": "\u30e1\u30ac\u30c7\u30f3\u30ea\u30e5\u30a6",
-                "Korean": "\uba54\uac00\uc804\ub8e1",
-                "Spanish": "Mega-Ampharos"
+                "Korean": "Mega Ampharos",
+                "Spanish": "Mega Ampharos"
             },
             "stats": {
                 "stamina": 207,

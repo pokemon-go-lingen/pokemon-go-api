@@ -10878,12 +10878,12 @@
                 "id": "LOPUNNY_MEGA",
                 "names": {
                     "English": "Mega Lopunny",
-                    "German": "Mega-Schlapor",
+                    "German": "Mega Lopunny",
                     "French": "M\u00e9ga-Lockpin",
                     "Italian": "MegaLopunny",
                     "Japanese": "\u30e1\u30ac\u30df\u30df\u30ed\u30c3\u30d7",
-                    "Korean": "\uba54\uac00\uc774\uc5b4\ub86d",
-                    "Spanish": "Mega-Lopunny"
+                    "Korean": "Mega Lopunny",
+                    "Spanish": "Mega Lopunny"
                 },
                 "stats": {
                     "stamina": 163,
@@ -18439,12 +18439,12 @@
                 "id": "ABOMASNOW_MEGA",
                 "names": {
                     "English": "Mega Abomasnow",
-                    "German": "Mega-Rexblisar",
+                    "German": "Mega Abomasnow",
                     "French": "M\u00e9ga-Blizzaroi",
                     "Italian": "MegaAbomasnow",
                     "Japanese": "\u30e1\u30ac\u30e6\u30ad\u30ce\u30aa\u30fc",
-                    "Korean": "\uba54\uac00\ub208\uc124\uc655",
-                    "Spanish": "Mega-Abomasnow"
+                    "Korean": "Mega Abomasnow",
+                    "Spanish": "Mega Abomasnow"
                 },
                 "stats": {
                     "stamina": 207,

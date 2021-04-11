@@ -218,12 +218,12 @@
             "id": "MANECTRIC_MEGA",
             "names": {
                 "English": "Mega Manectric",
-                "German": "Mega-Voltenso",
+                "German": "Mega Manectric",
                 "French": "M\u00e9ga-\u00c9lecsprint",
                 "Italian": "MegaManectric",
                 "Japanese": "\u30e1\u30ac\u30e9\u30a4\u30dc\u30eb\u30c8",
-                "Korean": "\uba54\uac00\uc36c\ub354\ubcfc\ud2b8",
-                "Spanish": "Mega-Manectric"
+                "Korean": "Mega Manectric",
+                "Spanish": "Mega Manectric"
             },
             "stats": {
                 "stamina": 172,

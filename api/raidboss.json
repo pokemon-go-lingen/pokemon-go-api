@@ -15,8 +15,8 @@
                     "French": "M\u00e9ga-Ectoplasma",
                     "Italian": "MegaGengar",
                     "Japanese": "\u30e1\u30ac\u30b2\u30f3\u30ac\u30fc",
-                    "Korean": "\uba54\uac00\ud32c\ud140",
-                    "Spanish": "Mega-Gengar"
+                    "Korean": "Mega Gengar",
+                    "Spanish": "Mega Gengar"
                 },
                 "shiny": true,
                 "types": [
@@ -52,12 +52,12 @@
                 "level": "mega",
                 "names": {
                     "English": "Mega Manectric",
-                    "German": "Mega-Voltenso",
+                    "German": "Mega Manectric",
                     "French": "M\u00e9ga-\u00c9lecsprint",
                     "Italian": "MegaManectric",
                     "Japanese": "\u30e1\u30ac\u30e9\u30a4\u30dc\u30eb\u30c8",
-                    "Korean": "\uba54\uac00\uc36c\ub354\ubcfc\ud2b8",
-                    "Spanish": "Mega-Manectric"
+                    "Korean": "Mega Manectric",
+                    "Spanish": "Mega Manectric"
                 },
                 "shiny": true,
                 "types": [
@@ -88,12 +88,12 @@
                 "level": "mega",
                 "names": {
                     "English": "Mega Lopunny",
-                    "German": "Mega-Schlapor",
+                    "German": "Mega Lopunny",
                     "French": "M\u00e9ga-Lockpin",
                     "Italian": "MegaLopunny",
                     "Japanese": "\u30e1\u30ac\u30df\u30df\u30ed\u30c3\u30d7",
-                    "Korean": "\uba54\uac00\uc774\uc5b4\ub86d",
-                    "Spanish": "Mega-Lopunny"
+                    "Korean": "Mega Lopunny",
+                    "Spanish": "Mega Lopunny"
                 },
                 "shiny": true,
                 "types": [
@@ -559,7 +559,7 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "e6813403fe30f3545ad0347b5bacba413c641db2a5076a0f4111c44fd7e4986fac43b18e34d5c9352df9f6189b13174997322f65d4f96fdf770d5544b3effaa2"
+            "sha512": "b4f073b974cfdbb4d7b0bf4adddf0e218a5ebd13b45ce5d736a2c127907409d59000d88e33412793cf260d3b3b2a528264fba93f2a49e46e4c049e75b1c6b2fa"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",

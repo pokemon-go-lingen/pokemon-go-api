@@ -7190,12 +7190,12 @@
                 "id": "AMPHAROS_MEGA",
                 "names": {
                     "English": "Mega Ampharos",
-                    "German": "Mega-Ampharos",
+                    "German": "Mega Ampharos",
                     "French": "M\u00e9ga-Pharamp",
                     "Italian": "MegaAmpharos",
                     "Japanese": "\u30e1\u30ac\u30c7\u30f3\u30ea\u30e5\u30a6",
-                    "Korean": "\uba54\uac00\uc804\ub8e1",
-                    "Spanish": "Mega-Ampharos"
+                    "Korean": "Mega Ampharos",
+                    "Spanish": "Mega Ampharos"
                 },
                 "stats": {
                     "stamina": 207,
@@ -18548,12 +18548,12 @@
                 "id": "HOUNDOOM_MEGA",
                 "names": {
                     "English": "Mega Houndoom",
-                    "German": "Mega-Hundemon",
+                    "German": "Mega Houndoom",
                     "French": "M\u00e9ga-D\u00e9molosse",
                     "Italian": "MegaHoundoom",
                     "Japanese": "\u30e1\u30ac\u30d8\u30eb\u30ac\u30fc",
-                    "Korean": "\uba54\uac00\ud5ec\uac00",
-                    "Spanish": "Mega-Houndoom"
+                    "Korean": "Mega Houndoom",
+                    "Spanish": "Mega Houndoom"
                 },
                 "stats": {
                     "stamina": 181,
