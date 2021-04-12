@@ -206,7 +206,41 @@
         }
     },
     "eliteQuickMoves": [],
-    "eliteCinematicMoves": [],
+    "eliteCinematicMoves": {
+        "FRENZY_PLANT": {
+            "id": "FRENZY_PLANT",
+            "power": 100,
+            "energy": -50,
+            "durationMs": 2600,
+            "type": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "names": {
+                "English": "Frenzy Plant",
+                "German": "Flora-Statue",
+                "French": "V\u00e9g\u00e9-Attaque",
+                "Italian": "Radicalbero",
+                "Japanese": "\u30cf\u30fc\u30c9\u30d7\u30e9\u30f3\u30c8",
+                "Korean": "\ud558\ub4dc\ud50c\ub79c\ud2b8",
+                "Spanish": "Planta Feroz"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 100,
+                "turns": 1,
+                "buffs": null
+            }
+        }
+    },
     "assets": {
         "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_497_00.png",
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_497_00_shiny.png"
