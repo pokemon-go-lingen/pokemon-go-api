@@ -164,7 +164,7 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="12" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_rain.png">
+                <image x="14" y="9" width="34" height="34" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_rain.png">
     <title>rain</title>
 </image>                  </svg>
             </g>
@@ -228,9 +228,9 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="0" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_rain.png">
+                <image x="0" y="9" width="34" height="34" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_rain.png">
     <title>rain</title>
-</image>  <image x="25" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
+</image>  <image x="32" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
     <title>cloudy</title>
 </image>                  </svg>
             </g>
@@ -296,7 +296,7 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="12" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
+                <image x="19" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
     <title>cloudy</title>
 </image>                  </svg>
             </g>
@@ -366,7 +366,7 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="12" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
+                <image x="19" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
     <title>cloudy</title>
 </image>                  </svg>
             </g>
@@ -434,7 +434,7 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="12" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_rain.png">
+                <image x="14" y="9" width="34" height="34" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_rain.png">
     <title>rain</title>
 </image>                  </svg>
             </g>
@@ -492,7 +492,7 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="12" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
+                <image x="19" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
     <title>cloudy</title>
 </image>                  </svg>
             </g>
@@ -558,7 +558,7 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="12" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
+                <image x="19" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
     <title>cloudy</title>
 </image>                  </svg>
             </g>
@@ -620,7 +620,7 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="12" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_partlycloudy_day.png">
+                <image x="19" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_partlycloudy_day.png">
     <title>partlycloudy_day</title>
 </image>                  </svg>
             </g>
@@ -678,7 +678,7 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="12" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
+                <image x="19" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
     <title>cloudy</title>
 </image>                  </svg>
             </g>
@@ -744,7 +744,7 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="12" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
+                <image x="19" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
     <title>cloudy</title>
 </image>                  </svg>
             </g>
@@ -812,9 +812,9 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="5" y="12" width="25" height="25" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_sunny.png">
+                <image x="5" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_sunny.png">
     <title>sunny</title>
-</image>  <image x="25" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
+</image>  <image x="32" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
     <title>cloudy</title>
 </image>                  </svg>
             </g>
@@ -886,9 +886,9 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="5" y="12" width="25" height="25" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_sunny.png">
+                <image x="5" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_sunny.png">
     <title>sunny</title>
-</image>  <image x="25" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
+</image>  <image x="32" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
     <title>cloudy</title>
 </image>                  </svg>
             </g>
@@ -962,9 +962,9 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="5" y="12" width="25" height="25" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_sunny.png">
+                <image x="5" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_sunny.png">
     <title>sunny</title>
-</image>  <image x="30" y="12" width="25" height="25" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_windy.png">
+</image>  <image x="32" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_windy.png">
     <title>windy</title>
 </image>                  </svg>
             </g>
@@ -1028,7 +1028,7 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="17" y="12" width="25" height="25" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_windy.png">
+                <image x="19" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_windy.png">
     <title>windy</title>
 </image>                  </svg>
             </g>
@@ -1098,9 +1098,9 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="0" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_partlycloudy_day.png">
+                <image x="5" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_partlycloudy_day.png">
     <title>partlycloudy_day</title>
-</image>  <image x="25" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
+</image>  <image x="32" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
     <title>cloudy</title>
 </image>                  </svg>
             </g>
@@ -1170,7 +1170,7 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="12" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_rain.png">
+                <image x="14" y="9" width="34" height="34" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_rain.png">
     <title>rain</title>
 </image>                  </svg>
             </g>
@@ -1232,9 +1232,9 @@
             <g class="boss-weather">
                 <rect width="60" height="50" x="370" y="0"/>
                 <svg width="60" height="50" x="370" y="0">
-                <image x="0" y="7" width="35" height="35" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
+                <image x="5" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_cloudy.png">
     <title>cloudy</title>
-</image>  <image x="30" y="12" width="25" height="25" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_fog.png">
+</image>  <image x="32" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_fog.png">
     <title>fog</title>
 </image>                  </svg>
             </g>
