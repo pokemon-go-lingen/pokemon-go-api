@@ -1,5 +1,5 @@
 <?xml version = "1.0" encoding = "UTF-8" standalone = "no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-     viewBox="0 0 685 890" width="985"
+     viewBox="0 0 685 840" width="985"
      preserveAspectRatio="none" version="1.1">
     <style>
         .boss-types rect,
@@ -128,11 +128,11 @@
     </g>
 
     <g class="graphic-footer">
-        <rect fill="#000" width="685" height="10" x="0" y="880"/>
-        <text class="source-url" x="343" y="888">Raidboss source from leekduck.com | generated for pokemon-go-lingen.github.io/pokemon-go-api/ | Image Source by The Pokemon Company and Niantic</text>
+        <rect fill="#000" width="685" height="10" x="0" y="830"/>
+        <text class="source-url" x="343" y="838">Raidboss source from leekduck.com | generated for pokemon-go-lingen.github.io/pokemon-go-api/ | Image Source by The Pokemon Company and Niantic</text>
     </g>
 
-            <svg id="raidbosswrapper-GENGAR_MEGA" x="0" y="830" width="100%" height="60">
+            <svg id="raidbosswrapper-GENGAR_MEGA" x="0" y="780" width="100%" height="60">
             <rect fill="url('#raidBossGradient_mega')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -210,7 +210,7 @@
             </g>
 
         </svg>
-            <svg id="raidbosswrapper-MANECTRIC_MEGA" x="0" y="780" width="100%" height="60">
+            <svg id="raidbosswrapper-MANECTRIC_MEGA" x="0" y="730" width="100%" height="60">
             <rect fill="url('#raidBossGradient_mega')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -270,7 +270,7 @@
             </g>
 
         </svg>
-            <svg id="raidbosswrapper-LOPUNNY_MEGA" x="0" y="730" width="100%" height="60">
+            <svg id="raidbosswrapper-LOPUNNY_MEGA" x="0" y="680" width="100%" height="60">
             <rect fill="url('#raidBossGradient_mega')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -343,72 +343,6 @@
                                                 <image class="image-counter-16" x="40" y="12" width="24" height="24"
                                href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_FAIRY.png">
                             <title>Fairy 1.6</title>
-                        </image>
-                                        </svg>
-            </g>
-
-        </svg>
-            <svg id="raidbosswrapper-TORNADUS_THERIAN" x="0" y="680" width="100%" height="60">
-            <rect fill="url('#raidBossGradient_lvl5')" width="100%" height="50" x="0" y="0"/>
-
-            <g class="boss-level">
-                <rect width="35" height="50" x="0" y="0"/>
-                <image height="36" width="36" x="0" y="12" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Raids/raid_egg_2_icon_notification.png" />
-            </g>
-
-            <g class="boss-name">
-                <rect width="215" height="50" x="85" y="0"/>
-                <text text-anchor="end" x="295" y="35" class="double-line">
-    <tspan class="" x="295" y="22">Tornadus</tspan><tspan class="small" x="295" y="44">(Forma Tótem)</tspan>
-</text>            </g>
-
-            <g class="boss-image">
-                <rect width="50" height="50" x="35" y="0"/>
-
-                <image width="55" height="55" x="25" y="0"
-                       href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_641_12.png"/>
-                            </g>
-
-            <g class="boss-types">
-                <rect width="70" height="50" x="300" y="0"/>
-                <svg width="70" height="50" x="300" y="0">
-                                    <image x="22" y="12" width="26" height="26" class="pokemon-type-icon"
-                           href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_FLYING.png">
-                        <title>Flying</title>
-                    </image>
-                                </svg>
-            </g>
-
-            <g class="boss-weather">
-                <rect width="60" height="50" x="370" y="0"/>
-                <svg width="60" height="50" x="370" y="0">
-                <image x="19" y="14" width="22" height="22" class="pokemon-type-icon" href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Weather/weatherIcon_small_windy.png">
-    <title>windy</title>
-</image>                  </svg>
-            </g>
-
-            <g class="boss-cp-spectrum">
-                <rect width="80" height="50" x="430" y="0"/>
-                <svg width="80" height="50" x="430" y="0">
-                    <text class="normal" x="50%" y="18" dominant-baseline="middle" text-anchor="middle">1756–1837</text>
-                    <text class="boost"  x="50%" y="35" dominant-baseline="middle" text-anchor="middle">2196–2296</text>
-                </svg>
-            </g>
-
-            <g class="boss-counter">
-                <rect width="160" height="50" x="510" y="0"/>
-                <svg width="160" height="50" x="510" y="0" >
-                                            <image class="image-counter-16" x="90" y="12" width="24" height="24"
-                               href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_ROCK.png">
-                            <title>Rock 1.6</title>
-                        </image>
-                                                <image class="image-counter-16" x="70" y="12" width="24" height="24"
-                               href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_ICE.png">
-                            <title>Ice 1.6</title>
-                        </image>
-                                                <image class="image-counter-16" x="50" y="12" width="24" height="24"
-                               href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Types/POKEMON_TYPE_ELECTRIC.png">
-                            <title>Electric 1.6</title>
                         </image>
                                         </svg>
             </g>
