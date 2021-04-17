@@ -17384,7 +17384,7 @@
         "generation": 4,
         "names": {
             "English": "Finneon",
-            "German": "Finneon",
+            "German": "\u00c9cayon",
             "French": "\u00c9cayon",
             "Italian": "Finneon",
             "Japanese": "\u30b1\u30a4\u30b3\u30a6\u30aa",
@@ -17607,7 +17607,7 @@
         "generation": 4,
         "names": {
             "English": "Lumineon",
-            "German": "Lumineon",
+            "German": "Lumin\u00e9on",
             "French": "Lumin\u00e9on",
             "Italian": "Lumineon",
             "Japanese": "\u30cd\u30aa\u30e9\u30f3\u30c8",
@@ -18861,7 +18861,7 @@
         "generation": 4,
         "names": {
             "English": "Magnezone",
-            "German": "Magnezone",
+            "German": "Magn\u00e9zone",
             "French": "Magn\u00e9zone",
             "Italian": "Magnezone",
             "Japanese": "\u30b8\u30d0\u30b3\u30a4\u30eb",
@@ -23477,7 +23477,7 @@
         "generation": 4,
         "names": {
             "English": "Rotom",
-            "German": "Rotom",
+            "German": "Motisma",
             "French": "Motisma",
             "Italian": "Rotom",
             "Japanese": "\u30ed\u30c8\u30e0",
@@ -23702,7 +23702,7 @@
                 "generation": 4,
                 "names": {
                     "English": "Rotom (Fan Rotom)",
-                    "German": "Rotom (Wirbel-Rotom)",
+                    "German": "Motisma (Wirbel-Rotom)",
                     "French": "Motisma (Motisma H\u00e9lice)",
                     "Italian": "Rotom (Rotom Vortice)",
                     "Japanese": "\u30ed\u30c8\u30e0 (\u30b9\u30d4\u30f3\u30ed\u30c8\u30e0)",
@@ -23930,7 +23930,7 @@
                 "generation": 4,
                 "names": {
                     "English": "Rotom (Frost Rotom)",
-                    "German": "Rotom (Frost-Rotom)",
+                    "German": "Motisma (Frost-Rotom)",
                     "French": "Motisma (Motisma Froid)",
                     "Italian": "Rotom (Rotom Gelo)",
                     "Japanese": "\u30ed\u30c8\u30e0 (\u30d5\u30ed\u30b9\u30c8\u30ed\u30c8\u30e0)",
@@ -24152,7 +24152,7 @@
                 "generation": 4,
                 "names": {
                     "English": "Rotom (Heat Rotom)",
-                    "German": "Rotom (Hitze-Rotom)",
+                    "German": "Motisma (Hitze-Rotom)",
                     "French": "Motisma (Motisma Chaleur)",
                     "Italian": "Rotom (Rotom Calore)",
                     "Japanese": "\u30ed\u30c8\u30e0 (\u30d2\u30fc\u30c8\u30ed\u30c8\u30e0)",
@@ -24380,7 +24380,7 @@
                 "generation": 4,
                 "names": {
                     "English": "Rotom (Mow Rotom)",
-                    "German": "Rotom (Schneid-Rotom)",
+                    "German": "Motisma (Schneid-Rotom)",
                     "French": "Motisma (Motisma Tonte)",
                     "Italian": "Rotom (Rotom Taglio)",
                     "Japanese": "\u30ed\u30c8\u30e0 (\u30ab\u30c3\u30c8\u30ed\u30c8\u30e0)",
@@ -24608,7 +24608,7 @@
                 "generation": 4,
                 "names": {
                     "English": "Rotom (Wash Rotom)",
-                    "German": "Rotom (Wasch-Rotom)",
+                    "German": "Motisma (Wasch-Rotom)",
                     "French": "Motisma (Motisma Lavage)",
                     "Italian": "Rotom (Rotom Lavaggio)",
                     "Japanese": "\u30ed\u30c8\u30e0 (\u30a6\u30a9\u30c3\u30b7\u30e5\u30ed\u30c8\u30e0)",
