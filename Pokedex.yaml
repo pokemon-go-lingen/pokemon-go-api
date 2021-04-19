@@ -624,6 +624,20 @@ components:
             type: integer
         names:
           $ref: '#/components/schemas/Names'
+        battleResult:
+          type: object
+          properties:
+            easy:
+              $ref: '#/components/schemas/BattleResult'
+            normal:
+              $ref: '#/components/schemas/BattleResult'
+            hard:
+              $ref: '#/components/schemas/BattleResult'
+          additionalProperties: false
+          required:
+            - easy
+            - normal
+            - hard
       required:
         - id
         - form
@@ -636,3 +650,22 @@ components:
         - cpRange
         - cpRangeBoost
         - names
+        - battleResult
+
+    BattleResult:
+      type: object
+      properties:
+        name:
+          type: string
+        friendshipLevel:
+          type: integer
+        pokemonLevel:
+          type: integer
+        totalEstimator:
+          type: number
+      additionalProperties: false
+      required:
+        - name
+        - friendshipLevel
+        - pokemonLevel
+        - totalEstimator

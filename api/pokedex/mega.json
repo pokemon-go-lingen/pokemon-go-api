@@ -262,8 +262,8 @@
                     "French": "M\u00e9ga-Florizarre",
                     "Italian": "MegaVenusaur",
                     "Japanese": "\u30e1\u30ac\u30d5\u30b7\u30ae\u30d0\u30ca",
-                    "Korean": "Mega Venusaur",
-                    "Spanish": "Mega Venusaur"
+                    "Korean": "\uba54\uac00\uc774\uc0c1\ud574\uaf43",
+                    "Spanish": "Mega-Venusaur"
                 },
                 "stats": {
                     "stamina": 190,
@@ -717,8 +717,8 @@
                     "French": "M\u00e9ga-Dracaufeu X",
                     "Italian": "MegaCharizard X",
                     "Japanese": "\u30e1\u30ac\u30ea\u30b6\u30fc\u30c9\u30f3\uff38",
-                    "Korean": "Mega Charizard X",
-                    "Spanish": "Mega Charizard X"
+                    "Korean": "\uba54\uac00\ub9ac\uc790\ubabdX",
+                    "Spanish": "Mega-Charizard X"
                 },
                 "stats": {
                     "stamina": 186,
@@ -762,8 +762,8 @@
                     "French": "M\u00e9ga-Dracaufeu Y",
                     "Italian": "MegaCharizard Y",
                     "Japanese": "\u30e1\u30ac\u30ea\u30b6\u30fc\u30c9\u30f3\uff39",
-                    "Korean": "Mega Charizard Y",
-                    "Spanish": "Mega Charizard Y"
+                    "Korean": "\uba54\uac00\ub9ac\uc790\ubabdY",
+                    "Spanish": "Mega-Charizard Y"
                 },
                 "stats": {
                     "stamina": 186,
@@ -1209,8 +1209,8 @@
                     "French": "M\u00e9ga-Dracaufeu X",
                     "Italian": "MegaCharizard X",
                     "Japanese": "\u30e1\u30ac\u30ea\u30b6\u30fc\u30c9\u30f3\uff38",
-                    "Korean": "Mega Charizard X",
-                    "Spanish": "Mega Charizard X"
+                    "Korean": "\uba54\uac00\ub9ac\uc790\ubabdX",
+                    "Spanish": "Mega-Charizard X"
                 },
                 "stats": {
                     "stamina": 186,
@@ -1254,8 +1254,8 @@
                     "French": "M\u00e9ga-Dracaufeu Y",
                     "Italian": "MegaCharizard Y",
                     "Japanese": "\u30e1\u30ac\u30ea\u30b6\u30fc\u30c9\u30f3\uff39",
-                    "Korean": "Mega Charizard Y",
-                    "Spanish": "Mega Charizard Y"
+                    "Korean": "\uba54\uac00\ub9ac\uc790\ubabdY",
+                    "Spanish": "Mega-Charizard Y"
                 },
                 "stats": {
                     "stamina": 186,
@@ -1590,8 +1590,8 @@
                     "French": "M\u00e9ga-Tortank",
                     "Italian": "MegaBlastoise",
                     "Japanese": "\u30e1\u30ac\u30ab\u30e1\u30c3\u30af\u30b9",
-                    "Korean": "Mega Blastoise",
-                    "Spanish": "Mega Blastoise"
+                    "Korean": "\uba54\uac00\uac70\ubd81\uc655",
+                    "Spanish": "Mega-Blastoise"
                 },
                 "stats": {
                     "stamina": 188,
@@ -1964,8 +1964,8 @@
                     "French": "M\u00e9ga-Dardargnan",
                     "Italian": "MegaBeedrill",
                     "Japanese": "\u30e1\u30ac\u30b9\u30d4\u30a2\u30fc",
-                    "Korean": "Mega Beedrill",
-                    "Spanish": "Mega Beedrill"
+                    "Korean": "\uba54\uac00\ub3c5\uce68\ubd95",
+                    "Spanish": "Mega-Beedrill"
                 },
                 "stats": {
                     "stamina": 163,
@@ -2336,12 +2336,12 @@
                 "id": "PIDGEOT_MEGA",
                 "names": {
                     "English": "Mega Pidgeot",
-                    "German": "Mega Pidgeot",
+                    "German": "Mega-Tauboss",
                     "French": "M\u00e9ga-Roucarnage",
                     "Italian": "MegaPidgeot",
                     "Japanese": "\u30e1\u30ac\u30d4\u30b8\u30e7\u30c3\u30c8",
-                    "Korean": "Mega Pidgeot",
-                    "Spanish": "Mega Pidgeot"
+                    "Korean": "\uba54\uac00\ud53c\uc8e4\ud22c",
+                    "Spanish": "Mega-Pidgeot"
                 },
                 "stats": {
                     "stamina": 195,
@@ -2815,8 +2815,8 @@
                     "French": "M\u00e9ga-Ectoplasma",
                     "Italian": "MegaGengar",
                     "Japanese": "\u30e1\u30ac\u30b2\u30f3\u30ac\u30fc",
-                    "Korean": "Mega Gengar",
-                    "Spanish": "Mega Gengar"
+                    "Korean": "\uba54\uac00\ud32c\ud140",
+                    "Spanish": "Mega-Gengar"
                 },
                 "stats": {
                     "stamina": 155,
@@ -3260,8 +3260,8 @@
                     "French": "M\u00e9ga-L\u00e9viator",
                     "Italian": "MegaGyarados",
                     "Japanese": "\u30e1\u30ac\u30ae\u30e3\u30e9\u30c9\u30b9",
-                    "Korean": "Mega Gyarados",
-                    "Spanish": "Mega Gyarados"
+                    "Korean": "\uba54\uac00\uac38\ub77c\ub3c4\uc2a4",
+                    "Spanish": "Mega-Gyarados"
                 },
                 "stats": {
                     "stamina": 216,
@@ -3619,12 +3619,12 @@
                 "id": "AMPHAROS_MEGA",
                 "names": {
                     "English": "Mega Ampharos",
-                    "German": "Mega Ampharos",
+                    "German": "Mega-Ampharos",
                     "French": "M\u00e9ga-Pharamp",
                     "Italian": "MegaAmpharos",
                     "Japanese": "\u30e1\u30ac\u30c7\u30f3\u30ea\u30e5\u30a6",
-                    "Korean": "Mega Ampharos",
-                    "Spanish": "Mega Ampharos"
+                    "Korean": "\uba54\uac00\uc804\ub8e1",
+                    "Spanish": "Mega-Ampharos"
                 },
                 "stats": {
                     "stamina": 207,
@@ -3921,12 +3921,12 @@
                 "id": "HOUNDOOM_MEGA",
                 "names": {
                     "English": "Mega Houndoom",
-                    "German": "Mega Houndoom",
+                    "German": "Mega-Hundemon",
                     "French": "M\u00e9ga-D\u00e9molosse",
                     "Italian": "MegaHoundoom",
                     "Japanese": "\u30e1\u30ac\u30d8\u30eb\u30ac\u30fc",
-                    "Korean": "Mega Houndoom",
-                    "Spanish": "Mega Houndoom"
+                    "Korean": "\uba54\uac00\ud5ec\uac00",
+                    "Spanish": "Mega-Houndoom"
                 },
                 "stats": {
                     "stamina": 181,
@@ -4190,12 +4190,12 @@
                 "id": "MANECTRIC_MEGA",
                 "names": {
                     "English": "Mega Manectric",
-                    "German": "Mega Manectric",
+                    "German": "Mega-Voltenso",
                     "French": "M\u00e9ga-\u00c9lecsprint",
                     "Italian": "MegaManectric",
                     "Japanese": "\u30e1\u30ac\u30e9\u30a4\u30dc\u30eb\u30c8",
-                    "Korean": "Mega Manectric",
-                    "Spanish": "Mega Manectric"
+                    "Korean": "\uba54\uac00\uc36c\ub354\ubcfc\ud2b8",
+                    "Spanish": "Mega-Manectric"
                 },
                 "stats": {
                     "stamina": 172,
@@ -4437,12 +4437,12 @@
                 "id": "LOPUNNY_MEGA",
                 "names": {
                     "English": "Mega Lopunny",
-                    "German": "Mega Lopunny",
+                    "German": "Mega-Schlapor",
                     "French": "M\u00e9ga-Lockpin",
                     "Italian": "MegaLopunny",
                     "Japanese": "\u30e1\u30ac\u30df\u30df\u30ed\u30c3\u30d7",
-                    "Korean": "Mega Lopunny",
-                    "Spanish": "Mega Lopunny"
+                    "Korean": "\uba54\uac00\uc774\uc5b4\ub86d",
+                    "Spanish": "Mega-Lopunny"
                 },
                 "stats": {
                     "stamina": 163,
@@ -4745,12 +4745,12 @@
                 "id": "ABOMASNOW_MEGA",
                 "names": {
                     "English": "Mega Abomasnow",
-                    "German": "Mega Abomasnow",
+                    "German": "Mega-Rexblisar",
                     "French": "M\u00e9ga-Blizzaroi",
                     "Italian": "MegaAbomasnow",
                     "Japanese": "\u30e1\u30ac\u30e6\u30ad\u30ce\u30aa\u30fc",
-                    "Korean": "Mega Abomasnow",
-                    "Spanish": "Mega Abomasnow"
+                    "Korean": "\uba54\uac00\ub208\uc124\uc655",
+                    "Spanish": "Mega-Abomasnow"
                 },
                 "stats": {
                     "stamina": 207,

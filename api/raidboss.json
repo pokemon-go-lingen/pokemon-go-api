@@ -15,8 +15,8 @@
                     "French": "M\u00e9ga-Ectoplasma",
                     "Italian": "MegaGengar",
                     "Japanese": "\u30e1\u30ac\u30b2\u30f3\u30ac\u30fc",
-                    "Korean": "Mega Gengar",
-                    "Spanish": "Mega Gengar"
+                    "Korean": "\uba54\uac00\ud32c\ud140",
+                    "Spanish": "Mega-Gengar"
                 },
                 "shiny": true,
                 "types": [
@@ -40,7 +40,27 @@
                 "cpRangeBoost": [
                     1958,
                     2055
-                ]
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 3.9429035
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 2.6444826
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 2.274976
+                    }
+                }
             },
             {
                 "id": "MANECTRIC",
@@ -52,12 +72,12 @@
                 "level": "mega",
                 "names": {
                     "English": "Mega Manectric",
-                    "German": "Mega Manectric",
+                    "German": "Mega-Voltenso",
                     "French": "M\u00e9ga-\u00c9lecsprint",
                     "Italian": "MegaManectric",
                     "Japanese": "\u30e1\u30ac\u30e9\u30a4\u30dc\u30eb\u30c8",
-                    "Korean": "Mega Manectric",
-                    "Spanish": "Mega Manectric"
+                    "Korean": "\uba54\uac00\uc36c\ub354\ubcfc\ud2b8",
+                    "Spanish": "Mega-Manectric"
                 },
                 "shiny": true,
                 "types": [
@@ -76,7 +96,27 @@
                 "cpRangeBoost": [
                     1585,
                     1672
-                ]
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 3.4319928
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 2.3857422
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 2.093867
+                    }
+                }
             },
             {
                 "id": "LOPUNNY",
@@ -88,12 +128,12 @@
                 "level": "mega",
                 "names": {
                     "English": "Mega Lopunny",
-                    "German": "Mega Lopunny",
+                    "German": "Mega-Schlapor",
                     "French": "M\u00e9ga-Lockpin",
                     "Italian": "MegaLopunny",
                     "Japanese": "\u30e1\u30ac\u30df\u30df\u30ed\u30c3\u30d7",
-                    "Korean": "Mega Lopunny",
-                    "Spanish": "Mega Lopunny"
+                    "Korean": "\uba54\uac00\uc774\uc5b4\ub86d",
+                    "Spanish": "Mega-Lopunny"
                 },
                 "shiny": true,
                 "types": [
@@ -117,7 +157,27 @@
                 "cpRangeBoost": [
                     1391,
                     1471
-                ]
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 3.8826377
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 2.6583433
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 2.2712834
+                    }
+                }
             }
         ],
         "lvl5": [
@@ -158,7 +218,27 @@
                 "cpRangeBoost": [
                     2688,
                     2801
-                ]
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 2.944061
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 1.9176203
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 1.5815951
+                    }
+                }
             }
         ],
         "lvl3": [
@@ -199,7 +279,27 @@
                 "cpRangeBoost": [
                     1250,
                     1326
-                ]
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 0.7908326
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 0.55775267
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 0.49754012
+                    }
+                }
             },
             {
                 "id": "DONPHAN",
@@ -237,7 +337,27 @@
                 "cpRangeBoost": [
                     2055,
                     2152
-                ]
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 1.2153085
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 0.8764734
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 0.76156884
+                    }
+                }
             },
             {
                 "id": "WHISCASH",
@@ -275,7 +395,27 @@
                 "cpRangeBoost": [
                     1401,
                     1482
-                ]
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 0.62637347
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 0.44998527
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 0.4014136
+                    }
+                }
             },
             {
                 "id": "GLALIE",
@@ -314,7 +454,27 @@
                 "cpRangeBoost": [
                     1423,
                     1504
-                ]
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 0.94941086
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 0.67206734
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 0.60411656
+                    }
+                }
             },
             {
                 "id": "TORTERRA",
@@ -354,7 +514,27 @@
                 "cpRangeBoost": [
                     2000,
                     2096
-                ]
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 0.9039019
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 0.623827
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 0.54189557
+                    }
+                }
             }
         ],
         "lvl1": [
@@ -399,7 +579,27 @@
                 "cpRangeBoost": [
                     1384,
                     1465
-                ]
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 0.07533059
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 0.061361965
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 0.05504222
+                    }
+                }
             },
             {
                 "id": "SWINUB",
@@ -441,7 +641,27 @@
                 "cpRangeBoost": [
                     480,
                     529
-                ]
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 0.062072277
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 0.04318485
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 0.041472733
+                    }
+                }
             },
             {
                 "id": "DRILBUR",
@@ -479,7 +699,27 @@
                 "cpRangeBoost": [
                     916,
                     983
-                ]
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 0.07292788
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 0.059717122
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 0.05271684
+                    }
+                }
             },
             {
                 "id": "DUCKLETT",
@@ -518,7 +758,27 @@
                 "cpRangeBoost": [
                     559,
                     612
-                ]
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 0.05761671
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 0.041043404
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 0.036909137
+                    }
+                }
             },
             {
                 "id": "ESPURR",
@@ -556,7 +816,27 @@
                 "cpRangeBoost": [
                     837,
                     899
-                ]
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 0.095785685
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 0.073506825
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 0.0692481
+                    }
+                }
             }
         ]
     },
@@ -564,12 +844,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "e1bcffc10cc3276d1d2d4209c33b2cf7ca2244b5585451ef44e37755bab722ff02a61c487bd6ae15817d0ef2be5235ee821a409c2585e7d1a86c3a2920c2fb13"
+            "sha512": "3e34e95d4163761fc52982d42ce42334f7a8af5f78689217268aca0cce709f4b45ac8078eab2c1c17219c642ebc2ddf186a360946cada9b2b022c65c96516687"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "308b79294140b8cb141231078d6c98e83f5cb658b90d2db353dac22b2cb1b7bf7219f9c93f5f8d9898bf093afe42f7b0742a862aa8ec1156df2d1fe038b3e8fe"
+            "sha512": "00268555e471612a792a8d9373bc4b531dfb7615229cb434996d164121dc63f29ffebb243b66f84645ca8ae8aef09379b8f71af21ad1d63b0c458b184adfce90"
         }
     }
 }
