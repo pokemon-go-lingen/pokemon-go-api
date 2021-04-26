@@ -2,119 +2,63 @@
     "currentList": {
         "mega": [
             {
-                "id": "GENGAR",
-                "form": "GENGAR_MEGA",
+                "id": "VENUSAUR",
+                "form": "VENUSAUR_MEGA",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_094_51.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_094_51_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_003_51.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_003_51_shiny.png"
                 },
                 "level": "mega",
                 "names": {
-                    "English": "Mega Gengar",
-                    "German": "Mega-Gengar",
-                    "French": "M\u00e9ga-Ectoplasma",
-                    "Italian": "MegaGengar",
-                    "Japanese": "\u30e1\u30ac\u30b2\u30f3\u30ac\u30fc",
-                    "Korean": "\uba54\uac00\ud32c\ud140",
-                    "Spanish": "Mega-Gengar"
+                    "English": "Mega Venusaur",
+                    "German": "Mega-Bisaflor",
+                    "French": "M\u00e9ga-Florizarre",
+                    "Italian": "MegaVenusaur",
+                    "Japanese": "\u30e1\u30ac\u30d5\u30b7\u30ae\u30d0\u30ca",
+                    "Korean": "\uba54\uac00\uc774\uc0c1\ud574\uaf43",
+                    "Spanish": "Mega-Venusaur"
                 },
                 "shiny": true,
                 "types": [
-                    "Ghost",
+                    "Grass",
                     "Poison"
                 ],
                 "counter": {
-                    "Dark": 1.6,
-                    "Ghost": 1.6,
-                    "Ground": 1.6,
+                    "Fire": 1.6,
+                    "Flying": 1.6,
+                    "Ice": 1.6,
                     "Psychic": 1.6
                 },
                 "weather": [
-                    "cloudy",
-                    "fog"
+                    "sunny",
+                    "cloudy"
                 ],
                 "cpRange": [
-                    1566,
-                    1644
+                    1480,
+                    1554
                 ],
                 "cpRangeBoost": [
-                    1958,
-                    2055
+                    1851,
+                    1943
                 ],
                 "battleResult": {
                     "easy": {
                         "name": "easy",
                         "friendshipLevel": 0,
                         "pokemonLevel": 20,
-                        "totalEstimator": 3.9429035
+                        "totalEstimator": 3.9365819
                     },
                     "normal": {
                         "name": "normal",
                         "friendshipLevel": 3,
                         "pokemonLevel": 30,
-                        "totalEstimator": 2.6444826
+                        "totalEstimator": 2.8169613
                     },
                     "hard": {
                         "name": "hard",
                         "friendshipLevel": 4,
                         "pokemonLevel": 40,
-                        "totalEstimator": 2.274976
-                    }
-                }
-            },
-            {
-                "id": "MANECTRIC",
-                "form": "MANECTRIC_MEGA",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_310_51.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_310_51_shiny.png"
-                },
-                "level": "mega",
-                "names": {
-                    "English": "Mega Manectric",
-                    "German": "Mega-Voltenso",
-                    "French": "M\u00e9ga-\u00c9lecsprint",
-                    "Italian": "MegaManectric",
-                    "Japanese": "\u30e1\u30ac\u30e9\u30a4\u30dc\u30eb\u30c8",
-                    "Korean": "\uba54\uac00\uc36c\ub354\ubcfc\ud2b8",
-                    "Spanish": "Mega-Manectric"
-                },
-                "shiny": true,
-                "types": [
-                    "Electric"
-                ],
-                "counter": {
-                    "Ground": 1.6
-                },
-                "weather": [
-                    "rain"
-                ],
-                "cpRange": [
-                    1267,
-                    1337
-                ],
-                "cpRangeBoost": [
-                    1585,
-                    1672
-                ],
-                "battleResult": {
-                    "easy": {
-                        "name": "easy",
-                        "friendshipLevel": 0,
-                        "pokemonLevel": 20,
-                        "totalEstimator": 3.4319928
-                    },
-                    "normal": {
-                        "name": "normal",
-                        "friendshipLevel": 3,
-                        "pokemonLevel": 30,
-                        "totalEstimator": 2.3857422
-                    },
-                    "hard": {
-                        "name": "hard",
-                        "friendshipLevel": 4,
-                        "pokemonLevel": 40,
-                        "totalEstimator": 2.093867
+                        "totalEstimator": 2.4500687
                     }
                 }
             },
@@ -176,6 +120,70 @@
                         "friendshipLevel": 4,
                         "pokemonLevel": 40,
                         "totalEstimator": 2.2712834
+                    }
+                }
+            },
+            {
+                "id": "ABOMASNOW",
+                "form": "ABOMASNOW_MEGA",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_460_51.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_460_51_shiny.png"
+                },
+                "level": "mega",
+                "names": {
+                    "English": "Mega Abomasnow",
+                    "German": "Mega-Rexblisar",
+                    "French": "M\u00e9ga-Blizzaroi",
+                    "Italian": "MegaAbomasnow",
+                    "Japanese": "\u30e1\u30ac\u30e6\u30ad\u30ce\u30aa\u30fc",
+                    "Korean": "\uba54\uac00\ub208\uc124\uc655",
+                    "Spanish": "Mega-Abomasnow"
+                },
+                "shiny": true,
+                "types": [
+                    "Grass",
+                    "Ice"
+                ],
+                "counter": {
+                    "Fire": 2.56,
+                    "Bug": 1.6,
+                    "Fighting": 1.6,
+                    "Flying": 1.6,
+                    "Poison": 1.6,
+                    "Rock": 1.6,
+                    "Steel": 1.6
+                },
+                "weather": [
+                    "sunny",
+                    "snow"
+                ],
+                "cpRange": [
+                    1281,
+                    1349
+                ],
+                "cpRangeBoost": [
+                    1601,
+                    1687
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 2.1929624
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 1.4790624
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 1.3127627
                     }
                 }
             }
@@ -844,12 +852,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "3e34e95d4163761fc52982d42ce42334f7a8af5f78689217268aca0cce709f4b45ac8078eab2c1c17219c642ebc2ddf186a360946cada9b2b022c65c96516687"
+            "sha512": "008529004e9e7dff810f48c5c28ab0494c18e6e8aa469810b3967670d256ae5932db84bf3aeda662c3c97c462a29587a36464278302bdd8eafa0b3d63f2c6215"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "00268555e471612a792a8d9373bc4b531dfb7615229cb434996d164121dc63f29ffebb243b66f84645ca8ae8aef09379b8f71af21ad1d63b0c458b184adfce90"
+            "sha512": "04d81d32e831dfde42bbe2c5869d14b1727b5756f9b80b4e48c7f9a8fadc04922077cb1242ec40787161632233355846839c445bbf01b98fa9accfff9a84341f"
         }
     }
 }
