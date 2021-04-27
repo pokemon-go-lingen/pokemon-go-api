@@ -308,65 +308,6 @@
             },
             {
                 "id": "LANDORUS",
-                "form": "LANDORUS_THERIAN",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_645_12.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_645_12_shiny.png"
-                },
-                "level": "lvl5",
-                "names": {
-                    "English": "Landorus (Therian Forme)",
-                    "German": "Demeteros (Tiergeistform)",
-                    "French": "D\u00e9m\u00e9t\u00e9ros (Forme Tot\u00e9mique)",
-                    "Italian": "Landorus (Forma Totem)",
-                    "Japanese": "\u30e9\u30f3\u30c9\u30ed\u30b9 (\u308c\u3044\u3058\u3085\u3046\u30d5\u30a9\u30eb\u30e0)",
-                    "Korean": "\ub79c\ub4dc\ub85c\uc2a4 (\uc601\ubb3c\ud3fc)",
-                    "Spanish": "Landorus (Forma T\u00f3tem)"
-                },
-                "shiny": false,
-                "types": [
-                    "Ground",
-                    "Flying"
-                ],
-                "counter": {
-                    "Ice": 2.56,
-                    "Water": 1.6
-                },
-                "weather": [
-                    "sunny",
-                    "windy"
-                ],
-                "cpRange": [
-                    2151,
-                    2241
-                ],
-                "cpRangeBoost": [
-                    2688,
-                    2801
-                ],
-                "battleResult": {
-                    "easy": {
-                        "name": "easy",
-                        "friendshipLevel": 0,
-                        "pokemonLevel": 20,
-                        "totalEstimator": 2.944061
-                    },
-                    "normal": {
-                        "name": "normal",
-                        "friendshipLevel": 3,
-                        "pokemonLevel": 30,
-                        "totalEstimator": 1.9176203
-                    },
-                    "hard": {
-                        "name": "hard",
-                        "friendshipLevel": 4,
-                        "pokemonLevel": 40,
-                        "totalEstimator": 1.5815951
-                    }
-                }
-            },
-            {
-                "id": "LANDORUS",
                 "form": "LANDORUS_INCARNATE",
                 "assets": {
                     "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_645_11.png",
@@ -1030,12 +971,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "496bb0c883c763c1ace88c010648ab25f0ad872a8f5050077ea56269971440ec391a873bda4d371e4b82a52c1739a6427a8735bd7682cdf7ccbbb4405a6aa99d"
+            "sha512": "2871fc77f133ea10d7cf4eab4d1880d063902f1d3d513bb223d2f84d57492c42966e709c5d6304cf7451b38465f2f65f9664d21af76a13b5c6906c7b20bdb86a"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "9f6d84a445491b7790fd4fe0cdb1536ba12fbe47df3e73c56ed2660ea29fa3a7c88ed77f6fc404de803b4e9d5f4581b830ee6491e675d380a84ebd678a23da99"
+            "sha512": "8dc6fa50a65c094082add78939747774670251c1bdaf73f663c777b68ed2bc4e595f6c7d57f7b25d12afd6c8b44794556a9fe4745f9c5b835998ae7a122bd7bf"
         }
     }
 }
