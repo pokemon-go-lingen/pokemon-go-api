@@ -13,9 +13,9 @@
         "Spanish": "Xerneas"
     },
     "stats": {
-        "stamina": 270,
-        "attack": 275,
-        "defense": 203
+        "stamina": 246,
+        "attack": 250,
+        "defense": 185
     },
     "primaryType": {
         "type": "POKEMON_TYPE_FAIRY",
