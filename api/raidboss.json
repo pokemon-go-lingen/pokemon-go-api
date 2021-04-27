@@ -190,6 +190,123 @@
         ],
         "lvl5": [
             {
+                "id": "TORNADUS",
+                "form": "TORNADUS_INCARNATE",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_641_11.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_641_11_shiny.png"
+                },
+                "level": "lvl5",
+                "names": {
+                    "English": "Tornadus (Incarnate Forme)",
+                    "German": "Boreos (Inkarnationsform)",
+                    "French": "Bor\u00e9as (Forme Avatar)",
+                    "Italian": "Tornadus (Forma Incarnazione)",
+                    "Japanese": "\u30c8\u30eb\u30cd\u30ed\u30b9 (\u3051\u3057\u3093\u30d5\u30a9\u30eb\u30e0)",
+                    "Korean": "\ud1a0\ub124\ub85c\uc2a4 (\ud654\uc2e0\ud3fc)",
+                    "Spanish": "Tornadus (Forma Avatar)"
+                },
+                "shiny": true,
+                "types": [
+                    "Flying"
+                ],
+                "counter": {
+                    "Electric": 1.6,
+                    "Ice": 1.6,
+                    "Rock": 1.6
+                },
+                "weather": [
+                    "windy"
+                ],
+                "cpRange": [
+                    1828,
+                    1911
+                ],
+                "cpRangeBoost": [
+                    2285,
+                    2389
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 3.1298227
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 2.1141527
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 1.8429443
+                    }
+                }
+            },
+            {
+                "id": "THUNDURUS",
+                "form": "THUNDURUS_INCARNATE",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_642_11.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_642_11_shiny.png"
+                },
+                "level": "lvl5",
+                "names": {
+                    "English": "Thundurus (Incarnate Forme)",
+                    "German": "Voltolos (Inkarnationsform)",
+                    "French": "Fulguris (Forme Avatar)",
+                    "Italian": "Thundurus (Forma Incarnazione)",
+                    "Japanese": "\u30dc\u30eb\u30c8\u30ed\u30b9 (\u3051\u3057\u3093\u30d5\u30a9\u30eb\u30e0)",
+                    "Korean": "\ubcfc\ud2b8\ub85c\uc2a4 (\ud654\uc2e0\ud3fc)",
+                    "Spanish": "Thundurus (Forma Avatar)"
+                },
+                "shiny": true,
+                "types": [
+                    "Electric",
+                    "Flying"
+                ],
+                "counter": {
+                    "Ice": 1.6,
+                    "Rock": 1.6
+                },
+                "weather": [
+                    "rain",
+                    "windy"
+                ],
+                "cpRange": [
+                    1828,
+                    1911
+                ],
+                "cpRangeBoost": [
+                    2285,
+                    2389
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 3.0817363
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 2.1301796
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 1.855533
+                    }
+                }
+            },
+            {
                 "id": "LANDORUS",
                 "form": "LANDORUS_THERIAN",
                 "assets": {
@@ -247,9 +364,131 @@
                         "totalEstimator": 1.5815951
                     }
                 }
+            },
+            {
+                "id": "LANDORUS",
+                "form": "LANDORUS_INCARNATE",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_645_11.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_645_11_shiny.png"
+                },
+                "level": "lvl5",
+                "names": {
+                    "English": "Landorus (Incarnate Forme)",
+                    "German": "Demeteros (Inkarnationsform)",
+                    "French": "D\u00e9m\u00e9t\u00e9ros (Forme Avatar)",
+                    "Italian": "Landorus (Forma Incarnazione)",
+                    "Japanese": "\u30e9\u30f3\u30c9\u30ed\u30b9 (\u3051\u3057\u3093\u30d5\u30a9\u30eb\u30e0)",
+                    "Korean": "\ub79c\ub4dc\ub85c\uc2a4 (\ud654\uc2e0\ud3fc)",
+                    "Spanish": "Landorus (Forma Avatar)"
+                },
+                "shiny": true,
+                "types": [
+                    "Ground",
+                    "Flying"
+                ],
+                "counter": {
+                    "Ice": 2.56,
+                    "Water": 1.6
+                },
+                "weather": [
+                    "sunny",
+                    "windy"
+                ],
+                "cpRange": [
+                    1965,
+                    2050
+                ],
+                "cpRangeBoost": [
+                    2456,
+                    2563
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 2.8956187
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 1.832198
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 1.5841746
+                    }
+                }
             }
         ],
         "lvl3": [
+            {
+                "id": "GOLEM",
+                "form": "GOLEM",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_076_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_076_00_shiny.png"
+                },
+                "level": "lvl3",
+                "names": {
+                    "English": "Golem",
+                    "German": "Geowaz",
+                    "French": "Grolem",
+                    "Italian": "Golem",
+                    "Japanese": "\u30b4\u30ed\u30fc\u30cb\u30e3",
+                    "Korean": "\ub531\uad6c\ub9ac",
+                    "Spanish": "Golem"
+                },
+                "shiny": false,
+                "types": [
+                    "Rock",
+                    "Ground"
+                ],
+                "counter": {
+                    "Grass": 2.56,
+                    "Water": 2.56,
+                    "Fighting": 1.6,
+                    "Ground": 1.6,
+                    "Ice": 1.6,
+                    "Steel": 1.6
+                },
+                "weather": [
+                    "sunny",
+                    "partlycloudy_day"
+                ],
+                "cpRange": [
+                    1608,
+                    1685
+                ],
+                "cpRangeBoost": [
+                    2010,
+                    2106
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 0.8347021
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 0.5948869
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 0.5247974
+                    }
+                }
+            },
             {
                 "id": "GLIGAR",
                 "form": "GLIGAR",
@@ -310,118 +549,62 @@
                 }
             },
             {
-                "id": "DONPHAN",
-                "form": "DONPHAN",
+                "id": "SWELLOW",
+                "form": "SWELLOW",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_232_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_232_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_277_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_277_00_shiny.png"
                 },
                 "level": "lvl3",
                 "names": {
-                    "English": "Donphan",
-                    "German": "Donphan",
-                    "French": "Donphan",
-                    "Italian": "Donphan",
-                    "Japanese": "\u30c9\u30f3\u30d5\u30a1\u30f3",
-                    "Korean": "\ucf54\ub9ac\uac11",
-                    "Spanish": "Donphan"
+                    "English": "Swellow",
+                    "German": "Schwalboss",
+                    "French": "H\u00e9l\u00e9delle",
+                    "Italian": "Swellow",
+                    "Japanese": "\u30aa\u30aa\u30b9\u30d0\u30e1",
+                    "Korean": "\uc2a4\uc648\ub85c",
+                    "Spanish": "Swellow"
                 },
                 "shiny": false,
                 "types": [
-                    "Ground"
+                    "Normal",
+                    "Flying"
                 ],
                 "counter": {
-                    "Grass": 1.6,
+                    "Electric": 1.6,
                     "Ice": 1.6,
-                    "Water": 1.6
+                    "Rock": 1.6
                 },
                 "weather": [
-                    "sunny"
+                    "partlycloudy_day",
+                    "windy"
                 ],
                 "cpRange": [
-                    1644,
-                    1722
+                    1034,
+                    1097
                 ],
                 "cpRangeBoost": [
-                    2055,
-                    2152
+                    1293,
+                    1371
                 ],
                 "battleResult": {
                     "easy": {
                         "name": "easy",
                         "friendshipLevel": 0,
                         "pokemonLevel": 20,
-                        "totalEstimator": 1.2153085
+                        "totalEstimator": 0.75492954
                     },
                     "normal": {
                         "name": "normal",
                         "friendshipLevel": 3,
                         "pokemonLevel": 30,
-                        "totalEstimator": 0.8764734
+                        "totalEstimator": 0.54881537
                     },
                     "hard": {
                         "name": "hard",
                         "friendshipLevel": 4,
                         "pokemonLevel": 40,
-                        "totalEstimator": 0.76156884
-                    }
-                }
-            },
-            {
-                "id": "WHISCASH",
-                "form": "WHISCASH",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_340_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_340_00_shiny.png"
-                },
-                "level": "lvl3",
-                "names": {
-                    "English": "Whiscash",
-                    "German": "Welsar",
-                    "French": "Barbicha",
-                    "Italian": "Whiscash",
-                    "Japanese": "\u30ca\u30de\u30ba\u30f3",
-                    "Korean": "\uba54\uae45",
-                    "Spanish": "Whiscash"
-                },
-                "shiny": false,
-                "types": [
-                    "Water",
-                    "Ground"
-                ],
-                "counter": {
-                    "Grass": 2.56
-                },
-                "weather": [
-                    "sunny",
-                    "rain"
-                ],
-                "cpRange": [
-                    1120,
-                    1186
-                ],
-                "cpRangeBoost": [
-                    1401,
-                    1482
-                ],
-                "battleResult": {
-                    "easy": {
-                        "name": "easy",
-                        "friendshipLevel": 0,
-                        "pokemonLevel": 20,
-                        "totalEstimator": 0.62637347
-                    },
-                    "normal": {
-                        "name": "normal",
-                        "friendshipLevel": 3,
-                        "pokemonLevel": 30,
-                        "totalEstimator": 0.44998527
-                    },
-                    "hard": {
-                        "name": "hard",
-                        "friendshipLevel": 4,
-                        "pokemonLevel": 40,
-                        "totalEstimator": 0.4014136
+                        "totalEstimator": 0.49103427
                     }
                 }
             },
@@ -485,130 +668,68 @@
                 }
             },
             {
-                "id": "TORTERRA",
-                "form": "TORTERRA",
+                "id": "STUNFISK",
+                "form": "STUNFISK",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_389_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_389_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_618_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_618_00_shiny.png"
                 },
                 "level": "lvl3",
                 "names": {
-                    "English": "Torterra",
-                    "German": "Chelterrar",
-                    "French": "Torterra",
-                    "Italian": "Torterra",
-                    "Japanese": "\u30c9\u30c0\u30a4\u30c8\u30b9",
-                    "Korean": "\ud1a0\ub300\ubd80\uae30",
-                    "Spanish": "Torterra"
+                    "English": "Stunfisk",
+                    "German": "Flunschlik",
+                    "French": "Limonde",
+                    "Italian": "Stunfisk",
+                    "Japanese": "\u30de\u30c3\u30ae\u30e7",
+                    "Korean": "\uba54\ub354",
+                    "Spanish": "Stunfisk"
                 },
                 "shiny": false,
                 "types": [
-                    "Grass",
-                    "Ground"
+                    "Ground",
+                    "Electric"
                 ],
                 "counter": {
-                    "Ice": 2.56,
-                    "Bug": 1.6,
-                    "Fire": 1.6,
-                    "Flying": 1.6
+                    "Grass": 1.6,
+                    "Ground": 1.6,
+                    "Ice": 1.6,
+                    "Water": 1.6
                 },
                 "weather": [
-                    "sunny"
+                    "sunny",
+                    "rain"
                 ],
                 "cpRange": [
-                    1600,
-                    1677
+                    1169,
+                    1235
                 ],
                 "cpRangeBoost": [
-                    2000,
-                    2096
+                    1461,
+                    1544
                 ],
                 "battleResult": {
                     "easy": {
                         "name": "easy",
                         "friendshipLevel": 0,
                         "pokemonLevel": 20,
-                        "totalEstimator": 0.9039019
+                        "totalEstimator": 1.0364252
                     },
                     "normal": {
                         "name": "normal",
                         "friendshipLevel": 3,
                         "pokemonLevel": 30,
-                        "totalEstimator": 0.623827
+                        "totalEstimator": 0.74775916
                     },
                     "hard": {
                         "name": "hard",
                         "friendshipLevel": 4,
                         "pokemonLevel": 40,
-                        "totalEstimator": 0.54189557
+                        "totalEstimator": 0.66634786
                     }
                 }
             }
         ],
         "lvl1": [
-            {
-                "id": "SNEASEL",
-                "form": "SNEASEL",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_215_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_215_00_shiny.png"
-                },
-                "level": "lvl1",
-                "names": {
-                    "English": "Sneasel",
-                    "German": "Sniebel",
-                    "French": "Farfuret",
-                    "Italian": "Sneasel",
-                    "Japanese": "\u30cb\u30e5\u30fc\u30e9",
-                    "Korean": "\ud3ec\ud478\ub2c8",
-                    "Spanish": "Sneasel"
-                },
-                "shiny": true,
-                "types": [
-                    "Dark",
-                    "Ice"
-                ],
-                "counter": {
-                    "Fighting": 2.56,
-                    "Bug": 1.6,
-                    "Fairy": 1.6,
-                    "Fire": 1.6,
-                    "Rock": 1.6,
-                    "Steel": 1.6
-                },
-                "weather": [
-                    "snow",
-                    "fog"
-                ],
-                "cpRange": [
-                    1107,
-                    1172
-                ],
-                "cpRangeBoost": [
-                    1384,
-                    1465
-                ],
-                "battleResult": {
-                    "easy": {
-                        "name": "easy",
-                        "friendshipLevel": 0,
-                        "pokemonLevel": 20,
-                        "totalEstimator": 0.07533059
-                    },
-                    "normal": {
-                        "name": "normal",
-                        "friendshipLevel": 3,
-                        "pokemonLevel": 30,
-                        "totalEstimator": 0.061361965
-                    },
-                    "hard": {
-                        "name": "hard",
-                        "friendshipLevel": 4,
-                        "pokemonLevel": 40,
-                        "totalEstimator": 0.05504222
-                    }
-                }
-            },
             {
                 "id": "SWINUB",
                 "form": "SWINUB",
@@ -672,6 +793,122 @@
                 }
             },
             {
+                "id": "ELECTRIKE",
+                "form": "ELECTRIKE",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_309_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_309_00_shiny.png"
+                },
+                "level": "lvl1",
+                "names": {
+                    "English": "Electrike",
+                    "German": "Frizelbliz",
+                    "French": "Dynavolt",
+                    "Italian": "Electrike",
+                    "Japanese": "\u30e9\u30af\u30e9\u30a4",
+                    "Korean": "\uc36c\ub354\ub77c\uc774",
+                    "Spanish": "Electrike"
+                },
+                "shiny": true,
+                "types": [
+                    "Electric"
+                ],
+                "counter": {
+                    "Ground": 1.6
+                },
+                "weather": [
+                    "rain"
+                ],
+                "cpRange": [
+                    507,
+                    551
+                ],
+                "cpRangeBoost": [
+                    634,
+                    689
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 0.06926169
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 0.061371695
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 0.055566218
+                    }
+                }
+            },
+            {
+                "id": "PIDOVE",
+                "form": "PIDOVE",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_519_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_519_00_shiny.png"
+                },
+                "level": "lvl1",
+                "names": {
+                    "English": "Pidove",
+                    "German": "Dusselgurr",
+                    "French": "Poichigeon",
+                    "Italian": "Pidove",
+                    "Japanese": "\u30de\u30e1\u30d1\u30c8",
+                    "Korean": "\ucf69\ub458\uae30",
+                    "Spanish": "Pidove"
+                },
+                "shiny": true,
+                "types": [
+                    "Normal",
+                    "Flying"
+                ],
+                "counter": {
+                    "Electric": 1.6,
+                    "Ice": 1.6,
+                    "Rock": 1.6
+                },
+                "weather": [
+                    "partlycloudy_day",
+                    "windy"
+                ],
+                "cpRange": [
+                    443,
+                    484
+                ],
+                "cpRangeBoost": [
+                    554,
+                    605
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 0.06663035
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 0.055249
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 0.05159253
+                    }
+                }
+            },
+            {
                 "id": "DRILBUR",
                 "form": "DRILBUR",
                 "assets": {
@@ -730,119 +967,60 @@
                 }
             },
             {
-                "id": "DUCKLETT",
-                "form": "DUCKLETT",
+                "id": "KLINK",
+                "form": "KLINK",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_580_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_580_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_599_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_599_00_shiny.png"
                 },
                 "level": "lvl1",
                 "names": {
-                    "English": "Ducklett",
-                    "German": "Piccolente",
-                    "French": "Couaneton",
-                    "Italian": "Ducklett",
-                    "Japanese": "\u30b3\u30a2\u30eb\u30d2\u30fc",
-                    "Korean": "\uaf2c\uc9c0\ubcf4\ub9ac",
-                    "Spanish": "Ducklett"
+                    "English": "Klink",
+                    "German": "Klikk",
+                    "French": "Tic",
+                    "Italian": "Klink",
+                    "Japanese": "\u30ae\u30a2\u30eb",
+                    "Korean": "\uae30\uc5b4\ub974",
+                    "Spanish": "Klink"
                 },
-                "shiny": false,
+                "shiny": true,
                 "types": [
-                    "Water",
-                    "Flying"
+                    "Steel"
                 ],
                 "counter": {
-                    "Electric": 2.56,
-                    "Rock": 1.6
+                    "Fighting": 1.6,
+                    "Fire": 1.6,
+                    "Ground": 1.6
                 },
                 "weather": [
-                    "rain",
-                    "windy"
+                    "snow"
                 ],
                 "cpRange": [
-                    447,
-                    489
+                    502,
+                    546
                 ],
                 "cpRangeBoost": [
-                    559,
-                    612
+                    628,
+                    683
                 ],
                 "battleResult": {
                     "easy": {
                         "name": "easy",
                         "friendshipLevel": 0,
                         "pokemonLevel": 20,
-                        "totalEstimator": 0.05761671
+                        "totalEstimator": 0.08942933
                     },
                     "normal": {
                         "name": "normal",
                         "friendshipLevel": 3,
                         "pokemonLevel": 30,
-                        "totalEstimator": 0.041043404
+                        "totalEstimator": 0.07377521
                     },
                     "hard": {
                         "name": "hard",
                         "friendshipLevel": 4,
                         "pokemonLevel": 40,
-                        "totalEstimator": 0.036909137
-                    }
-                }
-            },
-            {
-                "id": "ESPURR",
-                "form": "ESPURR",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_677_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_677_00_shiny.png"
-                },
-                "level": "lvl1",
-                "names": {
-                    "English": "Espurr",
-                    "German": "Psiau",
-                    "French": "Psystigri",
-                    "Italian": "Espurr",
-                    "Japanese": "\u30cb\u30e3\u30b9\u30d1\u30fc",
-                    "Korean": "\ub0d0\uc2a4\ud37c",
-                    "Spanish": "Espurr"
-                },
-                "shiny": false,
-                "types": [
-                    "Psychic"
-                ],
-                "counter": {
-                    "Bug": 1.6,
-                    "Dark": 1.6,
-                    "Ghost": 1.6
-                },
-                "weather": [
-                    "windy"
-                ],
-                "cpRange": [
-                    669,
-                    719
-                ],
-                "cpRangeBoost": [
-                    837,
-                    899
-                ],
-                "battleResult": {
-                    "easy": {
-                        "name": "easy",
-                        "friendshipLevel": 0,
-                        "pokemonLevel": 20,
-                        "totalEstimator": 0.095785685
-                    },
-                    "normal": {
-                        "name": "normal",
-                        "friendshipLevel": 3,
-                        "pokemonLevel": 30,
-                        "totalEstimator": 0.073506825
-                    },
-                    "hard": {
-                        "name": "hard",
-                        "friendshipLevel": 4,
-                        "pokemonLevel": 40,
-                        "totalEstimator": 0.0692481
+                        "totalEstimator": 0.068874635
                     }
                 }
             }
@@ -852,12 +1030,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "008529004e9e7dff810f48c5c28ab0494c18e6e8aa469810b3967670d256ae5932db84bf3aeda662c3c97c462a29587a36464278302bdd8eafa0b3d63f2c6215"
+            "sha512": "496bb0c883c763c1ace88c010648ab25f0ad872a8f5050077ea56269971440ec391a873bda4d371e4b82a52c1739a6427a8735bd7682cdf7ccbbb4405a6aa99d"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "04d81d32e831dfde42bbe2c5869d14b1727b5756f9b80b4e48c7f9a8fadc04922077cb1242ec40787161632233355846839c445bbf01b98fa9accfff9a84341f"
+            "sha512": "9f6d84a445491b7790fd4fe0cdb1536ba12fbe47df3e73c56ed2660ea29fa3a7c88ed77f6fc404de803b4e9d5f4581b830ee6491e675d380a84ebd678a23da99"
         }
     }
 }
