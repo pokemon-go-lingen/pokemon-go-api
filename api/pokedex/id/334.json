@@ -217,7 +217,53 @@
         "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_334_00_shiny.png"
     },
     "regionForms": [],
-    "hasMegaEvolution": false,
-    "megaEvolutions": [],
+    "hasMegaEvolution": true,
+    "megaEvolutions": {
+        "ALTARIA_MEGA": {
+            "id": "ALTARIA_MEGA",
+            "names": {
+                "English": "Mega Altaria",
+                "German": "Mega-Altaria",
+                "French": "M\u00e9ga-Altaria",
+                "Italian": "MegaAltaria",
+                "Japanese": "\u30e1\u30ac\u30c1\u30eb\u30bf\u30ea\u30b9",
+                "Korean": "\uba54\uac00\ud30c\ube44\ucf54\ub9ac",
+                "Spanish": "Mega-Altaria"
+            },
+            "stats": {
+                "stamina": 181,
+                "attack": 222,
+                "defense": 218
+            },
+            "primaryType": {
+                "type": "POKEMON_TYPE_DRAGON",
+                "names": {
+                    "English": "Dragon",
+                    "German": "Drache",
+                    "French": "Dragon",
+                    "Italian": "Drago",
+                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                    "Korean": "\ub4dc\ub798\uace4",
+                    "Spanish": "Drag\u00f3n"
+                }
+            },
+            "secondaryType": {
+                "type": "POKEMON_TYPE_FAIRY",
+                "names": {
+                    "English": "Fairy",
+                    "German": "Fee",
+                    "French": "F\u00e9e",
+                    "Italian": "Folletto",
+                    "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                    "Korean": "\ud398\uc5b4\ub9ac",
+                    "Spanish": "Hada"
+                }
+            },
+            "assets": {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_334_51.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_334_51_shiny.png"
+            }
+        }
+    },
     "assetForms": []
 }

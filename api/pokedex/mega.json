@@ -4224,6 +4224,275 @@
         "assetForms": []
     },
     {
+        "id": "ALTARIA",
+        "formId": "ALTARIA",
+        "dexNr": 334,
+        "generation": 3,
+        "names": {
+            "English": "Altaria",
+            "German": "Altaria",
+            "French": "Altaria",
+            "Italian": "Altaria",
+            "Japanese": "\u30c1\u30eb\u30bf\u30ea\u30b9",
+            "Korean": "\ud30c\ube44\ucf54\ub9ac",
+            "Spanish": "Altaria"
+        },
+        "stats": {
+            "stamina": 181,
+            "attack": 141,
+            "defense": 201
+        },
+        "primaryType": {
+            "type": "POKEMON_TYPE_DRAGON",
+            "names": {
+                "English": "Dragon",
+                "German": "Drache",
+                "French": "Dragon",
+                "Italian": "Drago",
+                "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                "Korean": "\ub4dc\ub798\uace4",
+                "Spanish": "Drag\u00f3n"
+            }
+        },
+        "secondaryType": {
+            "type": "POKEMON_TYPE_FLYING",
+            "names": {
+                "English": "Flying",
+                "German": "Flug",
+                "French": "Vol",
+                "Italian": "Volante",
+                "Japanese": "\u3072\u3053\u3046",
+                "Korean": "\ube44\ud589",
+                "Spanish": "Volador"
+            }
+        },
+        "quickMoves": {
+            "PECK_FAST": {
+                "id": "PECK_FAST",
+                "power": 10,
+                "energy": 10,
+                "durationMs": 1000,
+                "type": {
+                    "type": "POKEMON_TYPE_FLYING",
+                    "names": {
+                        "English": "Flying",
+                        "German": "Flug",
+                        "French": "Vol",
+                        "Italian": "Volante",
+                        "Japanese": "\u3072\u3053\u3046",
+                        "Korean": "\ube44\ud589",
+                        "Spanish": "Volador"
+                    }
+                },
+                "names": {
+                    "English": "Peck",
+                    "German": "Pikser",
+                    "French": "Picpic",
+                    "Italian": "Beccata",
+                    "Japanese": "\u3064\u3064\u304f",
+                    "Korean": "\ucabc\uae30",
+                    "Spanish": "Picotazo"
+                },
+                "combat": {
+                    "energy": 5,
+                    "power": 6,
+                    "turns": 2,
+                    "buffs": null
+                }
+            },
+            "DRAGON_BREATH_FAST": {
+                "id": "DRAGON_BREATH_FAST",
+                "power": 6,
+                "energy": 4,
+                "durationMs": 500,
+                "type": {
+                    "type": "POKEMON_TYPE_DRAGON",
+                    "names": {
+                        "English": "Dragon",
+                        "German": "Drache",
+                        "French": "Dragon",
+                        "Italian": "Drago",
+                        "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                        "Korean": "\ub4dc\ub798\uace4",
+                        "Spanish": "Drag\u00f3n"
+                    }
+                },
+                "names": {
+                    "English": "Dragon Breath",
+                    "German": "Feuerodem",
+                    "French": "Draco-Souffle",
+                    "Italian": "Dragospiro",
+                    "Japanese": "\u308a\u3085\u3046\u306e\u3044\u3076\u304d",
+                    "Korean": "\uc6a9\uc758\uc228\uacb0",
+                    "Spanish": "Dragoaliento"
+                },
+                "combat": {
+                    "energy": 3,
+                    "power": 4,
+                    "turns": 1,
+                    "buffs": null
+                }
+            }
+        },
+        "cinematicMoves": {
+            "SKY_ATTACK": {
+                "id": "SKY_ATTACK",
+                "power": 80,
+                "energy": -50,
+                "durationMs": 2000,
+                "type": {
+                    "type": "POKEMON_TYPE_FLYING",
+                    "names": {
+                        "English": "Flying",
+                        "German": "Flug",
+                        "French": "Vol",
+                        "Italian": "Volante",
+                        "Japanese": "\u3072\u3053\u3046",
+                        "Korean": "\ube44\ud589",
+                        "Spanish": "Volador"
+                    }
+                },
+                "names": {
+                    "English": "Sky Attack",
+                    "German": "Himmelsfeger",
+                    "French": "Piqu\u00e9",
+                    "Italian": "Aeroattacco",
+                    "Japanese": "\u30b4\u30c3\u30c9\u30d0\u30fc\u30c9",
+                    "Korean": "\ubd88\uc0c8",
+                    "Spanish": "Ataque A\u00e9reo"
+                },
+                "combat": {
+                    "energy": -45,
+                    "power": 75,
+                    "turns": 1,
+                    "buffs": null
+                }
+            },
+            "DAZZLING_GLEAM": {
+                "id": "DAZZLING_GLEAM",
+                "power": 100,
+                "energy": -50,
+                "durationMs": 3500,
+                "type": {
+                    "type": "POKEMON_TYPE_FAIRY",
+                    "names": {
+                        "English": "Fairy",
+                        "German": "Fee",
+                        "French": "F\u00e9e",
+                        "Italian": "Folletto",
+                        "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                        "Korean": "\ud398\uc5b4\ub9ac",
+                        "Spanish": "Hada"
+                    }
+                },
+                "names": {
+                    "English": "Dazzling Gleam",
+                    "German": "Zauberschein",
+                    "French": "\u00c9clat Magique",
+                    "Italian": "Magibrillio",
+                    "Japanese": "\u30de\u30b8\u30ab\u30eb\u30b7\u30e3\u30a4\u30f3",
+                    "Korean": "\ub9e4\uc9c0\uceec\uc0e4\uc778",
+                    "Spanish": "Brillo M\u00e1gico"
+                },
+                "combat": {
+                    "energy": -70,
+                    "power": 110,
+                    "turns": 1,
+                    "buffs": null
+                }
+            },
+            "DRAGON_PULSE": {
+                "id": "DRAGON_PULSE",
+                "power": 90,
+                "energy": -50,
+                "durationMs": 3600,
+                "type": {
+                    "type": "POKEMON_TYPE_DRAGON",
+                    "names": {
+                        "English": "Dragon",
+                        "German": "Drache",
+                        "French": "Dragon",
+                        "Italian": "Drago",
+                        "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                        "Korean": "\ub4dc\ub798\uace4",
+                        "Spanish": "Drag\u00f3n"
+                    }
+                },
+                "names": {
+                    "English": "Dragon Pulse",
+                    "German": "Drachenpuls",
+                    "French": "Draco-Choc",
+                    "Italian": "Dragopulsar",
+                    "Japanese": "\u308a\u3085\u3046\u306e\u306f\u3069\u3046",
+                    "Korean": "\uc6a9\uc758\ud30c\ub3d9",
+                    "Spanish": "Pulso Drag\u00f3n"
+                },
+                "combat": {
+                    "energy": -60,
+                    "power": 90,
+                    "turns": 1,
+                    "buffs": null
+                }
+            }
+        },
+        "eliteQuickMoves": [],
+        "eliteCinematicMoves": [],
+        "assets": {
+            "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_334_00.png",
+            "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_334_00_shiny.png"
+        },
+        "regionForms": [],
+        "hasMegaEvolution": true,
+        "megaEvolutions": {
+            "ALTARIA_MEGA": {
+                "id": "ALTARIA_MEGA",
+                "names": {
+                    "English": "Mega Altaria",
+                    "German": "Mega-Altaria",
+                    "French": "M\u00e9ga-Altaria",
+                    "Italian": "MegaAltaria",
+                    "Japanese": "\u30e1\u30ac\u30c1\u30eb\u30bf\u30ea\u30b9",
+                    "Korean": "\uba54\uac00\ud30c\ube44\ucf54\ub9ac",
+                    "Spanish": "Mega-Altaria"
+                },
+                "stats": {
+                    "stamina": 181,
+                    "attack": 222,
+                    "defense": 218
+                },
+                "primaryType": {
+                    "type": "POKEMON_TYPE_DRAGON",
+                    "names": {
+                        "English": "Dragon",
+                        "German": "Drache",
+                        "French": "Dragon",
+                        "Italian": "Drago",
+                        "Japanese": "\u30c9\u30e9\u30b4\u30f3",
+                        "Korean": "\ub4dc\ub798\uace4",
+                        "Spanish": "Drag\u00f3n"
+                    }
+                },
+                "secondaryType": {
+                    "type": "POKEMON_TYPE_FAIRY",
+                    "names": {
+                        "English": "Fairy",
+                        "German": "Fee",
+                        "French": "F\u00e9e",
+                        "Italian": "Folletto",
+                        "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                        "Korean": "\ud398\uc5b4\ub9ac",
+                        "Spanish": "Hada"
+                    }
+                },
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_334_51.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_334_51_shiny.png"
+                }
+            }
+        },
+        "assetForms": []
+    },
+    {
         "id": "LOPUNNY",
         "formId": "LOPUNNY",
         "dexNr": 428,
