@@ -12,7 +12,11 @@
         "Korean": "\ud38c\ud0a8\uc778",
         "Spanish": "Gourgeist"
     },
-    "stats": null,
+    "stats": {
+        "stamina": 163,
+        "attack": 175,
+        "defense": 213
+    },
     "primaryType": {
         "type": "POKEMON_TYPE_GHOST",
         "names": {

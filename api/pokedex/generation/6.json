@@ -17195,7 +17195,11 @@
             "Korean": "\ud638\ubc14\uadc0",
             "Spanish": "Pumpkaboo"
         },
-        "stats": null,
+        "stats": {
+            "stamina": 135,
+            "attack": 121,
+            "defense": 123
+        },
         "primaryType": {
             "type": "POKEMON_TYPE_GHOST",
             "names": {
@@ -17447,7 +17451,11 @@
             "Korean": "\ud38c\ud0a8\uc778",
             "Spanish": "Gourgeist"
         },
-        "stats": null,
+        "stats": {
+            "stamina": 163,
+            "attack": 175,
+            "defense": 213
+        },
         "primaryType": {
             "type": "POKEMON_TYPE_GHOST",
             "names": {

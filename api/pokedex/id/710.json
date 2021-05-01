@@ -12,7 +12,11 @@
         "Korean": "\ud638\ubc14\uadc0",
         "Spanish": "Pumpkaboo"
     },
-    "stats": null,
+    "stats": {
+        "stamina": 135,
+        "attack": 121,
+        "defense": 123
+    },
     "primaryType": {
         "type": "POKEMON_TYPE_GHOST",
         "names": {
