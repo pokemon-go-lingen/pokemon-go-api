@@ -15004,7 +15004,12 @@
         "regionForms": [],
         "hasMegaEvolution": false,
         "megaEvolutions": [],
-        "assetForms": []
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_700_00_07.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_700_00_07_shiny.png"
+            }
+        ]
     },
     {
         "id": "HAWLUCHA",
