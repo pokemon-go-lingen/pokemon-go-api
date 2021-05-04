@@ -186,182 +186,6 @@
         ],
         "lvl5": [
             {
-                "id": "TORNADUS",
-                "form": "TORNADUS_INCARNATE",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_641_11.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_641_11_shiny.png"
-                },
-                "level": "lvl5",
-                "names": {
-                    "English": "Tornadus (Incarnate Forme)",
-                    "German": "Boreos (Inkarnationsform)",
-                    "French": "Bor\u00e9as (Forme Avatar)",
-                    "Italian": "Tornadus (Forma Incarnazione)",
-                    "Japanese": "\u30c8\u30eb\u30cd\u30ed\u30b9 (\u3051\u3057\u3093\u30d5\u30a9\u30eb\u30e0)",
-                    "Korean": "\ud1a0\ub124\ub85c\uc2a4 (\ud654\uc2e0\ud3fc)",
-                    "Spanish": "Tornadus (Forma Avatar)"
-                },
-                "shiny": true,
-                "types": [
-                    "Flying"
-                ],
-                "counter": {
-                    "Electric": 1.6,
-                    "Ice": 1.6,
-                    "Rock": 1.6
-                },
-                "weather": [
-                    "windy"
-                ],
-                "cpRange": [
-                    1828,
-                    1911
-                ],
-                "cpRangeBoost": [
-                    2285,
-                    2389
-                ],
-                "battleResult": {
-                    "easy": {
-                        "name": "easy",
-                        "friendshipLevel": 0,
-                        "pokemonLevel": 20,
-                        "totalEstimator": 3.1298227
-                    },
-                    "normal": {
-                        "name": "normal",
-                        "friendshipLevel": 3,
-                        "pokemonLevel": 30,
-                        "totalEstimator": 2.1141527
-                    },
-                    "hard": {
-                        "name": "hard",
-                        "friendshipLevel": 4,
-                        "pokemonLevel": 40,
-                        "totalEstimator": 1.8429443
-                    }
-                }
-            },
-            {
-                "id": "THUNDURUS",
-                "form": "THUNDURUS_INCARNATE",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_642_11.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_642_11_shiny.png"
-                },
-                "level": "lvl5",
-                "names": {
-                    "English": "Thundurus (Incarnate Forme)",
-                    "German": "Voltolos (Inkarnationsform)",
-                    "French": "Fulguris (Forme Avatar)",
-                    "Italian": "Thundurus (Forma Incarnazione)",
-                    "Japanese": "\u30dc\u30eb\u30c8\u30ed\u30b9 (\u3051\u3057\u3093\u30d5\u30a9\u30eb\u30e0)",
-                    "Korean": "\ubcfc\ud2b8\ub85c\uc2a4 (\ud654\uc2e0\ud3fc)",
-                    "Spanish": "Thundurus (Forma Avatar)"
-                },
-                "shiny": true,
-                "types": [
-                    "Electric",
-                    "Flying"
-                ],
-                "counter": {
-                    "Ice": 1.6,
-                    "Rock": 1.6
-                },
-                "weather": [
-                    "rain",
-                    "windy"
-                ],
-                "cpRange": [
-                    1828,
-                    1911
-                ],
-                "cpRangeBoost": [
-                    2285,
-                    2389
-                ],
-                "battleResult": {
-                    "easy": {
-                        "name": "easy",
-                        "friendshipLevel": 0,
-                        "pokemonLevel": 20,
-                        "totalEstimator": 3.0817363
-                    },
-                    "normal": {
-                        "name": "normal",
-                        "friendshipLevel": 3,
-                        "pokemonLevel": 30,
-                        "totalEstimator": 2.1301796
-                    },
-                    "hard": {
-                        "name": "hard",
-                        "friendshipLevel": 4,
-                        "pokemonLevel": 40,
-                        "totalEstimator": 1.855533
-                    }
-                }
-            },
-            {
-                "id": "LANDORUS",
-                "form": "LANDORUS_INCARNATE",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_645_11.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_645_11_shiny.png"
-                },
-                "level": "lvl5",
-                "names": {
-                    "English": "Landorus (Incarnate Forme)",
-                    "German": "Demeteros (Inkarnationsform)",
-                    "French": "D\u00e9m\u00e9t\u00e9ros (Forme Avatar)",
-                    "Italian": "Landorus (Forma Incarnazione)",
-                    "Japanese": "\u30e9\u30f3\u30c9\u30ed\u30b9 (\u3051\u3057\u3093\u30d5\u30a9\u30eb\u30e0)",
-                    "Korean": "\ub79c\ub4dc\ub85c\uc2a4 (\ud654\uc2e0\ud3fc)",
-                    "Spanish": "Landorus (Forma Avatar)"
-                },
-                "shiny": true,
-                "types": [
-                    "Ground",
-                    "Flying"
-                ],
-                "counter": {
-                    "Ice": 2.56,
-                    "Water": 1.6
-                },
-                "weather": [
-                    "sunny",
-                    "windy"
-                ],
-                "cpRange": [
-                    1965,
-                    2050
-                ],
-                "cpRangeBoost": [
-                    2456,
-                    2563
-                ],
-                "battleResult": {
-                    "easy": {
-                        "name": "easy",
-                        "friendshipLevel": 0,
-                        "pokemonLevel": 20,
-                        "totalEstimator": 2.8956187
-                    },
-                    "normal": {
-                        "name": "normal",
-                        "friendshipLevel": 3,
-                        "pokemonLevel": 30,
-                        "totalEstimator": 1.832198
-                    },
-                    "hard": {
-                        "name": "hard",
-                        "friendshipLevel": 4,
-                        "pokemonLevel": 40,
-                        "totalEstimator": 1.5841746
-                    }
-                }
-            },
-            {
                 "id": "XERNEAS",
                 "form": "XERNEAS",
                 "assets": {
@@ -964,12 +788,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "fd717fc0cd30f4a0f51a846ca6d9e059ea460c11dbe22526b663e15eb71d5768a286708a5b0c469d95250ca25880e552afa88cedf340532a8ef16d6f3cdb3d10"
+            "sha512": "bfad0e9f969af3ae2cc2ae9022c700739fae3f3e8d5f26a2575d32d47236811f3f8741cde8d11df1952ff8423270b71664cb9c41c7914356ddcfe7c2694d77b2"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "d9ae5f20ea089e4f6d9cbc70ec60615a069ac6bf70ed2f1edc649a4a50baf8e780efc604a8e99725f67d5d3d542d770cdddbcf5d9fba7888fae1130c85a8101d"
+            "sha512": "5db1ae573a05cc342c95f3faa38eb20d7a6cfd3f2c0c83343116798b9518ec1813e4feb017889bc9f05a1420aa4fb9e3a2ad1a6f69a03429644d07bd73382a07"
         }
     }
 }
