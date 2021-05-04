@@ -668,32 +668,32 @@
         "lvl1": [
             {
                 "id": "PONYTA",
-                "form": "PONYTA",
+                "form": "PONYTA_GALARIAN",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_077_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_077_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_077_31.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_077_31_shiny.png"
                 },
                 "level": "lvl1",
                 "names": {
-                    "English": "Ponyta",
-                    "German": "Ponita",
-                    "French": "Ponyta",
-                    "Italian": "Ponyta",
-                    "Japanese": "\u30dd\u30cb\u30fc\u30bf",
-                    "Korean": "\ud3ec\ub2c8\ud0c0",
-                    "Spanish": "Ponyta"
+                    "English": "Galarian Ponyta",
+                    "German": "Galar-Ponita",
+                    "French": "Ponyta de Galar",
+                    "Italian": "Ponyta di Galar",
+                    "Japanese": "\u30ac\u30e9\u30eb \u30dd\u30cb\u30fc\u30bf",
+                    "Korean": "\uac00\ub77c\ub974 \ud3ec\ub2c8\ud0c0",
+                    "Spanish": "Ponyta de Galar"
                 },
                 "shiny": false,
                 "types": [
-                    "Fire"
+                    "Psychic"
                 ],
                 "counter": {
-                    "Ground": 1.6,
-                    "Rock": 1.6,
-                    "Water": 1.6
+                    "Bug": 1.6,
+                    "Dark": 1.6,
+                    "Ghost": 1.6
                 },
                 "weather": [
-                    "sunny"
+                    "windy"
                 ],
                 "cpRange": [
                     911,
@@ -708,19 +708,19 @@
                         "name": "easy",
                         "friendshipLevel": 0,
                         "pokemonLevel": 20,
-                        "totalEstimator": 0.10012973
+                        "totalEstimator": 0.107692845
                     },
                     "normal": {
                         "name": "normal",
                         "friendshipLevel": 3,
                         "pokemonLevel": 30,
-                        "totalEstimator": 0.07839061
+                        "totalEstimator": 0.08096913
                     },
                     "hard": {
                         "name": "hard",
                         "friendshipLevel": 4,
                         "pokemonLevel": 40,
-                        "totalEstimator": 0.06906973
+                        "totalEstimator": 0.0712542
                     }
                 }
             },
@@ -964,12 +964,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "1fe25037ec759f77232f29e095312e40fe363fecd2e31d848eee58632f58867eab301af24a45060030c9a3b097255a7cdb7ca3d2638aa571b2420f5633ea2c80"
+            "sha512": "fd717fc0cd30f4a0f51a846ca6d9e059ea460c11dbe22526b663e15eb71d5768a286708a5b0c469d95250ca25880e552afa88cedf340532a8ef16d6f3cdb3d10"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "1bfbff9ec78c86ec9c86a93ef45591f76c5b7f70d048e4177d56b6d5eedc7ef1acaa85fc510bccdc890259a4d97fe8bd134088fac05f6888f7610fedc84e0a28"
+            "sha512": "d9ae5f20ea089e4f6d9cbc70ec60615a069ac6bf70ed2f1edc649a4a50baf8e780efc604a8e99725f67d5d3d542d770cdddbcf5d9fba7888fae1130c85a8101d"
         }
     }
 }
