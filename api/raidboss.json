@@ -507,7 +507,7 @@
                     "Korean": "\uac00\ub77c\ub974 \ud3ec\ub2c8\ud0c0",
                     "Spanish": "Ponyta de Galar"
                 },
-                "shiny": false,
+                "shiny": true,
                 "types": [
                     "Psychic"
                 ],
@@ -725,6 +725,64 @@
                 }
             },
             {
+                "id": "PANCHAM",
+                "form": "PANCHAM",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_674_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_674_00_shiny.png"
+                },
+                "level": "lvl1",
+                "names": {
+                    "English": "Pancham",
+                    "German": "Pam-Pam",
+                    "French": "Pandespi\u00e8gle",
+                    "Italian": "Pancham",
+                    "Japanese": "\u30e4\u30f3\u30c1\u30e3\u30e0",
+                    "Korean": "\ud310\uc9f1",
+                    "Spanish": "Pancham"
+                },
+                "shiny": false,
+                "types": [
+                    "Fighting"
+                ],
+                "counter": {
+                    "Fairy": 1.6,
+                    "Flying": 1.6,
+                    "Psychic": 1.6
+                },
+                "weather": [
+                    "cloudy"
+                ],
+                "cpRange": [
+                    796,
+                    850
+                ],
+                "cpRangeBoost": [
+                    995,
+                    1063
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 0.08194384
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 0.06342059
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 0.05674238
+                    }
+                }
+            },
+            {
                 "id": "ESPURR",
                 "form": "ESPURR",
                 "assets": {
@@ -788,12 +846,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "bfad0e9f969af3ae2cc2ae9022c700739fae3f3e8d5f26a2575d32d47236811f3f8741cde8d11df1952ff8423270b71664cb9c41c7914356ddcfe7c2694d77b2"
+            "sha512": "a24e7b15d89e9401e3574d4f3c56347c491f8a97c2f154d9f1f6223fc4aa12e9b3d95b50eeac1a5738feef976091cce15057aae65cef3c8eee3d58e1e757308d"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "5db1ae573a05cc342c95f3faa38eb20d7a6cfd3f2c0c83343116798b9518ec1813e4feb017889bc9f05a1420aa4fb9e3a2ad1a6f69a03429644d07bd73382a07"
+            "sha512": "4c2dba93b5972151aae3e06dcff7c2f9e03775d27d60e1b46dbece7aab27eda57c2278d81e86404c1c13b0e2d3e1f7660ca45c4ea3e3e71080a3eb0441148320"
         }
     }
 }
