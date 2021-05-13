@@ -846,7 +846,7 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "a24e7b15d89e9401e3574d4f3c56347c491f8a97c2f154d9f1f6223fc4aa12e9b3d95b50eeac1a5738feef976091cce15057aae65cef3c8eee3d58e1e757308d"
+            "sha512": "36f3f7eba36bc1975fbbe546e1ad50c2176e6ef17e120fd8f95598744cb92cd1f3fb973b0d0a4a43eeb348346d065035ed9f3445f5a94b53d6f862ad8eb8e088"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",

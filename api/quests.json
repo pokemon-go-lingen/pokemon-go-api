@@ -1,0 +1,1219 @@
+[
+    {
+        "quest": {
+            "English": "Catch 5 Fairy-type Pok\u00e9mon",
+            "German": "Fange 5 Pok\u00e9mon vom Typ Fee.",
+            "French": "Attrape 5\u00a0Pok\u00e9mon de type F\u00e9e",
+            "Italian": "Cattura 5 Pok\u00e9mon di tipo Folletto",
+            "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc\u30bf\u30a4\u30d7\u306e\u30dd\u30b1\u30e2\u30f3\u30925\u5339\u6355\u307e\u3048\u308b",
+            "Korean": "\ud398\uc5b4\ub9ac\ud0c0\uc785 \ud3ec\ucf13\ubaac\uc744 5\ub9c8\ub9ac \uc7a1\ub294\ub2e4",
+            "Spanish": "Captura 5 Pok\u00e9mon de tipo Hada"
+        },
+        "rewards": [
+            {
+                "id": "MARILL",
+                "shiny": true,
+                "name": {
+                    "English": "Marill",
+                    "German": "Marill",
+                    "French": "Marill",
+                    "Italian": "Marill",
+                    "Japanese": "\u30de\u30ea\u30eb",
+                    "Korean": "\ub9c8\ub9b4",
+                    "Spanish": "Marill"
+                },
+                "cpRange": [
+                    172,
+                    197
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_183_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_183_00_shiny.png"
+                }
+            },
+            {
+                "id": "COTTONEE",
+                "shiny": false,
+                "name": {
+                    "English": "Cottonee",
+                    "German": "Waumboll",
+                    "French": "Doudouvet",
+                    "Italian": "Cottonee",
+                    "Japanese": "\u30e2\u30f3\u30e1\u30f3",
+                    "Korean": "\uc18c\ubbf8\uc548",
+                    "Spanish": "Cottonee"
+                },
+                "cpRange": [
+                    271,
+                    300
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_546_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_546_00_shiny.png"
+                }
+            },
+            {
+                "id": "SNUBBULL",
+                "shiny": true,
+                "name": {
+                    "English": "Snubbull",
+                    "German": "Snubbull",
+                    "French": "Snubbull",
+                    "Italian": "Snubbull",
+                    "Japanese": "\u30d6\u30eb\u30fc",
+                    "Korean": "\ube14\ub8e8",
+                    "Spanish": "Snubbull"
+                },
+                "cpRange": [
+                    492,
+                    530
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_209_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_209_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Catch 10 Fairy-type Pok\u00e9mon",
+            "German": "Fange 10 Pok\u00e9mon vom Typ Fee.",
+            "French": "Attrape 10\u00a0Pok\u00e9mon de type F\u00e9e",
+            "Italian": "Cattura 10 Pok\u00e9mon di tipo Folletto",
+            "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc\u30bf\u30a4\u30d7\u306e\u30dd\u30b1\u30e2\u30f3\u309210\u5339\u6355\u307e\u3048\u308b",
+            "Korean": "\ud398\uc5b4\ub9ac\ud0c0\uc785 \ud3ec\ucf13\ubaac\uc744 10\ub9c8\ub9ac \uc7a1\ub294\ub2e4",
+            "Spanish": "Captura 10 Pok\u00e9mon de tipo Hada"
+        },
+        "rewards": [
+            {
+                "id": "SPRITZEE",
+                "shiny": false,
+                "name": {
+                    "English": "Spritzee",
+                    "German": "Parfi",
+                    "French": "Fluvetin",
+                    "Italian": "Spritzee",
+                    "Japanese": "\u30b7\u30e5\u30b7\u30e5\u30d7",
+                    "Korean": "\uc288\uc058",
+                    "Spanish": "Spritzee"
+                },
+                "cpRange": [
+                    498,
+                    536
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_682_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_682_00_shiny.png"
+                }
+            },
+            {
+                "id": "SWIRLIX",
+                "shiny": false,
+                "name": {
+                    "English": "Swirlix",
+                    "German": "Flauschling",
+                    "French": "Sucroquin",
+                    "Italian": "Swirlix",
+                    "Japanese": "\u30da\u30ed\u30c3\u30d1\u30d5",
+                    "Korean": "\ub098\ub8f8\ud37c\ud504",
+                    "Spanish": "Swirlix"
+                },
+                "cpRange": [
+                    468,
+                    505
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_684_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_684_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Use 7 Berries to help catch Pok\u00e9mon",
+            "German": "Verwende 7 Beeren beim Fangen von Pok\u00e9mon.",
+            "French": "Utilise 7\u00a0Baies pour t\u2019aider \u00e0 attraper des Pok\u00e9mon",
+            "Italian": "Usa 7 bacche per catturare Pok\u00e9mon",
+            "Japanese": "\u30dd\u30b1\u30e2\u30f3\u3092\u6355\u307e\u3048\u308b\u3068\u304d\u306b\u304d\u306e\u307f7\u500b\u3092\u4f7f\u3046",
+            "Korean": "\ub098\ubb34\uc5f4\ub9e4 7\uac1c\ub97c \uc0ac\uc6a9\ud558\uc5ec \ud3ec\ucf13\ubaac\uc744 \uc7a1\ub294\ub2e4",
+            "Spanish": "Usa 7 bayas para ayudarte a capturar Pok\u00e9mon"
+        },
+        "rewards": [
+            {
+                "id": "SPRITZEE",
+                "shiny": false,
+                "name": {
+                    "English": "Spritzee",
+                    "German": "Parfi",
+                    "French": "Fluvetin",
+                    "Italian": "Spritzee",
+                    "Japanese": "\u30b7\u30e5\u30b7\u30e5\u30d7",
+                    "Korean": "\uc288\uc058",
+                    "Spanish": "Spritzee"
+                },
+                "cpRange": [
+                    498,
+                    536
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_682_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_682_00_shiny.png"
+                }
+            },
+            {
+                "id": "SWIRLIX",
+                "shiny": false,
+                "name": {
+                    "English": "Swirlix",
+                    "German": "Flauschling",
+                    "French": "Sucroquin",
+                    "Italian": "Swirlix",
+                    "Japanese": "\u30da\u30ed\u30c3\u30d1\u30d5",
+                    "Korean": "\ub098\ub8f8\ud37c\ud504",
+                    "Spanish": "Swirlix"
+                },
+                "cpRange": [
+                    468,
+                    505
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_684_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_684_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Catch 10 Dragon-type Pok\u00e9mon",
+            "German": "Fange 10 Pok\u00e9mon vom Typ Drache.",
+            "French": "Attrape 10\u00a0Pok\u00e9mon de type Dragon",
+            "Italian": "Cattura 10 Pok\u00e9mon di tipo Drago",
+            "Japanese": "\u30c9\u30e9\u30b4\u30f3\u30bf\u30a4\u30d7\u306e\u30dd\u30b1\u30e2\u30f3\u309210\u5339\u6355\u307e\u3048\u308b",
+            "Korean": "\ub4dc\ub798\uace4\ud0c0\uc785 \ud3ec\ucf13\ubaac\uc744 10\ub9c8\ub9ac \uc7a1\ub294\ub2e4",
+            "Spanish": "Captura 10 Pok\u00e9mon de tipo Drag\u00f3n"
+        },
+        "rewards": [
+            {
+                "id": "GIBLE",
+                "shiny": true,
+                "name": {
+                    "English": "Gible",
+                    "German": "Kaumalat",
+                    "French": "Griknot",
+                    "Italian": "Gible",
+                    "Japanese": "\u30d5\u30ab\u30de\u30eb",
+                    "Korean": "\ub525\uc0c1\uc5b4\ub3d9",
+                    "Spanish": "Gible"
+                },
+                "cpRange": [
+                    441,
+                    477
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_443_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_443_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Catch 15 Fairy-type Pok\u00e9mon",
+            "German": "Fange 15 Pok\u00e9mon vom Typ Fee.",
+            "French": "Attrape 15\u00a0Pok\u00e9mon de type F\u00e9e",
+            "Italian": "Cattura 15 Pok\u00e9mon di tipo Folletto",
+            "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc\u30bf\u30a4\u30d7\u306e\u30dd\u30b1\u30e2\u30f3\u309215\u5339\u6355\u307e\u3048\u308b",
+            "Korean": "\ud398\uc5b4\ub9ac\ud0c0\uc785 \ud3ec\ucf13\ubaac\uc744 15\ub9c8\ub9ac \uc7a1\ub294\ub2e4",
+            "Spanish": "Captura 15 Pok\u00e9mon de tipo Hada"
+        },
+        "rewards": [
+            {
+                "id": "PONYTA_GALARIAN",
+                "shiny": true,
+                "name": {
+                    "English": "Galarian Ponyta",
+                    "German": "Galar-Ponita",
+                    "French": "Ponyta de Galar",
+                    "Italian": "Ponyta di Galar",
+                    "Japanese": "\u30ac\u30e9\u30eb \u30dd\u30cb\u30fc\u30bf",
+                    "Korean": "\uac00\ub77c\ub974 \ud3ec\ub2c8\ud0c0",
+                    "Spanish": "Ponyta de Galar"
+                },
+                "cpRange": [
+                    683,
+                    727
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_077_31.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_077_31_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Win 2 raids",
+            "German": "Gewinne 2 Raids.",
+            "French": "Gagne 2\u00a0Raids",
+            "Italian": "Vinci 2 raid",
+            "Japanese": "\u30ec\u30a4\u30c9\u30d0\u30c8\u30eb\u30672\u56de\u52dd\u3064",
+            "Korean": "\ub808\uc774\ub4dc\ubc30\ud2c0\uc5d0\uc11c 2\ubc88 \uc774\uae34\ub2e4",
+            "Spanish": "Gana en 2 incursiones"
+        },
+        "rewards": [
+            {
+                "id": "GIBLE",
+                "shiny": true,
+                "name": {
+                    "English": "Gible",
+                    "German": "Kaumalat",
+                    "French": "Griknot",
+                    "Italian": "Gible",
+                    "Japanese": "\u30d5\u30ab\u30de\u30eb",
+                    "Korean": "\ub525\uc0c1\uc5b4\ub3d9",
+                    "Spanish": "Gible"
+                },
+                "cpRange": [
+                    441,
+                    477
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_443_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_443_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Catch 5 Pok\u00e9mon with Weather Boost",
+            "German": "Fange 5 Pok\u00e9mon mit Wetterverst\u00e4rkung.",
+            "French": "Attrape 5\u00a0Pok\u00e9mon boost\u00e9s par la m\u00e9t\u00e9o",
+            "Italian": "Cattura 5 Pok\u00e9mon potenziati da condizioni atmosferiche",
+            "Japanese": "\u5929\u5019\u30d6\u30fc\u30b9\u30c8\u3092\u53d7\u3051\u3066\u3044\u308b\u30dd\u30b1\u30e2\u30f3\u30925\u5339\u6355\u307e\u3048\u308b",
+            "Korean": "\ub0a0\uc528 \ubd80\uc2a4\ud2b8\ub97c \ubc1b\uace0 \uc788\ub294 \ud3ec\ucf13\ubaac 5\ub9c8\ub9ac \uc7a1\ub294\ub2e4",
+            "Spanish": "Captura 5 Pok\u00e9mon potenciado por el tiempo atmosf\u00e9rico"
+        },
+        "rewards": [
+            {
+                "id": "POLIWAG",
+                "shiny": true,
+                "name": {
+                    "English": "Poliwag",
+                    "German": "Quapsel",
+                    "French": "Ptitard",
+                    "Italian": "Poliwag",
+                    "Japanese": "\u30cb\u30e7\u30ed\u30e2",
+                    "Korean": "\ubc1c\ucc59\uc774",
+                    "Spanish": "Poliwag"
+                },
+                "cpRange": [
+                    324,
+                    355
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_060_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_060_00_shiny.png"
+                }
+            },
+            {
+                "id": "VULPIX",
+                "shiny": true,
+                "name": {
+                    "English": "Vulpix",
+                    "German": "Vulpix",
+                    "French": "Goupix",
+                    "Italian": "Vulpix",
+                    "Japanese": "\u30ed\u30b3\u30f3",
+                    "Korean": "\uc2dd\uc2a4\ud14c\uc77c",
+                    "Spanish": "Vulpix"
+                },
+                "cpRange": [
+                    347,
+                    378
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_037_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_037_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Catch 5 Fairy-type Pok\u00e9mon",
+            "German": "Fange 5 Pok\u00e9mon vom Typ Fee.",
+            "French": "Attrape 5\u00a0Pok\u00e9mon de type F\u00e9e",
+            "Italian": "Cattura 5 Pok\u00e9mon di tipo Folletto",
+            "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc\u30bf\u30a4\u30d7\u306e\u30dd\u30b1\u30e2\u30f3\u30925\u5339\u6355\u307e\u3048\u308b",
+            "Korean": "\ud398\uc5b4\ub9ac\ud0c0\uc785 \ud3ec\ucf13\ubaac\uc744 5\ub9c8\ub9ac \uc7a1\ub294\ub2e4",
+            "Spanish": "Captura 5 Pok\u00e9mon de tipo Hada"
+        },
+        "rewards": [
+            {
+                "id": "CLEFAIRY",
+                "shiny": true,
+                "name": {
+                    "English": "Clefairy",
+                    "German": "Piepi",
+                    "French": "M\u00e9lof\u00e9e",
+                    "Italian": "Clefairy",
+                    "Japanese": "\u30d4\u30c3\u30d4",
+                    "Korean": "\uc090\uc090",
+                    "Spanish": "Clefairy"
+                },
+                "cpRange": [
+                    458,
+                    495
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_035_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_035_00_shiny.png"
+                }
+            },
+            {
+                "id": "SNUBBULL",
+                "shiny": true,
+                "name": {
+                    "English": "Snubbull",
+                    "German": "Snubbull",
+                    "French": "Snubbull",
+                    "Italian": "Snubbull",
+                    "Japanese": "\u30d6\u30eb\u30fc",
+                    "Korean": "\ube14\ub8e8",
+                    "Spanish": "Snubbull"
+                },
+                "cpRange": [
+                    492,
+                    530
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_209_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_209_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Catch 10 Pok\u00e9mon",
+            "German": "Fange 10 Pok\u00e9mon.",
+            "French": "Attrape 10\u00a0Pok\u00e9mon",
+            "Italian": "Cattura 10 Pok\u00e9mon",
+            "Japanese": "\u30dd\u30b1\u30e2\u30f3\u309210\u5339\u6355\u307e\u3048\u308b",
+            "Korean": "\ud3ec\ucf13\ubaac 10\ub9c8\ub9ac\ub97c \uc7a1\ub294\ub2e4",
+            "Spanish": "Captura 10 Pok\u00e9mon"
+        },
+        "rewards": [
+            {
+                "id": "MAGIKARP",
+                "shiny": true,
+                "name": {
+                    "English": "Magikarp",
+                    "German": "Karpador",
+                    "French": "Magicarpe",
+                    "Italian": "Magikarp",
+                    "Japanese": "\u30b3\u30a4\u30ad\u30f3\u30b0",
+                    "Korean": "\uc789\uc5b4\ud0b9",
+                    "Spanish": "Magikarp"
+                },
+                "cpRange": [
+                    99,
+                    117
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_129_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_129_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Catch a Dragon-type Pok\u00e9mon",
+            "German": "Fange ein Pok\u00e9mon vom Typ Drache.",
+            "French": "Attrape un Pok\u00e9mon de type Dragon",
+            "Italian": "Cattura un Pok\u00e9mon di tipo Drago",
+            "Japanese": "\u30c9\u30e9\u30b4\u30f3\u30bf\u30a4\u30d7\u306e\u30dd\u30b1\u30e2\u30f3\u30921\u5339\u6355\u307e\u3048\u308b",
+            "Korean": "\ub4dc\ub798\uace4\ud0c0\uc785 \ud3ec\ucf13\ubaac\uc744 1\ub9c8\ub9ac \uc7a1\ub294\ub2e4",
+            "Spanish": "Captura 1 Pok\u00e9mon de tipo Drag\u00f3n"
+        },
+        "rewards": [
+            {
+                "id": "DRATINI",
+                "shiny": true,
+                "name": {
+                    "English": "Dratini",
+                    "German": "Dratini",
+                    "French": "Minidraco",
+                    "Italian": "Dratini",
+                    "Japanese": "\u30df\u30cb\u30ea\u30e5\u30a6",
+                    "Korean": "\ubbf8\ub1fd",
+                    "Spanish": "Dratini"
+                },
+                "cpRange": [
+                    397,
+                    430
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_147_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_147_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Use 10 Berries to help catch Pok\u00e9mon",
+            "German": "Verwende 10 Beeren beim Fangen von Pok\u00e9mon.",
+            "French": "Utilise 10\u00a0Baies pour t\u2019aider \u00e0 attraper des Pok\u00e9mon",
+            "Italian": "Usa 10 bacche per catturare Pok\u00e9mon",
+            "Japanese": "\u30dd\u30b1\u30e2\u30f3\u3092\u6355\u307e\u3048\u308b\u3068\u304d\u306b\u304d\u306e\u307f10\u500b\u3092\u4f7f\u3046",
+            "Korean": "\ub098\ubb34\uc5f4\ub9e4 10\uac1c\ub97c \uc0ac\uc6a9\ud558\uc5ec \ud3ec\ucf13\ubaac\uc744 \uc7a1\ub294\ub2e4",
+            "Spanish": "Usa 10 bayas para ayudarte a capturar Pok\u00e9mon"
+        },
+        "rewards": [
+            {
+                "id": "MARILL",
+                "shiny": true,
+                "name": {
+                    "English": "Marill",
+                    "German": "Marill",
+                    "French": "Marill",
+                    "Italian": "Marill",
+                    "Japanese": "\u30de\u30ea\u30eb",
+                    "Korean": "\ub9c8\ub9b4",
+                    "Spanish": "Marill"
+                },
+                "cpRange": [
+                    172,
+                    197
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_183_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_183_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Catch 3 Pok\u00e9mon",
+            "German": "Fange 3 Pok\u00e9mon.",
+            "French": "Attrape 3\u00a0Pok\u00e9mon",
+            "Italian": "Cattura 3 Pok\u00e9mon",
+            "Japanese": "\u30dd\u30b1\u30e2\u30f3\u30923\u5339\u6355\u307e\u3048\u308b",
+            "Korean": "\ud3ec\ucf13\ubaac 3\ub9c8\ub9ac\ub97c \uc7a1\ub294\ub2e4",
+            "Spanish": "Captura 3 Pok\u00e9mon"
+        },
+        "rewards": [
+            {
+                "id": "HOOTHOOT",
+                "shiny": false,
+                "name": {
+                    "English": "Hoothoot",
+                    "German": "Hoothoot",
+                    "French": "Hoothoot",
+                    "Italian": "Hoothoot",
+                    "Japanese": "\u30db\u30fc\u30db\u30fc",
+                    "Korean": "\ubd80\uc6b0\ubd80",
+                    "Spanish": "Hoothoot"
+                },
+                "cpRange": [
+                    262,
+                    290
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_163_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_163_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Make 3 Great Throws",
+            "German": "Lande 3 gro\u00dfartige W\u00fcrfe.",
+            "French": "Fais 3\u00a0Superbes lancers",
+            "Italian": "Effettua 3 ottimi tiri",
+            "Japanese": "\u30b0\u30ec\u30fc\u30c8\u30b9\u30ed\u30fc\u30923\u56de\u6295\u3052\u308b",
+            "Korean": "Great\uac00 \ub098\uc624\uac8c 3\ud68c \ub358\uc9c4\ub2e4",
+            "Spanish": "Haz 3 grandes lanzamientos"
+        },
+        "rewards": [
+            {
+                "id": "GASTLY",
+                "shiny": true,
+                "name": {
+                    "English": "Gastly",
+                    "German": "Nebulak",
+                    "French": "Fantominus",
+                    "Italian": "Gastly",
+                    "Japanese": "\u30b4\u30fc\u30b9",
+                    "Korean": "\uace0\uc624\uc2a4",
+                    "Spanish": "Gastly"
+                },
+                "cpRange": [
+                    487,
+                    527
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_092_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_092_00_shiny.png"
+                }
+            },
+            {
+                "id": "ANORITH",
+                "shiny": true,
+                "name": {
+                    "English": "Anorith",
+                    "German": "Anorith",
+                    "French": "Anorith",
+                    "Italian": "Anorith",
+                    "Japanese": "\u30a2\u30ce\u30d7\u30b9",
+                    "Korean": "\uc544\ub178\ub525\uc2a4",
+                    "Spanish": "Anorith"
+                },
+                "cpRange": [
+                    613,
+                    655
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_347_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_347_00_shiny.png"
+                }
+            },
+            {
+                "id": "LILEEP",
+                "shiny": true,
+                "name": {
+                    "English": "Lileep",
+                    "German": "Liliep",
+                    "French": "Lilia",
+                    "Italian": "Lileep",
+                    "Japanese": "\u30ea\u30ea\u30fc\u30e9",
+                    "Korean": "\ub9b4\ub9c1",
+                    "Spanish": "Lileep"
+                },
+                "cpRange": [
+                    515,
+                    553
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_345_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_345_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Make 5 Nice Throws",
+            "German": "Lande 5 gute W\u00fcrfe.",
+            "French": "Fais 5\u00a0Jolis lancers",
+            "Italian": "Effettua 5 bei tiri",
+            "Japanese": "\u30ca\u30a4\u30b9\u30b9\u30ed\u30fc\u30925\u56de\u6295\u3052\u308b",
+            "Korean": "Nice\uac00 \ub098\uc624\uac8c 5\ud68c \ub358\uc9c4\ub2e4",
+            "Spanish": "Haz 5 buenos lanzamientos"
+        },
+        "rewards": [
+            {
+                "id": "VOLTORB",
+                "shiny": true,
+                "name": {
+                    "English": "Voltorb",
+                    "German": "Voltobal",
+                    "French": "Voltorbe",
+                    "Italian": "Voltorb",
+                    "Japanese": "\u30d3\u30ea\u30ea\u30c0\u30de",
+                    "Korean": "\ucc0c\ub9ac\ub9ac\uacf5",
+                    "Spanish": "Voltorb"
+                },
+                "cpRange": [
+                    399,
+                    432
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_100_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_100_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Make 3 Great Throws in a row",
+            "German": "Lande 3 gro\u00dfartige W\u00fcrfe hintereinander.",
+            "French": "Fais 3\u00a0Superbes lancers \u00e0 la suite",
+            "Italian": "Effettua 3 ottimi tiri di fila",
+            "Japanese": "\u30b0\u30ec\u30fc\u30c8\u30b9\u30ed\u30fc\u30923\u56de\u9023\u7d9a\u3067\u6295\u3052\u308b",
+            "Korean": "Great\ub97c 3\ud68c \uc5f0\uc18d\uc73c\ub85c \ub358\uc9c4\ub2e4",
+            "Spanish": "Haz 3 grandes lanzamientos seguidos"
+        },
+        "rewards": [
+            {
+                "id": "ONIX",
+                "shiny": true,
+                "name": {
+                    "English": "Onix",
+                    "German": "Onix",
+                    "French": "Onix",
+                    "Italian": "Onix",
+                    "Japanese": "\u30a4\u30ef\u30fc\u30af",
+                    "Korean": "\ub871\uc2a4\ud1a4",
+                    "Spanish": "Onix"
+                },
+                "cpRange": [
+                    435,
+                    472
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_095_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_095_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Make 3 Excellent Throws in a row",
+            "German": "Lande 3 fabelhafte W\u00fcrfe hintereinander.",
+            "French": "Fais 3\u00a0Excellents lancers \u00e0 la suite",
+            "Italian": "Effettua 3 tiri eccellenti di fila",
+            "Japanese": "\u30a8\u30af\u30bb\u30ec\u30f3\u30c8\u30b9\u30ed\u30fc\u30923\u56de\u9023\u7d9a\u3067\u6295\u3052\u308b",
+            "Korean": "Excellent\ub97c 3\ud68c \uc5f0\uc18d\uc73c\ub85c \ub358\uc9c4\ub2e4",
+            "Spanish": "Haz 3 lanzamientos excelentes seguidos"
+        },
+        "rewards": [
+            {
+                "id": "GIBLE",
+                "shiny": true,
+                "name": {
+                    "English": "Gible",
+                    "German": "Kaumalat",
+                    "French": "Griknot",
+                    "Italian": "Gible",
+                    "Japanese": "\u30d5\u30ab\u30de\u30eb",
+                    "Korean": "\ub525\uc0c1\uc5b4\ub3d9",
+                    "Spanish": "Gible"
+                },
+                "cpRange": [
+                    441,
+                    477
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_443_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_443_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Make 5 Great Curveball Throws in a row",
+            "German": "Lande 5 gro\u00dfartige Curveball-W\u00fcrfe hintereinander.",
+            "French": "Fais 5\u00a0Superbes lancers \u00e0 effet \u00e0 la suite",
+            "Italian": "Lancia 5 palle curve di fila con risultato ottimo",
+            "Japanese": "\u30ab\u30fc\u30d6\u30dc\u30fc\u30eb\u306e\u30b0\u30ec\u30fc\u30c8\u30b9\u30ed\u30fc\u30925\u56de\u9023\u7d9a\u3067\u6295\u3052\u308b",
+            "Korean": "\ucee4\ube0c\ubcfc\ub85c Great\uac00 \ub098\uc624\uac8c 5\ud68c \uc5f0\uc18d\uc73c\ub85c \ub358\uc9c4\ub2e4",
+            "Spanish": "Haz 5 grandes lanzamientos de bola curva seguidos"
+        },
+        "rewards": [
+            {
+                "id": "SPINDA",
+                "shiny": true,
+                "name": {
+                    "English": "Spinda",
+                    "German": "Pandir",
+                    "French": "Spinda",
+                    "Italian": "Spinda",
+                    "Japanese": "\u30d1\u30c3\u30c1\u30fc\u30eb",
+                    "Korean": "\uc5bc\ub8e8\uae30",
+                    "Spanish": "Spinda"
+                },
+                "cpRange": [
+                    486,
+                    523
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_327_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_327_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Win a level 3 or higher raid",
+            "German": "Gewinne einen Level-3-Raid oder h\u00f6her.",
+            "French": "Gagne un Raid de niveau\u00a03 ou plus",
+            "Italian": "Vinci un raid di livello 3 o superiore",
+            "Japanese": "\u30ec\u30d9\u30eb3\u4ee5\u4e0a\u306e\u30ec\u30a4\u30c9\u306b1\u56de\u52dd\u3064",
+            "Korean": "\ub808\ubca8 3\uc774\uc0c1\uc758 \ub808\uc774\ub4dc\uc5d0 1\ud68c \uc774\uae34\ub2e4",
+            "Spanish": "Gana en 1 incursi\u00f3n de nivel 3 o superior"
+        },
+        "rewards": [
+            {
+                "id": "OMANYTE",
+                "shiny": true,
+                "name": {
+                    "English": "Omanyte",
+                    "German": "Amonitas",
+                    "French": "Amonita",
+                    "Italian": "Omanyte",
+                    "Japanese": "\u30aa\u30e0\u30ca\u30a4\u30c8",
+                    "Korean": "\uc554\ub098\uc774\ud2b8",
+                    "Spanish": "Omanyte"
+                },
+                "cpRange": [
+                    620,
+                    662
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_138_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_138_00_shiny.png"
+                }
+            },
+            {
+                "id": "KABUTO",
+                "shiny": true,
+                "name": {
+                    "English": "Kabuto",
+                    "German": "Kabuto",
+                    "French": "Kabuto",
+                    "Italian": "Kabuto",
+                    "Japanese": "\u30ab\u30d6\u30c8",
+                    "Korean": "\ud22c\uad6c",
+                    "Spanish": "Kabuto"
+                },
+                "cpRange": [
+                    548,
+                    587
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_140_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_140_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Win 5 raids",
+            "German": "Gewinne 5 Raids.",
+            "French": "Gagne 5\u00a0Raids",
+            "Italian": "Vinci 5 raid",
+            "Japanese": "\u30ec\u30a4\u30c9\u30d0\u30c8\u30eb\u30675\u56de\u52dd\u3064",
+            "Korean": "\ub808\uc774\ub4dc\ubc30\ud2c0\uc5d0\uc11c 5\ubc88 \uc774\uae34\ub2e4",
+            "Spanish": "Gana en 5 incursiones"
+        },
+        "rewards": [
+            {
+                "id": "AERODACTYL",
+                "shiny": true,
+                "name": {
+                    "English": "Aerodactyl",
+                    "German": "Aerodactyl",
+                    "French": "Pt\u00e9ra",
+                    "Italian": "Aerodactyl",
+                    "Japanese": "\u30d7\u30c6\u30e9",
+                    "Korean": "\ud504\ud14c\ub77c",
+                    "Spanish": "Aerodactyl"
+                },
+                "cpRange": [
+                    1136,
+                    1193
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_142_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_142_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Win a raid",
+            "German": "Gewinne einen Raid.",
+            "French": "Gagne un Raid",
+            "Italian": "Vinci un raid",
+            "Japanese": "\u30ec\u30a4\u30c9\u30d0\u30c8\u30eb\u30671\u56de\u52dd\u3064",
+            "Korean": "\ub808\uc774\ub4dc\ubc30\ud2c0\uc5d0\uc11c 1\ud68c \uc774\uae34\ub2e4",
+            "Spanish": "Gana en 1 incursi\u00f3n"
+        },
+        "rewards": [
+            {
+                "id": "BELDUM",
+                "shiny": true,
+                "name": {
+                    "English": "Beldum",
+                    "German": "Tanhel",
+                    "French": "Terhal",
+                    "Italian": "Beldum",
+                    "Japanese": "\u30c0\u30f3\u30d0\u30eb",
+                    "Korean": "\uba54\ud0d5",
+                    "Spanish": "Beldum"
+                },
+                "cpRange": [
+                    385,
+                    418
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_374_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_374_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Battle 5 Team GO Rocket Grunts",
+            "German": "K\u00e4mpfe gegen 5 Team GO Rocket-R\u00fcpel.",
+            "French": "Combats 5 Sbires de la Team GO Rocket",
+            "Italian": "Sfida 5 reclute del Team GO Rocket",
+            "Japanese": "GO\u30ed\u30b1\u30c3\u30c8\u56e3\u3057\u305f\u3063\u3071\u3068\u306e\u30d0\u30c8\u30eb\u30925\u56de\u3059\u308b",
+            "Korean": "GO\ub85c\ucf13\ub2e8 \uc870\ubb34\ub798\uae30\uc640 \ubc30\ud2c0\uc744 5 \ubc88 \ud55c\ub2e4",
+            "Spanish": "Combate contra 5 Reclutas del Team GO Rocket"
+        },
+        "rewards": [
+            {
+                "id": "SCYTHER",
+                "shiny": true,
+                "name": {
+                    "English": "Scyther",
+                    "German": "Sichlor",
+                    "French": "Ins\u00e9cateur",
+                    "Italian": "Scyther",
+                    "Japanese": "\u30b9\u30c8\u30e9\u30a4\u30af",
+                    "Korean": "\uc2a4\ub77c\ud06c",
+                    "Spanish": "Scyther"
+                },
+                "cpRange": [
+                    1104,
+                    1160
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_123_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_123_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Battle in GO Battle League",
+            "German": "K\u00e4mpfe in der GO-Kampfliga.",
+            "French": "Combats dans la Ligue Combat\u00a0GO",
+            "Italian": "Lotta nella Lega Lotte GO",
+            "Japanese": "GO\u30d0\u30c8\u30eb\u30ea\u30fc\u30b0\u5bfe\u6226\u3092\u3059\u308b",
+            "Korean": "Battle in GO Battle League",
+            "Spanish": "Combate en la Liga Combates GO"
+        },
+        "rewards": [
+            {
+                "id": "DRILBUR",
+                "shiny": false,
+                "name": {
+                    "English": "Drilbur",
+                    "German": "Rotomurf",
+                    "French": "Rototaupe",
+                    "Italian": "Drilbur",
+                    "Japanese": "\u30e2\u30b0\u30ea\u30e5\u30fc",
+                    "Korean": "\ub450\ub354\ub958",
+                    "Spanish": "Drilbur"
+                },
+                "cpRange": [
+                    549,
+                    589
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_529_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_529_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Earn 5 hearts with your buddy",
+            "German": "Verdiene 5 Herzen mit deinem Kumpel.",
+            "French": "Gagne 5\u00a0c\u0153urs avec ton copain",
+            "Italian": "Guadagna 5 cuori con il tuo compagno",
+            "Japanese": "\u76f8\u68d2\u306e\u30cf\u30fc\u30c8\u30dd\u30a4\u30f3\u30c8\u30925\u500b\u7372\u5f97\u3059\u308b",
+            "Korean": "\ud558\ud2b8\ub97c 5\uac1c \ud68d\ub4dd",
+            "Spanish": "Consigue 5 corazones con tu compa\u00f1ero"
+        },
+        "rewards": [
+            {
+                "id": "JIGGLYPUFF",
+                "shiny": true,
+                "name": {
+                    "English": "Jigglypuff",
+                    "German": "Pummeluff",
+                    "French": "Rondoudou",
+                    "Italian": "Jigglypuff",
+                    "Japanese": "\u30d7\u30ea\u30f3",
+                    "Korean": "\ud478\ub9b0",
+                    "Spanish": "Jigglypuff"
+                },
+                "cpRange": [
+                    277,
+                    310
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_039_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_039_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Trade a Pok\u00e9mon",
+            "German": "Tausche ein Pok\u00e9mon.",
+            "French": "\u00c9change un Pok\u00e9mon",
+            "Italian": "Effettua uno scambio di Pok\u00e9mon",
+            "Japanese": "\u30dd\u30b1\u30e2\u30f3\u3092\u4ea4\u63db\u3059\u308b",
+            "Korean": "\ud3ec\ucf13\ubaac\uc744 \uad50\ud658\ud55c\ub2e4",
+            "Spanish": "Intercambia 1 Pok\u00e9mon"
+        },
+        "rewards": [
+            {
+                "id": "PIDGEOTTO",
+                "shiny": false,
+                "name": {
+                    "English": "Pidgeotto",
+                    "German": "Tauboga",
+                    "French": "Roucoups",
+                    "Italian": "Pidgeotto",
+                    "Japanese": "\u30d4\u30b8\u30e7\u30f3",
+                    "Korean": "\ud53c\uc8e4",
+                    "Spanish": "Pidgeotto"
+                },
+                "cpRange": [
+                    475,
+                    512
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_017_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_017_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Send 3 Gifts to friends",
+            "German": "Schicke 3 Geschenke an Freunde.",
+            "French": "Envoie 3\u00a0Cadeaux \u00e0 des amis",
+            "Italian": "Invia 3 pacchi amicizia",
+            "Japanese": "\u30ae\u30d5\u30c8\u30923\u500b\u8d08\u308b",
+            "Korean": "\uc120\ubb3c\uc744 3 \uac1c \ubcf4\ub0b8\ub2e4",
+            "Spanish": "Env\u00eda 3 regalos a amigos"
+        },
+        "rewards": [
+            {
+                "id": "SNUBBULL",
+                "shiny": true,
+                "name": {
+                    "English": "Snubbull",
+                    "German": "Snubbull",
+                    "French": "Snubbull",
+                    "Italian": "Snubbull",
+                    "Japanese": "\u30d6\u30eb\u30fc",
+                    "Korean": "\ube14\ub8e8",
+                    "Spanish": "Snubbull"
+                },
+                "cpRange": [
+                    492,
+                    530
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_209_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_209_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Power up Pok\u00e9mon 5 times",
+            "German": "Verwende 5 Power-ups bei Pok\u00e9mon.",
+            "French": "Recharge un Pok\u00e9mon 5\u00a0fois",
+            "Italian": "Potenzia i Pok\u00e9mon 5 volte",
+            "Japanese": "\u30dd\u30b1\u30e2\u30f3\u30925\u56de\u5f37\u5316\u3059\u308b",
+            "Korean": "\ud3ec\ucf13\ubaac\uc744 5\ud68c \uac15\ud654\ud55c\ub2e4",
+            "Spanish": "Da m\u00e1s poder a un Pok\u00e9mon 5 veces"
+        },
+        "rewards": [
+            {
+                "id": "BULBASAUR",
+                "shiny": true,
+                "name": {
+                    "English": "Bulbasaur",
+                    "German": "Bisasam",
+                    "French": "Bulbizarre",
+                    "Italian": "Bulbasaur",
+                    "Japanese": "\u30d5\u30b7\u30ae\u30c0\u30cd",
+                    "Korean": "\uc774\uc0c1\ud574\uc528",
+                    "Spanish": "Bulbasaur"
+                },
+                "cpRange": [
+                    442,
+                    477
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_001_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_001_00_shiny.png"
+                }
+            },
+            {
+                "id": "CHARMANDER",
+                "shiny": true,
+                "name": {
+                    "English": "Charmander",
+                    "German": "Glumanda",
+                    "French": "Salam\u00e8che",
+                    "Italian": "Charmander",
+                    "Japanese": "\u30d2\u30c8\u30ab\u30b2",
+                    "Korean": "\ud30c\uc774\ub9ac",
+                    "Spanish": "Charmander"
+                },
+                "cpRange": [
+                    387,
+                    420
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_004_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_004_00_shiny.png"
+                }
+            },
+            {
+                "id": "SQUIRTLE",
+                "shiny": true,
+                "name": {
+                    "English": "Squirtle",
+                    "German": "Schiggy",
+                    "French": "Carapuce",
+                    "Italian": "Squirtle",
+                    "Japanese": "\u30bc\u30cb\u30ac\u30e1",
+                    "Korean": "\uaf2c\ubd80\uae30",
+                    "Spanish": "Squirtle"
+                },
+                "cpRange": [
+                    372,
+                    405
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_007_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_007_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Evolve a Pok\u00e9mon",
+            "German": "Entwickle ein Pok\u00e9mon.",
+            "French": "Fais \u00e9voluer un Pok\u00e9mon",
+            "Italian": "Fai evolvere un Pok\u00e9mon",
+            "Japanese": "\u30dd\u30b1\u30e2\u30f3\u30921\u5339\u9032\u5316\u3055\u305b\u308b",
+            "Korean": "\ud3ec\ucf13\ubaac\uc744 1\ub9c8\ub9ac \uc9c4\ud654\uc2dc\ud0a8\ub2e4",
+            "Spanish": "Haz evolucionar 1 Pok\u00e9mon"
+        },
+        "rewards": [
+            {
+                "id": "EEVEE",
+                "shiny": true,
+                "name": {
+                    "English": "Eevee",
+                    "German": "Evoli",
+                    "French": "\u00c9voli",
+                    "Italian": "Eevee",
+                    "Japanese": "\u30a4\u30fc\u30d6\u30a4",
+                    "Korean": "\uc774\ube0c\uc774",
+                    "Spanish": "Eevee"
+                },
+                "cpRange": [
+                    424,
+                    459
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_133_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_133_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Use an Incense",
+            "German": "Verwende einen Rauch.",
+            "French": "Utilise un Encens",
+            "Italian": "Utilizza un aroma",
+            "Japanese": "\u304a\u3053\u3046\u3092\u4f7f\u3046",
+            "Korean": "\ud5a5\ub85c 1\uac1c\ub97c \uc0ac\uc6a9\ud55c\ub2e4",
+            "Spanish": "Usa un Incienso"
+        },
+        "rewards": [
+            {
+                "id": "AERODACTYL",
+                "shiny": true,
+                "name": {
+                    "English": "Aerodactyl",
+                    "German": "Aerodactyl",
+                    "French": "Pt\u00e9ra",
+                    "Italian": "Aerodactyl",
+                    "Japanese": "\u30d7\u30c6\u30e9",
+                    "Korean": "\ud504\ud14c\ub77c",
+                    "Spanish": "Aerodactyl"
+                },
+                "cpRange": [
+                    1136,
+                    1193
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_142_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_142_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Take a snapshot of a Bug-type Pok\u00e9mon",
+            "German": "Mache einen Schnappschuss von einem Pok\u00e9mon vom Typ K\u00e4fer.",
+            "French": "Prends une\u00a0photo d\u2019un Pok\u00e9mon de type Insecte",
+            "Italian": "Fai una foto a un Pok\u00e9mon di tipo Coleottero",
+            "Japanese": "\u3080\u3057\u30bf\u30a4\u30d7\u306e\u30dd\u30b1\u30e2\u30f3\u306eGO\u30b9\u30ca\u30c3\u30d7\u30b7\u30e7\u30c3\u30c8\u5199\u771f\u3092\u64ae\u308b",
+            "Korean": "\ubc8c\ub808\ud0c0\uc785 \ud3ec\ucf13\ubaac\uc758 GO\uc2a4\ub0c5\uc0f7\uc744 1\uc7a5 \ucc0d\ub294\ub2e4",
+            "Spanish": "Consigue una instant\u00e1nea de un Pok\u00e9mon de tipo Bicho"
+        },
+        "rewards": [
+            {
+                "id": "WEEDLE",
+                "shiny": true,
+                "name": {
+                    "English": "Weedle",
+                    "German": "Hornliu",
+                    "French": "Aspicot",
+                    "Italian": "Weedle",
+                    "Japanese": "\u30d3\u30fc\u30c9\u30eb",
+                    "Korean": "\ubfd4\ucda9\uc774",
+                    "Spanish": "Weedle"
+                },
+                "cpRange": [
+                    172,
+                    195
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_013_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_013_00_shiny.png"
+                }
+            }
+        ]
+    }
+]

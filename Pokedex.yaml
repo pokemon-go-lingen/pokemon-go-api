@@ -9,6 +9,7 @@ tags:
   - name: Pokemon
   - name: Raid
   - name: Utils
+  - name: Quest
 paths:
   /api/pokedex.json:
     get:
@@ -253,9 +254,14 @@ paths:
                     required:
                       - raidboss.json
                       - pokedex.json
+                      - quests.json
                     additionalProperties: false
                     properties:
                       raidboss.json:
+                        type: string
+                        minLength: 128
+                        maxLength: 128
+                      quests.json:
                         type: string
                         minLength: 128
                         maxLength: 128
@@ -265,7 +271,37 @@ paths:
                         maxLength: 128
                 required:
                   - sha512
-              examples: {}
+  /api/quests.json:
+    get:
+      summary: Receive the current Quest List with Pokemon rewards only
+      tags:
+        - Pokemon
+        - Quest
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                description: ''
+                uniqueItems: true
+                items:
+                  type: object
+                  additionalProperties: false
+                  properties:
+                    rewards:
+                      type: array
+                      uniqueItems: true
+                      items:
+                        $ref: '#/components/schemas/Encounter'
+                    quest:
+                      $ref: '#/components/schemas/Names'
+                  required:
+                    - rewards
+                    - quest
+      operationId: get-quests.json
+    parameters: []
 components:
   schemas:
     Pokemon:
@@ -280,9 +316,10 @@ components:
           type: string
           minLength: 1
         dexNr:
-          type: number
+          type: integer
+          minimum: 1
         generation:
-          type: number
+          type: integer
         names:
           $ref: '#/components/schemas/Names'
         stats:
@@ -356,9 +393,9 @@ components:
           type: string
           minLength: 1
         dexNr:
-          type: number
+          type: integer
         generation:
-          type: number
+          type: integer
         names:
           $ref: '#/components/schemas/Names'
         stats:
@@ -457,11 +494,11 @@ components:
       additionalProperties: false
       properties:
         stamina:
-          type: number
+          type: integer
         attack:
-          type: number
+          type: integer
         defense:
-          type: number
+          type: integer
       required:
         - stamina
         - attack
@@ -486,13 +523,13 @@ components:
           $ref: '#/components/schemas/Names'
         combat:
           type: object
-          nullable: true
+          additionalProperties: false
           required:
             - energy
             - power
             - turns
             - buffs
-          additionalProperties: false
+          nullable: true
           properties:
             energy:
               type: number
@@ -502,8 +539,14 @@ components:
               type: number
             buffs:
               type: object
-              nullable: true
               additionalProperties: false
+              required:
+                - activationChance
+                - attackerAttackStatsChange
+                - attackerDefenseStatsChange
+                - targetAttackStatsChange
+                - targetDefenseStatsChange
+              nullable: true
               properties:
                 activationChance:
                   type: integer
@@ -519,12 +562,6 @@ components:
                 targetDefenseStatsChange:
                   type: integer
                   nullable: true
-              required:
-                - activationChance
-                - attackerAttackStatsChange
-                - attackerDefenseStatsChange
-                - targetAttackStatsChange
-                - targetDefenseStatsChange
       required:
         - id
         - power
@@ -540,8 +577,10 @@ components:
       properties:
         image:
           type: string
+          format: uri
         shinyImage:
           type: string
+          format: uri
       required:
         - image
         - shinyImage
@@ -611,17 +650,9 @@ components:
           items:
             type: string
         cpRange:
-          type: array
-          minItems: 2
-          maxItems: 2
-          items:
-            type: integer
+          $ref: '#/components/schemas/CpRange'
         cpRangeBoost:
-          type: array
-          minItems: 2
-          maxItems: 2
-          items:
-            type: integer
+          $ref: '#/components/schemas/CpRange'
         names:
           $ref: '#/components/schemas/Names'
         battleResult:
@@ -651,21 +682,55 @@ components:
         - cpRangeBoost
         - names
         - battleResult
-
     BattleResult:
       type: object
+      additionalProperties: false
       properties:
         name:
           type: string
         friendshipLevel:
           type: integer
+          minimum: 0
+          maximum: 4
         pokemonLevel:
           type: integer
+          minimum: 0
+          maximum: 50
         totalEstimator:
           type: number
-      additionalProperties: false
+          format: double
+          minimum: 0
+          maximum: 20
       required:
         - name
         - friendshipLevel
         - pokemonLevel
         - totalEstimator
+    CpRange:
+      type: array
+      minItems: 2
+      maxItems: 2
+      items:
+        type: integer
+        minimum: 0
+    Encounter:
+      type: object
+      title: Encounter
+      additionalProperties: false
+      properties:
+        id:
+          type: string
+        shiny:
+          type: boolean
+        cpRange:
+          $ref: '#/components/schemas/CpRange'
+        assets:
+          $ref: '#/components/schemas/Assets'
+        name:
+          $ref: '#/components/schemas/Names'
+      required:
+        - id
+        - shiny
+        - cpRange
+        - assets
+        - name
