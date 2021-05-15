@@ -124,33 +124,34 @@
             },
             {
                 "id": "ALTARIA",
-                "form": "ALTARIA",
+                "form": "ALTARIA_MEGA",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_334_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_334_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_334_51.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_334_51_shiny.png"
                 },
                 "level": "mega",
                 "names": {
-                    "English": "Altaria",
-                    "German": "Altaria",
-                    "French": "Altaria",
-                    "Italian": "Altaria",
-                    "Japanese": "\u30c1\u30eb\u30bf\u30ea\u30b9",
-                    "Korean": "\ud30c\ube44\ucf54\ub9ac",
-                    "Spanish": "Altaria"
+                    "English": "Mega Altaria",
+                    "German": "Mega-Altaria",
+                    "French": "M\u00e9ga-Altaria",
+                    "Italian": "MegaAltaria",
+                    "Japanese": "\u30e1\u30ac\u30c1\u30eb\u30bf\u30ea\u30b9",
+                    "Korean": "\uba54\uac00\ud30c\ube44\ucf54\ub9ac",
+                    "Spanish": "Mega-Altaria"
                 },
                 "shiny": false,
                 "types": [
                     "Dragon",
-                    "Flying"
+                    "Fairy"
                 ],
                 "counter": {
-                    "Ice": 2.56,
-                    "Dragon": 1.6,
                     "Fairy": 1.6,
-                    "Rock": 1.6
+                    "Ice": 1.6,
+                    "Poison": 1.6,
+                    "Steel": 1.6
                 },
                 "weather": [
+                    "cloudy",
                     "windy"
                 ],
                 "cpRange": [
@@ -166,19 +167,19 @@
                         "name": "easy",
                         "friendshipLevel": 0,
                         "pokemonLevel": 20,
-                        "totalEstimator": 2.4780407
+                        "totalEstimator": 3.937823
                     },
                     "normal": {
                         "name": "normal",
                         "friendshipLevel": 3,
                         "pokemonLevel": 30,
-                        "totalEstimator": 1.7262006
+                        "totalEstimator": 2.788642
                     },
                     "hard": {
                         "name": "hard",
                         "friendshipLevel": 4,
                         "pokemonLevel": 40,
-                        "totalEstimator": 1.5292035
+                        "totalEstimator": 2.4521666
                     }
                 }
             },
@@ -906,12 +907,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "9bdeec488cd2dffb70e782521331bc256505f957308557a03864f403751061e13ba79503ae448e3fc5084d0844c65c7f054964505503977cb1eb0993afaeb38d"
+            "sha512": "6f4b59c4d735512acaa47304ff95e7f2ddb9e385c8346eaa6553efeb4989baaecf1ec70fc2009c6ced3c913a4adff008953c14c0e84f70933fe1e7cd52160320"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "8e61d80d163e1802c11897a473ed529a98e566bef5064c9faaee6e72cc7ad9fb2ab4373740e57336fc1a0c49263927207ca1f12a0f7c8738fa1c8e4665e41bbf"
+            "sha512": "2025b6aaeef89debbe4ce722b0c04c39201a0fb4f2415bb4c132c732e081849a5fe46fe4cfb71f4313ab8de98949e1b268629b1eb50e5a4e1e118192336d3815"
         }
     }
 }
