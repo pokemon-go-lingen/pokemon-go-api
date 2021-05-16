@@ -2,123 +2,124 @@
     "currentList": {
         "mega": [
             {
-                "id": "VENUSAUR",
-                "form": "VENUSAUR_MEGA",
+                "id": "AMPHAROS",
+                "form": "AMPHAROS_MEGA",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_003_51.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_003_51_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_181_51.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_181_51_shiny.png"
                 },
                 "level": "mega",
                 "names": {
-                    "English": "Mega Venusaur",
-                    "German": "Mega-Bisaflor",
-                    "French": "M\u00e9ga-Florizarre",
-                    "Italian": "MegaVenusaur",
-                    "Japanese": "\u30e1\u30ac\u30d5\u30b7\u30ae\u30d0\u30ca",
-                    "Korean": "\uba54\uac00\uc774\uc0c1\ud574\uaf43",
-                    "Spanish": "Mega-Venusaur"
+                    "English": "Mega Ampharos",
+                    "German": "Mega-Ampharos",
+                    "French": "M\u00e9ga-Pharamp",
+                    "Italian": "MegaAmpharos",
+                    "Japanese": "\u30e1\u30ac\u30c7\u30f3\u30ea\u30e5\u30a6",
+                    "Korean": "\uba54\uac00\uc804\ub8e1",
+                    "Spanish": "Mega-Ampharos"
                 },
                 "shiny": true,
                 "types": [
-                    "Grass",
-                    "Poison"
+                    "Electric",
+                    "Dragon"
                 ],
                 "counter": {
-                    "Fire": 1.6,
-                    "Flying": 1.6,
-                    "Ice": 1.6,
-                    "Psychic": 1.6
+                    "Dragon": 1.6,
+                    "Fairy": 1.6,
+                    "Ground": 1.6,
+                    "Ice": 1.6
                 },
                 "weather": [
-                    "sunny",
-                    "cloudy"
+                    "rain",
+                    "windy"
                 ],
                 "cpRange": [
-                    1480,
-                    1554
+                    1554,
+                    1630
                 ],
                 "cpRangeBoost": [
-                    1851,
-                    1943
+                    1943,
+                    2037
                 ],
                 "battleResult": {
                     "easy": {
                         "name": "easy",
                         "friendshipLevel": 0,
                         "pokemonLevel": 20,
-                        "totalEstimator": 3.953046
+                        "totalEstimator": 3.5159254
                     },
                     "normal": {
                         "name": "normal",
                         "friendshipLevel": 3,
                         "pokemonLevel": 30,
-                        "totalEstimator": 2.8185785
+                        "totalEstimator": 2.4146779
                     },
                     "hard": {
                         "name": "hard",
                         "friendshipLevel": 4,
                         "pokemonLevel": 40,
-                        "totalEstimator": 2.4571354
+                        "totalEstimator": 2.0920098
                     }
                 }
             },
             {
-                "id": "CHARIZARD",
-                "form": "CHARIZARD_MEGA_Y",
+                "id": "HOUNDOOM",
+                "form": "HOUNDOOM_MEGA",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_006_52.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_006_52_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_229_51.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_229_51_shiny.png"
                 },
                 "level": "mega",
                 "names": {
-                    "English": "Mega Charizard Y",
-                    "German": "Mega-Glurak Y",
-                    "French": "M\u00e9ga-Dracaufeu Y",
-                    "Italian": "MegaCharizard Y",
-                    "Japanese": "\u30e1\u30ac\u30ea\u30b6\u30fc\u30c9\u30f3\uff39",
-                    "Korean": "\uba54\uac00\ub9ac\uc790\ubabdY",
-                    "Spanish": "Mega-Charizard Y"
+                    "English": "Mega Houndoom",
+                    "German": "Mega-Hundemon",
+                    "French": "M\u00e9ga-D\u00e9molosse",
+                    "Italian": "MegaHoundoom",
+                    "Japanese": "\u30e1\u30ac\u30d8\u30eb\u30ac\u30fc",
+                    "Korean": "\uba54\uac00\ud5ec\uac00",
+                    "Spanish": "Mega-Houndoom"
                 },
                 "shiny": true,
                 "types": [
-                    "Fire",
-                    "Flying"
+                    "Dark",
+                    "Fire"
                 ],
                 "counter": {
-                    "Rock": 2.56,
-                    "Electric": 1.6,
+                    "Fighting": 1.6,
+                    "Ground": 1.6,
+                    "Rock": 1.6,
                     "Water": 1.6
                 },
                 "weather": [
                     "sunny",
-                    "windy"
+                    "fog"
                 ],
                 "cpRange": [
-                    1574,
-                    1651
+                    1432,
+                    1505
                 ],
                 "cpRangeBoost": [
-                    1968,
-                    2064
+                    1790,
+                    1882
                 ],
                 "battleResult": {
                     "easy": {
                         "name": "easy",
                         "friendshipLevel": 0,
                         "pokemonLevel": 20,
-                        "totalEstimator": 2.6937306
+                        "totalEstimator": 3.5599594
                     },
                     "normal": {
                         "name": "normal",
                         "friendshipLevel": 3,
                         "pokemonLevel": 30,
-                        "totalEstimator": 1.8565016
+                        "totalEstimator": 2.430453
                     },
                     "hard": {
                         "name": "hard",
                         "friendshipLevel": 4,
                         "pokemonLevel": 40,
-                        "totalEstimator": 1.6120206
+                        "totalEstimator": 2.1229146
                     }
                 }
             },
@@ -139,7 +140,7 @@
                     "Korean": "\uba54\uac00\ud30c\ube44\ucf54\ub9ac",
                     "Spanish": "Mega-Altaria"
                 },
-                "shiny": false,
+                "shiny": true,
                 "types": [
                     "Dragon",
                     "Fairy"
@@ -180,67 +181,6 @@
                         "friendshipLevel": 4,
                         "pokemonLevel": 40,
                         "totalEstimator": 2.4521666
-                    }
-                }
-            },
-            {
-                "id": "LOPUNNY",
-                "form": "LOPUNNY_MEGA",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_428_51.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_428_51_shiny.png"
-                },
-                "level": "mega",
-                "names": {
-                    "English": "Mega Lopunny",
-                    "German": "Mega-Schlapor",
-                    "French": "M\u00e9ga-Lockpin",
-                    "Italian": "MegaLopunny",
-                    "Japanese": "\u30e1\u30ac\u30df\u30df\u30ed\u30c3\u30d7",
-                    "Korean": "\uba54\uac00\uc774\uc5b4\ub86d",
-                    "Spanish": "Mega-Lopunny"
-                },
-                "shiny": true,
-                "types": [
-                    "Normal",
-                    "Fighting"
-                ],
-                "counter": {
-                    "Fairy": 1.6,
-                    "Fighting": 1.6,
-                    "Flying": 1.6,
-                    "Psychic": 1.6
-                },
-                "weather": [
-                    "partlycloudy_day",
-                    "cloudy"
-                ],
-                "cpRange": [
-                    1112,
-                    1177
-                ],
-                "cpRangeBoost": [
-                    1391,
-                    1471
-                ],
-                "battleResult": {
-                    "easy": {
-                        "name": "easy",
-                        "friendshipLevel": 0,
-                        "pokemonLevel": 20,
-                        "totalEstimator": 3.8764598
-                    },
-                    "normal": {
-                        "name": "normal",
-                        "friendshipLevel": 3,
-                        "pokemonLevel": 30,
-                        "totalEstimator": 2.6552784
-                    },
-                    "hard": {
-                        "name": "hard",
-                        "friendshipLevel": 4,
-                        "pokemonLevel": 40,
-                        "totalEstimator": 2.2733634
                     }
                 }
             }
@@ -907,12 +847,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "6f4b59c4d735512acaa47304ff95e7f2ddb9e385c8346eaa6553efeb4989baaecf1ec70fc2009c6ced3c913a4adff008953c14c0e84f70933fe1e7cd52160320"
+            "sha512": "ae1c9e8f6204453fe130b4fc2c7298d4f718444aff535466d6271c1136973448406c07701e9face0fea0783fff45d3fbe1f09f1c6f5ee5ca5fd7bb03d9ba0a01"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "2025b6aaeef89debbe4ce722b0c04c39201a0fb4f2415bb4c132c732e081849a5fe46fe4cfb71f4313ab8de98949e1b268629b1eb50e5a4e1e118192336d3815"
+            "sha512": "be27c1586175e2367e529420462c94e22a5a25ca3d2ca542051749c962342c17d68680c809f56a06c4add880655115934eb4104e239255fe178fd21e42b37b33"
         }
     }
 }
