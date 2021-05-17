@@ -247,39 +247,6 @@
                     "targetDefenseStatsChange": null
                 }
             }
-        },
-        "OUTRAGE": {
-            "id": "OUTRAGE",
-            "power": 110,
-            "energy": -50,
-            "durationMs": 3900,
-            "type": {
-                "type": "POKEMON_TYPE_DRAGON",
-                "names": {
-                    "English": "Dragon",
-                    "German": "Drache",
-                    "French": "Dragon",
-                    "Italian": "Drago",
-                    "Japanese": "\u30c9\u30e9\u30b4\u30f3",
-                    "Korean": "\ub4dc\ub798\uace4",
-                    "Spanish": "Drag\u00f3n"
-                }
-            },
-            "names": {
-                "English": "Outrage",
-                "German": "Wutanfall",
-                "French": "Col\u00e8re",
-                "Italian": "Oltraggio",
-                "Japanese": "\u3052\u304d\u308a\u3093",
-                "Korean": "\uc5ed\ub9b0",
-                "Spanish": "Enfado"
-            },
-            "combat": {
-                "energy": -60,
-                "power": 110,
-                "turns": 1,
-                "buffs": null
-            }
         }
     },
     "eliteQuickMoves": [],
