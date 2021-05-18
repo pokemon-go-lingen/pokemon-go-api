@@ -177,7 +177,7 @@
         "rewards": [
             {
                 "id": "ZIGZAGOON_GALARIAN",
-                "shiny": true,
+                "shiny": false,
                 "name": {
                     "English": "Galarian Zigzagoon",
                     "German": "Galar-Zigzachs",
