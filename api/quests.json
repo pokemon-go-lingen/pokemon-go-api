@@ -166,6 +166,40 @@
     },
     {
         "quest": {
+            "English": "Defeat a Team GO Rocket Leader",
+            "German": "Besiege einen Team GO Rocket-Boss.",
+            "French": "Bats un chef de la Team\u00a0GO Rocket",
+            "Italian": "Sconfiggi un leader del Team GO Rocket",
+            "Japanese": "GO\u30ed\u30b1\u30c3\u30c8\u56e3\u30ea\u30fc\u30c0\u30fc\u3068\u306e\u30d0\u30c8\u30eb\u30671\u56de\u52dd\u3064",
+            "Korean": "GO\ub85c\ucf13\ub2e8 \ub9ac\ub354\uc640 \ubc30\ud2c0\uc5d0\uc11c 1\ubc88 \uc774\uae34\ub2e4",
+            "Spanish": "Derrota a un l\u00edder del Team GO Rocket"
+        },
+        "rewards": [
+            {
+                "id": "ZIGZAGOON_GALARIAN",
+                "shiny": true,
+                "name": {
+                    "English": "Galarian Zigzagoon",
+                    "German": "Galar-Zigzachs",
+                    "French": "Zigzaton de Galar",
+                    "Italian": "Zigzagoon di Galar",
+                    "Japanese": "\u30ac\u30e9\u30eb \u30b8\u30b0\u30b6\u30b0\u30de",
+                    "Korean": "\uac00\ub77c\ub974 \uc9c0\uadf8\uc81c\uad6c\ub9ac",
+                    "Spanish": "Zigzagoon de Galar"
+                },
+                "cpRange": [
+                    193,
+                    218
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_263_31.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_263_31_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
             "English": "Defeat 5 Team GO Rocket Grunts",
             "German": "Besiege 5 Team GO Rocket-R\u00fcpel.",
             "French": "Bats 5 Sbires de la Team GO Rocket\u00a0",
