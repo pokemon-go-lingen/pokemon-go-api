@@ -187,63 +187,6 @@
         ],
         "lvl5": [
             {
-                "id": "XERNEAS",
-                "form": "XERNEAS",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_716_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_716_00_shiny.png"
-                },
-                "level": "lvl5",
-                "names": {
-                    "English": "Xerneas",
-                    "German": "Xerneas",
-                    "French": "Xerneas",
-                    "Italian": "Xerneas",
-                    "Japanese": "\u30bc\u30eb\u30cd\u30a2\u30b9",
-                    "Korean": "\uc81c\ub974\ub124\uc544\uc2a4",
-                    "Spanish": "Xerneas"
-                },
-                "shiny": false,
-                "types": [
-                    "Fairy"
-                ],
-                "counter": {
-                    "Poison": 1.6,
-                    "Steel": 1.6
-                },
-                "weather": [
-                    "cloudy"
-                ],
-                "cpRange": [
-                    2073,
-                    2160
-                ],
-                "cpRangeBoost": [
-                    2591,
-                    2701
-                ],
-                "battleResult": {
-                    "easy": {
-                        "name": "easy",
-                        "friendshipLevel": 0,
-                        "pokemonLevel": 20,
-                        "totalEstimator": 3.450822
-                    },
-                    "normal": {
-                        "name": "normal",
-                        "friendshipLevel": 3,
-                        "pokemonLevel": 30,
-                        "totalEstimator": 2.4422843
-                    },
-                    "hard": {
-                        "name": "hard",
-                        "friendshipLevel": 4,
-                        "pokemonLevel": 40,
-                        "totalEstimator": 2.1642506
-                    }
-                }
-            },
-            {
                 "id": "YVELTAL",
                 "form": "YVELTAL",
                 "assets": {
@@ -799,12 +742,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "61a3b6c98d0ba4ffea4eaeab45e931aa8ca87eb90aacb5a6dad9081f82927a368e9b99c58ea883ea3202974900e970431f423c451a8ecf62f487271857e04a32"
+            "sha512": "d76fbc83fa35a6fdcedc973aa84854906611bfae8c398ce0f02a6a919e455e03027951b50641a47eb191f86f1d8e51cee37a344f453bba1148f2aa12daaddafc"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "562a9c1c07514aad71a589fa5117036840f9fbaa4a7a4767bf5d691be3883196d820da7cb1ca6da822c1c58843ab66ffc94afc277cd8a3dbe768d1e8d3b882fa"
+            "sha512": "fa54e96f011d23ecf55608815f6a63d88543cbaa6db2ba7cb397598ee8735f411f6235c4ad08eeed286aeaddb648f7d0867ee83657c1398592f9629bcace8348"
         }
     }
 }
