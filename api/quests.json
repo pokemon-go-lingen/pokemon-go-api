@@ -323,61 +323,6 @@
     },
     {
         "quest": {
-            "English": "Catch 5 Fairy-type Pok\u00e9mon",
-            "German": "Fange 5 Pok\u00e9mon vom Typ Fee.",
-            "French": "Attrape 5\u00a0Pok\u00e9mon de type F\u00e9e",
-            "Italian": "Cattura 5 Pok\u00e9mon di tipo Folletto",
-            "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc\u30bf\u30a4\u30d7\u306e\u30dd\u30b1\u30e2\u30f3\u30925\u5339\u6355\u307e\u3048\u308b",
-            "Korean": "\ud398\uc5b4\ub9ac\ud0c0\uc785 \ud3ec\ucf13\ubaac\uc744 5\ub9c8\ub9ac \uc7a1\ub294\ub2e4",
-            "Spanish": "Captura 5 Pok\u00e9mon de tipo Hada"
-        },
-        "rewards": [
-            {
-                "id": "CLEFAIRY",
-                "shiny": true,
-                "name": {
-                    "English": "Clefairy",
-                    "German": "Piepi",
-                    "French": "M\u00e9lof\u00e9e",
-                    "Italian": "Clefairy",
-                    "Japanese": "\u30d4\u30c3\u30d4",
-                    "Korean": "\uc090\uc090",
-                    "Spanish": "Clefairy"
-                },
-                "cpRange": [
-                    458,
-                    495
-                ],
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_035_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_035_00_shiny.png"
-                }
-            },
-            {
-                "id": "SNUBBULL",
-                "shiny": true,
-                "name": {
-                    "English": "Snubbull",
-                    "German": "Snubbull",
-                    "French": "Snubbull",
-                    "Italian": "Snubbull",
-                    "Japanese": "\u30d6\u30eb\u30fc",
-                    "Korean": "\ube14\ub8e8",
-                    "Spanish": "Snubbull"
-                },
-                "cpRange": [
-                    492,
-                    530
-                ],
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_209_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_209_00_shiny.png"
-                }
-            }
-        ]
-    },
-    {
-        "quest": {
             "English": "Catch 10 Pok\u00e9mon",
             "German": "Fange 10 Pok\u00e9mon.",
             "French": "Attrape 10\u00a0Pok\u00e9mon",
@@ -508,6 +453,40 @@
                 "assets": {
                     "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_163_00.png",
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_163_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Catch 5 Fairy-type Pok\u00e9mon",
+            "German": "Fange 5 Pok\u00e9mon vom Typ Fee.",
+            "French": "Attrape 5\u00a0Pok\u00e9mon de type F\u00e9e",
+            "Italian": "Cattura 5 Pok\u00e9mon di tipo Folletto",
+            "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc\u30bf\u30a4\u30d7\u306e\u30dd\u30b1\u30e2\u30f3\u30925\u5339\u6355\u307e\u3048\u308b",
+            "Korean": "\ud398\uc5b4\ub9ac\ud0c0\uc785 \ud3ec\ucf13\ubaac\uc744 5\ub9c8\ub9ac \uc7a1\ub294\ub2e4",
+            "Spanish": "Captura 5 Pok\u00e9mon de tipo Hada"
+        },
+        "rewards": [
+            {
+                "id": "CLEFAIRY",
+                "shiny": true,
+                "name": {
+                    "English": "Clefairy",
+                    "German": "Piepi",
+                    "French": "M\u00e9lof\u00e9e",
+                    "Italian": "Clefairy",
+                    "Japanese": "\u30d4\u30c3\u30d4",
+                    "Korean": "\uc090\uc090",
+                    "Spanish": "Clefairy"
+                },
+                "cpRange": [
+                    458,
+                    495
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_035_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_035_00_shiny.png"
                 }
             }
         ]
