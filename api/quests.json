@@ -1,6 +1,61 @@
 [
     {
         "quest": {
+            "English": "Earn 5 hearts with your buddy",
+            "German": "Verdiene 5 Herzen mit deinem Kumpel.",
+            "French": "Gagne 5\u00a0c\u0153urs avec ton copain",
+            "Italian": "Guadagna 5 cuori con il tuo compagno",
+            "Japanese": "\u76f8\u68d2\u306e\u30cf\u30fc\u30c8\u30dd\u30a4\u30f3\u30c8\u30925\u500b\u7372\u5f97\u3059\u308b",
+            "Korean": "\ud558\ud2b8\ub97c 5\uac1c \ud68d\ub4dd",
+            "Spanish": "Consigue 5 corazones con tu compa\u00f1ero"
+        },
+        "rewards": [
+            {
+                "id": "CLEFAIRY",
+                "shiny": true,
+                "name": {
+                    "English": "Clefairy",
+                    "German": "Piepi",
+                    "French": "M\u00e9lof\u00e9e",
+                    "Italian": "Clefairy",
+                    "Japanese": "\u30d4\u30c3\u30d4",
+                    "Korean": "\uc090\uc090",
+                    "Spanish": "Clefairy"
+                },
+                "cpRange": [
+                    458,
+                    495
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_035_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_035_00_shiny.png"
+                }
+            },
+            {
+                "id": "JIGGLYPUFF",
+                "shiny": true,
+                "name": {
+                    "English": "Jigglypuff",
+                    "German": "Pummeluff",
+                    "French": "Rondoudou",
+                    "Italian": "Jigglypuff",
+                    "Japanese": "\u30d7\u30ea\u30f3",
+                    "Korean": "\ud478\ub9b0",
+                    "Spanish": "Jigglypuff"
+                },
+                "cpRange": [
+                    277,
+                    310
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_039_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_039_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
             "English": "Take a snapshot of a Fairy-type Pok\u00e9mon",
             "German": "Mache einen Schnappschuss von einem Pok\u00e9mon vom Typ Fee.",
             "French": "Prends une\u00a0photo d\u2019un Pok\u00e9mon de type F\u00e9e",
@@ -165,40 +220,6 @@
                 "assets": {
                     "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_263_31.png",
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_263_31_shiny.png"
-                }
-            }
-        ]
-    },
-    {
-        "quest": {
-            "English": "Earn 5 hearts with your buddy",
-            "German": "Verdiene 5 Herzen mit deinem Kumpel.",
-            "French": "Gagne 5\u00a0c\u0153urs avec ton copain",
-            "Italian": "Guadagna 5 cuori con il tuo compagno",
-            "Japanese": "\u76f8\u68d2\u306e\u30cf\u30fc\u30c8\u30dd\u30a4\u30f3\u30c8\u30925\u500b\u7372\u5f97\u3059\u308b",
-            "Korean": "\ud558\ud2b8\ub97c 5\uac1c \ud68d\ub4dd",
-            "Spanish": "Consigue 5 corazones con tu compa\u00f1ero"
-        },
-        "rewards": [
-            {
-                "id": "CLEFAIRY",
-                "shiny": true,
-                "name": {
-                    "English": "Clefairy",
-                    "German": "Piepi",
-                    "French": "M\u00e9lof\u00e9e",
-                    "Italian": "Clefairy",
-                    "Japanese": "\u30d4\u30c3\u30d4",
-                    "Korean": "\uc090\uc090",
-                    "Spanish": "Clefairy"
-                },
-                "cpRange": [
-                    458,
-                    495
-                ],
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_035_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_035_00_shiny.png"
                 }
             }
         ]
