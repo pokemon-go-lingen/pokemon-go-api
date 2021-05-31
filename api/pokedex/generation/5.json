@@ -178,7 +178,7 @@
                 },
                 "combat": {
                     "energy": -75,
-                    "power": 140,
+                    "power": 150,
                     "turns": 1,
                     "buffs": null
                 }
@@ -1614,7 +1614,7 @@
                 },
                 "combat": {
                     "energy": -75,
-                    "power": 140,
+                    "power": 150,
                     "turns": 1,
                     "buffs": null
                 }
@@ -8844,7 +8844,7 @@
                 },
                 "combat": {
                     "energy": 7,
-                    "power": 6,
+                    "power": 7,
                     "turns": 2,
                     "buffs": null
                 }
@@ -9056,7 +9056,7 @@
                 },
                 "combat": {
                     "energy": 7,
-                    "power": 6,
+                    "power": 7,
                     "turns": 2,
                     "buffs": null
                 }
@@ -9124,7 +9124,7 @@
                 },
                 "combat": {
                     "energy": -75,
-                    "power": 140,
+                    "power": 150,
                     "turns": 1,
                     "buffs": null
                 }
@@ -9979,7 +9979,7 @@
                 },
                 "combat": {
                     "energy": -75,
-                    "power": 140,
+                    "power": 150,
                     "turns": 1,
                     "buffs": null
                 }
@@ -10156,7 +10156,7 @@
                 },
                 "combat": {
                     "energy": 7,
-                    "power": 6,
+                    "power": 7,
                     "turns": 2,
                     "buffs": null
                 }
@@ -10191,7 +10191,7 @@
                 },
                 "combat": {
                     "energy": -75,
-                    "power": 140,
+                    "power": 150,
                     "turns": 1,
                     "buffs": null
                 }
@@ -11122,7 +11122,7 @@
                     "Spanish": "Picotazo Veneno"
                 },
                 "combat": {
-                    "energy": 8,
+                    "energy": 9,
                     "power": 3,
                     "turns": 2,
                     "buffs": null
@@ -11351,7 +11351,7 @@
                     "Spanish": "Picotazo Veneno"
                 },
                 "combat": {
-                    "energy": 8,
+                    "energy": 9,
                     "power": 3,
                     "turns": 2,
                     "buffs": null
@@ -11581,7 +11581,7 @@
                 },
                 "combat": {
                     "energy": 7,
-                    "power": 6,
+                    "power": 7,
                     "turns": 2,
                     "buffs": null
                 }
@@ -14262,7 +14262,7 @@
                 },
                 "combat": {
                     "energy": -75,
-                    "power": 140,
+                    "power": 150,
                     "turns": 1,
                     "buffs": null
                 }
@@ -15082,7 +15082,7 @@
                         },
                         "combat": {
                             "energy": -75,
-                            "power": 140,
+                            "power": 150,
                             "turns": 1,
                             "buffs": null
                         }
@@ -15274,7 +15274,7 @@
                 },
                 "combat": {
                     "energy": 7,
-                    "power": 6,
+                    "power": 7,
                     "turns": 2,
                     "buffs": null
                 }
@@ -15977,7 +15977,7 @@
                     "Spanish": "Bomba \u00c1cida"
                 },
                 "combat": {
-                    "energy": -50,
+                    "energy": -45,
                     "power": 20,
                     "turns": 1,
                     "buffs": {
@@ -16206,7 +16206,7 @@
                     "Spanish": "Bomba \u00c1cida"
                 },
                 "combat": {
-                    "energy": -50,
+                    "energy": -45,
                     "power": 20,
                     "turns": 1,
                     "buffs": {
@@ -18386,7 +18386,7 @@
                     "Spanish": "Bomba \u00c1cida"
                 },
                 "combat": {
-                    "energy": -50,
+                    "energy": -45,
                     "power": 20,
                     "turns": 1,
                     "buffs": {
@@ -24417,7 +24417,7 @@
                     "Spanish": "Bomba \u00c1cida"
                 },
                 "combat": {
-                    "energy": -50,
+                    "energy": -45,
                     "power": 20,
                     "turns": 1,
                     "buffs": {
@@ -26233,9 +26233,15 @@
                 },
                 "combat": {
                     "energy": -35,
-                    "power": 40,
+                    "power": 50,
                     "turns": 1,
-                    "buffs": null
+                    "buffs": {
+                        "activationChance": 12,
+                        "attackerAttackStatsChange": 2,
+                        "attackerDefenseStatsChange": null,
+                        "targetAttackStatsChange": null,
+                        "targetDefenseStatsChange": null
+                    }
                 }
             },
             "BUG_BUZZ": {
@@ -26462,9 +26468,15 @@
                 },
                 "combat": {
                     "energy": -35,
-                    "power": 40,
+                    "power": 50,
                     "turns": 1,
-                    "buffs": null
+                    "buffs": {
+                        "activationChance": 12,
+                        "attackerAttackStatsChange": 2,
+                        "attackerDefenseStatsChange": null,
+                        "targetAttackStatsChange": null,
+                        "targetDefenseStatsChange": null
+                    }
                 }
             },
             "BUG_BUZZ": {
@@ -27057,7 +27069,7 @@
                     "Spanish": "Bomba \u00c1cida"
                 },
                 "combat": {
-                    "energy": -50,
+                    "energy": -45,
                     "power": 20,
                     "turns": 1,
                     "buffs": {
@@ -28380,7 +28392,7 @@
                     "Spanish": "Bomba \u00c1cida"
                 },
                 "combat": {
-                    "energy": -50,
+                    "energy": -45,
                     "power": 20,
                     "turns": 1,
                     "buffs": {
@@ -29910,8 +29922,8 @@
                     "Spanish": "Cola Drag\u00f3n"
                 },
                 "combat": {
-                    "energy": 10,
-                    "power": 9,
+                    "energy": 9,
+                    "power": 13,
                     "turns": 3,
                     "buffs": null
                 }
@@ -30128,8 +30140,8 @@
                     "Spanish": "Cola Drag\u00f3n"
                 },
                 "combat": {
-                    "energy": 10,
-                    "power": 9,
+                    "energy": 9,
+                    "power": 13,
                     "turns": 3,
                     "buffs": null
                 }
@@ -31396,7 +31408,7 @@
                     "Spanish": "Bomba \u00c1cida"
                 },
                 "combat": {
-                    "energy": -50,
+                    "energy": -45,
                     "power": 20,
                     "turns": 1,
                     "buffs": {
@@ -31475,7 +31487,7 @@
                 },
                 "combat": {
                     "energy": -75,
-                    "power": 140,
+                    "power": 150,
                     "turns": 1,
                     "buffs": null
                 }
@@ -32178,7 +32190,7 @@
                 },
                 "combat": {
                     "energy": -75,
-                    "power": 140,
+                    "power": 150,
                     "turns": 1,
                     "buffs": null
                 }
@@ -32289,7 +32301,7 @@
                 },
                 "combat": {
                     "energy": 7,
-                    "power": 6,
+                    "power": 7,
                     "turns": 2,
                     "buffs": null
                 }
@@ -32467,8 +32479,8 @@
                     "Spanish": "Cola Drag\u00f3n"
                 },
                 "combat": {
-                    "energy": 10,
-                    "power": 9,
+                    "energy": 9,
+                    "power": 13,
                     "turns": 3,
                     "buffs": null
                 }
@@ -33545,7 +33557,7 @@
                 },
                 "combat": {
                     "energy": -75,
-                    "power": 140,
+                    "power": 150,
                     "turns": 1,
                     "buffs": null
                 }
@@ -37571,7 +37583,7 @@
                         },
                         "combat": {
                             "energy": -75,
-                            "power": 140,
+                            "power": 150,
                             "turns": 1,
                             "buffs": null
                         }
@@ -38088,7 +38100,7 @@
                         },
                         "combat": {
                             "energy": -75,
-                            "power": 140,
+                            "power": 150,
                             "turns": 1,
                             "buffs": null
                         }
@@ -38922,7 +38934,7 @@
                 },
                 "combat": {
                     "energy": -75,
-                    "power": 140,
+                    "power": 150,
                     "turns": 1,
                     "buffs": null
                 }
@@ -39502,8 +39514,8 @@
                             "Spanish": "Cola Drag\u00f3n"
                         },
                         "combat": {
-                            "energy": 10,
-                            "power": 9,
+                            "energy": 9,
+                            "power": 13,
                             "turns": 3,
                             "buffs": null
                         }
@@ -39931,7 +39943,7 @@
                         },
                         "combat": {
                             "energy": -75,
-                            "power": 140,
+                            "power": 150,
                             "turns": 1,
                             "buffs": null
                         }
@@ -40029,7 +40041,7 @@
                 },
                 "combat": {
                     "energy": 7,
-                    "power": 6,
+                    "power": 7,
                     "turns": 2,
                     "buffs": null
                 }
@@ -40287,7 +40299,7 @@
                         },
                         "combat": {
                             "energy": 7,
-                            "power": 6,
+                            "power": 7,
                             "turns": 2,
                             "buffs": null
                         }

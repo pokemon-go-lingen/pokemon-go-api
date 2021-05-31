@@ -7355,7 +7355,7 @@
                 },
                 "combat": {
                     "energy": 7,
-                    "power": 6,
+                    "power": 7,
                     "turns": 2,
                     "buffs": null
                 }
@@ -7574,7 +7574,7 @@
                         },
                         "combat": {
                             "energy": 7,
-                            "power": 6,
+                            "power": 7,
                             "turns": 2,
                             "buffs": null
                         }
@@ -7823,7 +7823,7 @@
                 },
                 "combat": {
                     "energy": 7,
-                    "power": 6,
+                    "power": 7,
                     "turns": 2,
                     "buffs": null
                 }
@@ -7989,7 +7989,7 @@
                     "Spanish": "Bomba \u00c1cida"
                 },
                 "combat": {
-                    "energy": -50,
+                    "energy": -45,
                     "power": 20,
                     "turns": 1,
                     "buffs": {
@@ -8148,7 +8148,7 @@
                         },
                         "combat": {
                             "energy": 7,
-                            "power": 6,
+                            "power": 7,
                             "turns": 2,
                             "buffs": null
                         }
@@ -8314,7 +8314,7 @@
                             "Spanish": "Bomba \u00c1cida"
                         },
                         "combat": {
-                            "energy": -50,
+                            "energy": -45,
                             "power": 20,
                             "turns": 1,
                             "buffs": {
@@ -8738,8 +8738,8 @@
                             "Spanish": "Cola Drag\u00f3n"
                         },
                         "combat": {
-                            "energy": 10,
-                            "power": 9,
+                            "energy": 9,
+                            "power": 13,
                             "turns": 3,
                             "buffs": null
                         }

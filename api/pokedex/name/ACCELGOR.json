@@ -165,7 +165,7 @@
                 "Spanish": "Bomba \u00c1cida"
             },
             "combat": {
-                "energy": -50,
+                "energy": -45,
                 "power": 20,
                 "turns": 1,
                 "buffs": {
@@ -244,7 +244,7 @@
             },
             "combat": {
                 "energy": -75,
-                "power": 140,
+                "power": 150,
                 "turns": 1,
                 "buffs": null
             }

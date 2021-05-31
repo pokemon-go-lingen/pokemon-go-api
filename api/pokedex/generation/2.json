@@ -3571,7 +3571,7 @@
                     "Spanish": "Picotazo Veneno"
                 },
                 "combat": {
-                    "energy": 8,
+                    "energy": 9,
                     "power": 3,
                     "turns": 2,
                     "buffs": null
@@ -3718,9 +3718,15 @@
                 },
                 "combat": {
                     "energy": -35,
-                    "power": 40,
+                    "power": 50,
                     "turns": 1,
-                    "buffs": null
+                    "buffs": {
+                        "activationChance": 12,
+                        "attackerAttackStatsChange": 2,
+                        "attackerDefenseStatsChange": null,
+                        "targetAttackStatsChange": null,
+                        "targetDefenseStatsChange": null
+                    }
                 }
             }
         },
@@ -3806,7 +3812,7 @@
                     "Spanish": "Picotazo Veneno"
                 },
                 "combat": {
-                    "energy": 8,
+                    "energy": 9,
                     "power": 3,
                     "turns": 2,
                     "buffs": null
@@ -3941,9 +3947,54 @@
                 },
                 "combat": {
                     "energy": -35,
-                    "power": 40,
+                    "power": 50,
                     "turns": 1,
-                    "buffs": null
+                    "buffs": {
+                        "activationChance": 12,
+                        "attackerAttackStatsChange": 2,
+                        "attackerDefenseStatsChange": null,
+                        "targetAttackStatsChange": null,
+                        "targetDefenseStatsChange": null
+                    }
+                }
+            },
+            "LUNGE": {
+                "id": "LUNGE",
+                "power": 55,
+                "energy": -33,
+                "durationMs": 2900,
+                "type": {
+                    "type": "POKEMON_TYPE_BUG",
+                    "names": {
+                        "English": "Bug",
+                        "German": "K\u00e4fer",
+                        "French": "Insecte",
+                        "Italian": "Coleottero",
+                        "Japanese": "\u3080\u3057",
+                        "Korean": "\ubc8c\ub808",
+                        "Spanish": "Bicho"
+                    }
+                },
+                "names": {
+                    "English": "Lunge",
+                    "German": "Anfallen",
+                    "French": "Furie-Bond",
+                    "Italian": "Assalto",
+                    "Japanese": "\u3068\u3073\u304b\u304b\u308b",
+                    "Korean": "\ub364\ubcbc\ub4e4\uae30",
+                    "Spanish": "Plancha"
+                },
+                "combat": {
+                    "energy": -45,
+                    "power": 60,
+                    "turns": 1,
+                    "buffs": {
+                        "activationChance": 100,
+                        "attackerAttackStatsChange": null,
+                        "attackerDefenseStatsChange": null,
+                        "targetAttackStatsChange": -1,
+                        "targetDefenseStatsChange": null
+                    }
                 }
             }
         },
@@ -4167,6 +4218,84 @@
                     "power": 80,
                     "turns": 1,
                     "buffs": null
+                }
+            },
+            "POISON_FANG": {
+                "id": "POISON_FANG",
+                "power": 35,
+                "energy": -33,
+                "durationMs": 1700,
+                "type": {
+                    "type": "POKEMON_TYPE_POISON",
+                    "names": {
+                        "English": "Poison",
+                        "German": "Gift",
+                        "French": "Poison",
+                        "Italian": "Veleno",
+                        "Japanese": "\u3069\u304f",
+                        "Korean": "\ub3c5",
+                        "Spanish": "Veneno"
+                    }
+                },
+                "names": {
+                    "English": "Poison Fang",
+                    "German": "Giftzahn",
+                    "French": "Crochet Venin",
+                    "Italian": "Velenodenti",
+                    "Japanese": "\u3069\u304f\u3069\u304f\u306e\u30ad\u30d0",
+                    "Korean": "\ub3c5\uc5c4\ub2c8",
+                    "Spanish": "Colmillo Veneno"
+                },
+                "combat": {
+                    "energy": -35,
+                    "power": 40,
+                    "turns": 1,
+                    "buffs": {
+                        "activationChance": 100,
+                        "attackerAttackStatsChange": null,
+                        "attackerDefenseStatsChange": null,
+                        "targetAttackStatsChange": null,
+                        "targetDefenseStatsChange": -1
+                    }
+                }
+            },
+            "CROSS_POISON": {
+                "id": "CROSS_POISON",
+                "power": 40,
+                "energy": -33,
+                "durationMs": 1500,
+                "type": {
+                    "type": "POKEMON_TYPE_POISON",
+                    "names": {
+                        "English": "Poison",
+                        "German": "Gift",
+                        "French": "Poison",
+                        "Italian": "Veleno",
+                        "Japanese": "\u3069\u304f",
+                        "Korean": "\ub3c5",
+                        "Spanish": "Veneno"
+                    }
+                },
+                "names": {
+                    "English": "Cross Poison",
+                    "German": "Giftstreich",
+                    "French": "Poison Croix",
+                    "Italian": "Velenocroce",
+                    "Japanese": "\u30af\u30ed\u30b9\u30dd\u30a4\u30ba\u30f3",
+                    "Korean": "\ud06c\ub85c\uc2a4\ud3ec\uc774\uc98c",
+                    "Spanish": "Veneno X"
+                },
+                "combat": {
+                    "energy": -35,
+                    "power": 50,
+                    "turns": 1,
+                    "buffs": {
+                        "activationChance": 12,
+                        "attackerAttackStatsChange": 2,
+                        "attackerDefenseStatsChange": null,
+                        "targetAttackStatsChange": null,
+                        "targetDefenseStatsChange": null
+                    }
                 }
             }
         },
@@ -7038,7 +7167,7 @@
                 },
                 "combat": {
                     "energy": -75,
-                    "power": 140,
+                    "power": 150,
                     "turns": 1,
                     "buffs": null
                 }
@@ -10533,7 +10662,7 @@
                     "Spanish": "Bomba \u00c1cida"
                 },
                 "combat": {
-                    "energy": -50,
+                    "energy": -45,
                     "power": 20,
                     "turns": 1,
                     "buffs": {
@@ -13433,8 +13562,8 @@
                     "Spanish": "Cola Drag\u00f3n"
                 },
                 "combat": {
-                    "energy": 10,
-                    "power": 9,
+                    "energy": 9,
+                    "power": 13,
                     "turns": 3,
                     "buffs": null
                 }
@@ -14124,7 +14253,7 @@
                     "Spanish": "Picotazo Veneno"
                 },
                 "combat": {
-                    "energy": 8,
+                    "energy": 9,
                     "power": 3,
                     "turns": 2,
                     "buffs": null
@@ -14291,7 +14420,7 @@
                     "Spanish": "Bomba \u00c1cida"
                 },
                 "combat": {
-                    "energy": -50,
+                    "energy": -45,
                     "power": 20,
                     "turns": 1,
                     "buffs": {
@@ -17313,7 +17442,7 @@
                     "Spanish": "Bomba \u00c1cida"
                 },
                 "combat": {
-                    "energy": -50,
+                    "energy": -45,
                     "power": 20,
                     "turns": 1,
                     "buffs": {
@@ -23342,8 +23471,8 @@
                     "Spanish": "Cola Drag\u00f3n"
                 },
                 "combat": {
-                    "energy": 10,
-                    "power": 9,
+                    "energy": 9,
+                    "power": 13,
                     "turns": 3,
                     "buffs": null
                 }

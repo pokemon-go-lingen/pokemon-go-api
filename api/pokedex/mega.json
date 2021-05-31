@@ -1733,7 +1733,7 @@
                 },
                 "combat": {
                     "energy": 7,
-                    "power": 6,
+                    "power": 7,
                     "turns": 2,
                     "buffs": null
                 }
@@ -2220,6 +2220,45 @@
                         "targetDefenseStatsChange": null
                     }
                 }
+            },
+            "FEATHER_DANCE": {
+                "id": "FEATHER_DANCE",
+                "power": 35,
+                "energy": -50,
+                "durationMs": 2800,
+                "type": {
+                    "type": "POKEMON_TYPE_FLYING",
+                    "names": {
+                        "English": "Flying",
+                        "German": "Flug",
+                        "French": "Vol",
+                        "Italian": "Volante",
+                        "Japanese": "\u3072\u3053\u3046",
+                        "Korean": "\ube44\ud589",
+                        "Spanish": "Volador"
+                    }
+                },
+                "names": {
+                    "English": "Feather Dance",
+                    "German": "Daunenreigen",
+                    "French": "Danse Plumes",
+                    "Italian": "Danzadipiume",
+                    "Japanese": "\u30d5\u30a7\u30b6\u30fc\u30c0\u30f3\u30b9",
+                    "Korean": "\uae43\ud138\ub304\uc2a4",
+                    "Spanish": "Danza Pluma"
+                },
+                "combat": {
+                    "energy": -45,
+                    "power": 35,
+                    "turns": 1,
+                    "buffs": {
+                        "activationChance": 100,
+                        "attackerAttackStatsChange": null,
+                        "attackerDefenseStatsChange": null,
+                        "targetAttackStatsChange": -2,
+                        "targetDefenseStatsChange": null
+                    }
+                }
             }
         },
         "eliteQuickMoves": {
@@ -2586,7 +2625,7 @@
                 },
                 "combat": {
                     "energy": -75,
-                    "power": 140,
+                    "power": 150,
                     "turns": 1,
                     "buffs": null
                 }
@@ -3170,8 +3209,8 @@
                     "Spanish": "Cola Drag\u00f3n"
                 },
                 "combat": {
-                    "energy": 10,
-                    "power": 9,
+                    "energy": 9,
+                    "power": 13,
                     "turns": 3,
                     "buffs": null
                 }
@@ -3467,7 +3506,7 @@
                 },
                 "combat": {
                     "energy": -75,
-                    "power": 140,
+                    "power": 150,
                     "turns": 1,
                     "buffs": null
                 }
@@ -4727,7 +4766,7 @@
                 },
                 "combat": {
                     "energy": -75,
-                    "power": 140,
+                    "power": 150,
                     "turns": 1,
                     "buffs": null
                 }

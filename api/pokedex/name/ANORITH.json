@@ -138,9 +138,15 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 40,
+                "power": 50,
                 "turns": 1,
-                "buffs": null
+                "buffs": {
+                    "activationChance": 12,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         },
         "AQUA_JET": {

@@ -92,7 +92,7 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 6,
+                "power": 7,
                 "turns": 2,
                 "buffs": null
             }
@@ -258,7 +258,7 @@
                 "Spanish": "Bomba \u00c1cida"
             },
             "combat": {
-                "energy": -50,
+                "energy": -45,
                 "power": 20,
                 "turns": 1,
                 "buffs": {
@@ -417,7 +417,7 @@
                     },
                     "combat": {
                         "energy": 7,
-                        "power": 6,
+                        "power": 7,
                         "turns": 2,
                         "buffs": null
                     }
@@ -583,7 +583,7 @@
                         "Spanish": "Bomba \u00c1cida"
                     },
                     "combat": {
-                        "energy": -50,
+                        "energy": -45,
                         "power": 20,
                         "turns": 1,
                         "buffs": {

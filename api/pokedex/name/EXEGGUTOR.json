@@ -394,8 +394,8 @@
                         "Spanish": "Cola Drag\u00f3n"
                     },
                     "combat": {
-                        "energy": 10,
-                        "power": 9,
+                        "energy": 9,
+                        "power": 13,
                         "turns": 3,
                         "buffs": null
                     }

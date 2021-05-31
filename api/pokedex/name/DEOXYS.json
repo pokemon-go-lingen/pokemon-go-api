@@ -306,7 +306,7 @@
                     },
                     "combat": {
                         "energy": 7,
-                        "power": 6,
+                        "power": 7,
                         "turns": 2,
                         "buffs": null
                     }

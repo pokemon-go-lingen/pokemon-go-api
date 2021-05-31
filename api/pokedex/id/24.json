@@ -124,8 +124,8 @@
                 "Spanish": "Cola Drag\u00f3n"
             },
             "combat": {
-                "energy": 10,
-                "power": 9,
+                "energy": 9,
+                "power": 13,
                 "turns": 3,
                 "buffs": null
             }
@@ -258,7 +258,7 @@
                 "Spanish": "Bomba \u00c1cida"
             },
             "combat": {
-                "energy": -50,
+                "energy": -45,
                 "power": 20,
                 "turns": 1,
                 "buffs": {

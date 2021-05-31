@@ -69,7 +69,7 @@
                 "Spanish": "Picotazo Veneno"
             },
             "combat": {
-                "energy": 8,
+                "energy": 9,
                 "power": 3,
                 "turns": 2,
                 "buffs": null
@@ -204,9 +204,54 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 40,
+                "power": 50,
                 "turns": 1,
-                "buffs": null
+                "buffs": {
+                    "activationChance": 12,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
+            }
+        },
+        "LUNGE": {
+            "id": "LUNGE",
+            "power": 55,
+            "energy": -33,
+            "durationMs": 2900,
+            "type": {
+                "type": "POKEMON_TYPE_BUG",
+                "names": {
+                    "English": "Bug",
+                    "German": "K\u00e4fer",
+                    "French": "Insecte",
+                    "Italian": "Coleottero",
+                    "Japanese": "\u3080\u3057",
+                    "Korean": "\ubc8c\ub808",
+                    "Spanish": "Bicho"
+                }
+            },
+            "names": {
+                "English": "Lunge",
+                "German": "Anfallen",
+                "French": "Furie-Bond",
+                "Italian": "Assalto",
+                "Japanese": "\u3068\u3073\u304b\u304b\u308b",
+                "Korean": "\ub364\ubcbc\ub4e4\uae30",
+                "Spanish": "Plancha"
+            },
+            "combat": {
+                "energy": -45,
+                "power": 60,
+                "turns": 1,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": -1,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },

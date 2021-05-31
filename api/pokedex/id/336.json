@@ -59,7 +59,7 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 6,
+                "power": 7,
                 "turns": 2,
                 "buffs": null
             }
@@ -129,7 +129,13 @@
                 "energy": -35,
                 "power": 40,
                 "turns": 1,
-                "buffs": null
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         },
         "CRUNCH": {

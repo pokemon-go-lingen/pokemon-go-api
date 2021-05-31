@@ -70,7 +70,7 @@
             },
             "combat": {
                 "energy": 7,
-                "power": 6,
+                "power": 7,
                 "turns": 2,
                 "buffs": null
             }
@@ -241,6 +241,45 @@
                 "turns": 1,
                 "buffs": {
                     "activationChance": 10,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
+            }
+        },
+        "POISON_FANG": {
+            "id": "POISON_FANG",
+            "power": 35,
+            "energy": -33,
+            "durationMs": 1700,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Poison Fang",
+                "German": "Giftzahn",
+                "French": "Crochet Venin",
+                "Italian": "Velenodenti",
+                "Japanese": "\u3069\u304f\u3069\u304f\u306e\u30ad\u30d0",
+                "Korean": "\ub3c5\uc5c4\ub2c8",
+                "Spanish": "Colmillo Veneno"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 40,
+                "turns": 1,
+                "buffs": {
+                    "activationChance": 100,
                     "attackerAttackStatsChange": null,
                     "attackerDefenseStatsChange": null,
                     "targetAttackStatsChange": null,

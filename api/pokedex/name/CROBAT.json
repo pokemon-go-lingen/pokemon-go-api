@@ -208,6 +208,84 @@
                 "turns": 1,
                 "buffs": null
             }
+        },
+        "POISON_FANG": {
+            "id": "POISON_FANG",
+            "power": 35,
+            "energy": -33,
+            "durationMs": 1700,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Poison Fang",
+                "German": "Giftzahn",
+                "French": "Crochet Venin",
+                "Italian": "Velenodenti",
+                "Japanese": "\u3069\u304f\u3069\u304f\u306e\u30ad\u30d0",
+                "Korean": "\ub3c5\uc5c4\ub2c8",
+                "Spanish": "Colmillo Veneno"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 40,
+                "turns": 1,
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
+            }
+        },
+        "CROSS_POISON": {
+            "id": "CROSS_POISON",
+            "power": 40,
+            "energy": -33,
+            "durationMs": 1500,
+            "type": {
+                "type": "POKEMON_TYPE_POISON",
+                "names": {
+                    "English": "Poison",
+                    "German": "Gift",
+                    "French": "Poison",
+                    "Italian": "Veleno",
+                    "Japanese": "\u3069\u304f",
+                    "Korean": "\ub3c5",
+                    "Spanish": "Veneno"
+                }
+            },
+            "names": {
+                "English": "Cross Poison",
+                "German": "Giftstreich",
+                "French": "Poison Croix",
+                "Italian": "Velenocroce",
+                "Japanese": "\u30af\u30ed\u30b9\u30dd\u30a4\u30ba\u30f3",
+                "Korean": "\ud06c\ub85c\uc2a4\ud3ec\uc774\uc98c",
+                "Spanish": "Veneno X"
+            },
+            "combat": {
+                "energy": -35,
+                "power": 50,
+                "turns": 1,
+                "buffs": {
+                    "activationChance": 12,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
+            }
         }
     },
     "eliteQuickMoves": [],

@@ -261,7 +261,13 @@
                 "energy": -35,
                 "power": 40,
                 "turns": 1,
-                "buffs": null
+                "buffs": {
+                    "activationChance": 100,
+                    "attackerAttackStatsChange": null,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": -1
+                }
             }
         }
     },

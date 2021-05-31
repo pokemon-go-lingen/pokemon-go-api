@@ -4639,7 +4639,7 @@
                 },
                 "combat": {
                     "energy": 7,
-                    "power": 6,
+                    "power": 7,
                     "turns": 2,
                     "buffs": null
                 }
@@ -7346,7 +7346,7 @@
                     "Spanish": "Picotazo Veneno"
                 },
                 "combat": {
-                    "energy": 8,
+                    "energy": 9,
                     "power": 3,
                     "turns": 2,
                     "buffs": null
@@ -10898,7 +10898,7 @@
                 },
                 "combat": {
                     "energy": -75,
-                    "power": 140,
+                    "power": 150,
                     "turns": 1,
                     "buffs": null
                 }
@@ -12372,7 +12372,7 @@
                 },
                 "combat": {
                     "energy": 7,
-                    "power": 6,
+                    "power": 7,
                     "turns": 2,
                     "buffs": null
                 }
@@ -14684,8 +14684,8 @@
                     "Spanish": "Cola Drag\u00f3n"
                 },
                 "combat": {
-                    "energy": 10,
-                    "power": 9,
+                    "energy": 9,
+                    "power": 13,
                     "turns": 3,
                     "buffs": null
                 }
@@ -16126,6 +16126,39 @@
                         "targetDefenseStatsChange": -1
                     }
                 }
+            },
+            "WEATHER_BALL_ROCK": {
+                "id": "WEATHER_BALL_ROCK",
+                "power": 60,
+                "energy": -33,
+                "durationMs": 1600,
+                "type": {
+                    "type": "POKEMON_TYPE_ROCK",
+                    "names": {
+                        "English": "Rock",
+                        "German": "Gestein",
+                        "French": "Roche",
+                        "Italian": "Roccia",
+                        "Japanese": "\u3044\u308f",
+                        "Korean": "\ubc14\uc704",
+                        "Spanish": "Roca"
+                    }
+                },
+                "names": {
+                    "English": "Weather Ball",
+                    "German": "Meteorologe",
+                    "French": "Ball\u2019M\u00e9t\u00e9o",
+                    "Italian": "Palla Clima",
+                    "Japanese": "\u30a6\u30a7\u30b6\u30fc\u30dc\u30fc\u30eb",
+                    "Korean": "\uc6e8\ub354\ubcfc",
+                    "Spanish": "Meteorobola"
+                },
+                "combat": {
+                    "energy": -35,
+                    "power": 60,
+                    "turns": 1,
+                    "buffs": null
+                }
             }
         },
         "eliteQuickMoves": [],
@@ -16215,7 +16248,7 @@
                     "Spanish": "Picotazo Veneno"
                 },
                 "combat": {
-                    "energy": 8,
+                    "energy": 9,
                     "power": 3,
                     "turns": 2,
                     "buffs": null
@@ -16284,9 +16317,15 @@
                 },
                 "combat": {
                     "energy": -35,
-                    "power": 40,
+                    "power": 50,
                     "turns": 1,
-                    "buffs": null
+                    "buffs": {
+                        "activationChance": 12,
+                        "attackerAttackStatsChange": 2,
+                        "attackerDefenseStatsChange": null,
+                        "targetAttackStatsChange": null,
+                        "targetDefenseStatsChange": null
+                    }
                 }
             },
             "AQUA_TAIL": {
@@ -16438,7 +16477,7 @@
                     "Spanish": "Picotazo Veneno"
                 },
                 "combat": {
-                    "energy": 8,
+                    "energy": 9,
                     "power": 3,
                     "turns": 2,
                     "buffs": null
@@ -16766,7 +16805,7 @@
                     "Spanish": "Picotazo Veneno"
                 },
                 "combat": {
-                    "energy": 8,
+                    "energy": 9,
                     "power": 3,
                     "turns": 2,
                     "buffs": null
@@ -16800,7 +16839,7 @@
                 },
                 "combat": {
                     "energy": 7,
-                    "power": 6,
+                    "power": 7,
                     "turns": 2,
                     "buffs": null
                 }
@@ -17003,7 +17042,7 @@
                 },
                 "combat": {
                     "energy": 7,
-                    "power": 6,
+                    "power": 7,
                     "turns": 2,
                     "buffs": null
                 }
@@ -18799,7 +18838,7 @@
                 },
                 "combat": {
                     "energy": -75,
-                    "power": 140,
+                    "power": 150,
                     "turns": 1,
                     "buffs": null
                 }
@@ -25802,8 +25841,8 @@
                     "Spanish": "Cola Drag\u00f3n"
                 },
                 "combat": {
-                    "energy": 10,
-                    "power": 9,
+                    "energy": 9,
+                    "power": 13,
                     "turns": 3,
                     "buffs": null
                 }
@@ -26378,7 +26417,7 @@
                 },
                 "combat": {
                     "energy": -75,
-                    "power": 140,
+                    "power": 150,
                     "turns": 1,
                     "buffs": null
                 }
@@ -26724,8 +26763,8 @@
                             "Spanish": "Cola Drag\u00f3n"
                         },
                         "combat": {
-                            "energy": 10,
-                            "power": 9,
+                            "energy": 9,
+                            "power": 13,
                             "turns": 3,
                             "buffs": null
                         }
@@ -27714,7 +27753,7 @@
                 },
                 "combat": {
                     "energy": -75,
-                    "power": 140,
+                    "power": 150,
                     "turns": 1,
                     "buffs": null
                 }

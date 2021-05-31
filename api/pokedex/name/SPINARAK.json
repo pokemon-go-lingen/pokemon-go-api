@@ -69,7 +69,7 @@
                 "Spanish": "Picotazo Veneno"
             },
             "combat": {
-                "energy": 8,
+                "energy": 9,
                 "power": 3,
                 "turns": 2,
                 "buffs": null
@@ -216,9 +216,15 @@
             },
             "combat": {
                 "energy": -35,
-                "power": 40,
+                "power": 50,
                 "turns": 1,
-                "buffs": null
+                "buffs": {
+                    "activationChance": 12,
+                    "attackerAttackStatsChange": 2,
+                    "attackerDefenseStatsChange": null,
+                    "targetAttackStatsChange": null,
+                    "targetDefenseStatsChange": null
+                }
             }
         }
     },

@@ -46,19 +46,19 @@
                         "name": "easy",
                         "friendshipLevel": 0,
                         "pokemonLevel": 20,
-                        "totalEstimator": 3.5159254
+                        "totalEstimator": 3.5268137
                     },
                     "normal": {
                         "name": "normal",
                         "friendshipLevel": 3,
                         "pokemonLevel": 30,
-                        "totalEstimator": 2.4146779
+                        "totalEstimator": 2.4200952
                     },
                     "hard": {
                         "name": "hard",
                         "friendshipLevel": 4,
                         "pokemonLevel": 40,
-                        "totalEstimator": 2.0920098
+                        "totalEstimator": 2.0954115
                     }
                 }
             },
@@ -107,19 +107,19 @@
                         "name": "easy",
                         "friendshipLevel": 0,
                         "pokemonLevel": 20,
-                        "totalEstimator": 3.5599594
+                        "totalEstimator": 3.5384378
                     },
                     "normal": {
                         "name": "normal",
                         "friendshipLevel": 3,
                         "pokemonLevel": 30,
-                        "totalEstimator": 2.430453
+                        "totalEstimator": 2.4251554
                     },
                     "hard": {
                         "name": "hard",
                         "friendshipLevel": 4,
                         "pokemonLevel": 40,
-                        "totalEstimator": 2.1229146
+                        "totalEstimator": 2.1190898
                     }
                 }
             },
@@ -168,19 +168,19 @@
                         "name": "easy",
                         "friendshipLevel": 0,
                         "pokemonLevel": 20,
-                        "totalEstimator": 3.937823
+                        "totalEstimator": 3.9414108
                     },
                     "normal": {
                         "name": "normal",
                         "friendshipLevel": 3,
                         "pokemonLevel": 30,
-                        "totalEstimator": 2.788642
+                        "totalEstimator": 2.790264
                     },
                     "hard": {
                         "name": "hard",
                         "friendshipLevel": 4,
                         "pokemonLevel": 40,
-                        "totalEstimator": 2.4521666
+                        "totalEstimator": 2.4510527
                     }
                 }
             }
@@ -231,19 +231,19 @@
                         "name": "easy",
                         "friendshipLevel": 0,
                         "pokemonLevel": 20,
-                        "totalEstimator": 3.5559356
+                        "totalEstimator": 3.5624266
                     },
                     "normal": {
                         "name": "normal",
                         "friendshipLevel": 3,
                         "pokemonLevel": 30,
-                        "totalEstimator": 2.3440726
+                        "totalEstimator": 2.3432696
                     },
                     "hard": {
                         "name": "hard",
                         "friendshipLevel": 4,
                         "pokemonLevel": 40,
-                        "totalEstimator": 2.0609138
+                        "totalEstimator": 2.0616982
                     }
                 }
             }
@@ -755,19 +755,19 @@
                         "name": "easy",
                         "friendshipLevel": 0,
                         "pokemonLevel": 20,
-                        "totalEstimator": 0.095957614
+                        "totalEstimator": 0.09590366
                     },
                     "normal": {
                         "name": "normal",
                         "friendshipLevel": 3,
                         "pokemonLevel": 30,
-                        "totalEstimator": 0.07311088
+                        "totalEstimator": 0.07307857
                     },
                     "hard": {
                         "name": "hard",
                         "friendshipLevel": 4,
                         "pokemonLevel": 40,
-                        "totalEstimator": 0.06915753
+                        "totalEstimator": 0.069133654
                     }
                 }
             }
@@ -777,12 +777,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "2ea3fc074d44f735ccf4db1eaea0624900c658987bb24cd9c67c40793825c20a299a394b204a9744fa611c81c3350ec4e6c41e07f130db3c235d11f00ad9b2cc"
+            "sha512": "ba501b19b7fdb09cce05219a2fae8f4d042374f814494aca824230771b38bf0c76bdae3ac178e16da403771d502311f62ad138eb8d13404bbc3764f52e10460c"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "df4c9952a93fb6b2265ad6c254cf264ad3918ebfeb79267027849c621bddc711da5dd5abb16112c80b6add64ed39bd2ebef99d95d61c691285784f30287c3489"
+            "sha512": "d7a69b2476d9b972cc155cae34d10f507bf9714a543c2f6c4934e3325da9b0275a4fac8abe83a36da590ab13321e3149302919e614d2256058f3210a4f69defc"
         }
     }
 }
