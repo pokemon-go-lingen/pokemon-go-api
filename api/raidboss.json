@@ -2,67 +2,6 @@
     "currentList": {
         "mega": [
             {
-                "id": "ALTARIA",
-                "form": "ALTARIA_MEGA",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_334_51.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_334_51_shiny.png"
-                },
-                "level": "mega",
-                "names": {
-                    "English": "Mega Altaria",
-                    "German": "Mega-Altaria",
-                    "French": "M\u00e9ga-Altaria",
-                    "Italian": "MegaAltaria",
-                    "Japanese": "\u30e1\u30ac\u30c1\u30eb\u30bf\u30ea\u30b9",
-                    "Korean": "\uba54\uac00\ud30c\ube44\ucf54\ub9ac",
-                    "Spanish": "Mega-Altaria"
-                },
-                "shiny": false,
-                "types": [
-                    "Dragon",
-                    "Fairy"
-                ],
-                "counter": {
-                    "Fairy": 1.6,
-                    "Ice": 1.6,
-                    "Poison": 1.6,
-                    "Steel": 1.6
-                },
-                "weather": [
-                    "cloudy",
-                    "windy"
-                ],
-                "cpRange": [
-                    1081,
-                    1145
-                ],
-                "cpRangeBoost": [
-                    1352,
-                    1432
-                ],
-                "battleResult": {
-                    "easy": {
-                        "name": "easy",
-                        "friendshipLevel": 0,
-                        "pokemonLevel": 20,
-                        "totalEstimator": 3.9414108
-                    },
-                    "normal": {
-                        "name": "normal",
-                        "friendshipLevel": 3,
-                        "pokemonLevel": 30,
-                        "totalEstimator": 2.790264
-                    },
-                    "hard": {
-                        "name": "hard",
-                        "friendshipLevel": 4,
-                        "pokemonLevel": 40,
-                        "totalEstimator": 2.4510527
-                    }
-                }
-            },
-            {
                 "id": "LOPUNNY",
                 "form": "LOPUNNY_MEGA",
                 "assets": {
@@ -299,67 +238,6 @@
                         "friendshipLevel": 4,
                         "pokemonLevel": 40,
                         "totalEstimator": 2.794485
-                    }
-                }
-            },
-            {
-                "id": "YVELTAL",
-                "form": "YVELTAL",
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_717_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_717_00_shiny.png"
-                },
-                "level": "lvl5",
-                "names": {
-                    "English": "Yveltal",
-                    "German": "Yveltal",
-                    "French": "Yveltal",
-                    "Italian": "Yveltal",
-                    "Japanese": "\u30a4\u30d9\u30eb\u30bf\u30eb",
-                    "Korean": "\uc774\ubca8\ud0c0\ub974",
-                    "Spanish": "Yveltal"
-                },
-                "shiny": false,
-                "types": [
-                    "Dark",
-                    "Flying"
-                ],
-                "counter": {
-                    "Electric": 1.6,
-                    "Fairy": 1.6,
-                    "Ice": 1.6,
-                    "Rock": 1.6
-                },
-                "weather": [
-                    "windy",
-                    "fog"
-                ],
-                "cpRange": [
-                    2073,
-                    2160
-                ],
-                "cpRangeBoost": [
-                    2591,
-                    2701
-                ],
-                "battleResult": {
-                    "easy": {
-                        "name": "easy",
-                        "friendshipLevel": 0,
-                        "pokemonLevel": 20,
-                        "totalEstimator": 3.5624266
-                    },
-                    "normal": {
-                        "name": "normal",
-                        "friendshipLevel": 3,
-                        "pokemonLevel": 30,
-                        "totalEstimator": 2.3432696
-                    },
-                    "hard": {
-                        "name": "hard",
-                        "friendshipLevel": 4,
-                        "pokemonLevel": 40,
-                        "totalEstimator": 2.0616982
                     }
                 }
             }
@@ -913,12 +791,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "c750f21e286cd0424debdb063d0f547ac7cff3f3d606445a38facd25baf9e457a839089c05aa90ef79de3b2f77a0263ec69fbd3b5e7bed21344f45eb4361a646"
+            "sha512": "995da8c3c9d023d457abccd41cd884925b8d6865e8fcfcf75fd0f5d961cbcec1f6018afb01b1b5514eee3da6abe3b26d040feffd95384e72ec9e7999f68fc86a"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "5df636174b2fab2631f3be38f4a179a11659ab9dead27de92199432bd24ceae73c732374f2c8909163c441bb8aef645a49b890bd93e6d537178292622513e17b"
+            "sha512": "09ad0941fb32bb018aefecd715279a22aef0e878b4d39f4b130616cd053b224d9318a19c1bc7adc20cb4186ea7f682c06788705aeb0704a46ca87e361cef0e4f"
         }
     }
 }
