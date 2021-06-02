@@ -4,7 +4,7 @@ info:
   version: '1.0'
   description: Pokedex for Pokemon GO
 servers:
-  - url: 'https://pokemon-go-lingen.github.io/pokemon-go-api'
+  - url: 'https://pokemon-go-api.github.io/pokemon-go-api'
 tags:
   - name: Pokemon
   - name: Raid
