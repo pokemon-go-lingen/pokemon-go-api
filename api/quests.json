@@ -509,40 +509,6 @@
     },
     {
         "quest": {
-            "English": "Make 3 Excellent Throws in a row",
-            "German": "Lande 3 fabelhafte W\u00fcrfe hintereinander.",
-            "French": "Fais 3\u00a0Excellents lancers \u00e0 la suite",
-            "Italian": "Effettua 3 tiri eccellenti di fila",
-            "Japanese": "\u30a8\u30af\u30bb\u30ec\u30f3\u30c8\u30b9\u30ed\u30fc\u30923\u56de\u9023\u7d9a\u3067\u6295\u3052\u308b",
-            "Korean": "Excellent\ub97c 3\ud68c \uc5f0\uc18d\uc73c\ub85c \ub358\uc9c4\ub2e4",
-            "Spanish": "Haz 3 lanzamientos excelentes seguidos"
-        },
-        "rewards": [
-            {
-                "id": "GIBLE",
-                "shiny": true,
-                "name": {
-                    "English": "Gible",
-                    "German": "Kaumalat",
-                    "French": "Griknot",
-                    "Italian": "Gible",
-                    "Japanese": "\u30d5\u30ab\u30de\u30eb",
-                    "Korean": "\ub525\uc0c1\uc5b4\ub3d9",
-                    "Spanish": "Gible"
-                },
-                "cpRange": [
-                    441,
-                    477
-                ],
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_443_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_443_00_shiny.png"
-                }
-            }
-        ]
-    },
-    {
-        "quest": {
             "English": "Make 5 Great Curveball Throws in a row",
             "German": "Lande 5 gro\u00dfartige Curveball-W\u00fcrfe hintereinander.",
             "French": "Fais 5\u00a0Superbes lancers \u00e0 effet \u00e0 la suite",
@@ -571,6 +537,40 @@
                 "assets": {
                     "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_327_00.png",
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_327_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Make 3 Excellent Throws in a row",
+            "German": "Lande 3 fabelhafte W\u00fcrfe hintereinander.",
+            "French": "Fais 3\u00a0Excellents lancers \u00e0 la suite",
+            "Italian": "Effettua 3 tiri eccellenti di fila",
+            "Japanese": "\u30a8\u30af\u30bb\u30ec\u30f3\u30c8\u30b9\u30ed\u30fc\u30923\u56de\u9023\u7d9a\u3067\u6295\u3052\u308b",
+            "Korean": "Excellent\ub97c 3\ud68c \uc5f0\uc18d\uc73c\ub85c \ub358\uc9c4\ub2e4",
+            "Spanish": "Haz 3 lanzamientos excelentes seguidos"
+        },
+        "rewards": [
+            {
+                "id": "GIBLE",
+                "shiny": true,
+                "name": {
+                    "English": "Gible",
+                    "German": "Kaumalat",
+                    "French": "Griknot",
+                    "Italian": "Gible",
+                    "Japanese": "\u30d5\u30ab\u30de\u30eb",
+                    "Korean": "\ub525\uc0c1\uc5b4\ub3d9",
+                    "Spanish": "Gible"
+                },
+                "cpRange": [
+                    441,
+                    477
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_443_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_443_00_shiny.png"
                 }
             }
         ]
@@ -632,40 +632,6 @@
     },
     {
         "quest": {
-            "English": "Win a raid",
-            "German": "Gewinne einen Raid.",
-            "French": "Gagne un Raid",
-            "Italian": "Vinci un raid",
-            "Japanese": "\u30ec\u30a4\u30c9\u30d0\u30c8\u30eb\u30671\u56de\u52dd\u3064",
-            "Korean": "\ub808\uc774\ub4dc\ubc30\ud2c0\uc5d0\uc11c 1\ud68c \uc774\uae34\ub2e4",
-            "Spanish": "Gana en 1 incursi\u00f3n"
-        },
-        "rewards": [
-            {
-                "id": "FARFETCHD_GALARIAN",
-                "shiny": false,
-                "name": {
-                    "English": "Galarian Farfetch'd",
-                    "German": "Galar-Porenta",
-                    "French": "Canarticho de Galar",
-                    "Italian": "Farfetch\u2019d di Galar",
-                    "Japanese": "\u30ac\u30e9\u30eb \u30ab\u30e2\u30cd\u30ae",
-                    "Korean": "\uac00\ub77c\ub974 \ud30c\uc624\ub9ac",
-                    "Spanish": "Farfetch'd de Galar"
-                },
-                "cpRange": [
-                    673,
-                    717
-                ],
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_083_31.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_083_31_shiny.png"
-                }
-            }
-        ]
-    },
-    {
-        "quest": {
             "English": "Win 5 raids",
             "German": "Gewinne 5 Raids.",
             "French": "Gagne 5\u00a0Raids",
@@ -694,6 +660,40 @@
                 "assets": {
                     "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_142_00.png",
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_142_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Win a raid",
+            "German": "Gewinne einen Raid.",
+            "French": "Gagne un Raid",
+            "Italian": "Vinci un raid",
+            "Japanese": "\u30ec\u30a4\u30c9\u30d0\u30c8\u30eb\u30671\u56de\u52dd\u3064",
+            "Korean": "\ub808\uc774\ub4dc\ubc30\ud2c0\uc5d0\uc11c 1\ud68c \uc774\uae34\ub2e4",
+            "Spanish": "Gana en 1 incursi\u00f3n"
+        },
+        "rewards": [
+            {
+                "id": "FARFETCHD_GALARIAN",
+                "shiny": false,
+                "name": {
+                    "English": "Galarian Farfetch'd",
+                    "German": "Galar-Porenta",
+                    "French": "Canarticho de Galar",
+                    "Italian": "Farfetch\u2019d di Galar",
+                    "Japanese": "\u30ac\u30e9\u30eb \u30ab\u30e2\u30cd\u30ae",
+                    "Korean": "\uac00\ub77c\ub974 \ud30c\uc624\ub9ac",
+                    "Spanish": "Farfetch'd de Galar"
+                },
+                "cpRange": [
+                    673,
+                    717
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_083_31.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_083_31_shiny.png"
                 }
             }
         ]
@@ -1035,82 +1035,6 @@
     },
     {
         "quest": {
-            "English": "Power up Pok\u00e9mon 5 times",
-            "German": "Verwende 5 Power-ups bei Pok\u00e9mon.",
-            "French": "Recharge un Pok\u00e9mon 5\u00a0fois",
-            "Italian": "Potenzia i Pok\u00e9mon 5 volte",
-            "Japanese": "\u30dd\u30b1\u30e2\u30f3\u30925\u56de\u5f37\u5316\u3059\u308b",
-            "Korean": "\ud3ec\ucf13\ubaac\uc744 5\ud68c \uac15\ud654\ud55c\ub2e4",
-            "Spanish": "Da m\u00e1s poder a un Pok\u00e9mon 5 veces"
-        },
-        "rewards": [
-            {
-                "id": "CHIKORITA",
-                "shiny": true,
-                "name": {
-                    "English": "Chikorita",
-                    "German": "Endivie",
-                    "French": "Germignon",
-                    "Italian": "Chikorita",
-                    "Japanese": "\u30c1\u30b3\u30ea\u30fc\u30bf",
-                    "Korean": "\uce58\ucf54\ub9ac\ud0c0",
-                    "Spanish": "Chikorita"
-                },
-                "cpRange": [
-                    368,
-                    400
-                ],
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_152_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_152_00_shiny.png"
-                }
-            },
-            {
-                "id": "CYNDAQUIL",
-                "shiny": true,
-                "name": {
-                    "English": "Cyndaquil",
-                    "German": "Feurigel",
-                    "French": "H\u00e9ricendre",
-                    "Italian": "Cyndaquil",
-                    "Japanese": "\u30d2\u30ce\u30a2\u30e9\u30b7",
-                    "Korean": "\ube0c\ucf00\uc778",
-                    "Spanish": "Cyndaquil"
-                },
-                "cpRange": [
-                    387,
-                    420
-                ],
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_155_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_155_00_shiny.png"
-                }
-            },
-            {
-                "id": "TOTODILE",
-                "shiny": true,
-                "name": {
-                    "English": "Totodile",
-                    "German": "Karnimani",
-                    "French": "Kaiminus",
-                    "Italian": "Totodile",
-                    "Japanese": "\u30ef\u30cb\u30ce\u30b3",
-                    "Korean": "\ub9ac\uc544\ucf54",
-                    "Spanish": "Totodile"
-                },
-                "cpRange": [
-                    449,
-                    485
-                ],
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_158_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_158_00_shiny.png"
-                }
-            }
-        ]
-    },
-    {
-        "quest": {
             "English": "Power up Pok\u00e9mon 7 times",
             "German": "Verwende 7 Power-ups bei Pok\u00e9mon.",
             "French": "Recharge un Pok\u00e9mon 7\u00a0fois",
@@ -1181,6 +1105,158 @@
                 "assets": {
                     "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_258_00.png",
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_258_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Power up Pok\u00e9mon 3 times",
+            "German": "Verwende 3 Power-ups bei Pok\u00e9mon.",
+            "French": "Recharge un Pok\u00e9mon 3\u00a0fois",
+            "Italian": "Potenzia i Pok\u00e9mon 3 volte",
+            "Japanese": "\u30dd\u30b1\u30e2\u30f3\u30923\u56de\u5f37\u5316\u3059\u308b",
+            "Korean": "\ud3ec\ucf13\ubaac\uc744 3\ud68c \uac15\ud654\ud55c\ub2e4",
+            "Spanish": "Da m\u00e1s poder a un Pok\u00e9mon 3 veces"
+        },
+        "rewards": [
+            {
+                "id": "BULBASAUR",
+                "shiny": true,
+                "name": {
+                    "English": "Bulbasaur",
+                    "German": "Bisasam",
+                    "French": "Bulbizarre",
+                    "Italian": "Bulbasaur",
+                    "Japanese": "\u30d5\u30b7\u30ae\u30c0\u30cd",
+                    "Korean": "\uc774\uc0c1\ud574\uc528",
+                    "Spanish": "Bulbasaur"
+                },
+                "cpRange": [
+                    442,
+                    477
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_001_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_001_00_shiny.png"
+                }
+            },
+            {
+                "id": "CHARMANDER",
+                "shiny": true,
+                "name": {
+                    "English": "Charmander",
+                    "German": "Glumanda",
+                    "French": "Salam\u00e8che",
+                    "Italian": "Charmander",
+                    "Japanese": "\u30d2\u30c8\u30ab\u30b2",
+                    "Korean": "\ud30c\uc774\ub9ac",
+                    "Spanish": "Charmander"
+                },
+                "cpRange": [
+                    387,
+                    420
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_004_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_004_00_shiny.png"
+                }
+            },
+            {
+                "id": "SQUIRTLE",
+                "shiny": true,
+                "name": {
+                    "English": "Squirtle",
+                    "German": "Schiggy",
+                    "French": "Carapuce",
+                    "Italian": "Squirtle",
+                    "Japanese": "\u30bc\u30cb\u30ac\u30e1",
+                    "Korean": "\uaf2c\ubd80\uae30",
+                    "Spanish": "Squirtle"
+                },
+                "cpRange": [
+                    372,
+                    405
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_007_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_007_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Power up Pok\u00e9mon 5 times",
+            "German": "Verwende 5 Power-ups bei Pok\u00e9mon.",
+            "French": "Recharge un Pok\u00e9mon 5\u00a0fois",
+            "Italian": "Potenzia i Pok\u00e9mon 5 volte",
+            "Japanese": "\u30dd\u30b1\u30e2\u30f3\u30925\u56de\u5f37\u5316\u3059\u308b",
+            "Korean": "\ud3ec\ucf13\ubaac\uc744 5\ud68c \uac15\ud654\ud55c\ub2e4",
+            "Spanish": "Da m\u00e1s poder a un Pok\u00e9mon 5 veces"
+        },
+        "rewards": [
+            {
+                "id": "CHIKORITA",
+                "shiny": true,
+                "name": {
+                    "English": "Chikorita",
+                    "German": "Endivie",
+                    "French": "Germignon",
+                    "Italian": "Chikorita",
+                    "Japanese": "\u30c1\u30b3\u30ea\u30fc\u30bf",
+                    "Korean": "\uce58\ucf54\ub9ac\ud0c0",
+                    "Spanish": "Chikorita"
+                },
+                "cpRange": [
+                    368,
+                    400
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_152_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_152_00_shiny.png"
+                }
+            },
+            {
+                "id": "CYNDAQUIL",
+                "shiny": true,
+                "name": {
+                    "English": "Cyndaquil",
+                    "German": "Feurigel",
+                    "French": "H\u00e9ricendre",
+                    "Italian": "Cyndaquil",
+                    "Japanese": "\u30d2\u30ce\u30a2\u30e9\u30b7",
+                    "Korean": "\ube0c\ucf00\uc778",
+                    "Spanish": "Cyndaquil"
+                },
+                "cpRange": [
+                    387,
+                    420
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_155_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_155_00_shiny.png"
+                }
+            },
+            {
+                "id": "TOTODILE",
+                "shiny": true,
+                "name": {
+                    "English": "Totodile",
+                    "German": "Karnimani",
+                    "French": "Kaiminus",
+                    "Italian": "Totodile",
+                    "Japanese": "\u30ef\u30cb\u30ce\u30b3",
+                    "Korean": "\ub9ac\uc544\ucf54",
+                    "Spanish": "Totodile"
+                },
+                "cpRange": [
+                    449,
+                    485
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_158_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_158_00_shiny.png"
                 }
             }
         ]
@@ -1310,76 +1386,34 @@
     },
     {
         "quest": {
-            "English": "Power up Pok\u00e9mon 3 times",
-            "German": "Verwende 3 Power-ups bei Pok\u00e9mon.",
-            "French": "Recharge un Pok\u00e9mon 3\u00a0fois",
-            "Italian": "Potenzia i Pok\u00e9mon 3 volte",
-            "Japanese": "\u30dd\u30b1\u30e2\u30f3\u30923\u56de\u5f37\u5316\u3059\u308b",
-            "Korean": "\ud3ec\ucf13\ubaac\uc744 3\ud68c \uac15\ud654\ud55c\ub2e4",
-            "Spanish": "Da m\u00e1s poder a un Pok\u00e9mon 3 veces"
+            "English": "Battle in GO Battle League",
+            "German": "K\u00e4mpfe in der GO-Kampfliga.",
+            "French": "Combats dans la Ligue Combat\u00a0GO",
+            "Italian": "Lotta nella Lega Lotte GO",
+            "Japanese": "GO\u30d0\u30c8\u30eb\u30ea\u30fc\u30b0\u5bfe\u6226\u3092\u3059\u308b",
+            "Korean": "Battle in GO Battle League",
+            "Spanish": "Combate en la Liga Combates GO"
         },
         "rewards": [
             {
-                "id": "BULBASAUR",
+                "id": "MUDKIP",
                 "shiny": true,
                 "name": {
-                    "English": "Bulbasaur",
-                    "German": "Bisasam",
-                    "French": "Bulbizarre",
-                    "Italian": "Bulbasaur",
-                    "Japanese": "\u30d5\u30b7\u30ae\u30c0\u30cd",
-                    "Korean": "\uc774\uc0c1\ud574\uc528",
-                    "Spanish": "Bulbasaur"
+                    "English": "Mudkip",
+                    "German": "Hydropi",
+                    "French": "Gobou",
+                    "Italian": "Mudkip",
+                    "Japanese": "\u30df\u30ba\u30b4\u30ed\u30a6",
+                    "Korean": "\ubb3c\uc9f1\uc774",
+                    "Spanish": "Mudkip"
                 },
                 "cpRange": [
-                    442,
-                    477
+                    447,
+                    483
                 ],
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_001_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_001_00_shiny.png"
-                }
-            },
-            {
-                "id": "CHARMANDER",
-                "shiny": true,
-                "name": {
-                    "English": "Charmander",
-                    "German": "Glumanda",
-                    "French": "Salam\u00e8che",
-                    "Italian": "Charmander",
-                    "Japanese": "\u30d2\u30c8\u30ab\u30b2",
-                    "Korean": "\ud30c\uc774\ub9ac",
-                    "Spanish": "Charmander"
-                },
-                "cpRange": [
-                    387,
-                    420
-                ],
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_004_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_004_00_shiny.png"
-                }
-            },
-            {
-                "id": "SQUIRTLE",
-                "shiny": true,
-                "name": {
-                    "English": "Squirtle",
-                    "German": "Schiggy",
-                    "French": "Carapuce",
-                    "Italian": "Squirtle",
-                    "Japanese": "\u30bc\u30cb\u30ac\u30e1",
-                    "Korean": "\uaf2c\ubd80\uae30",
-                    "Spanish": "Squirtle"
-                },
-                "cpRange": [
-                    372,
-                    405
-                ],
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_007_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_007_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_258_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_258_00_shiny.png"
                 }
             }
         ]
@@ -1524,40 +1558,6 @@
                 "assets": {
                     "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_374_00.png",
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_374_00_shiny.png"
-                }
-            }
-        ]
-    },
-    {
-        "quest": {
-            "English": "Battle in GO Battle League",
-            "German": "K\u00e4mpfe in der GO-Kampfliga.",
-            "French": "Combats dans la Ligue Combat\u00a0GO",
-            "Italian": "Lotta nella Lega Lotte GO",
-            "Japanese": "GO\u30d0\u30c8\u30eb\u30ea\u30fc\u30b0\u5bfe\u6226\u3092\u3059\u308b",
-            "Korean": "Battle in GO Battle League",
-            "Spanish": "Combate en la Liga Combates GO"
-        },
-        "rewards": [
-            {
-                "id": "MUDKIP",
-                "shiny": true,
-                "name": {
-                    "English": "Mudkip",
-                    "German": "Hydropi",
-                    "French": "Gobou",
-                    "Italian": "Mudkip",
-                    "Japanese": "\u30df\u30ba\u30b4\u30ed\u30a6",
-                    "Korean": "\ubb3c\uc9f1\uc774",
-                    "Spanish": "Mudkip"
-                },
-                "cpRange": [
-                    447,
-                    483
-                ],
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_258_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_258_00_shiny.png"
                 }
             }
         ]
