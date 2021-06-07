@@ -14865,7 +14865,47 @@
             }
         },
         "eliteQuickMoves": [],
-        "eliteCinematicMoves": [],
+        "eliteCinematicMoves": {
+            "EARTH_POWER": {
+                "id": "EARTH_POWER",
+                "power": 100,
+                "energy": -50,
+                "durationMs": 3600,
+                "type": {
+                    "type": "POKEMON_TYPE_GROUND",
+                    "names": {
+                        "English": "Ground",
+                        "German": "Boden",
+                        "French": "Sol",
+                        "Italian": "Terra",
+                        "Japanese": "\u3058\u3081\u3093",
+                        "Korean": "\ub545",
+                        "Spanish": "Tierra"
+                    }
+                },
+                "names": {
+                    "English": "Earth Power",
+                    "German": "Erdkr\u00e4fte",
+                    "French": "Telluriforce",
+                    "Italian": "Geoforza",
+                    "Japanese": "\u3060\u3044\u3061\u306e\u3061\u304b\u3089",
+                    "Korean": "\ub300\uc9c0\uc758\ud798",
+                    "Spanish": "Tierra Viva"
+                },
+                "combat": {
+                    "energy": -55,
+                    "power": 90,
+                    "turns": 1,
+                    "buffs": {
+                        "activationChance": 10,
+                        "attackerAttackStatsChange": null,
+                        "attackerDefenseStatsChange": null,
+                        "targetAttackStatsChange": null,
+                        "targetDefenseStatsChange": -1
+                    }
+                }
+            }
+        },
         "assets": {
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_445_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_445_00_shiny.png"

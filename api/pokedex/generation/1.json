@@ -25580,39 +25580,6 @@
                     }
                 },
                 "quickMoves": {
-                    "WATER_GUN_FAST": {
-                        "id": "WATER_GUN_FAST",
-                        "power": 5,
-                        "energy": 5,
-                        "durationMs": 500,
-                        "type": {
-                            "type": "POKEMON_TYPE_WATER",
-                            "names": {
-                                "English": "Water",
-                                "German": "Wasser",
-                                "French": "Eau",
-                                "Italian": "Acqua",
-                                "Japanese": "\u307f\u305a",
-                                "Korean": "\ubb3c",
-                                "Spanish": "Agua"
-                            }
-                        },
-                        "names": {
-                            "English": "Water Gun",
-                            "German": "Aquaknarre",
-                            "French": "Pistolet \u00e0 O",
-                            "Italian": "Pistolacqua",
-                            "Japanese": "\u307f\u305a\u3067\u3063\u307d\u3046",
-                            "Korean": "\ubb3c\ub300\ud3ec",
-                            "Spanish": "Pistola Agua"
-                        },
-                        "combat": {
-                            "energy": 3,
-                            "power": 3,
-                            "turns": 1,
-                            "buffs": null
-                        }
-                    },
                     "CONFUSION_FAST": {
                         "id": "CONFUSION_FAST",
                         "power": 20,
