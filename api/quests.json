@@ -1,6 +1,61 @@
 [
     {
         "quest": {
+            "English": "Evolve a Psychic-type Pok\u00e9mon",
+            "German": "Entwickle ein Pok\u00e9mon vom Typ Psycho.",
+            "French": "Fais \u00e9voluer un Pok\u00e9mon de type Psy",
+            "Italian": "Fai evolvere un Pok\u00e9mon di tipo Psico",
+            "Japanese": "\u30a8\u30b9\u30d1\u30fc\u30bf\u30a4\u30d7\u306e\u30dd\u30b1\u30e2\u30f3\u30921\u5339\u9032\u5316\u3055\u305b\u308b",
+            "Korean": "\uc5d0\uc2a4\ud37c\ud0c0\uc785 \ud3ec\ucf13\ubaac\uc744 1\ub9c8\ub9ac \uc9c4\ud654\uc2dc\ud0a8\ub2e4",
+            "Spanish": "Haz evolucionar 1 Pok\u00e9mon de tipo Ps\u00edquico"
+        },
+        "rewards": [
+            {
+                "id": "SLOWPOKE",
+                "shiny": true,
+                "name": {
+                    "English": "Slowpoke",
+                    "German": "Flegmon",
+                    "French": "Ramoloss",
+                    "Italian": "Slowpoke",
+                    "Japanese": "\u30e4\u30c9\u30f3",
+                    "Korean": "\uc57c\ub3c8",
+                    "Spanish": "Slowpoke"
+                },
+                "cpRange": [
+                    487,
+                    525
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_079_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_079_00_shiny.png"
+                }
+            },
+            {
+                "id": "SHELLDER",
+                "shiny": true,
+                "name": {
+                    "English": "Shellder",
+                    "German": "Muschas",
+                    "French": "Kokiyas",
+                    "Italian": "Shellder",
+                    "Japanese": "\u30b7\u30a7\u30eb\u30c0\u30fc",
+                    "Korean": "\uc140\ub7ec",
+                    "Spanish": "Shellder"
+                },
+                "cpRange": [
+                    428,
+                    463
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_090_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_090_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
             "English": "Catch 8 Water-type Pok\u00e9mon",
             "German": "Fange 8 Pok\u00e9mon vom Typ Wasser.",
             "French": "Attrape 8\u00a0Pok\u00e9mon de type Eau",
@@ -63,40 +118,6 @@
                 "assets": {
                     "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_079_00.png",
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_079_00_shiny.png"
-                }
-            }
-        ]
-    },
-    {
-        "quest": {
-            "English": "Evolve a Psychic-type Pok\u00e9mon",
-            "German": "Entwickle ein Pok\u00e9mon vom Typ Psycho.",
-            "French": "Fais \u00e9voluer un Pok\u00e9mon de type Psy",
-            "Italian": "Fai evolvere un Pok\u00e9mon di tipo Psico",
-            "Japanese": "\u30a8\u30b9\u30d1\u30fc\u30bf\u30a4\u30d7\u306e\u30dd\u30b1\u30e2\u30f3\u30921\u5339\u9032\u5316\u3055\u305b\u308b",
-            "Korean": "\uc5d0\uc2a4\ud37c\ud0c0\uc785 \ud3ec\ucf13\ubaac\uc744 1\ub9c8\ub9ac \uc9c4\ud654\uc2dc\ud0a8\ub2e4",
-            "Spanish": "Haz evolucionar 1 Pok\u00e9mon de tipo Ps\u00edquico"
-        },
-        "rewards": [
-            {
-                "id": "SLOWBRO",
-                "shiny": false,
-                "name": {
-                    "English": "Slowbro",
-                    "German": "Lahmus",
-                    "French": "Flagadoss",
-                    "Italian": "Slowbro",
-                    "Japanese": "\u30e4\u30c9\u30e9\u30f3",
-                    "Korean": "\uc57c\ub3c4\ub780",
-                    "Spanish": "Slowbro"
-                },
-                "cpRange": [
-                    1037,
-                    1090
-                ],
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_080_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_080_00_shiny.png"
                 }
             }
         ]
