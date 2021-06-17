@@ -1,34 +1,34 @@
 [
     {
         "quest": {
-            "English": "Catch 10 Pok\u00e9mon",
-            "German": "Fange 10 Pok\u00e9mon.",
-            "French": "Attrape 10\u00a0Pok\u00e9mon",
-            "Italian": "Cattura 10 Pok\u00e9mon",
-            "Japanese": "\u30dd\u30b1\u30e2\u30f3\u309210\u5339\u6355\u307e\u3048\u308b",
-            "Korean": "\ud3ec\ucf13\ubaac 10\ub9c8\ub9ac\ub97c \uc7a1\ub294\ub2e4",
-            "Spanish": "Captura 10 Pok\u00e9mon"
+            "English": "Catch 5 Solrock",
+            "German": "Fange 5 Sonnfel.",
+            "French": "Attrape 5 Solaroc",
+            "Italian": "Cattura 5 Solrock",
+            "Japanese": "\u30bd\u30eb\u30ed\u30c3\u30af\u30925\u5339\u6355\u307e\u3048\u308b",
+            "Korean": "\uc194\ub85d\uc744 5\ub9c8\ub9ac \uc7a1\ub294\ub2e4",
+            "Spanish": "Captura 5 Solrock"
         },
         "rewards": [
             {
-                "id": "SNORUNT",
+                "id": "SOLROCK",
                 "shiny": true,
                 "name": {
-                    "English": "Snorunt",
-                    "German": "Schneppke",
-                    "French": "Stalgamin",
-                    "Italian": "Snorunt",
-                    "Japanese": "\u30e6\u30ad\u30ef\u30e9\u30b7",
-                    "Korean": "\ub208\uaf2c\ub9c8",
-                    "Spanish": "Snorunt"
+                    "English": "Solrock",
+                    "German": "Sonnfel",
+                    "French": "Solaroc",
+                    "Italian": "Solrock",
+                    "Japanese": "\u30bd\u30eb\u30ed\u30c3\u30af",
+                    "Korean": "\uc194\ub85d",
+                    "Spanish": "Solrock"
                 },
                 "cpRange": [
-                    349,
-                    380
+                    946,
+                    997
                 ],
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_361_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_361_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_338_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_338_00_shiny.png"
                 }
             }
         ]
@@ -65,40 +65,6 @@
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_337_00_shiny.png"
                 }
             },
-            {
-                "id": "SOLROCK",
-                "shiny": true,
-                "name": {
-                    "English": "Solrock",
-                    "German": "Sonnfel",
-                    "French": "Solaroc",
-                    "Italian": "Solrock",
-                    "Japanese": "\u30bd\u30eb\u30ed\u30c3\u30af",
-                    "Korean": "\uc194\ub85d",
-                    "Spanish": "Solrock"
-                },
-                "cpRange": [
-                    946,
-                    997
-                ],
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_338_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_338_00_shiny.png"
-                }
-            }
-        ]
-    },
-    {
-        "quest": {
-            "English": "Catch 5 Solrock",
-            "German": "Fange 5 Sonnfel.",
-            "French": "Attrape 5 Solaroc",
-            "Italian": "Cattura 5 Solrock",
-            "Japanese": "\u30bd\u30eb\u30ed\u30c3\u30af\u30925\u5339\u6355\u307e\u3048\u308b",
-            "Korean": "\uc194\ub85d\uc744 5\ub9c8\ub9ac \uc7a1\ub294\ub2e4",
-            "Spanish": "Captura 5 Solrock"
-        },
-        "rewards": [
             {
                 "id": "SOLROCK",
                 "shiny": true,
