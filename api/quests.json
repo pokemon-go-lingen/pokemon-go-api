@@ -11,6 +11,27 @@
         },
         "rewards": [
             {
+                "id": "LUNATONE",
+                "shiny": true,
+                "name": {
+                    "English": "Lunatone",
+                    "German": "Lunastein",
+                    "French": "S\u00e9l\u00e9roc",
+                    "Italian": "Lunatone",
+                    "Japanese": "\u30eb\u30ca\u30c8\u30fc\u30f3",
+                    "Korean": "\ub8e8\ub098\ud1a4",
+                    "Spanish": "Lunatone"
+                },
+                "cpRange": [
+                    946,
+                    997
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_337_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_337_00_shiny.png"
+                }
+            },
+            {
                 "id": "SOLROCK",
                 "shiny": true,
                 "name": {
