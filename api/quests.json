@@ -1,13 +1,13 @@
 [
     {
         "quest": {
-            "English": "Catch 5 Solrock",
-            "German": "Fange 5 Sonnfel.",
-            "French": "Attrape 5 Solaroc",
-            "Italian": "Cattura 5 Solrock",
-            "Japanese": "\u30bd\u30eb\u30ed\u30c3\u30af\u30925\u5339\u6355\u307e\u3048\u308b",
-            "Korean": "\uc194\ub85d\uc744 5\ub9c8\ub9ac \uc7a1\ub294\ub2e4",
-            "Spanish": "Captura 5 Solrock"
+            "English": "Catch 5 Lunatone",
+            "German": "Fange 5 Lunastein.",
+            "French": "Attrape 5 S\u00e9l\u00e9roc",
+            "Italian": "Cattura 5 Lunatone",
+            "Japanese": "\u30eb\u30ca\u30c8\u30fc\u30f3\u30925\u5339\u6355\u307e\u3048\u308b",
+            "Korean": "\ub8e8\ub098\ud1a4\uc744 5\ub9c8\ub9ac \uc7a1\ub294\ub2e4",
+            "Spanish": "Captura 5 Lunatone"
         },
         "rewards": [
             {
@@ -56,13 +56,13 @@
     },
     {
         "quest": {
-            "English": "Catch 5 Lunatone",
-            "German": "Fange 5 Lunastein.",
-            "French": "Attrape 5 S\u00e9l\u00e9roc",
-            "Italian": "Cattura 5 Lunatone",
-            "Japanese": "\u30eb\u30ca\u30c8\u30fc\u30f3\u30925\u5339\u6355\u307e\u3048\u308b",
-            "Korean": "\ub8e8\ub098\ud1a4\uc744 5\ub9c8\ub9ac \uc7a1\ub294\ub2e4",
-            "Spanish": "Captura 5 Lunatone"
+            "English": "Catch 5 Solrock",
+            "German": "Fange 5 Sonnfel.",
+            "French": "Attrape 5 Solaroc",
+            "Italian": "Cattura 5 Solrock",
+            "Japanese": "\u30bd\u30eb\u30ed\u30c3\u30af\u30925\u5339\u6355\u307e\u3048\u308b",
+            "Korean": "\uc194\ub85d\uc744 5\ub9c8\ub9ac \uc7a1\ub294\ub2e4",
+            "Spanish": "Captura 5 Solrock"
         },
         "rewards": [
             {
