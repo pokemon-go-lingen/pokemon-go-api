@@ -4599,13 +4599,13 @@
                 "dexNr": 668,
                 "generation": 6,
                 "names": {
-                    "English": "Pyroar",
-                    "German": "Pyroleo",
-                    "French": "N\u00e9m\u00e9lios",
-                    "Italian": "Pyroar",
-                    "Japanese": "\u30ab\u30a8\u30f3\u30b8\u30b7",
-                    "Korean": "\ud654\uc5fc\ub808\uc624",
-                    "Spanish": "Pyroar"
+                    "English": "Pyroar (Female)",
+                    "German": "Pyroleo (Female)",
+                    "French": "N\u00e9m\u00e9lios (Female)",
+                    "Italian": "Pyroar (Female)",
+                    "Japanese": "\u30ab\u30a8\u30f3\u30b8\u30b7 (Female)",
+                    "Korean": "\ud654\uc5fc\ub808\uc624 (Female)",
+                    "Spanish": "Pyroar (Female)"
                 },
                 "stats": {
                     "stamina": 200,
@@ -9486,13 +9486,13 @@
                 "dexNr": 678,
                 "generation": 6,
                 "names": {
-                    "English": "Meowstic",
-                    "German": "Psiaugon",
-                    "French": "Mistigrix",
-                    "Italian": "Meowstic",
-                    "Japanese": "\u30cb\u30e3\u30aa\u30cb\u30af\u30b9",
-                    "Korean": "\ub0d0\uc624\ub2c9\uc2a4",
-                    "Spanish": "Meowstic"
+                    "English": "Meowstic (Female)",
+                    "German": "Psiaugon (Female)",
+                    "French": "Mistigrix (Female)",
+                    "Italian": "Meowstic (Female)",
+                    "Japanese": "\u30cb\u30e3\u30aa\u30cb\u30af\u30b9 (Female)",
+                    "Korean": "\ub0d0\uc624\ub2c9\uc2a4 (Female)",
+                    "Spanish": "Meowstic (Female)"
                 },
                 "stats": {
                     "stamina": 179,

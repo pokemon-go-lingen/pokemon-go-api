@@ -224,13 +224,13 @@
             "dexNr": 678,
             "generation": 6,
             "names": {
-                "English": "Meowstic",
-                "German": "Psiaugon",
-                "French": "Mistigrix",
-                "Italian": "Meowstic",
-                "Japanese": "\u30cb\u30e3\u30aa\u30cb\u30af\u30b9",
-                "Korean": "\ub0d0\uc624\ub2c9\uc2a4",
-                "Spanish": "Meowstic"
+                "English": "Meowstic (Female)",
+                "German": "Psiaugon (Female)",
+                "French": "Mistigrix (Female)",
+                "Italian": "Meowstic (Female)",
+                "Japanese": "\u30cb\u30e3\u30aa\u30cb\u30af\u30b9 (Female)",
+                "Korean": "\ub0d0\uc624\ub2c9\uc2a4 (Female)",
+                "Spanish": "Meowstic (Female)"
             },
             "stats": {
                 "stamina": 179,
