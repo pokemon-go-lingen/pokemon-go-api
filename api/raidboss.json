@@ -487,6 +487,62 @@
                 }
             },
             {
+                "id": "BIDOOF",
+                "form": "BIDOOF",
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_399_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_399_00_shiny.png"
+                },
+                "level": "lvl1",
+                "names": {
+                    "English": "Bidoof",
+                    "German": "Bidiza",
+                    "French": "Keunotor",
+                    "Italian": "Bidoof",
+                    "Japanese": "\u30d3\u30c3\u30d1",
+                    "Korean": "\ube44\ubc84\ub2c8",
+                    "Spanish": "Bidoof"
+                },
+                "shiny": true,
+                "types": [
+                    "Normal"
+                ],
+                "counter": {
+                    "Fighting": 1.6
+                },
+                "weather": [
+                    "partlycloudy_day"
+                ],
+                "cpRange": [
+                    373,
+                    412
+                ],
+                "cpRangeBoost": [
+                    467,
+                    515
+                ],
+                "battleResult": {
+                    "easy": {
+                        "name": "easy",
+                        "friendshipLevel": 0,
+                        "pokemonLevel": 20,
+                        "totalEstimator": 0.06833156
+                    },
+                    "normal": {
+                        "name": "normal",
+                        "friendshipLevel": 3,
+                        "pokemonLevel": 30,
+                        "totalEstimator": 0.05236058
+                    },
+                    "hard": {
+                        "name": "hard",
+                        "friendshipLevel": 4,
+                        "pokemonLevel": 40,
+                        "totalEstimator": 0.04559573
+                    }
+                }
+            },
+            {
                 "id": "CROAGUNK",
                 "form": "CROAGUNK",
                 "assets": {
@@ -665,12 +721,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "866348612c5b136d335977d6595337a7bab9daff611a5eb7c94060c1d3e3ece92eaa9bbacc8190b2d7e2358f0c7bf83ca3261dc4d2dcb311118f6a47bfe43a9e"
+            "sha512": "e80a26ffaf9b854b8e3a890ac9318863e6d13c8e86034792311c83cc55b52e147d86ad219fca9d605639f92283ba9dd19a4dea2505cc184bddb301534405e5ad"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "0075c719697fba192563ebb1584295af18a2889b2e495757ba7517e6a4b32016da63ed11520bcc8c842a8c84f475a17b66f5474887ff8dff6b5b41061940b666"
+            "sha512": "1088eb5a4b58b46514d34d101b5e28fce3ed67a587b4ab4f8f8812b127cd1468697b981e7381b6aaf6c2384f9c4a95d9d70d01fd8acf86e26baaa8c677ea3f84"
         }
     }
 }
