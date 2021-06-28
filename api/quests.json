@@ -221,34 +221,34 @@
     },
     {
         "quest": {
-            "English": "Catch 7 Fighting-type Pok\u00e9mon",
-            "German": "Fange 7 Pok\u00e9mon vom Typ Kampf.",
-            "French": "Attrape 7\u00a0Pok\u00e9mon de type Combat",
-            "Italian": "Cattura 7 Pok\u00e9mon di tipo Lotta",
-            "Japanese": "\u304b\u304f\u3068\u3046\u30bf\u30a4\u30d7\u306e\u30dd\u30b1\u30e2\u30f3\u30927\u5339\u6355\u307e\u3048\u308b",
-            "Korean": "\uaca9\ud22c\ud0c0\uc785 \ud3ec\ucf13\ubaac\uc744 7\ub9c8\ub9ac \uc7a1\ub294\ub2e4",
-            "Spanish": "Captura 7 Pok\u00e9mon de tipo Lucha"
+            "English": "Catch 7 Pok\u00e9mon",
+            "German": "Fange 7 Pok\u00e9mon.",
+            "French": "Attrape 7\u00a0Pok\u00e9mon",
+            "Italian": "Cattura 7 Pok\u00e9mon",
+            "Japanese": "\u30dd\u30b1\u30e2\u30f3\u30927\u5339\u6355\u307e\u3048\u308b",
+            "Korean": "\ud3ec\ucf13\ubaac 7\ub9c8\ub9ac\ub97c \uc7a1\ub294\ub2e4",
+            "Spanish": "Captura 7 Pok\u00e9mon"
         },
         "rewards": [
             {
-                "id": "MEDITITE",
+                "id": "MAGIKARP",
                 "shiny": true,
                 "name": {
-                    "English": "Meditite",
-                    "German": "Meditie",
-                    "French": "M\u00e9ditikka",
-                    "Italian": "Meditite",
-                    "Japanese": "\u30a2\u30b5\u30ca\u30f3",
-                    "Korean": "\uc694\uac00\ub791",
-                    "Spanish": "Meditite"
+                    "English": "Magikarp",
+                    "German": "Karpador",
+                    "French": "Magicarpe",
+                    "Italian": "Magikarp",
+                    "Japanese": "\u30b3\u30a4\u30ad\u30f3\u30b0",
+                    "Korean": "\uc789\uc5b4\ud0b9",
+                    "Spanish": "Magikarp"
                 },
                 "cpRange": [
-                    269,
-                    297
+                    99,
+                    117
                 ],
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_307_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_307_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_129_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_129_00_shiny.png"
                 }
             }
         ]
@@ -289,34 +289,34 @@
     },
     {
         "quest": {
-            "English": "Catch 7 Pok\u00e9mon",
-            "German": "Fange 7 Pok\u00e9mon.",
-            "French": "Attrape 7\u00a0Pok\u00e9mon",
-            "Italian": "Cattura 7 Pok\u00e9mon",
-            "Japanese": "\u30dd\u30b1\u30e2\u30f3\u30927\u5339\u6355\u307e\u3048\u308b",
-            "Korean": "\ud3ec\ucf13\ubaac 7\ub9c8\ub9ac\ub97c \uc7a1\ub294\ub2e4",
-            "Spanish": "Captura 7 Pok\u00e9mon"
+            "English": "Catch 7 Fighting-type Pok\u00e9mon",
+            "German": "Fange 7 Pok\u00e9mon vom Typ Kampf.",
+            "French": "Attrape 7\u00a0Pok\u00e9mon de type Combat",
+            "Italian": "Cattura 7 Pok\u00e9mon di tipo Lotta",
+            "Japanese": "\u304b\u304f\u3068\u3046\u30bf\u30a4\u30d7\u306e\u30dd\u30b1\u30e2\u30f3\u30927\u5339\u6355\u307e\u3048\u308b",
+            "Korean": "\uaca9\ud22c\ud0c0\uc785 \ud3ec\ucf13\ubaac\uc744 7\ub9c8\ub9ac \uc7a1\ub294\ub2e4",
+            "Spanish": "Captura 7 Pok\u00e9mon de tipo Lucha"
         },
         "rewards": [
             {
-                "id": "MAGIKARP",
+                "id": "MEDITITE",
                 "shiny": true,
                 "name": {
-                    "English": "Magikarp",
-                    "German": "Karpador",
-                    "French": "Magicarpe",
-                    "Italian": "Magikarp",
-                    "Japanese": "\u30b3\u30a4\u30ad\u30f3\u30b0",
-                    "Korean": "\uc789\uc5b4\ud0b9",
-                    "Spanish": "Magikarp"
+                    "English": "Meditite",
+                    "German": "Meditie",
+                    "French": "M\u00e9ditikka",
+                    "Italian": "Meditite",
+                    "Japanese": "\u30a2\u30b5\u30ca\u30f3",
+                    "Korean": "\uc694\uac00\ub791",
+                    "Spanish": "Meditite"
                 },
                 "cpRange": [
-                    99,
-                    117
+                    269,
+                    297
                 ],
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_129_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_129_00_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_307_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_307_00_shiny.png"
                 }
             }
         ]
