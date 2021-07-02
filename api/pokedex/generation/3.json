@@ -7697,7 +7697,12 @@
         "regionForms": [],
         "hasMegaEvolution": false,
         "megaEvolutions": [],
-        "assetForms": []
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_282_00_47.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_282_00_47_shiny.png"
+            }
+        ]
     },
     {
         "id": "SURSKIT",
@@ -18945,7 +18950,12 @@
         "regionForms": [],
         "hasMegaEvolution": false,
         "megaEvolutions": [],
-        "assetForms": []
+        "assetForms": [
+            {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_330_00_47.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_330_00_47_shiny.png"
+            }
+        ]
     },
     {
         "id": "CACNEA",
