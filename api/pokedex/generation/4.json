@@ -3050,7 +3050,146 @@
             }
         },
         "eliteQuickMoves": [],
-        "eliteCinematicMoves": [],
+        "eliteCinematicMoves": {
+            "SHADOW_BALL": {
+                "id": "SHADOW_BALL",
+                "power": 100,
+                "energy": -50,
+                "durationMs": 3000,
+                "type": {
+                    "type": "POKEMON_TYPE_GHOST",
+                    "names": {
+                        "English": "Ghost",
+                        "German": "Geist",
+                        "French": "Spectre",
+                        "Italian": "Spettro",
+                        "Japanese": "\u30b4\u30fc\u30b9\u30c8",
+                        "Korean": "\uace0\uc2a4\ud2b8",
+                        "Spanish": "Fantasma"
+                    }
+                },
+                "names": {
+                    "English": "Shadow Ball",
+                    "German": "Spukball",
+                    "French": "Ball\u2019Ombre",
+                    "Italian": "Palla Ombra",
+                    "Japanese": "\u30b7\u30e3\u30c9\u30fc\u30dc\u30fc\u30eb",
+                    "Korean": "\uc100\ub3c4\ubcfc",
+                    "Spanish": "Bola Sombra"
+                },
+                "combat": {
+                    "energy": -55,
+                    "power": 100,
+                    "turns": 1,
+                    "buffs": null
+                }
+            },
+            "THUNDERBOLT": {
+                "id": "THUNDERBOLT",
+                "power": 80,
+                "energy": -50,
+                "durationMs": 2500,
+                "type": {
+                    "type": "POKEMON_TYPE_ELECTRIC",
+                    "names": {
+                        "English": "Electric",
+                        "German": "Elektro",
+                        "French": "\u00c9lectrik",
+                        "Italian": "Elettro",
+                        "Japanese": "\u3067\u3093\u304d",
+                        "Korean": "\uc804\uae30",
+                        "Spanish": "El\u00e9ctrico"
+                    }
+                },
+                "names": {
+                    "English": "Thunderbolt",
+                    "German": "Donnerblitz",
+                    "French": "Tonnerre",
+                    "Italian": "Fulmine",
+                    "Japanese": "\uff11\uff10\u307e\u3093\u30dc\u30eb\u30c8",
+                    "Korean": "10\ub9cc\ubcfc\ud2b8",
+                    "Spanish": "Rayo"
+                },
+                "combat": {
+                    "energy": -55,
+                    "power": 90,
+                    "turns": 1,
+                    "buffs": null
+                }
+            },
+            "ICE_BEAM": {
+                "id": "ICE_BEAM",
+                "power": 90,
+                "energy": -50,
+                "durationMs": 3300,
+                "type": {
+                    "type": "POKEMON_TYPE_ICE",
+                    "names": {
+                        "English": "Ice",
+                        "German": "Eis",
+                        "French": "Glace",
+                        "Italian": "Ghiaccio",
+                        "Japanese": "\u3053\u304a\u308a",
+                        "Korean": "\uc5bc\uc74c",
+                        "Spanish": "Hielo"
+                    }
+                },
+                "names": {
+                    "English": "Ice Beam",
+                    "German": "Eisstrahl",
+                    "French": "Laser Glace",
+                    "Italian": "Geloraggio",
+                    "Japanese": "\u308c\u3044\u3068\u3046\u30d3\u30fc\u30e0",
+                    "Korean": "\ub0c9\ub3d9\ube54",
+                    "Spanish": "Rayo Hielo"
+                },
+                "combat": {
+                    "energy": -55,
+                    "power": 90,
+                    "turns": 1,
+                    "buffs": null
+                }
+            },
+            "SUPER_POWER": {
+                "id": "SUPER_POWER",
+                "power": 85,
+                "energy": -50,
+                "durationMs": 3000,
+                "type": {
+                    "type": "POKEMON_TYPE_FIGHTING",
+                    "names": {
+                        "English": "Fighting",
+                        "German": "Kampf",
+                        "French": "Combat",
+                        "Italian": "Lotta",
+                        "Japanese": "\u304b\u304f\u3068\u3046",
+                        "Korean": "\uaca9\ud22c",
+                        "Spanish": "Lucha"
+                    }
+                },
+                "names": {
+                    "English": "Superpower",
+                    "German": "Kraftkoloss",
+                    "French": "Surpuissance",
+                    "Italian": "Troppoforte",
+                    "Japanese": "\u3070\u304b\u3062\u304b\u3089",
+                    "Korean": "\uc5c4\uccad\ub09c\ud798",
+                    "Spanish": "Fuerza Bruta"
+                },
+                "combat": {
+                    "energy": -40,
+                    "power": 85,
+                    "turns": 1,
+                    "buffs": {
+                        "activationChance": 100,
+                        "attackerAttackStatsChange": -1,
+                        "attackerDefenseStatsChange": -1,
+                        "targetAttackStatsChange": null,
+                        "targetDefenseStatsChange": null
+                    }
+                }
+            }
+        },
         "assets": {
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_399_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_399_00_shiny.png"
