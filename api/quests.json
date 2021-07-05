@@ -883,6 +883,82 @@
     },
     {
         "quest": {
+            "English": "Power up Pok\u00e9mon 3 times",
+            "German": "Verwende 3 Power-ups bei Pok\u00e9mon.",
+            "French": "Recharge un Pok\u00e9mon 3\u00a0fois",
+            "Italian": "Potenzia i Pok\u00e9mon 3 volte",
+            "Japanese": "\u30dd\u30b1\u30e2\u30f3\u30923\u56de\u5f37\u5316\u3059\u308b",
+            "Korean": "\ud3ec\ucf13\ubaac\uc744 3\ud68c \uac15\ud654\ud55c\ub2e4",
+            "Spanish": "Da m\u00e1s poder a un Pok\u00e9mon 3 veces"
+        },
+        "rewards": [
+            {
+                "id": "BULBASAUR",
+                "shiny": true,
+                "name": {
+                    "English": "Bulbasaur",
+                    "German": "Bisasam",
+                    "French": "Bulbizarre",
+                    "Italian": "Bulbasaur",
+                    "Japanese": "\u30d5\u30b7\u30ae\u30c0\u30cd",
+                    "Korean": "\uc774\uc0c1\ud574\uc528",
+                    "Spanish": "Bulbasaur"
+                },
+                "cpRange": [
+                    442,
+                    477
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_001_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_001_00_shiny.png"
+                }
+            },
+            {
+                "id": "CHARMANDER",
+                "shiny": true,
+                "name": {
+                    "English": "Charmander",
+                    "German": "Glumanda",
+                    "French": "Salam\u00e8che",
+                    "Italian": "Charmander",
+                    "Japanese": "\u30d2\u30c8\u30ab\u30b2",
+                    "Korean": "\ud30c\uc774\ub9ac",
+                    "Spanish": "Charmander"
+                },
+                "cpRange": [
+                    387,
+                    420
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_004_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_004_00_shiny.png"
+                }
+            },
+            {
+                "id": "SQUIRTLE",
+                "shiny": true,
+                "name": {
+                    "English": "Squirtle",
+                    "German": "Schiggy",
+                    "French": "Carapuce",
+                    "Italian": "Squirtle",
+                    "Japanese": "\u30bc\u30cb\u30ac\u30e1",
+                    "Korean": "\uaf2c\ubd80\uae30",
+                    "Spanish": "Squirtle"
+                },
+                "cpRange": [
+                    372,
+                    405
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_007_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_007_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
             "English": "Take a snapshot of a wild Pok\u00e9mon",
             "German": "Mache einen Schnappschuss von einem Pok\u00e9mon im Freien.",
             "French": "Prends une photo d\u2019un Pok\u00e9mon sauvage",
@@ -1105,82 +1181,6 @@
                 "assets": {
                     "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_258_00.png",
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_258_00_shiny.png"
-                }
-            }
-        ]
-    },
-    {
-        "quest": {
-            "English": "Power up Pok\u00e9mon 3 times",
-            "German": "Verwende 3 Power-ups bei Pok\u00e9mon.",
-            "French": "Recharge un Pok\u00e9mon 3\u00a0fois",
-            "Italian": "Potenzia i Pok\u00e9mon 3 volte",
-            "Japanese": "\u30dd\u30b1\u30e2\u30f3\u30923\u56de\u5f37\u5316\u3059\u308b",
-            "Korean": "\ud3ec\ucf13\ubaac\uc744 3\ud68c \uac15\ud654\ud55c\ub2e4",
-            "Spanish": "Da m\u00e1s poder a un Pok\u00e9mon 3 veces"
-        },
-        "rewards": [
-            {
-                "id": "BULBASAUR",
-                "shiny": true,
-                "name": {
-                    "English": "Bulbasaur",
-                    "German": "Bisasam",
-                    "French": "Bulbizarre",
-                    "Italian": "Bulbasaur",
-                    "Japanese": "\u30d5\u30b7\u30ae\u30c0\u30cd",
-                    "Korean": "\uc774\uc0c1\ud574\uc528",
-                    "Spanish": "Bulbasaur"
-                },
-                "cpRange": [
-                    442,
-                    477
-                ],
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_001_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_001_00_shiny.png"
-                }
-            },
-            {
-                "id": "CHARMANDER",
-                "shiny": true,
-                "name": {
-                    "English": "Charmander",
-                    "German": "Glumanda",
-                    "French": "Salam\u00e8che",
-                    "Italian": "Charmander",
-                    "Japanese": "\u30d2\u30c8\u30ab\u30b2",
-                    "Korean": "\ud30c\uc774\ub9ac",
-                    "Spanish": "Charmander"
-                },
-                "cpRange": [
-                    387,
-                    420
-                ],
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_004_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_004_00_shiny.png"
-                }
-            },
-            {
-                "id": "SQUIRTLE",
-                "shiny": true,
-                "name": {
-                    "English": "Squirtle",
-                    "German": "Schiggy",
-                    "French": "Carapuce",
-                    "Italian": "Squirtle",
-                    "Japanese": "\u30bc\u30cb\u30ac\u30e1",
-                    "Korean": "\uaf2c\ubd80\uae30",
-                    "Spanish": "Squirtle"
-                },
-                "cpRange": [
-                    372,
-                    405
-                ],
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_007_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_007_00_shiny.png"
                 }
             }
         ]
