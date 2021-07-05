@@ -1660,7 +1660,41 @@
             }
         },
         "eliteQuickMoves": [],
-        "eliteCinematicMoves": [],
+        "eliteCinematicMoves": {
+            "BLAST_BURN": {
+                "id": "BLAST_BURN",
+                "power": 110,
+                "energy": -50,
+                "durationMs": 3300,
+                "type": {
+                    "type": "POKEMON_TYPE_FIRE",
+                    "names": {
+                        "English": "Fire",
+                        "German": "Feuer",
+                        "French": "Feu",
+                        "Italian": "Fuoco",
+                        "Japanese": "\u307b\u306e\u304a",
+                        "Korean": "\ubd88\uaf43",
+                        "Spanish": "Fuego"
+                    }
+                },
+                "names": {
+                    "English": "Blast Burn",
+                    "German": "Lohekanonade",
+                    "French": "Rafale Feu",
+                    "Italian": "Incendio",
+                    "Japanese": "\u30d6\u30e9\u30b9\u30c8\u30d0\u30fc\u30f3",
+                    "Korean": "\ube14\ub7ec\uc2a4\ud2b8\ubc88",
+                    "Spanish": "Anillo \u00cdgneo"
+                },
+                "combat": {
+                    "energy": -50,
+                    "power": 110,
+                    "turns": 1,
+                    "buffs": null
+                }
+            }
+        },
         "assets": {
             "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_500_00.png",
             "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_500_00_shiny.png"
