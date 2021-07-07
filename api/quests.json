@@ -305,82 +305,6 @@
     },
     {
         "quest": {
-            "English": "Spin 5 Pok\u00e9Stops or Gyms",
-            "German": "Drehe 5 Pok\u00e9Stops oder Arenen.",
-            "French": "Fais tourner 5\u00a0Pok\u00e9Stops ou Ar\u00e8nes",
-            "Italian": "Fai girare 5 dischi Pok\u00e9stop o Palestra",
-            "Japanese": "\u30dd\u30b1\u30b9\u30c8\u30c3\u30d75\u500b\u3092\u56de\u3059",
-            "Korean": "\ud3ec\ucf13\uc2a4\ud1b1 \ub610\ub294 \uccb4\uc721\uad00\uc744 5\uac1c \ub3cc\ub9b0\ub2e4",
-            "Spanish": "Da vueltas a 5 fotodiscos en Pok\u00e9paradas o Gimnasios"
-        },
-        "rewards": [
-            {
-                "id": "CHESPIN",
-                "shiny": false,
-                "name": {
-                    "English": "Chespin",
-                    "German": "Igamaro",
-                    "French": "Marisson",
-                    "Italian": "Chespin",
-                    "Japanese": "\u30cf\u30ea\u30de\u30ed\u30f3",
-                    "Korean": "\ub3c4\uce58\ub9c8\ub860",
-                    "Spanish": "Chespin"
-                },
-                "cpRange": [
-                    434,
-                    469
-                ],
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_650_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_650_00_shiny.png"
-                }
-            },
-            {
-                "id": "FENNEKIN",
-                "shiny": false,
-                "name": {
-                    "English": "Fennekin",
-                    "German": "Fynx",
-                    "French": "Feunnec",
-                    "Italian": "Fennekin",
-                    "Japanese": "\u30d5\u30a9\u30c3\u30b3",
-                    "Korean": "\ud478\ud638\uaf2c",
-                    "Spanish": "Fennekin"
-                },
-                "cpRange": [
-                    406,
-                    440
-                ],
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_653_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_653_00_shiny.png"
-                }
-            },
-            {
-                "id": "FROAKIE",
-                "shiny": false,
-                "name": {
-                    "English": "Froakie",
-                    "German": "Froxy",
-                    "French": "Grenousse",
-                    "Italian": "Froakie",
-                    "Japanese": "\u30b1\u30ed\u30de\u30c4",
-                    "Korean": "\uac1c\uad6c\ub9c8\ub974",
-                    "Spanish": "Froakie"
-                },
-                "cpRange": [
-                    392,
-                    425
-                ],
-                "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_656_00.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_656_00_shiny.png"
-                }
-            }
-        ]
-    },
-    {
-        "quest": {
             "English": "Send 5 Gifts to friends",
             "German": "Schicke 5 Geschenke an Freunde.",
             "French": "Envoie 5\u00a0Cadeaux \u00e0 des amis",
@@ -451,6 +375,82 @@
                 "assets": {
                     "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_501_00.png",
                     "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_501_00_shiny.png"
+                }
+            }
+        ]
+    },
+    {
+        "quest": {
+            "English": "Spin 5 Pok\u00e9Stops or Gyms",
+            "German": "Drehe 5 Pok\u00e9Stops oder Arenen.",
+            "French": "Fais tourner 5\u00a0Pok\u00e9Stops ou Ar\u00e8nes",
+            "Italian": "Fai girare 5 dischi Pok\u00e9stop o Palestra",
+            "Japanese": "\u30dd\u30b1\u30b9\u30c8\u30c3\u30d75\u500b\u3092\u56de\u3059",
+            "Korean": "\ud3ec\ucf13\uc2a4\ud1b1 \ub610\ub294 \uccb4\uc721\uad00\uc744 5\uac1c \ub3cc\ub9b0\ub2e4",
+            "Spanish": "Da vueltas a 5 fotodiscos en Pok\u00e9paradas o Gimnasios"
+        },
+        "rewards": [
+            {
+                "id": "CHESPIN",
+                "shiny": false,
+                "name": {
+                    "English": "Chespin",
+                    "German": "Igamaro",
+                    "French": "Marisson",
+                    "Italian": "Chespin",
+                    "Japanese": "\u30cf\u30ea\u30de\u30ed\u30f3",
+                    "Korean": "\ub3c4\uce58\ub9c8\ub860",
+                    "Spanish": "Chespin"
+                },
+                "cpRange": [
+                    434,
+                    469
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_650_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_650_00_shiny.png"
+                }
+            },
+            {
+                "id": "FENNEKIN",
+                "shiny": false,
+                "name": {
+                    "English": "Fennekin",
+                    "German": "Fynx",
+                    "French": "Feunnec",
+                    "Italian": "Fennekin",
+                    "Japanese": "\u30d5\u30a9\u30c3\u30b3",
+                    "Korean": "\ud478\ud638\uaf2c",
+                    "Spanish": "Fennekin"
+                },
+                "cpRange": [
+                    406,
+                    440
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_653_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_653_00_shiny.png"
+                }
+            },
+            {
+                "id": "FROAKIE",
+                "shiny": false,
+                "name": {
+                    "English": "Froakie",
+                    "German": "Froxy",
+                    "French": "Grenousse",
+                    "Italian": "Froakie",
+                    "Japanese": "\u30b1\u30ed\u30de\u30c4",
+                    "Korean": "\uac1c\uad6c\ub9c8\ub974",
+                    "Spanish": "Froakie"
+                },
+                "cpRange": [
+                    392,
+                    425
+                ],
+                "assets": {
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_656_00.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_656_00_shiny.png"
                 }
             }
         ]
