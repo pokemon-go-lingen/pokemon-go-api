@@ -370,10 +370,10 @@
         "lvl1": [
             {
                 "id": "PIKACHU",
-                "form": "PIKACHU_KARIYUSHI",
+                "form": "PIKACHU",
                 "assets": {
-                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_pm0025_00_pikachu_pgo_kariyushi.png",
-                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_pm0025_00_pikachu_pgo_kariyushi_shiny.png"
+                    "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_pm0025_01_pgo_5thanniversary.png",
+                    "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_pm0025_01_pgo_5thanniversary_shiny.png"
                 },
                 "level": "lvl1",
                 "names": {
@@ -663,12 +663,12 @@
         "German": {
             "svg": "\/api\/graphics\/German\/raidlist.svg",
             "png": "\/api\/graphics\/German\/raidlist.png",
-            "sha512": "1922cad3e442354367740f7d288ccb7628c72586055b3e0370bb22bbff0390ea07291abaadc3c7be946b22d20baec78ef7948e908bd98dd9c68e875b8d12fc77"
+            "sha512": "e5bb68e1098d541d960c6a1621b50a96dceba0aae87a93a67a05078d709c34fa7ba86d7c198c8f73c97a09c3234116800f1325d2fb1013ffe94d0c4f76f1e570"
         },
         "English": {
             "svg": "\/api\/graphics\/English\/raidlist.svg",
             "png": "\/api\/graphics\/English\/raidlist.png",
-            "sha512": "4c712dbe5973f53ffcf2741dff7ed9ca70aa7b084aa1772724c4ff4f19f0d29c2c9cdadb4ade7a6bb7831bf12d543851c1b97271992210d2c282fdf7232bb4b6"
+            "sha512": "f6bba6ed1c61d15ac0877d442308ba1de043cdd495ebf000dfcb94f4aa576d465f0fb02e5abaf528bb66bed7dfdf1a9514aae5bb0b35a92166ce74d75be9fb04"
         }
     }
 }

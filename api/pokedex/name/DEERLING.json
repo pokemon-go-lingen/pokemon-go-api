@@ -1,16 +1,16 @@
 {
     "id": "DEERLING",
-    "formId": "DEERLING_SPRING",
+    "formId": "DEERLING",
     "dexNr": 585,
     "generation": 5,
     "names": {
-        "English": "Deerling (Spring Form)",
-        "German": "Sesokitz (Fr\u00fchlingsform)",
-        "French": "Vivaldaim (Forme Printemps)",
-        "Italian": "Deerling (Forma Primavera)",
-        "Japanese": "\u30b7\u30ad\u30b8\u30ab (\u306f\u308b\u306e\u3059\u304c\u305f)",
-        "Korean": "\uc0ac\ucca0\ub85d (\ubd04\uc758 \ubaa8\uc2b5)",
-        "Spanish": "Deerling (Forma Primavera)"
+        "English": "Deerling",
+        "German": "Sesokitz",
+        "French": "Vivaldaim",
+        "Italian": "Deerling",
+        "Japanese": "\u30b7\u30ad\u30b8\u30ab",
+        "Korean": "\uc0ac\ucca0\ub85d",
+        "Spanish": "Deerling"
     },
     "stats": {
         "stamina": 155,
@@ -225,8 +225,8 @@
     "eliteQuickMoves": [],
     "eliteCinematicMoves": [],
     "assets": {
-        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_585_11.png",
-        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_585_11_shiny.png"
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_585_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_585_00_shiny.png"
     },
     "regionForms": {
         "DEERLING_AUTUMN": {
@@ -458,6 +458,240 @@
             "assets": {
                 "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_585_13.png",
                 "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_585_13_shiny.png"
+            },
+            "regionForms": [],
+            "hasMegaEvolution": false,
+            "megaEvolutions": []
+        },
+        "DEERLING_SPRING": {
+            "id": "DEERLING",
+            "formId": "DEERLING_SPRING",
+            "dexNr": 585,
+            "generation": 5,
+            "names": {
+                "English": "Deerling (Spring Form)",
+                "German": "Sesokitz (Fr\u00fchlingsform)",
+                "French": "Vivaldaim (Forme Printemps)",
+                "Italian": "Deerling (Forma Primavera)",
+                "Japanese": "\u30b7\u30ad\u30b8\u30ab (\u306f\u308b\u306e\u3059\u304c\u305f)",
+                "Korean": "\uc0ac\ucca0\ub85d (\ubd04\uc758 \ubaa8\uc2b5)",
+                "Spanish": "Deerling (Forma Primavera)"
+            },
+            "stats": {
+                "stamina": 155,
+                "attack": 115,
+                "defense": 100
+            },
+            "primaryType": {
+                "type": "POKEMON_TYPE_NORMAL",
+                "names": {
+                    "English": "Normal",
+                    "German": "Normal",
+                    "French": "Normal",
+                    "Italian": "Normale",
+                    "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                    "Korean": "\ub178\ub9d0",
+                    "Spanish": "Normal"
+                }
+            },
+            "secondaryType": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "quickMoves": {
+                "TACKLE_FAST": {
+                    "id": "TACKLE_FAST",
+                    "power": 5,
+                    "energy": 5,
+                    "durationMs": 500,
+                    "type": {
+                        "type": "POKEMON_TYPE_NORMAL",
+                        "names": {
+                            "English": "Normal",
+                            "German": "Normal",
+                            "French": "Normal",
+                            "Italian": "Normale",
+                            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                            "Korean": "\ub178\ub9d0",
+                            "Spanish": "Normal"
+                        }
+                    },
+                    "names": {
+                        "English": "Tackle",
+                        "German": "Tackle",
+                        "French": "Charge",
+                        "Italian": "Azione",
+                        "Japanese": "\u305f\u3044\u3042\u305f\u308a",
+                        "Korean": "\ubab8\ud1b5\ubc15\uce58\uae30",
+                        "Spanish": "Placaje"
+                    },
+                    "combat": {
+                        "energy": 2,
+                        "power": 3,
+                        "turns": 1,
+                        "buffs": null
+                    }
+                },
+                "TAKE_DOWN_FAST": {
+                    "id": "TAKE_DOWN_FAST",
+                    "power": 8,
+                    "energy": 10,
+                    "durationMs": 1200,
+                    "type": {
+                        "type": "POKEMON_TYPE_NORMAL",
+                        "names": {
+                            "English": "Normal",
+                            "German": "Normal",
+                            "French": "Normal",
+                            "Italian": "Normale",
+                            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                            "Korean": "\ub178\ub9d0",
+                            "Spanish": "Normal"
+                        }
+                    },
+                    "names": {
+                        "English": "Take Down",
+                        "German": "Bodycheck",
+                        "French": "B\u00e9lier",
+                        "Italian": "Riduttore",
+                        "Japanese": "\u3068\u3063\u3057\u3093",
+                        "Korean": "\ub3cc\uc9c4",
+                        "Spanish": "Derribo"
+                    },
+                    "combat": {
+                        "energy": 8,
+                        "power": 5,
+                        "turns": 3,
+                        "buffs": null
+                    }
+                }
+            },
+            "cinematicMoves": {
+                "ENERGY_BALL": {
+                    "id": "ENERGY_BALL",
+                    "power": 90,
+                    "energy": -50,
+                    "durationMs": 3900,
+                    "type": {
+                        "type": "POKEMON_TYPE_GRASS",
+                        "names": {
+                            "English": "Grass",
+                            "German": "Pflanze",
+                            "French": "Plante",
+                            "Italian": "Erba",
+                            "Japanese": "\u304f\u3055",
+                            "Korean": "\ud480",
+                            "Spanish": "Planta"
+                        }
+                    },
+                    "names": {
+                        "English": "Energy Ball",
+                        "German": "Energieball",
+                        "French": "\u00c9co-Sph\u00e8re",
+                        "Italian": "Energipalla",
+                        "Japanese": "\u30a8\u30ca\u30b8\u30fc\u30dc\u30fc\u30eb",
+                        "Korean": "\uc5d0\ub108\uc9c0\ubcfc",
+                        "Spanish": "Energibola"
+                    },
+                    "combat": {
+                        "energy": -55,
+                        "power": 90,
+                        "turns": 1,
+                        "buffs": {
+                            "activationChance": 10,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": null,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": -1
+                        }
+                    }
+                },
+                "SEED_BOMB": {
+                    "id": "SEED_BOMB",
+                    "power": 55,
+                    "energy": -33,
+                    "durationMs": 2100,
+                    "type": {
+                        "type": "POKEMON_TYPE_GRASS",
+                        "names": {
+                            "English": "Grass",
+                            "German": "Pflanze",
+                            "French": "Plante",
+                            "Italian": "Erba",
+                            "Japanese": "\u304f\u3055",
+                            "Korean": "\ud480",
+                            "Spanish": "Planta"
+                        }
+                    },
+                    "names": {
+                        "English": "Seed Bomb",
+                        "German": "Samenbomben",
+                        "French": "Canon Graine",
+                        "Italian": "Semebomba",
+                        "Japanese": "\u30bf\u30cd\u3070\u304f\u3060\u3093",
+                        "Korean": "\uc528\ud3ed\ud0c4",
+                        "Spanish": "Bomba Germen"
+                    },
+                    "combat": {
+                        "energy": -40,
+                        "power": 55,
+                        "turns": 1,
+                        "buffs": null
+                    }
+                },
+                "WILD_CHARGE": {
+                    "id": "WILD_CHARGE",
+                    "power": 90,
+                    "energy": -50,
+                    "durationMs": 2600,
+                    "type": {
+                        "type": "POKEMON_TYPE_ELECTRIC",
+                        "names": {
+                            "English": "Electric",
+                            "German": "Elektro",
+                            "French": "\u00c9lectrik",
+                            "Italian": "Elettro",
+                            "Japanese": "\u3067\u3093\u304d",
+                            "Korean": "\uc804\uae30",
+                            "Spanish": "El\u00e9ctrico"
+                        }
+                    },
+                    "names": {
+                        "English": "Wild Charge",
+                        "German": "Stromsto\u00df",
+                        "French": "\u00c9clair Fou",
+                        "Italian": "Sprizzalampo",
+                        "Japanese": "\u30ef\u30a4\u30eb\u30c9\u30dc\u30eb\u30c8",
+                        "Korean": "\uc640\uc77c\ub4dc\ubcfc\ud2b8",
+                        "Spanish": "Voltio Cruel"
+                    },
+                    "combat": {
+                        "energy": -45,
+                        "power": 100,
+                        "turns": 1,
+                        "buffs": {
+                            "activationChance": 100,
+                            "attackerAttackStatsChange": null,
+                            "attackerDefenseStatsChange": -2,
+                            "targetAttackStatsChange": null,
+                            "targetDefenseStatsChange": null
+                        }
+                    }
+                }
+            },
+            "eliteQuickMoves": [],
+            "eliteCinematicMoves": [],
+            "assets": {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_585_11.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_585_11_shiny.png"
             },
             "regionForms": [],
             "hasMegaEvolution": false,
@@ -934,10 +1168,5 @@
     },
     "hasMegaEvolution": false,
     "megaEvolutions": [],
-    "assetForms": [
-        {
-            "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_585_11.png",
-            "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_585_11_shiny.png"
-        }
-    ]
+    "assetForms": []
 }

@@ -1,16 +1,16 @@
 {
     "id": "CHERRIM",
-    "formId": "CHERRIM_OVERCAST",
+    "formId": "CHERRIM",
     "dexNr": 421,
     "generation": 4,
     "names": {
-        "English": "Cherrim (Overcast Form)",
-        "German": "Kinoso (Wolkenform)",
-        "French": "Ceriflor (Temps Couvert)",
-        "Italian": "Cherrim (Forma Nuvola)",
-        "Japanese": "\u30c1\u30a7\u30ea\u30e0 (\u30cd\u30ac\u30d5\u30a9\u30eb\u30e0)",
-        "Korean": "\uccb4\ub9ac\uaf2c (\ub124\uac70\ud3fc)",
-        "Spanish": "Cherrim (Forma Encapotado)"
+        "English": "Cherrim",
+        "German": "Kinoso",
+        "French": "Ceriflor",
+        "Italian": "Cherrim",
+        "Japanese": "\u30c1\u30a7\u30ea\u30e0",
+        "Korean": "\uccb4\ub9ac\uaf2c",
+        "Spanish": "Cherrim"
     },
     "stats": {
         "stamina": 172,
@@ -202,10 +202,221 @@
     "eliteQuickMoves": [],
     "eliteCinematicMoves": [],
     "assets": {
-        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_421_11.png",
-        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_421_11_shiny.png"
+        "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_421_00.png",
+        "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_421_00_shiny.png"
     },
     "regionForms": {
+        "CHERRIM_OVERCAST": {
+            "id": "CHERRIM",
+            "formId": "CHERRIM_OVERCAST",
+            "dexNr": 421,
+            "generation": 4,
+            "names": {
+                "English": "Cherrim (Overcast Form)",
+                "German": "Kinoso (Wolkenform)",
+                "French": "Ceriflor (Temps Couvert)",
+                "Italian": "Cherrim (Forma Nuvola)",
+                "Japanese": "\u30c1\u30a7\u30ea\u30e0 (\u30cd\u30ac\u30d5\u30a9\u30eb\u30e0)",
+                "Korean": "\uccb4\ub9ac\uaf2c (\ub124\uac70\ud3fc)",
+                "Spanish": "Cherrim (Forma Encapotado)"
+            },
+            "stats": {
+                "stamina": 172,
+                "attack": 170,
+                "defense": 153
+            },
+            "primaryType": {
+                "type": "POKEMON_TYPE_GRASS",
+                "names": {
+                    "English": "Grass",
+                    "German": "Pflanze",
+                    "French": "Plante",
+                    "Italian": "Erba",
+                    "Japanese": "\u304f\u3055",
+                    "Korean": "\ud480",
+                    "Spanish": "Planta"
+                }
+            },
+            "secondaryType": null,
+            "quickMoves": {
+                "RAZOR_LEAF_FAST": {
+                    "id": "RAZOR_LEAF_FAST",
+                    "power": 13,
+                    "energy": 7,
+                    "durationMs": 1000,
+                    "type": {
+                        "type": "POKEMON_TYPE_GRASS",
+                        "names": {
+                            "English": "Grass",
+                            "German": "Pflanze",
+                            "French": "Plante",
+                            "Italian": "Erba",
+                            "Japanese": "\u304f\u3055",
+                            "Korean": "\ud480",
+                            "Spanish": "Planta"
+                        }
+                    },
+                    "names": {
+                        "English": "Razor Leaf",
+                        "German": "Rasierblatt",
+                        "French": "Tranch\u2019Herbe",
+                        "Italian": "Foglielama",
+                        "Japanese": "\u306f\u3063\u3071\u30ab\u30c3\u30bf\u30fc",
+                        "Korean": "\uc78e\ub0a0\uac00\ub974\uae30",
+                        "Spanish": "Hoja Afilada"
+                    },
+                    "combat": {
+                        "energy": 4,
+                        "power": 10,
+                        "turns": 2,
+                        "buffs": null
+                    }
+                },
+                "BULLET_SEED_FAST": {
+                    "id": "BULLET_SEED_FAST",
+                    "power": 8,
+                    "energy": 14,
+                    "durationMs": 1100,
+                    "type": {
+                        "type": "POKEMON_TYPE_GRASS",
+                        "names": {
+                            "English": "Grass",
+                            "German": "Pflanze",
+                            "French": "Plante",
+                            "Italian": "Erba",
+                            "Japanese": "\u304f\u3055",
+                            "Korean": "\ud480",
+                            "Spanish": "Planta"
+                        }
+                    },
+                    "names": {
+                        "English": "Bullet Seed",
+                        "German": "Kugelsaat",
+                        "French": "Balle Graine",
+                        "Italian": "Semitraglia",
+                        "Japanese": "\u30bf\u30cd\u30de\u30b7\u30f3\u30ac\u30f3",
+                        "Korean": "\uae30\uad00\ucd1d",
+                        "Spanish": "Semilladora"
+                    },
+                    "combat": {
+                        "energy": 13,
+                        "power": 5,
+                        "turns": 3,
+                        "buffs": null
+                    }
+                }
+            },
+            "cinematicMoves": {
+                "DAZZLING_GLEAM": {
+                    "id": "DAZZLING_GLEAM",
+                    "power": 100,
+                    "energy": -50,
+                    "durationMs": 3500,
+                    "type": {
+                        "type": "POKEMON_TYPE_FAIRY",
+                        "names": {
+                            "English": "Fairy",
+                            "German": "Fee",
+                            "French": "F\u00e9e",
+                            "Italian": "Folletto",
+                            "Japanese": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+                            "Korean": "\ud398\uc5b4\ub9ac",
+                            "Spanish": "Hada"
+                        }
+                    },
+                    "names": {
+                        "English": "Dazzling Gleam",
+                        "German": "Zauberschein",
+                        "French": "\u00c9clat Magique",
+                        "Italian": "Magibrillio",
+                        "Japanese": "\u30de\u30b8\u30ab\u30eb\u30b7\u30e3\u30a4\u30f3",
+                        "Korean": "\ub9e4\uc9c0\uceec\uc0e4\uc778",
+                        "Spanish": "Brillo M\u00e1gico"
+                    },
+                    "combat": {
+                        "energy": -70,
+                        "power": 110,
+                        "turns": 1,
+                        "buffs": null
+                    }
+                },
+                "HYPER_BEAM": {
+                    "id": "HYPER_BEAM",
+                    "power": 150,
+                    "energy": -100,
+                    "durationMs": 3800,
+                    "type": {
+                        "type": "POKEMON_TYPE_NORMAL",
+                        "names": {
+                            "English": "Normal",
+                            "German": "Normal",
+                            "French": "Normal",
+                            "Italian": "Normale",
+                            "Japanese": "\u30ce\u30fc\u30de\u30eb",
+                            "Korean": "\ub178\ub9d0",
+                            "Spanish": "Normal"
+                        }
+                    },
+                    "names": {
+                        "English": "Hyper Beam",
+                        "German": "Hyperstrahl",
+                        "French": "Ultralaser",
+                        "Italian": "Iper Raggio",
+                        "Japanese": "\u306f\u304b\u3044\u3053\u3046\u305b\u3093",
+                        "Korean": "\ud30c\uad34\uad11\uc120",
+                        "Spanish": "Hiperrayo"
+                    },
+                    "combat": {
+                        "energy": -80,
+                        "power": 150,
+                        "turns": 1,
+                        "buffs": null
+                    }
+                },
+                "SOLAR_BEAM": {
+                    "id": "SOLAR_BEAM",
+                    "power": 180,
+                    "energy": -100,
+                    "durationMs": 4900,
+                    "type": {
+                        "type": "POKEMON_TYPE_GRASS",
+                        "names": {
+                            "English": "Grass",
+                            "German": "Pflanze",
+                            "French": "Plante",
+                            "Italian": "Erba",
+                            "Japanese": "\u304f\u3055",
+                            "Korean": "\ud480",
+                            "Spanish": "Planta"
+                        }
+                    },
+                    "names": {
+                        "English": "Solar Beam",
+                        "German": "Solarstrahl",
+                        "French": "Lance-Soleil",
+                        "Italian": "Solarraggio",
+                        "Japanese": "\u30bd\u30fc\u30e9\u30fc\u30d3\u30fc\u30e0",
+                        "Korean": "\uc194\ub77c\ube54",
+                        "Spanish": "Rayo Solar"
+                    },
+                    "combat": {
+                        "energy": -80,
+                        "power": 150,
+                        "turns": 1,
+                        "buffs": null
+                    }
+                }
+            },
+            "eliteQuickMoves": [],
+            "eliteCinematicMoves": [],
+            "assets": {
+                "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_421_11.png",
+                "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_421_11_shiny.png"
+            },
+            "regionForms": [],
+            "hasMegaEvolution": false,
+            "megaEvolutions": []
+        },
         "CHERRIM_SUNNY": {
             "id": "CHERRIM",
             "formId": "CHERRIM_SUNNY",
@@ -453,10 +664,5 @@
     },
     "hasMegaEvolution": false,
     "megaEvolutions": [],
-    "assetForms": [
-        {
-            "image": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_421_11.png",
-            "shinyImage": "https:\/\/raw.githubusercontent.com\/PokeMiners\/pogo_assets\/master\/Images\/Pokemon\/pokemon_icon_421_11_shiny.png"
-        }
-    ]
+    "assetForms": []
 }

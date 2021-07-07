@@ -748,7 +748,7 @@
             </g>
 
         </svg>
-            <svg id="raidbosswrapper-PIKACHU_KARIYUSHI" x="0" y="280" width="100%" height="60">
+            <svg id="raidbosswrapper-PIKACHU" x="0" y="280" width="100%" height="60">
             <rect fill="url('#raidBossGradient_lvl1')" width="100%" height="50" x="0" y="0"/>
 
             <g class="boss-level">
@@ -764,7 +764,7 @@
                 <rect width="50" height="50" x="35" y="0"/>
 
                 <image width="55" height="55" x="25" y="0"
-                       href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_pm0025_00_pikachu_pgo_kariyushi.png"/>
+                       href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/pokemon_icon_pm0025_01_pgo_5thanniversary.png"/>
                                     <image class="boss-shiny-image" width="15" height="15" x="22" y="0"
                            href="https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Filters/ic_shiny_white.png"/>
                             </g>
